@@ -88,6 +88,8 @@ export const localApi: Api = {
     const byId = new Map(pool.map((q) => [q.id, q]));
     return ids.map((id) => byId.get(id)!).filter(Boolean);
   },
+  async getPyqPapers() { return []; },
+  async getPaperQuestions() { return []; },
   async getUnitQuestionCounts() {
     const out: Record<string, number> = {};
     for (const q of await approved()) out[q.unit_code] = (out[q.unit_code] ?? 0) + 1;

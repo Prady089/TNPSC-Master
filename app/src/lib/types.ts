@@ -9,6 +9,8 @@ export interface Question {
   source_page?: number | null;
   difficulty?: number | null;
   source?: 'book' | 'news' | 'pyq' | 'manual';
+  paper_id?: string | null;
+  paper_qno?: number | null;
   status?: 'draft' | 'approved' | 'rejected';
 }
 
@@ -59,7 +61,19 @@ export interface ChatMessage {
   created_at: string;
 }
 
-export type QuizMode = 'daily' | 'unit' | 'chapter' | 'mock' | 'revise';
+export type QuizMode = 'daily' | 'unit' | 'chapter' | 'mock' | 'revise' | 'pyq';
+
+/** An official TNPSC question paper from a previous year. */
+export interface PyqPaper {
+  id: string;
+  grp: 'g1' | 'g2' | 'g3' | 'g4';
+  title: string;
+  exam_date: string;
+  year: number;
+  duration_min: number;
+  total: number;
+  source_url: string | null;
+}
 
 export interface Attempt {
   id: string;
@@ -67,6 +81,7 @@ export interface Attempt {
   quiz_date: string | null;
   unit_code: string | null;
   chapter_id: string | null;
+  paper_id?: string | null;
   total: number;
   correct: number;
   duration_sec: number | null;

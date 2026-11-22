@@ -13,12 +13,13 @@ const NAV = [
   { to: '/progress', label: 'Progress', icon: ChartIcon },
 ];
 /** Phone tab bar, like a native app. Discuss is on hold, so it lives in the desktop menu only; Profile lives here instead of the top bar. */
-const TABS = [...NAV.filter((n) => n.to !== '/chat'), { to: '/profile', label: 'Profile', icon: UserIcon, end: false }];
-const TAB_ROOTS = new Set([...NAV.map((n) => n.to), '/profile']);
+const TABS = [...NAV.filter((n) => n.to !== '/chat' && n.to !== '/pyq'), { to: '/profile', label: 'Profile', icon: UserIcon, end: false }];
+const TAB_ROOTS = new Set([...TABS.map((n) => n.to), '/chat']);
 
 /** Title shown in the phone app bar on pages below a tab (these get a back arrow). */
 function subTitle(path: string): string {
   if (path.startsWith('/learn')) return 'Library';
+  if (path.startsWith('/pyq')) return 'Past papers';
   if (path.startsWith('/profile')) return 'Profile';
   if (path.startsWith('/admin/review')) return 'Review';
   if (path.startsWith('/admin')) return 'Admin';
@@ -127,9 +128,9 @@ export default function Layout() {
             {TABS.map(({ to, label, icon: Icon, end }) => (
               <NavLink key={to} to={to} end={end}
                 className={({ isActive }) => cx('flex flex-col items-center gap-1 pb-2 pt-2.5 text-[10.5px] font-semibold',
-                  isActive || (to === '/library' && pathname.startsWith('/learn')) ? 'text-brand' : 'text-muted')}>
+                  isActive || (to === '/library' && pathname.startsWith('/learn')) || (to === '/quiz' && pathname.startsWith('/pyq')) ? 'text-brand' : 'text-muted')}>
                 {({ isActive: exact }) => {
-                  const isActive = exact || (to === '/library' && pathname.startsWith('/learn'));
+                  const isActive = exact || (to === '/library' && pathname.startsWith('/learn')) || (to === '/quiz' && pathname.startsWith('/pyq'));
                   return (
                   <>
                     <span className={cx('flex h-8 w-12 items-center justify-center rounded-full transition-colors duration-200',

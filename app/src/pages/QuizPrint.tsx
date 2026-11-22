@@ -18,6 +18,7 @@ export default function QuizPrint() {
   const mode = (params.get('mode') ?? 'unit') as QuizMode;
   const unit = params.get('unit');
   const chapter = params.get('chapter');
+  const paper = params.get('paper');
   const count = Math.min(100, Math.max(5, Number(params.get('count') ?? 20)));
   const today = istDate();
 
@@ -28,29 +29,35 @@ export default function QuizPrint() {
   const { data, loading, error } = useAsync(async () => {
     const [chapters, attempts] = await Promise.all([chapterIndex().catch(() => new Map()), api.getAttempts(20)]);
     let questions: Question[];
-    if (mode === 'daily') questions = await api.getDailyQuiz(today);
+    let paperInfo: { title: string; duration_min: number } | undefined;
+    if (mode === 'pyq' && paper) {
+      const [qs, papers] = await Promise.all([api.getPaperQuestions(paper), api.getPyqPapers().catch(() => [])]);
+      questions = qs;
+      paperInfo = papers.find((p) => p.id === paper);
+    } else if (mode === 'daily') questions = await api.getDailyQuiz(today);
     else if (mode === 'revise') questions = await api.getQuestionsByIds(await api.getWrongQuestionIds(count));
     else questions = await api.getPractice({ unit: unit ?? undefined, chapter: chapter ?? undefined, count });
     const dailyDone = attempts.some((a) => a.mode === 'daily' && a.quiz_date === today);
-    return { questions, chapters, dailyDone };
-  }, [mode, unit, chapter, count]);
+    return { questions, chapters, dailyDone, paperInfo };
+  }, [mode, unit, chapter, paper, count]);
 
   const title =
+    mode === 'pyq' ? (data?.paperInfo?.title ?? 'Previous year paper') :
     mode === 'daily' ? "Daily quiz" :
     mode === 'revise' ? 'Revision: questions I got wrong' :
     mode === 'chapter' ? (data?.chapters.get(chapter ?? '')?.title ?? 'Chapter practice') :
     `${unitByCode(unit ?? '')?.title ?? 'Practice'}`;
   const dateLabel = new Date().toLocaleDateString('en-IN', { day: 'numeric', month: 'long', year: 'numeric' });
   const qs = data?.questions ?? [];
-  const minutes = Math.max(5, Math.round((qs.length * SEC_PER_Q) / 60));
+  const minutes = data?.paperInfo?.duration_min ?? Math.max(5, Math.round((qs.length * SEC_PER_Q) / 60));
 
   // Gives the saved PDF a sensible file name.
   useEffect(() => {
     const prev = document.title;
-    const slug = (mode === 'unit' ? unit : mode === 'chapter' ? chapter : mode) ?? 'quiz';
+    const slug = (mode === 'unit' ? unit : mode === 'chapter' ? chapter : mode === 'pyq' ? paper : mode) ?? 'quiz';
     document.title = `TNPSC-Master-${slug}-${qs.length}Q-${today}`;
     return () => { document.title = prev; };
-  }, [mode, unit, chapter, qs.length, today]);
+  }, [mode, unit, chapter, paper, qs.length, today]);
 
   const toolbar = (
     <div className="no-print sticky top-0 z-20 border-b border-line bg-bg/95 backdrop-blur">

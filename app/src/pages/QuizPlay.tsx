@@ -13,7 +13,8 @@ const LETTERS = ['A', 'B', 'C', 'D'];
 const fmtTime = (s: number) => `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`;
 const dailyKey = (d: string) => `daily-answers-${d}`;
 
-function title(mode: QuizMode, unit?: string | null, chapterTitle?: string) {
+function title(mode: QuizMode, unit?: string | null, chapterTitle?: string, paperTitle?: string) {
+  if (mode === 'pyq') return paperTitle ?? 'Previous year paper';
   if (mode === 'daily') return "Today's quiz";
   if (mode === 'revise') return 'Revise mistakes';
   if (mode === 'chapter') return chapterTitle ?? 'Chapter practice';
@@ -26,6 +27,7 @@ export default function QuizPlay() {
   const mode = (params.get('mode') ?? 'unit') as QuizMode;
   const unit = params.get('unit');
   const chapter = params.get('chapter');
+  const paper = params.get('paper');
   const count = Number(params.get('count') ?? 10);
   const reviewOnly = params.get('review') === '1';
   const today = istDate();
@@ -34,13 +36,18 @@ export default function QuizPlay() {
     const [chapters, attempts] = await Promise.all([chapterIndex().catch(() => new Map()), api.getAttempts(20)]);
     const doneToday = mode === 'daily' && attempts.some((a) => a.mode === 'daily' && a.quiz_date === today);
     let questions: Question[] = [];
-    if (mode === 'daily') questions = await api.getDailyQuiz(today);
+    let paperTitle: string | undefined;
+    if (mode === 'pyq' && paper) {
+      const [qs, papers] = await Promise.all([api.getPaperQuestions(paper), api.getPyqPapers().catch(() => [])]);
+      questions = qs;
+      paperTitle = papers.find((p) => p.id === paper)?.title;
+    } else if (mode === 'daily') questions = await api.getDailyQuiz(today);
     else if (mode === 'revise') questions = await api.getQuestionsByIds(await api.getWrongQuestionIds(count));
     else questions = await api.getPractice({ unit: unit ?? undefined, chapter: chapter ?? undefined, count });
     let saved: Record<string, number | null> = {};
     try { saved = JSON.parse(localStorage.getItem(dailyKey(today)) ?? '{}'); } catch { /* ignore */ }
-    return { questions, chapters, doneToday, saved };
-  }, [mode, unit, chapter, count]);
+    return { questions, chapters, doneToday, saved, paperTitle };
+  }, [mode, unit, chapter, paper, count]);
 
   const [i, setI] = useState(0);
   const [answers, setAnswers] = useState<Record<string, number | null>>({});
@@ -82,7 +89,7 @@ export default function QuizPlay() {
     if (!results.records.length) return;
     try {
       await api.saveAttempt(
-        { mode, quiz_date: mode === 'daily' ? today : null, unit_code: unit, chapter_id: chapter, total: results.records.length, correct: results.correct, duration_sec: elapsed },
+        { mode, quiz_date: mode === 'daily' ? today : null, unit_code: unit, chapter_id: chapter, paper_id: mode === 'pyq' ? paper : null, total: results.records.length, correct: results.correct, duration_sec: elapsed },
         results.records,
       );
       if (mode === 'daily') localStorage.setItem(dailyKey(today), JSON.stringify(answers));
@@ -111,7 +118,7 @@ export default function QuizPlay() {
   });
 
   const chTitle = chapter ? data?.chapters.get(chapter)?.title : undefined;
-  const heading = title(mode, unit, chTitle);
+  const heading = title(mode, unit, chTitle, data?.paperTitle);
 
   const shell = (body: React.ReactNode, top?: React.ReactNode) => (
     <div className="mx-auto min-h-dvh max-w-2xl">

@@ -12,6 +12,7 @@ const UnitPage = lazy(() => import('./pages/UnitPage'));
 const BookPage = lazy(() => import('./pages/BookPage'));
 const Reader = lazy(() => import('./pages/Reader'));
 const QuizHub = lazy(() => import('./pages/QuizHub'));
+const Pyq = lazy(() => import('./pages/Pyq'));
 const QuizPlay = lazy(() => import('./pages/QuizPlay'));
 const QuizPrint = lazy(() => import('./pages/QuizPrint'));
 const Progress = lazy(() => import('./pages/Progress'));
@@ -60,6 +61,7 @@ export default function App() {
           <Route path="learn/unit/:code" element={<UnitPage />} />
           <Route path="learn/book/:bookId" element={<BookPage />} />
           <Route path="quiz" element={<QuizHub />} />
+          <Route path="pyq" element={<Pyq />} />
           <Route path="progress" element={<Progress />} />
           <Route path="news" element={<News />} />
           <Route path="chat" element={<Chat />} />

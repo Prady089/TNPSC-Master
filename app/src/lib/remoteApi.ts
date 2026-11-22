@@ -1,5 +1,5 @@
 import type { Api } from './api';
-import type { AppUser, ChapterSummary, Member, Question } from './types';
+import type { AppUser, ChapterSummary, Member, PyqPaper, Question } from './types';
 import { supabase } from './supabase';
 import { pickDaily } from '../shared/syllabus';
 import { DEFAULT_EXAM_EVENTS, type ExamEvent } from '../shared/exam';
@@ -15,7 +15,7 @@ const must = <T,>(r: { data: T; error: { message: string } | null }): T => {
 const toUser = (u: { id: string; email?: string | null } | null | undefined): AppUser | null =>
   u ? { id: u.id, email: u.email ?? null } : null;
 
-const Q_COLS = 'id,unit_code,chapter_id,question,options,answer_index,explanation,source_page,difficulty,source,status';
+const Q_COLS = 'id,unit_code,chapter_id,question,options,answer_index,explanation,source_page,difficulty,source,status,paper_id,paper_qno';
 
 function shuffle<T>(a: T[]): T[] {
   const b = [...a];
@@ -76,6 +76,13 @@ export const remoteApi: Api = {
     // Cron hasn't built today's quiz yet: build it client-side from the approved pool.
     const pool = must(await db().from('questions').select('id,unit_code').eq('status', 'approved').limit(5000)) ?? [];
     return this.getQuestionsByIds(pickDaily(pool, date));
+  },
+  async getPyqPapers() {
+    return (must(await db().from('pyq_papers').select('*').gt('total', 0).order('exam_date', { ascending: false })) ?? []) as PyqPaper[];
+  },
+  async getPaperQuestions(paperId) {
+    return (must(await db().from('questions').select(Q_COLS).eq('paper_id', paperId).eq('status', 'approved')
+      .order('paper_qno', { ascending: true }).limit(500)) ?? []) as Question[];
   },
   async getUnitQuestionCounts() {
     const rows = (must(await db().from('questions').select('unit_code').eq('status', 'approved').limit(20000)) ?? []) as { unit_code: string }[];

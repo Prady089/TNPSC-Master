@@ -1,0 +1,1216 @@
+{
+ "exam": "Group I, II & II-A",
+ "stage": "prelims",
+ "units": [
+  {
+   "code": "I",
+   "title": "General Science",
+   "sections": [
+    {
+     "title": "Physics",
+     "topics": [
+      {
+       "no": 1,
+       "text": "Scientific knowledge and scientific temper - power of reasoning - rote learning vs conceptual learning - science as a tool to understand the past, present and future",
+       "chapters": [
+        "c11-phy1-01",
+        "c11-chem1-01",
+        "c12-chem2-08",
+        "c11-zoo-12",
+        "c11-zoo-13",
+        "c12-phy2-06",
+        "c12-bot-10",
+        "c12-zoo-10"
+       ],
+       "other": []
+      },
+      {
+       "no": 2,
+       "text": "Nature of universe - general scientific laws",
+       "chapters": [
+        "c7-sci-ss-32",
+        "c8-sci-08",
+        "c9-sci-09",
+        "c11-phy2-01"
+       ],
+       "other": []
+      },
+      {
+       "no": 3,
+       "text": "Mechanics - properties of matter, force, motion and energy - everyday application of the basic principles of mechanics",
+       "chapters": [
+        "c6-sci-ss-02",
+        "c7-sci-ss-02",
+        "c8-sci-02",
+        "c9-sci-02",
+        "c9-sci-03",
+        "c10-sci-01",
+        "c11-phy1-02",
+        "c11-phy1-03",
+        "c11-phy1-04",
+        "c11-phy1-05",
+        "c11-phy2-02"
+       ],
+       "other": []
+      },
+      {
+       "no": 4,
+       "text": "Electricity and magnetism",
+       "chapters": [
+        "c6-sci-ss-17",
+        "c6-sci-ss-30",
+        "c7-sci-ss-19",
+        "c8-sci-05",
+        "c8-sci-07",
+        "c9-sci-04",
+        "c9-sci-05",
+        "c10-sci-04",
+        "c12-phy1-01",
+        "c12-phy1-02",
+        "c12-phy1-03",
+        "c12-phy1-04"
+       ],
+       "other": []
+      },
+      {
+       "no": 5,
+       "text": "Light, sound, heat",
+       "chapters": [
+        "c6-sci-ss-16",
+        "c7-sci-ss-18",
+        "c7-sci-ss-31",
+        "c8-sci-03",
+        "c8-sci-04",
+        "c8-sci-06",
+        "c9-sci-06",
+        "c9-sci-07",
+        "c9-sci-08",
+        "c10-sci-02",
+        "c10-sci-03",
+        "c10-sci-05",
+        "c11-phy2-03",
+        "c11-phy2-04",
+        "c11-phy2-05",
+        "c11-phy2-06",
+        "c12-phy1-05",
+        "c12-phy2-01"
+       ],
+       "other": []
+      },
+      {
+       "no": 6,
+       "text": "Nuclear physics",
+       "chapters": [
+        "c7-sci-ss-04",
+        "c8-sci-12",
+        "c9-sci-11",
+        "c10-sci-06",
+        "c12-phy2-03"
+       ],
+       "other": []
+      },
+      {
+       "no": 7,
+       "text": "Laser, electronics and communications",
+       "chapters": [
+        "c12-phy2-02",
+        "c12-phy2-04",
+        "c12-phy2-05"
+       ],
+       "other": []
+      }
+     ]
+    },
+    {
+     "title": "Chemistry",
+     "topics": [
+      {
+       "no": 1,
+       "text": "Elements and compounds, acids, bases, salts, petroleum products, fertilizers, pesticides",
+       "chapters": [
+        "c6-sci-ss-03",
+        "c6-sci-ss-18",
+        "c6-sci-ss-32",
+        "c7-sci-ss-03",
+        "c7-sci-ss-04",
+        "c7-sci-ss-20",
+        "c7-sci-ss-33",
+        "c7-sci-ss-34",
+        "c8-sci-09",
+        "c8-sci-10",
+        "c8-sci-11",
+        "c8-sci-12",
+        "c8-sci-13",
+        "c8-sci-14",
+        "c8-sci-15",
+        "c9-sci-10",
+        "c9-sci-11",
+        "c9-sci-12",
+        "c9-sci-13",
+        "c9-sci-14",
+        "c9-sci-15",
+        "c9-sci-16",
+        "c10-sci-07",
+        "c10-sci-08",
+        "c10-sci-09",
+        "c10-sci-10",
+        "c10-sci-11",
+        "c11-chem1-03",
+        "c11-chem1-04",
+        "c11-chem1-05",
+        "c11-chem2-04",
+        "c11-chem2-05",
+        "c11-chem2-06",
+        "c11-chem2-08",
+        "c12-chem1-01",
+        "c12-chem1-02",
+        "c12-chem1-03",
+        "c12-chem1-04",
+        "c12-chem2-02",
+        "c12-chem2-06",
+        "c12-chem2-08"
+       ],
+       "other": []
+      },
+      {
+       "no": 2,
+       "text": "Current affairs related to chemistry",
+       "chapters": [],
+       "other": [
+        "New discoveries, medicinal chemistry, vaccines",
+        "ISRO research, ethanol-blended petrol",
+        "Nobel prizes, mining, pollution and AQI",
+        "Food adulterants, metallurgical industries, Pollution Control Board",
+        "Follow the News section"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Botany",
+     "topics": [
+      {
+       "no": 1,
+       "text": "Main concepts of life science",
+       "chapters": [
+        "c11-bot-01",
+        "c11-zoo-01"
+       ],
+       "other": []
+      },
+      {
+       "no": 2,
+       "text": "Classification of living organisms",
+       "chapters": [
+        "c6-sci-ss-04",
+        "c7-sci-ss-22",
+        "c8-sci-16",
+        "c8-sci-17",
+        "c9-sci-19",
+        "c11-bot-02",
+        "c11-bot-03",
+        "c11-bot-04",
+        "c11-bot-05"
+       ],
+       "other": []
+      },
+      {
+       "no": 3,
+       "text": "Genetics",
+       "chapters": [
+        "c10-sci-18",
+        "c10-sci-19",
+        "c12-bot-02",
+        "c12-bot-03"
+       ],
+       "other": []
+      },
+      {
+       "no": 4,
+       "text": "Physiology",
+       "chapters": [
+        "c6-sci-ss-20",
+        "c7-sci-ss-05",
+        "c7-sci-ss-21",
+        "c10-sci-12",
+        "c10-sci-14",
+        "c10-sci-15",
+        "c10-sci-17",
+        "c11-bot-06",
+        "c11-bot-07",
+        "c11-bot-10",
+        "c11-bot-11",
+        "c11-bot-13",
+        "c11-bot-14",
+        "c11-bot-15"
+       ],
+       "other": []
+      },
+      {
+       "no": 5,
+       "text": "Nutrition, health and hygiene, human diseases",
+       "chapters": [
+        "c10-sci-16",
+        "c11-bot-12"
+       ],
+       "other": []
+      },
+      {
+       "no": 6,
+       "text": "Environment and ecology",
+       "chapters": [
+        "c6-sci-ss-33",
+        "c9-sci-23",
+        "c9-sci-24",
+        "c10-sci-20",
+        "c10-sci-22",
+        "c12-bot-06",
+        "c12-bot-07",
+        "c12-bot-08"
+       ],
+       "other": []
+      },
+      {
+       "no": 7,
+       "text": "Latest inventions in science and technology",
+       "chapters": [],
+       "other": [
+        "Science Reporter (CSIR), Down to Earth (CSE)",
+        "Follow the News section"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Zoology",
+     "topics": [
+      {
+       "no": 1,
+       "text": "Main concepts of life science",
+       "chapters": [
+        "c11-zoo-01"
+       ],
+       "other": []
+      },
+      {
+       "no": 2,
+       "text": "Classification of living organisms",
+       "chapters": [
+        "c7-sci-ss-22",
+        "c8-sci-16",
+        "c9-sci-17",
+        "c9-sci-18",
+        "c10-sci-13",
+        "c11-zoo-02",
+        "c11-zoo-03"
+       ],
+       "other": []
+      },
+      {
+       "no": 3,
+       "text": "Evolution, genetics",
+       "chapters": [
+        "c12-zoo-04",
+        "c12-zoo-05",
+        "c12-zoo-06"
+       ],
+       "other": []
+      },
+      {
+       "no": 4,
+       "text": "Physiology",
+       "chapters": [
+        "c6-sci-ss-20",
+        "c6-sci-ss-21",
+        "c7-sci-ss-21",
+        "c8-sci-18",
+        "c8-sci-19",
+        "c9-sci-20",
+        "c10-sci-13",
+        "c10-sci-14",
+        "c10-sci-15",
+        "c10-sci-17",
+        "c11-zoo-05",
+        "c11-zoo-06",
+        "c11-zoo-07",
+        "c11-zoo-08",
+        "c11-zoo-09",
+        "c11-zoo-10",
+        "c11-zoo-11",
+        "c12-zoo-01",
+        "c12-zoo-02"
+       ],
+       "other": []
+      },
+      {
+       "no": 5,
+       "text": "Nutrition, health and hygiene, human diseases",
+       "chapters": [
+        "c6-sci-ss-06",
+        "c7-sci-ss-06",
+        "c8-sci-20",
+        "c9-sci-21",
+        "c10-sci-16",
+        "c10-sci-21",
+        "c12-zoo-03",
+        "c12-zoo-07",
+        "c12-zoo-08"
+       ],
+       "other": []
+      },
+      {
+       "no": 6,
+       "text": "Environment and ecology; latest inventions in science and technology",
+       "chapters": [
+        "c6-sci-ss-33",
+        "c9-sci-23",
+        "c9-sci-24",
+        "c10-sci-20",
+        "c10-sci-22",
+        "c12-zoo-11",
+        "c12-zoo-12",
+        "c12-zoo-13"
+       ],
+       "other": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "II",
+   "title": "Geography of India",
+   "sections": [
+    {
+     "title": null,
+     "topics": [
+      {
+       "no": 1,
+       "text": "Location - physical features",
+       "chapters": [
+        "c10-ss-11",
+        "c10-ss-16",
+        "c7-sci-ss-28",
+        "c12-geo-05"
+       ],
+       "other": []
+      },
+      {
+       "no": 2,
+       "text": "Monsoon, rainfall, weather and climate",
+       "chapters": [
+        "c10-ss-12",
+        "c10-ss-16"
+       ],
+       "other": []
+      },
+      {
+       "no": 3,
+       "text": "Water resources - rivers in India",
+       "chapters": [
+        "c10-ss-11",
+        "c10-ss-16",
+        "c12-geo-07"
+       ],
+       "other": []
+      },
+      {
+       "no": 4,
+       "text": "Soil, minerals and natural resources - green energy - industry",
+       "chapters": [
+        "c6-sci-ss-26",
+        "c7-sci-ss-27",
+        "c8-ss-06",
+        "c8-ss-14",
+        "c10-ss-13",
+        "c10-ss-14",
+        "c10-ss-16",
+        "c10-ss-17",
+        "c12-geo-03",
+        "c12-geo-04"
+       ],
+       "other": []
+      },
+      {
+       "no": 5,
+       "text": "Forest and wildlife",
+       "chapters": [
+        "c7-sci-ss-28",
+        "c10-ss-12",
+        "c10-ss-16",
+        "c11-geo-07"
+       ],
+       "other": []
+      },
+      {
+       "no": 6,
+       "text": "Agricultural pattern",
+       "chapters": [
+        "c10-ss-13",
+        "c10-ss-17",
+        "c12-geo-04"
+       ],
+       "other": []
+      },
+      {
+       "no": 7,
+       "text": "Transport",
+       "chapters": [
+        "c10-ss-15",
+        "c10-ss-17"
+       ],
+       "other": []
+      },
+      {
+       "no": 8,
+       "text": "Communication",
+       "chapters": [
+        "c9-ss-18",
+        "c10-ss-15",
+        "c10-ss-17",
+        "c12-geo-06"
+       ],
+       "other": []
+      },
+      {
+       "no": 9,
+       "text": "Social geography - population density and distribution",
+       "chapters": [
+        "c7-sci-ss-14",
+        "c8-ss-12",
+        "c9-ss-17",
+        "c10-ss-15",
+        "c10-ss-17",
+        "c12-geo-01",
+        "c12-geo-02"
+       ],
+       "other": []
+      },
+      {
+       "no": 10,
+       "text": "Racial, linguistic groups and major tribes",
+       "chapters": [
+        "c7-sci-ss-14",
+        "c12-geo-05"
+       ],
+       "other": []
+      },
+      {
+       "no": 11,
+       "text": "Natural calamity - disaster management",
+       "chapters": [
+        "c6-sci-ss-42",
+        "c7-sci-ss-42",
+        "c8-ss-13",
+        "c9-ss-19",
+        "c10-ss-17",
+        "c11-geo-08",
+        "c12-geo-08"
+       ],
+       "other": []
+      },
+      {
+       "no": 12,
+       "text": "Basics of geography (must study)",
+       "chapters": [
+        "c6-sci-ss-40",
+        "c6-sci-ss-41",
+        "c11-geo-02"
+       ],
+       "other": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "III",
+   "title": "History, Culture of India and Indian National Movement",
+   "sections": [
+    {
+     "title": null,
+     "topics": [
+      {
+       "no": 1,
+       "text": "Indus Valley Civilization",
+       "chapters": [
+        "c6-sci-ss-10",
+        "c9-ss-01",
+        "c11-his-01"
+       ],
+       "other": [
+        "11th Ethics and Indian Culture, unit 2 (Tamil edition only)"
+       ]
+      },
+      {
+       "no": 2,
+       "text": "Guptas",
+       "chapters": [
+        "c6-sci-ss-38",
+        "c11-his-06",
+        "c11-his-07"
+       ],
+       "other": [
+        "12th Ethics and Indian Culture, unit 5 (Tamil edition only)"
+       ]
+      },
+      {
+       "no": 3,
+       "text": "Delhi Sultans",
+       "chapters": [
+        "c7-sci-ss-11",
+        "c11-his-10"
+       ],
+       "other": [
+        "12th Ethics and Indian Culture, unit 5 (Tamil edition only)"
+       ]
+      },
+      {
+       "no": 4,
+       "text": "Mughals and Marathas",
+       "chapters": [
+        "c7-sci-ss-25",
+        "c7-sci-ss-26",
+        "c11-his-14",
+        "c11-his-15"
+       ],
+       "other": [
+        "12th Ethics and Indian Culture, unit 5 (Tamil edition only)"
+       ]
+      },
+      {
+       "no": 5,
+       "text": "Age of Vijayanagaram and Bahmani kingdoms",
+       "chapters": [
+        "c7-sci-ss-24",
+        "c11-his-12"
+       ],
+       "other": []
+      },
+      {
+       "no": 6,
+       "text": "South Indian history; change and continuity in the socio-cultural history of India; characteristics of Indian culture, unity in diversity - race, language, custom; India as a secular state, social harmony",
+       "chapters": [
+        "c6-sci-ss-11",
+        "c6-sci-ss-14",
+        "c6-sci-ss-39",
+        "c7-sci-ss-10",
+        "c8-ss-05",
+        "c8-ss-06",
+        "c9-ss-03",
+        "c9-ss-07",
+        "c11-his-09",
+        "c11-his-11",
+        "c11-his-13"
+       ],
+       "other": [
+        "12th Ethics and Indian Culture, unit 5 (Tamil edition only)"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Indian National Movement",
+     "topics": [
+      {
+       "no": 1,
+       "text": "National renaissance - early uprising against British rule - Indian National Congress - emergence of leaders: B.R. Ambedkar, Bhagat Singh, Bharathiar, V.O. Chidambaranar, Jawaharlal Nehru, Kamarajar, Mahatma Gandhi, Maulana Abul Kalam Azad, Thanthai Periyar, Rajaji, Subash Chandra Bose, Rabindranath Tagore and others",
+       "chapters": [
+        "c8-ss-01",
+        "c10-ss-07",
+        "c10-ss-08",
+        "c11-pol-15",
+        "c11-his-16",
+        "c11-his-18",
+        "c12-his-01",
+        "c12-his-02",
+        "c12-his-03",
+        "c12-his-14",
+        "c12-his-15"
+       ],
+       "other": [
+        "11th Ethics and Indian Culture, unit 10 (Tamil edition only)"
+       ]
+      },
+      {
+       "no": 2,
+       "text": "Different modes of agitation: growth of satyagraha and militant movements",
+       "chapters": [
+        "c12-his-04",
+        "c12-his-05",
+        "c12-his-06",
+        "c12-his-07"
+       ],
+       "other": []
+      },
+      {
+       "no": 3,
+       "text": "Communalism and partition",
+       "chapters": [
+        "c12-his-06",
+        "c12-his-07",
+        "c12-his-08",
+        "c11-his-17"
+       ],
+       "other": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "IV",
+   "title": "Indian Polity",
+   "sections": [
+    {
+     "title": null,
+     "topics": [
+      {
+       "no": 1,
+       "text": "Introduction, political systems - federal, unitary, presidential, parliamentary, republic, monarchy; salient features",
+       "chapters": [
+        "c11-pol-06",
+        "c12-pol-01",
+        "c6-sci-ss-43",
+        "c7-sci-ss-16",
+        "c7-sci-ss-30",
+        "c9-ss-20",
+        "c9-ss-21",
+        "c9-ss-23",
+        "c10-ss-18"
+       ],
+       "other": []
+      },
+      {
+       "no": 2,
+       "text": "Making and sources of the Indian Constitution",
+       "chapters": [
+        "c12-pol-01"
+       ],
+       "other": []
+      },
+      {
+       "no": 3,
+       "text": "Constitutional development since 1773 to 1947",
+       "chapters": [
+        "c12-pol-01"
+       ],
+       "other": []
+      },
+      {
+       "no": 4,
+       "text": "Preamble, Union and States, citizenship",
+       "chapters": [
+        "c11-pol-13",
+        "c12-pol-07",
+        "c6-sci-ss-15",
+        "c7-sci-ss-15",
+        "c8-ss-18",
+        "c8-ss-19"
+       ],
+       "other": []
+      },
+      {
+       "no": 5,
+       "text": "Fundamental Rights, DPSP, Fundamental Duties, amendments",
+       "chapters": [
+        "c12-pol-01",
+        "c12-pol-02",
+        "c8-ss-20",
+        "c9-ss-22"
+       ],
+       "other": []
+      },
+      {
+       "no": 6,
+       "text": "Union executive - President, Vice President, Prime Minister, Council of Ministers; Supreme Court",
+       "chapters": [
+        "c12-pol-03",
+        "c12-pol-04",
+        "c8-ss-23",
+        "c10-ss-19"
+       ],
+       "other": []
+      },
+      {
+       "no": 7,
+       "text": "Parliament - A to Z",
+       "chapters": [
+        "c12-pol-02",
+        "c12-pol-06"
+       ],
+       "other": []
+      },
+      {
+       "no": 8,
+       "text": "State executive - Governor, Chief Minister, Council of Ministers, State Legislature; Union Territories, High Court, subordinate courts",
+       "chapters": [
+        "c12-pol-02",
+        "c12-pol-03",
+        "c7-sci-ss-29",
+        "c8-ss-17",
+        "c10-ss-20"
+       ],
+       "other": []
+      },
+      {
+       "no": 9,
+       "text": "Grass root democracy, district administration, Centre-State relations, inter-state relations, Article 370",
+       "chapters": [
+        "c11-pol-12",
+        "c12-pol-01",
+        "c12-pol-05",
+        "c6-sci-ss-44",
+        "c9-ss-24"
+       ],
+       "other": []
+      },
+      {
+       "no": 10,
+       "text": "Emergency, constitutional bodies - UPSC, Election Commission, Finance Commission, National Commissions for SC, ST, NCBC, CAG, Attorney General and Advocate General",
+       "chapters": [
+        "c12-pol-06"
+       ],
+       "other": []
+      },
+      {
+       "no": 11,
+       "text": "Statutory bodies - NHRC, NWC, NMC, NCPCR; CVC, CIC, CBI, Lokpal, Lok Ayukta, Lok Adalat, NALSA",
+       "chapters": [
+        "c8-ss-20"
+       ],
+       "other": []
+      },
+      {
+       "no": 12,
+       "text": "Miscellaneous - civil services, tribunals, official languages, political parties, election reforms, human rights, citizen charter, consumer forums, pressure groups",
+       "chapters": [
+        "c11-pol-10",
+        "c11-pol-11",
+        "c7-sci-ss-44"
+       ],
+       "other": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "V",
+   "title": "Indian Economy",
+   "sections": [
+    {
+     "title": null,
+     "topics": [
+      {
+       "no": 1,
+       "text": "Nature of Indian economy",
+       "chapters": [
+        "c11-eco-01",
+        "c11-eco-07",
+        "c11-eco-08",
+        "c11-eco-09",
+        "c12-eco-01",
+        "c12-eco-11"
+       ],
+       "other": []
+      },
+      {
+       "no": 2,
+       "text": "Five year plan models - an assessment - Planning Commission and NITI Aayog",
+       "chapters": [
+        "c11-eco-08",
+        "c12-eco-11"
+       ],
+       "other": []
+      },
+      {
+       "no": 3,
+       "text": "Sources of revenue - Reserve Bank of India - monetary policy",
+       "chapters": [
+        "c11-eco-08",
+        "c11-eco-10",
+        "c12-eco-02",
+        "c12-eco-05",
+        "c12-eco-06"
+       ],
+       "other": []
+      },
+      {
+       "no": 4,
+       "text": "Fiscal policy, Finance Commission - resource sharing between Union and States; taxation - Goods and Services Tax",
+       "chapters": [
+        "c11-eco-08",
+        "c11-eco-09",
+        "c12-eco-09",
+        "c12-eco-11"
+       ],
+       "other": []
+      },
+      {
+       "no": 5,
+       "text": "Structure of Indian economy and employment generation - land reforms and agriculture - application of science and technology in agriculture - rural welfare oriented programmes",
+       "chapters": [
+        "c11-eco-08",
+        "c11-eco-09",
+        "c11-eco-10",
+        "c12-eco-10"
+       ],
+       "other": []
+      },
+      {
+       "no": 6,
+       "text": "Industrial growth",
+       "chapters": [
+        "c11-eco-08"
+       ],
+       "other": []
+      },
+      {
+       "no": 7,
+       "text": "Social problems - population, education, employment, health, poverty",
+       "chapters": [
+        "c11-eco-08",
+        "c11-eco-09",
+        "c11-eco-10",
+        "c12-eco-03"
+       ],
+       "other": []
+      }
+     ]
+    },
+    {
+     "title": "Development Administration in Tamil Nadu",
+     "topics": [
+      {
+       "no": 1,
+       "text": "Human development indicators in Tamil Nadu and a comparative assessment across the country",
+       "chapters": [],
+       "other": [
+        "Tamil Nadu Human Development Report 2017",
+        "Newspapers"
+       ]
+      },
+      {
+       "no": 2,
+       "text": "Impact of social reform movements in the socio-economic development of Tamil Nadu",
+       "chapters": [
+        "c8-ss-08",
+        "c10-ss-05",
+        "c10-ss-10",
+        "c11-his-19"
+       ],
+       "other": []
+      },
+      {
+       "no": 3,
+       "text": "Political parties and welfare schemes for various sections of people",
+       "chapters": [
+        "c9-ss-21",
+        "c11-pol-14"
+       ],
+       "other": []
+      },
+      {
+       "no": 4,
+       "text": "Rationale behind the reservation policy and access to the social resources",
+       "chapters": [
+        "c11-pol-13",
+        "c12-pol-01"
+       ],
+       "other": []
+      },
+      {
+       "no": 5,
+       "text": "Economic trends in Tamil Nadu",
+       "chapters": [
+        "c9-ss-27",
+        "c9-ss-30",
+        "c10-ss-27",
+        "c11-eco-11"
+       ],
+       "other": [
+        "Tamil Nadu Economic Survey",
+        "Tamil Nadu Government Budget"
+       ]
+      },
+      {
+       "no": 6,
+       "text": "Role and impact of social welfare schemes in the socio-economic development of Tamil Nadu",
+       "chapters": [],
+       "other": [
+        "Tamil Nadu State Planning Commission reports"
+       ]
+      },
+      {
+       "no": 7,
+       "text": "Social justice and social harmony as the cornerstones of socio-economic development",
+       "chapters": [
+        "c11-pol-13",
+        "c8-ss-19"
+       ],
+       "other": []
+      },
+      {
+       "no": 8,
+       "text": "Education and health systems in Tamil Nadu",
+       "chapters": [
+        "c8-ss-05"
+       ],
+       "other": [
+        "Policy notes: School Education, Higher Education, Health"
+       ]
+      },
+      {
+       "no": 9,
+       "text": "Geography of Tamil Nadu and its impact on economic growth",
+       "chapters": [
+        "c10-ss-16",
+        "c10-ss-17",
+        "c9-ss-29"
+       ],
+       "other": []
+      },
+      {
+       "no": 10,
+       "text": "Achievements of Tamil Nadu in various fields",
+       "chapters": [],
+       "other": [
+        "Tamil Nadu Government department policy notes"
+       ]
+      },
+      {
+       "no": 11,
+       "text": "e-Governance in Tamil Nadu",
+       "chapters": [],
+       "other": [
+        "Policy note: Information Technology and Digital Services"
+       ]
+      },
+      {
+       "no": 12,
+       "text": "Public awareness and general administration",
+       "chapters": [],
+       "other": [
+        "Policy note: Public Department"
+       ]
+      },
+      {
+       "no": 13,
+       "text": "Welfare oriented government schemes and their utility",
+       "chapters": [],
+       "other": [
+        "Policy notes of all Tamil Nadu Government departments"
+       ]
+      },
+      {
+       "no": 14,
+       "text": "Problems in public delivery systems",
+       "chapters": [],
+       "other": [
+        "Policy note: Civil Supplies and Consumer Protection"
+       ]
+      },
+      {
+       "no": 15,
+       "text": "Current socio-economic issues",
+       "chapters": [],
+       "other": [
+        "Fifteenth Finance Commission report on Tamil Nadu finances",
+        "Follow the News section"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "VI",
+   "title": "History, Culture, Heritage and Socio-Political Movements in Tamil Nadu",
+   "sections": [
+    {
+     "title": null,
+     "topics": [
+      {
+       "no": 1,
+       "text": "History of Tamil society",
+       "chapters": [
+        "c6-sci-ss-11",
+        "c6-sci-ss-23",
+        "c6-sci-ss-36",
+        "c9-ss-01",
+        "c9-ss-03",
+        "c11-his-02",
+        "c11-his-05"
+       ],
+       "other": []
+      },
+      {
+       "no": 2,
+       "text": "Archaeological discoveries",
+       "chapters": [],
+       "other": [
+        "Tamil Nadu State Department of Archaeology (tnarch.gov.in)",
+        "Archaeology-related current affairs"
+       ]
+      },
+      {
+       "no": 3,
+       "text": "Thirukkural",
+       "chapters": [],
+       "other": [
+        "6th-12th Tamil textbooks (coming with Tamil support)"
+       ]
+      },
+      {
+       "no": 4,
+       "text": "Role of Tamil Nadu in freedom struggle",
+       "chapters": [
+        "c10-ss-09"
+       ],
+       "other": [
+        "6th Tamil, Term 3 (coming with Tamil support)"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "B",
+   "title": "Aptitude and Mental Ability",
+   "sections": [
+    {
+     "title": null,
+     "topics": [
+      {
+       "no": 1,
+       "text": "HCF and LCM",
+       "chapters": [
+        "c6-t2-maths-01",
+        "c8-maths-01",
+        "c9-maths-02",
+        "c10-maths-02"
+       ],
+       "other": []
+      },
+      {
+       "no": 2,
+       "text": "Percentage",
+       "chapters": [
+        "c7-maths-13",
+        "c8-maths-04"
+       ],
+       "other": []
+      },
+      {
+       "no": 3,
+       "text": "Profit and loss",
+       "chapters": [
+        "c6-t2-maths-03",
+        "c7-maths-13",
+        "c8-maths-04"
+       ],
+       "other": []
+      },
+      {
+       "no": 4,
+       "text": "Ratio and proportion",
+       "chapters": [
+        "c6-t1-maths-03",
+        "c7-maths-04"
+       ],
+       "other": []
+      },
+      {
+       "no": 5,
+       "text": "Simple and compound interest",
+       "chapters": [
+        "c7-maths-13",
+        "c8-maths-04"
+       ],
+       "other": []
+      },
+      {
+       "no": 6,
+       "text": "Time and work",
+       "chapters": [
+        "c7-maths-04",
+        "c8-maths-04"
+       ],
+       "other": []
+      },
+      {
+       "no": 7,
+       "text": "Probability",
+       "chapters": [
+        "c9-maths-09",
+        "c10-maths-08"
+       ],
+       "other": []
+      },
+      {
+       "no": 8,
+       "text": "Number series",
+       "chapters": [
+        "c10-maths-02"
+       ],
+       "other": []
+      },
+      {
+       "no": 9,
+       "text": "Mensuration",
+       "chapters": [
+        "c6-t2-maths-02",
+        "c6-t3-maths-03",
+        "c7-maths-02",
+        "c7-maths-08",
+        "c8-maths-02",
+        "c9-maths-07",
+        "c10-maths-07"
+       ],
+       "other": []
+      },
+      {
+       "no": 10,
+       "text": "Simplification",
+       "chapters": [
+        "c6-t1-maths-01",
+        "c6-t3-maths-01",
+        "c6-t3-maths-02",
+        "c7-maths-01",
+        "c7-maths-03",
+        "c7-maths-07",
+        "c7-maths-09",
+        "c7-maths-12",
+        "c7-maths-14",
+        "c8-maths-01",
+        "c8-maths-03",
+        "c9-maths-02",
+        "c9-maths-03",
+        "c10-maths-03"
+       ],
+       "other": []
+      },
+      {
+       "no": 11,
+       "text": "Arithmetic and geometric progressions",
+       "chapters": [
+        "c10-maths-02"
+       ],
+       "other": []
+      },
+      {
+       "no": 12,
+       "text": "Reasoning (logical reasoning, puzzles, dice, visual reasoning, alpha-numeric reasoning, number series)",
+       "chapters": [],
+       "other": [
+        "Not in SCERT books: practise with the Reasoning questions in Quiz"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

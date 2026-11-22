@@ -287,3 +287,29 @@ create policy "admin manages summaries" on public.chapter_summaries for delete u
 -- Make the owner a super admin after they sign up (replace the email):
 --   update public.profiles set role = 'superadmin'
 --   where id = (select id from auth.users where email = 'you@example.com');
+
+-- Previous year question papers (official TNPSC booklets). Questions link to a paper with source = 'pyq'.
+create table if not exists public.pyq_papers (
+  id            text primary key,          -- e.g. g1-2024-prelims
+  grp           text not null check (grp in ('g1','g2','g3','g4')),
+  title         text not null,
+  exam_date     date not null,
+  year          int  not null,
+  duration_min  int  not null default 180,
+  total         int  not null default 0,   -- questions in the app for this paper
+  source_url    text,
+  created_at    timestamptz default now()
+);
+alter table public.pyq_papers enable row level security;
+drop policy if exists "pyq papers readable" on public.pyq_papers;
+create policy "pyq papers readable" on public.pyq_papers for select using (true);
+drop policy if exists "admin manages pyq papers" on public.pyq_papers;
+create policy "admin manages pyq papers" on public.pyq_papers for all using (public.is_admin()) with check (public.is_admin());
+
+alter table public.questions add column if not exists paper_id  text references public.pyq_papers(id) on delete cascade;
+alter table public.questions add column if not exists paper_qno int;
+create index if not exists questions_paper on public.questions (paper_id, paper_qno) where status = 'approved';
+
+alter table public.quiz_attempts drop constraint if exists quiz_attempts_mode_check;
+alter table public.quiz_attempts add constraint quiz_attempts_mode_check check (mode in ('daily','unit','chapter','mock','revise','pyq'));
+alter table public.quiz_attempts add column if not exists paper_id text;

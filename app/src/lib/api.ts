@@ -1,4 +1,4 @@
-import type { AnswerRecord, AppUser, Attempt, ChapterSummary, Member, NewsItem, Profile, Question, QuizMode, ReadingState, Role, UnitStat } from './types';
+import type { AnswerRecord, AppUser, Attempt, ChapterSummary, Member, NewsItem, Profile, Question, QuizMode, ReadingState, Role, UnitStat, PyqPaper } from './types';
 import type { ExamEvent } from '../shared/exam';
 import { localApi } from './localApi';
 import { remoteApi } from './remoteApi';
@@ -9,6 +9,7 @@ export interface NewAttempt {
   quiz_date?: string | null;
   unit_code?: string | null;
   chapter_id?: string | null;
+  paper_id?: string | null;
   total: number;
   correct: number;
   duration_sec: number;
@@ -34,6 +35,10 @@ export interface Api {
   getQuestionsByIds(ids: string[]): Promise<Question[]>;
   /** Number of published questions per syllabus unit. */
   getUnitQuestionCounts(): Promise<Record<string, number>>;
+  /** Previous year question papers, newest first. */
+  getPyqPapers(): Promise<PyqPaper[]>;
+  /** All questions of one paper, in the paper's order. */
+  getPaperQuestions(paperId: string): Promise<Question[]>;
   // scores
   saveAttempt(a: NewAttempt, answers: AnswerRecord[]): Promise<void>;
   getAttempts(limit?: number): Promise<Attempt[]>;
