@@ -34,7 +34,8 @@ TITLES: dict[str, str] = json.loads(TITLES_FILE.read_text(encoding="utf-8")) if 
 
 # (?<![a-z]) instead of \b because bookmark names use underscores ("_Chap 1").
 CHAPTER_RE = re.compile(
-    r"(unit|(?<![a-z])uni(?![a-z])|lesson|chapter|(?<![a-z])chap|(?<![a-z])chp|(?<![a-z])cha[-_ ]|(?<![a-z])U\d)", re.I
+    r"(unit|(?<![a-z])uni(?![a-z])|lesson|chapter|(?<![a-z])chap|(?<![a-z])chp|(?<![a-z])cha[-_ ]|(?<![a-z])U\d"
+    r"|(?<![a-z])CH\s*\d|^\s*\d{1,2}\s*[-_ ]\s*[A-Za-z])", re.I
 )
 SKIP_RE = re.compile(
     r"(content|index|front|glos|acknowledg|author|answer|practical|notes pages|timeline|"

@@ -11,12 +11,19 @@ const ICONS = {
   history: (<svg viewBox="0 0 24 24" {...stroke}><path d="M12 2.5 9.5 6h5Z" /><path d="M8.5 6h7l1 4h-9Z" /><path d="M7 10h10l1.2 5H5.8Z" /><path d="M5 15h14l1 6H4Z" /><path d="M11 21v-3h2v3" /></svg>),
   geography: (<svg viewBox="0 0 24 24" {...stroke}><path d="m3 20 6-11 4 6 2.5-3.5L21 20Z" /><circle cx="17" cy="6" r="2" /></svg>),
   polity: (<svg viewBox="0 0 24 24" {...stroke}><path d="M3 9 12 4l9 5" /><path d="M4 9h16M5 20h14M3.5 22h17" /><path d="M6.5 10v8M10 10v8M14 10v8M17.5 10v8" /></svg>),
+  economics: (<svg viewBox="0 0 24 24" {...stroke}><path d="M4 20h16" /><path d="M6 20v-6M10 20v-9M14 20v-5M18 20v-12" /><path d="m5 10 5-4 4 3 5-5" /></svg>),
+  chemistry: (<svg viewBox="0 0 24 24" {...stroke}><path d="M9 3h6M10 3v6l-5 9a2 2 0 0 0 1.7 3h10.6A2 2 0 0 0 19 18l-5-9V3" /><path d="M7.5 14h9" /></svg>),
+  biology: (<svg viewBox="0 0 24 24" {...stroke}><path d="M6 20c9 0 13-6 13-16C9 4 5 9 5 15c0 2 .5 3.5 1 5Z" /><path d="M6 20c2-6 6-10 10-12" /></svg>),
   maths: (<svg viewBox="0 0 24 24" {...stroke}><path d="M5 4h14v16H5Z" /><path d="M8 8h8M9 13h2M10 12v2M14 13h2M9 17h2M14 16.5l2 1.5M16 16.5l-2 1.5" /></svg>),
 };
 
 function theme(book: Book): Theme {
   const id = book.id;
   if (id.endsWith('-maths')) return { from: '#7c3aed', to: '#4c1d95', icon: ICONS.maths };
+  if (id.endsWith('-eco')) return { from: '#be185d', to: '#831843', icon: ICONS.economics };
+  if (/-phy\d?$/.test(id)) return { from: '#4338ca', to: '#312e81', icon: ICONS.science };
+  if (/-chem\d?$/.test(id)) return { from: '#0f766e', to: '#164e63', icon: ICONS.chemistry };
+  if (/-(bot|zoo)$/.test(id)) return { from: '#4d7c0f', to: '#365314', icon: ICONS.biology };
   if (id.endsWith('-his')) return { from: '#c2410c', to: '#7c2d12', icon: ICONS.history };
   if (id.endsWith('-geo')) return { from: '#0f766e', to: '#134e4a', icon: ICONS.geography };
   if (id.endsWith('-pol')) return { from: '#1d4ed8', to: '#1e3a8a', icon: ICONS.polity };

@@ -48,4 +48,18 @@ BOOKS = [
     {"id": "c12-his", "file": "TN-SCERT CLASS 12TH HISTORY (ENGLISH).pdf", "std": 12, "title": "History", "subject": "history"},
     {"id": "c12-geo", "file": "TN-SCERT CLASS 12TH GEOGRAPHY (ENGLISH).pdf", "std": 12, "title": "Geography", "subject": "geography"},
     {"id": "c12-pol", "file": "TN-SCERT CLASS 12TH POLITICAL SCIENCE (ENGLISH).pdf", "std": 12, "title": "Political Science", "subject": "political-science"},
+    # Added 2026-11-22 from the official TN textbook store (d1e5r329t7a85t.cloudfront.net/syllabuspdf) to fill syllabus gaps.
+    {"id": "c9-maths", "file": "books/9-maths.pdf", "std": 9, "title": "Mathematics", "subject": "maths"},
+    {"id": "c11-eco", "file": "books/11-economics.pdf", "std": 11, "title": "Economics", "subject": "economics"},
+    {"id": "c11-phy2", "file": "books/11-physics-vol2.pdf", "std": 11, "title": "Physics Vol 2", "subject": "science"},
+    {"id": "c11-chem1", "file": "books/11-chemistry-vol1.pdf", "std": 11, "title": "Chemistry Vol 1", "subject": "science"},
+    {"id": "c11-chem2", "file": "books/11-chemistry-vol2.pdf", "std": 11, "title": "Chemistry Vol 2", "subject": "science"},
+    {"id": "c11-bot", "file": "books/11-botany.pdf", "std": 11, "title": "Botany", "subject": "science"},
+    {"id": "c11-zoo", "file": "books/11-zoology.pdf", "std": 11, "title": "Zoology", "subject": "science"},
+    {"id": "c12-eco", "file": "books/12-economics.pdf", "std": 12, "title": "Economics", "subject": "economics"},
+    {"id": "c12-phy1", "file": "books/12-physics-vol1.pdf", "std": 12, "title": "Physics Vol 1", "subject": "science"},
+    {"id": "c12-phy2", "file": "books/12-physics-vol2.pdf", "std": 12, "title": "Physics Vol 2", "subject": "science"},
+    {"id": "c12-chem1", "file": "books/12-chemistry-vol1.pdf", "std": 12, "title": "Chemistry Vol 1", "subject": "science"},
+    {"id": "c12-bot", "file": "books/12-botany.pdf", "std": 12, "title": "Botany", "subject": "science"},
+    {"id": "c12-zoo", "file": "books/12-zoology.pdf", "std": 12, "title": "Zoology", "subject": "science"},
 ]

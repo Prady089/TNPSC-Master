@@ -5611,6 +5611,1955 @@
      "words": 8670
     }
    ]
+  },
+  {
+   "id": "c9-maths",
+   "std": 9,
+   "title": "Mathematics",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c9-maths-01",
+     "bookId": "c9-maths",
+     "order": 1,
+     "title": "Set Language",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      7,
+      46
+     ],
+     "words": 11582
+    },
+    {
+     "id": "c9-maths-02",
+     "bookId": "c9-maths",
+     "order": 2,
+     "title": "Real Number System",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      47,
+      83
+     ],
+     "words": 10719
+    },
+    {
+     "id": "c9-maths-03",
+     "bookId": "c9-maths",
+     "order": 3,
+     "title": "Algebra",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      84,
+      143
+     ],
+     "words": 19883
+    },
+    {
+     "id": "c9-maths-04",
+     "bookId": "c9-maths",
+     "order": 4,
+     "title": "Geometry",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      144,
+      190
+     ],
+     "words": 12298
+    },
+    {
+     "id": "c9-maths-05",
+     "bookId": "c9-maths",
+     "order": 5,
+     "title": "Coordinate Geometry",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      191,
+      227
+     ],
+     "words": 11216
+    },
+    {
+     "id": "c9-maths-06",
+     "bookId": "c9-maths",
+     "order": 6,
+     "title": "Trigonometry",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      228,
+      253
+     ],
+     "words": 4040
+    },
+    {
+     "id": "c9-maths-07",
+     "bookId": "c9-maths",
+     "order": 7,
+     "title": "Mensuration",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      254,
+      271
+     ],
+     "words": 4871
+    },
+    {
+     "id": "c9-maths-08",
+     "bookId": "c9-maths",
+     "order": 8,
+     "title": "Statistics",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      272,
+      296
+     ],
+     "words": 5813
+    },
+    {
+     "id": "c9-maths-09",
+     "bookId": "c9-maths",
+     "order": 9,
+     "title": "Probability",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      297,
+      310
+     ],
+     "words": 3784
+    }
+   ]
+  },
+  {
+   "id": "c11-eco",
+   "std": 11,
+   "title": "Economics",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c11-eco-01",
+     "bookId": "c11-eco",
+     "order": 1,
+     "title": "Introduction to Micro-Economics",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      7,
+      30
+     ],
+     "words": 6752
+    },
+    {
+     "id": "c11-eco-02",
+     "bookId": "c11-eco",
+     "order": 2,
+     "title": "Consumption Analysis",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      31,
+      59
+     ],
+     "words": 7439
+    },
+    {
+     "id": "c11-eco-03",
+     "bookId": "c11-eco",
+     "order": 3,
+     "title": "Production Analysis",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      60,
+      85
+     ],
+     "words": 6465
+    },
+    {
+     "id": "c11-eco-04",
+     "bookId": "c11-eco",
+     "order": 4,
+     "title": "Cost and Revenue Analysis",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      86,
+      104
+     ],
+     "words": 4512
+    },
+    {
+     "id": "c11-eco-05",
+     "bookId": "c11-eco",
+     "order": 5,
+     "title": "Market Structure and Pricing",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      105,
+      126
+     ],
+     "words": 5553
+    },
+    {
+     "id": "c11-eco-06",
+     "bookId": "c11-eco",
+     "order": 6,
+     "title": "Distribution Analysis",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      127,
+      148
+     ],
+     "words": 6208
+    },
+    {
+     "id": "c11-eco-07",
+     "bookId": "c11-eco",
+     "order": 7,
+     "title": "Indian Economy",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      149,
+      171
+     ],
+     "words": 7034
+    },
+    {
+     "id": "c11-eco-08",
+     "bookId": "c11-eco",
+     "order": 8,
+     "title": "Indian Economy Before and After Independence",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      172,
+      194
+     ],
+     "words": 6095
+    },
+    {
+     "id": "c11-eco-09",
+     "bookId": "c11-eco",
+     "order": 9,
+     "title": "Development Experiences in India",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      195,
+      210
+     ],
+     "words": 3674
+    },
+    {
+     "id": "c11-eco-10",
+     "bookId": "c11-eco",
+     "order": 10,
+     "title": "Rural Economy",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      211,
+      230
+     ],
+     "words": 5911
+    },
+    {
+     "id": "c11-eco-11",
+     "bookId": "c11-eco",
+     "order": 11,
+     "title": "Tamil Nadu Economy",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      231,
+      253
+     ],
+     "words": 4914
+    },
+    {
+     "id": "c11-eco-12",
+     "bookId": "c11-eco",
+     "order": 12,
+     "title": "Mathematical Methods for Economics",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      254,
+      280
+     ],
+     "words": 3683
+    }
+   ]
+  },
+  {
+   "id": "c11-phy2",
+   "std": 11,
+   "title": "Physics Vol 2",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c11-phy2-01",
+     "bookId": "c11-phy2",
+     "order": 1,
+     "title": "Gravitation",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      9,
+      56
+     ],
+     "words": 5866
+    },
+    {
+     "id": "c11-phy2-02",
+     "bookId": "c11-phy2",
+     "order": 2,
+     "title": "Properties of Matter",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      57,
+      102
+     ],
+     "words": 16709
+    },
+    {
+     "id": "c11-phy2-03",
+     "bookId": "c11-phy2",
+     "order": 3,
+     "title": "Heat and Thermodynamics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      103,
+      171
+     ],
+     "words": 21724
+    },
+    {
+     "id": "c11-phy2-04",
+     "bookId": "c11-phy2",
+     "order": 4,
+     "title": "Kinetic Theory of Gases",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      172,
+      195
+     ],
+     "words": 7013
+    },
+    {
+     "id": "c11-phy2-05",
+     "bookId": "c11-phy2",
+     "order": 5,
+     "title": "Oscillations",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      196,
+      231
+     ],
+     "words": 10470
+    },
+    {
+     "id": "c11-phy2-06",
+     "bookId": "c11-phy2",
+     "order": 6,
+     "title": "Waves",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      232,
+      288
+     ],
+     "words": 18985
+    }
+   ]
+  },
+  {
+   "id": "c11-chem1",
+   "std": 11,
+   "title": "Chemistry Vol 1",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c11-chem1-01",
+     "bookId": "c11-chem1",
+     "order": 1,
+     "title": "Basic Concepts of Chemistry and Chemical Calculations",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      11,
+      47
+     ],
+     "words": 8684
+    },
+    {
+     "id": "c11-chem1-02",
+     "bookId": "c11-chem1",
+     "order": 2,
+     "title": "Quantum Mechanical Model of Atom",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      48,
+      77
+     ],
+     "words": 6699
+    },
+    {
+     "id": "c11-chem1-03",
+     "bookId": "c11-chem1",
+     "order": 3,
+     "title": "Periodic Classification of Elements",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      78,
+      109
+     ],
+     "words": 7563
+    },
+    {
+     "id": "c11-chem1-04",
+     "bookId": "c11-chem1",
+     "order": 4,
+     "title": "Hydrogen",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      110,
+      134
+     ],
+     "words": 5852
+    },
+    {
+     "id": "c11-chem1-05",
+     "bookId": "c11-chem1",
+     "order": 5,
+     "title": "Alkali and Alkaline Earth Metals",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      135,
+      167
+     ],
+     "words": 7562
+    },
+    {
+     "id": "c11-chem1-06",
+     "bookId": "c11-chem1",
+     "order": 6,
+     "title": "Gaseous State",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      168,
+      195
+     ],
+     "words": 6403
+    },
+    {
+     "id": "c11-chem1-07",
+     "bookId": "c11-chem1",
+     "order": 7,
+     "title": "Thermodynamics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      196,
+      238
+     ],
+     "words": 11858
+    }
+   ]
+  },
+  {
+   "id": "c11-chem2",
+   "std": 11,
+   "title": "Chemistry Vol 2",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c11-chem2-01",
+     "bookId": "c11-chem2",
+     "order": 1,
+     "title": "Physical and Chemical Equilibrium",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      5,
+      33
+     ],
+     "words": 6260
+    },
+    {
+     "id": "c11-chem2-02",
+     "bookId": "c11-chem2",
+     "order": 2,
+     "title": "Solutions",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      34,
+      70
+     ],
+     "words": 10733
+    },
+    {
+     "id": "c11-chem2-03",
+     "bookId": "c11-chem2",
+     "order": 3,
+     "title": "Chemical Bonding",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      71,
+      113
+     ],
+     "words": 11035
+    },
+    {
+     "id": "c11-chem2-04",
+     "bookId": "c11-chem2",
+     "order": 4,
+     "title": "Fundamentals of Organic Chemistry",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      114,
+      164
+     ],
+     "words": 13591
+    },
+    {
+     "id": "c11-chem2-05",
+     "bookId": "c11-chem2",
+     "order": 5,
+     "title": "Basic Concepts of Organic Reactions",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      165,
+      181
+     ],
+     "words": 4232
+    },
+    {
+     "id": "c11-chem2-06",
+     "bookId": "c11-chem2",
+     "order": 6,
+     "title": "Hydrocarbons",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      182,
+      228
+     ],
+     "words": 9974
+    },
+    {
+     "id": "c11-chem2-07",
+     "bookId": "c11-chem2",
+     "order": 7,
+     "title": "Haloalkanes and Haloarenes",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      229,
+      262
+     ],
+     "words": 6711
+    },
+    {
+     "id": "c11-chem2-08",
+     "bookId": "c11-chem2",
+     "order": 8,
+     "title": "Environmental Chemistry",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      263,
+      284
+     ],
+     "words": 5897
+    }
+   ]
+  },
+  {
+   "id": "c11-bot",
+   "std": 11,
+   "title": "Botany",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c11-bot-01",
+     "bookId": "c11-bot",
+     "order": 1,
+     "title": "Living World",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      5,
+      36
+     ],
+     "words": 11301
+    },
+    {
+     "id": "c11-bot-02",
+     "bookId": "c11-bot",
+     "order": 2,
+     "title": "Plant Kingdom",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      37,
+      64
+     ],
+     "words": 10180
+    },
+    {
+     "id": "c11-bot-03",
+     "bookId": "c11-bot",
+     "order": 3,
+     "title": "Vegetative Morphology",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      65,
+      82
+     ],
+     "words": 6149
+    },
+    {
+     "id": "c11-bot-04",
+     "bookId": "c11-bot",
+     "order": 4,
+     "title": "Reproductive Morphology",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      83,
+      103
+     ],
+     "words": 6923
+    },
+    {
+     "id": "c11-bot-05",
+     "bookId": "c11-bot",
+     "order": 5,
+     "title": "Taxonomy and Systematic Botany",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      104,
+      147
+     ],
+     "words": 13558
+    },
+    {
+     "id": "c11-bot-06",
+     "bookId": "c11-bot",
+     "order": 6,
+     "title": "Cell: The Unit of Life",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      148,
+      169
+     ],
+     "words": 7806
+    },
+    {
+     "id": "c11-bot-07",
+     "bookId": "c11-bot",
+     "order": 7,
+     "title": "Cell Cycle",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      170,
+      179
+     ],
+     "words": 3037
+    },
+    {
+     "id": "c11-bot-08",
+     "bookId": "c11-bot",
+     "order": 8,
+     "title": "Biomolecules",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      180,
+      197
+     ],
+     "words": 5156
+    },
+    {
+     "id": "c11-bot-09",
+     "bookId": "c11-bot",
+     "order": 9,
+     "title": "Tissue and Tissue System",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      198,
+      221
+     ],
+     "words": 8884
+    },
+    {
+     "id": "c11-bot-10",
+     "bookId": "c11-bot",
+     "order": 10,
+     "title": "Secondary Growth",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      222,
+      236
+     ],
+     "words": 4652
+    },
+    {
+     "id": "c11-bot-11",
+     "bookId": "c11-bot",
+     "order": 11,
+     "title": "Transport in Plants",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      237,
+      262
+     ],
+     "words": 11226
+    },
+    {
+     "id": "c11-bot-12",
+     "bookId": "c11-bot",
+     "order": 12,
+     "title": "Mineral Nutrition",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      263,
+      274
+     ],
+     "words": 4168
+    },
+    {
+     "id": "c11-bot-13",
+     "bookId": "c11-bot",
+     "order": 13,
+     "title": "Photosynthesis",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      275,
+      294
+     ],
+     "words": 8305
+    },
+    {
+     "id": "c11-bot-14",
+     "bookId": "c11-bot",
+     "order": 14,
+     "title": "Respiration",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      295,
+      309
+     ],
+     "words": 5703
+    },
+    {
+     "id": "c11-bot-15",
+     "bookId": "c11-bot",
+     "order": 15,
+     "title": "Plant Growth and Development",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      310,
+      376
+     ],
+     "words": 14900
+    }
+   ]
+  },
+  {
+   "id": "c11-zoo",
+   "std": 11,
+   "title": "Zoology",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c11-zoo-01",
+     "bookId": "c11-zoo",
+     "order": 1,
+     "title": "The Living World",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      1,
+      21
+     ],
+     "words": 6214
+    },
+    {
+     "id": "c11-zoo-02",
+     "bookId": "c11-zoo",
+     "order": 2,
+     "title": "Kingdom Animalia",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      22,
+      44
+     ],
+     "words": 6941
+    },
+    {
+     "id": "c11-zoo-03",
+     "bookId": "c11-zoo",
+     "order": 3,
+     "title": "Tissue Level of Organisation",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      45,
+      54
+     ],
+     "words": 3060
+    },
+    {
+     "id": "c11-zoo-04",
+     "bookId": "c11-zoo",
+     "order": 4,
+     "title": "Organ and Organ Systems in Animals",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      55,
+      80
+     ],
+     "words": 5209
+    },
+    {
+     "id": "c11-zoo-05",
+     "bookId": "c11-zoo",
+     "order": 5,
+     "title": "Digestion and Absorption",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      81,
+      101
+     ],
+     "words": 3919
+    },
+    {
+     "id": "c11-zoo-06",
+     "bookId": "c11-zoo",
+     "order": 6,
+     "title": "Respiration",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      102,
+      119
+     ],
+     "words": 4660
+    },
+    {
+     "id": "c11-zoo-07",
+     "bookId": "c11-zoo",
+     "order": 7,
+     "title": "Body Fluids and Circulation",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      120,
+      143
+     ],
+     "words": 5019
+    },
+    {
+     "id": "c11-zoo-08",
+     "bookId": "c11-zoo",
+     "order": 8,
+     "title": "Excretion",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      144,
+      162
+     ],
+     "words": 5624
+    },
+    {
+     "id": "c11-zoo-09",
+     "bookId": "c11-zoo",
+     "order": 9,
+     "title": "Locomotion and Movement",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      163,
+      183
+     ],
+     "words": 3213
+    },
+    {
+     "id": "c11-zoo-10",
+     "bookId": "c11-zoo",
+     "order": 10,
+     "title": "Neural Control and Coordination",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      184,
+      210
+     ],
+     "words": 8289
+    },
+    {
+     "id": "c11-zoo-11",
+     "bookId": "c11-zoo",
+     "order": 11,
+     "title": "Chemical Coordination and Integration",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      211,
+      229
+     ],
+     "words": 5338
+    },
+    {
+     "id": "c11-zoo-12",
+     "bookId": "c11-zoo",
+     "order": 12,
+     "title": "Basic Medical Instruments and Techniques",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      230,
+      244
+     ],
+     "words": 4075
+    },
+    {
+     "id": "c11-zoo-13",
+     "bookId": "c11-zoo",
+     "order": 13,
+     "title": "Trends in Economic Zoology",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      245,
+      271
+     ],
+     "words": 10443
+    }
+   ]
+  },
+  {
+   "id": "c12-eco",
+   "std": 12,
+   "title": "Economics",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c12-eco-01",
+     "bookId": "c12-eco",
+     "order": 1,
+     "title": "Introduction to Macro Economics",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      7,
+      24
+     ],
+     "words": 3968
+    },
+    {
+     "id": "c12-eco-02",
+     "bookId": "c12-eco",
+     "order": 2,
+     "title": "National Income",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      25,
+      42
+     ],
+     "words": 4542
+    },
+    {
+     "id": "c12-eco-03",
+     "bookId": "c12-eco",
+     "order": 3,
+     "title": "Theories of Employment and Income",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      43,
+      57
+     ],
+     "words": 3504
+    },
+    {
+     "id": "c12-eco-04",
+     "bookId": "c12-eco",
+     "order": 4,
+     "title": "Consumption and Investment Functions",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      58,
+      81
+     ],
+     "words": 6164
+    },
+    {
+     "id": "c12-eco-05",
+     "bookId": "c12-eco",
+     "order": 5,
+     "title": "Monetary Economics",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      82,
+      100
+     ],
+     "words": 5017
+    },
+    {
+     "id": "c12-eco-06",
+     "bookId": "c12-eco",
+     "order": 6,
+     "title": "Banking",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      101,
+      130
+     ],
+     "words": 9205
+    },
+    {
+     "id": "c12-eco-07",
+     "bookId": "c12-eco",
+     "order": 7,
+     "title": "International Economics",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      131,
+      159
+     ],
+     "words": 7479
+    },
+    {
+     "id": "c12-eco-08",
+     "bookId": "c12-eco",
+     "order": 8,
+     "title": "International Economic Organisations",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      160,
+      181
+     ],
+     "words": 5617
+    },
+    {
+     "id": "c12-eco-09",
+     "bookId": "c12-eco",
+     "order": 9,
+     "title": "Fiscal Economics",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      182,
+      217
+     ],
+     "words": 10065
+    },
+    {
+     "id": "c12-eco-10",
+     "bookId": "c12-eco",
+     "order": 10,
+     "title": "Environmental Economics",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      218,
+      242
+     ],
+     "words": 5876
+    },
+    {
+     "id": "c12-eco-11",
+     "bookId": "c12-eco",
+     "order": 11,
+     "title": "Economics of Development and Planning",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      243,
+      262
+     ],
+     "words": 5372
+    },
+    {
+     "id": "c12-eco-12",
+     "bookId": "c12-eco",
+     "order": 12,
+     "title": "Introduction to Statistical Methods and Econometrics",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      263,
+      288
+     ],
+     "words": 7027
+    }
+   ]
+  },
+  {
+   "id": "c12-phy1",
+   "std": 12,
+   "title": "Physics Vol 1",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c12-phy1-01",
+     "bookId": "c12-phy1",
+     "order": 1,
+     "title": "Electrostatics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      9,
+      87
+     ],
+     "words": 25777
+    },
+    {
+     "id": "c12-phy1-02",
+     "bookId": "c12-phy1",
+     "order": 2,
+     "title": "Current Electricity",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      88,
+      132
+     ],
+     "words": 12992
+    },
+    {
+     "id": "c12-phy1-03",
+     "bookId": "c12-phy1",
+     "order": 3,
+     "title": "Magnetism and Magnetic Effects of Electric Current",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      133,
+      202
+     ],
+     "words": 22741
+    },
+    {
+     "id": "c12-phy1-04",
+     "bookId": "c12-phy1",
+     "order": 4,
+     "title": "Electromagnetic Induction and Alternating Current",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      203,
+      273
+     ],
+     "words": 22596
+    },
+    {
+     "id": "c12-phy1-05",
+     "bookId": "c12-phy1",
+     "order": 5,
+     "title": "Electromagnetic Waves",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      274,
+      293
+     ],
+     "words": 5701
+    }
+   ]
+  },
+  {
+   "id": "c12-phy2",
+   "std": 12,
+   "title": "Physics Vol 2",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c12-phy2-01",
+     "bookId": "c12-phy2",
+     "order": 1,
+     "title": "Ray Optics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      9,
+      60
+     ],
+     "words": 17298
+    },
+    {
+     "id": "c12-phy2-02",
+     "bookId": "c12-phy2",
+     "order": 2,
+     "title": "Dual Nature of Radiation and Matter",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      116,
+      148
+     ],
+     "words": 10236
+    },
+    {
+     "id": "c12-phy2-03",
+     "bookId": "c12-phy2",
+     "order": 3,
+     "title": "Atomic and Nuclear Physics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      149,
+      202
+     ],
+     "words": 19289
+    },
+    {
+     "id": "c12-phy2-04",
+     "bookId": "c12-phy2",
+     "order": 4,
+     "title": "Electronics and Communication",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      203,
+      241
+     ],
+     "words": 14967
+    },
+    {
+     "id": "c12-phy2-05",
+     "bookId": "c12-phy2",
+     "order": 5,
+     "title": "Electronics and Communication (Part 2)",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      242,
+      260
+     ],
+     "words": 3999
+    },
+    {
+     "id": "c12-phy2-06",
+     "bookId": "c12-phy2",
+     "order": 6,
+     "title": "Recent Developments in Physics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      261,
+      292
+     ],
+     "words": 4762
+    }
+   ]
+  },
+  {
+   "id": "c12-chem1",
+   "std": 12,
+   "title": "Chemistry Vol 1",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c12-chem1-01",
+     "bookId": "c12-chem1",
+     "order": 1,
+     "title": "Metallurgy",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      11,
+      35
+     ],
+     "words": 6069
+    },
+    {
+     "id": "c12-chem1-02",
+     "bookId": "c12-chem1",
+     "order": 2,
+     "title": "p-Block Elements I",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      36,
+      65
+     ],
+     "words": 7779
+    },
+    {
+     "id": "c12-chem1-03",
+     "bookId": "c12-chem1",
+     "order": 3,
+     "title": "p-Block Elements II",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      66,
+      109
+     ],
+     "words": 11151
+    },
+    {
+     "id": "c12-chem1-04",
+     "bookId": "c12-chem1",
+     "order": 4,
+     "title": "Transition and Inner Transition Elements",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      110,
+      139
+     ],
+     "words": 8467
+    },
+    {
+     "id": "c12-chem1-05",
+     "bookId": "c12-chem1",
+     "order": 5,
+     "title": "Coordination Chemistry",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      140,
+      185
+     ],
+     "words": 10516
+    },
+    {
+     "id": "c12-chem1-06",
+     "bookId": "c12-chem1",
+     "order": 6,
+     "title": "Solid State",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      186,
+      213
+     ],
+     "words": 5704
+    },
+    {
+     "id": "c12-chem1-07",
+     "bookId": "c12-chem1",
+     "order": 7,
+     "title": "Chemical Kinetics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      214,
+      243
+     ],
+     "words": 9385
+    }
+   ]
+  },
+  {
+   "id": "c12-bot",
+   "std": 12,
+   "title": "Botany",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c12-bot-01",
+     "bookId": "c12-bot",
+     "order": 1,
+     "title": "Asexual and Sexual Reproduction in Plants",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      11,
+      42
+     ],
+     "words": 12083
+    },
+    {
+     "id": "c12-bot-02",
+     "bookId": "c12-bot",
+     "order": 2,
+     "title": "Classical Genetics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      43,
+      61
+     ],
+     "words": 6455
+    },
+    {
+     "id": "c12-bot-03",
+     "bookId": "c12-bot",
+     "order": 3,
+     "title": "Chromosomal Basis of Inheritance",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      62,
+      91
+     ],
+     "words": 10571
+    },
+    {
+     "id": "c12-bot-04",
+     "bookId": "c12-bot",
+     "order": 4,
+     "title": "Principles and Processes of Biotechnology",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      92,
+      119
+     ],
+     "words": 9852
+    },
+    {
+     "id": "c12-bot-05",
+     "bookId": "c12-bot",
+     "order": 5,
+     "title": "Plant Tissue Culture",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      120,
+      132
+     ],
+     "words": 3744
+    },
+    {
+     "id": "c12-bot-06",
+     "bookId": "c12-bot",
+     "order": 6,
+     "title": "Principles of Ecology",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      133,
+      158
+     ],
+     "words": 8326
+    },
+    {
+     "id": "c12-bot-07",
+     "bookId": "c12-bot",
+     "order": 7,
+     "title": "Ecosystem",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      159,
+      187
+     ],
+     "words": 10632
+    },
+    {
+     "id": "c12-bot-08",
+     "bookId": "c12-bot",
+     "order": 8,
+     "title": "Environmental Issues",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      188,
+      208
+     ],
+     "words": 8017
+    },
+    {
+     "id": "c12-bot-09",
+     "bookId": "c12-bot",
+     "order": 9,
+     "title": "Plant Breeding",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      209,
+      225
+     ],
+     "words": 5808
+    },
+    {
+     "id": "c12-bot-10",
+     "bookId": "c12-bot",
+     "order": 10,
+     "title": "Economically Useful Plants and Entrepreneurial Botany",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      226,
+      287
+     ],
+     "words": 13828
+    }
+   ]
+  },
+  {
+   "id": "c12-zoo",
+   "std": 12,
+   "title": "Zoology",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c12-zoo-01",
+     "bookId": "c12-zoo",
+     "order": 1,
+     "title": "Reproduction in Organisms",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      9,
+      18
+     ],
+     "words": 2699
+    },
+    {
+     "id": "c12-zoo-02",
+     "bookId": "c12-zoo",
+     "order": 2,
+     "title": "Human Reproduction",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      19,
+      39
+     ],
+     "words": 5700
+    },
+    {
+     "id": "c12-zoo-03",
+     "bookId": "c12-zoo",
+     "order": 3,
+     "title": "Reproductive Health",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      40,
+      52
+     ],
+     "words": 4392
+    },
+    {
+     "id": "c12-zoo-04",
+     "bookId": "c12-zoo",
+     "order": 4,
+     "title": "Principles of Inheritance and Variation",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      53,
+      68
+     ],
+     "words": 5770
+    },
+    {
+     "id": "c12-zoo-05",
+     "bookId": "c12-zoo",
+     "order": 5,
+     "title": "Molecular Genetics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      69,
+      99
+     ],
+     "words": 9794
+    },
+    {
+     "id": "c12-zoo-06",
+     "bookId": "c12-zoo",
+     "order": 6,
+     "title": "Evolution",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      100,
+      119
+     ],
+     "words": 7755
+    },
+    {
+     "id": "c12-zoo-07",
+     "bookId": "c12-zoo",
+     "order": 7,
+     "title": "Human Health and Diseases",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      120,
+      136
+     ],
+     "words": 5168
+    },
+    {
+     "id": "c12-zoo-08",
+     "bookId": "c12-zoo",
+     "order": 8,
+     "title": "Immunology",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      137,
+      155
+     ],
+     "words": 5950
+    },
+    {
+     "id": "c12-zoo-09",
+     "bookId": "c12-zoo",
+     "order": 9,
+     "title": "Microbes in Human Welfare",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      156,
+      164
+     ],
+     "words": 3078
+    },
+    {
+     "id": "c12-zoo-10",
+     "bookId": "c12-zoo",
+     "order": 10,
+     "title": "Applications of Biotechnology",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      165,
+      183
+     ],
+     "words": 7269
+    },
+    {
+     "id": "c12-zoo-11",
+     "bookId": "c12-zoo",
+     "order": 11,
+     "title": "Organisms and Populations",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      184,
+      204
+     ],
+     "words": 3807
+    },
+    {
+     "id": "c12-zoo-12",
+     "bookId": "c12-zoo",
+     "order": 12,
+     "title": "Biodiversity and its Conservation",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      205,
+      226
+     ],
+     "words": 8443
+    },
+    {
+     "id": "c12-zoo-13",
+     "bookId": "c12-zoo",
+     "order": 13,
+     "title": "Environmental Issues",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      227,
+      243
+     ],
+     "words": 6091
+    }
+   ]
   }
  ]
 }

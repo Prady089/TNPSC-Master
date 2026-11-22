@@ -20,3 +20,6 @@ __pycache__/
 
 # Original logo contains the State Emblem of India - do not commit
 TNPSC Master Shield Emblem.png
+
+# Textbook PDFs (large; downloaded from the TN govt textbook site)
+books/
