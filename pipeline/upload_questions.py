@@ -7,7 +7,7 @@ overwritten (so approvals and edits are kept).
 Needs env (read from app/.env.local): SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY  (service key: keep it secret,
 never put it in the app's VITE_* variables).
 
-  python pipeline/upload_questions.py [--books c12-pol,c11-pol]
+  python pipeline/upload_questions.py [--books c12-pol,c11-pol] [--approve]
 """
 from __future__ import annotations
 
@@ -30,6 +30,7 @@ def main():
     load_env()
     ap = argparse.ArgumentParser()
     ap.add_argument("--books")
+    ap.add_argument("--approve", action="store_true", help="upload as approved (live for students) instead of draft")
     args = ap.parse_args()
     url = os.environ["SUPABASE_URL"].rstrip("/") + "/rest/v1/questions?on_conflict=id"
     key = os.environ["SUPABASE_SERVICE_ROLE_KEY"]
@@ -43,6 +44,8 @@ def main():
         rows = json.loads(f.read_text(encoding="utf-8"))
         if not rows:
             continue
+        if args.approve:
+            rows = [{**r, "status": "approved"} for r in rows]
         req = urllib.request.Request(
             url,
             data=json.dumps(rows).encode(),
@@ -59,7 +62,7 @@ def main():
                 raise SystemExit(f"{f.name}: HTTP {resp.status}")
         total += len(rows)
         print(f"  {f.stem}: {len(rows)}")
-    print(f"Uploaded {total} draft questions.")
+    print(f"Uploaded {total} {'approved' if args.approve else 'draft'} questions.")
 
 
 if __name__ == "__main__":
