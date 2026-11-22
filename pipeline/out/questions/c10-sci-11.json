@@ -1,0 +1,794 @@
+[
+ {
+  "id": "538602ce-5552-560c-9625-95cd8492a970",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Approximately how many compounds of carbon are known, according to the chapter?",
+  "options": [
+   "More than 5 lakh",
+   "More than 5 million",
+   "More than 50,000",
+   "More than 50 million"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states there are more than 5 million compounds of carbon.",
+  "source_page": 163,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "98fffd95-08d3-557a-a3f0-b5cc0af234e8",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Which properties of carbon enable it to form a very large number of compounds?",
+  "options": [
+   "Radioactivity and metallic bonding",
+   "Low atomic mass and high density",
+   "High electronegativity and ionic bonding",
+   "Catenation, tetravalency and multiple bonding"
+  ],
+  "answer_index": 3,
+  "explanation": "Catenation, tetravalency and multiple bonding allow carbon to combine with itself and other elements.",
+  "source_page": 163,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0836a2bc-befc-5d10-985c-7ec7e309890b",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Which of the following is NOT a general characteristic of organic compounds?",
+  "options": [
+   "They have higher melting points than inorganic compounds",
+   "They are mostly insoluble in water",
+   "They are highly inflammable",
+   "They exhibit isomerism"
+  ],
+  "answer_index": 0,
+  "explanation": "Organic compounds have lower melting and boiling points than inorganic compounds.",
+  "source_page": 164,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "86bebed6-5dbe-5213-9f89-2c6bfb8486a8",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "The phenomenon in which a single molecular formula represents several compounds with different properties is called:",
+  "options": [
+   "Allotropy",
+   "Isomerism",
+   "Polymerism",
+   "Catenation"
+  ],
+  "answer_index": 1,
+  "explanation": "Isomerism: a single molecular formula represents several organic compounds differing in properties.",
+  "source_page": 164,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "07d07d4c-7e1c-534f-be1e-2539ebdbb5d4",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Furan and pyridine are examples of:",
+  "options": [
+   "Heterocyclic compounds",
+   "Alicyclic compounds",
+   "Aromatic compounds",
+   "Open-chain compounds"
+  ],
+  "answer_index": 0,
+  "explanation": "Heterocyclic compounds have rings containing carbon and other atoms such as oxygen or nitrogen.",
+  "source_page": 165,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d465ae75-6e12-54f0-aafb-020d99f97c34",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Match the compound with its class: A. Cyclobutane  B. Benzene  C. Furan  D. Propene with 1. Heterocyclic  2. Aromatic  3. Unsaturated open chain  4. Alicyclic",
+  "options": [
+   "A-3, B-2, C-1, D-4",
+   "A-4, B-1, C-2, D-3",
+   "A-2, B-4, C-1, D-3",
+   "A-4, B-2, C-1, D-3"
+  ],
+  "answer_index": 3,
+  "explanation": "Cyclobutane is alicyclic, benzene aromatic, furan heterocyclic and propene an unsaturated acyclic compound.",
+  "source_page": 164,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "838f9ca2-ddf1-55b8-ac56-283848f79338",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "The general formula of alkynes is:",
+  "options": [
+   "CnH2n-2",
+   "CnH2n",
+   "CnH2n+2",
+   "CnHn"
+  ],
+  "answer_index": 0,
+  "explanation": "Alkanes are CnH2n+2, alkenes CnH2n and alkynes CnH2n-2.",
+  "source_page": 165,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "361b7fe7-e438-5f15-97ad-a91b497dba8c",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "An open-chain compound has the formula C3H6. It belongs to which class?",
+  "options": [
+   "Alkene",
+   "Alcohol",
+   "Alkane",
+   "Alkyne"
+  ],
+  "answer_index": 0,
+  "explanation": "C3H6 fits CnH2n (n = 3), the general formula of alkenes.",
+  "source_page": 165,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cb7833aa-b71f-5940-934e-ddec691917d0",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "The simplest alkyne is:",
+  "options": [
+   "Acetylene",
+   "Propyne",
+   "Ethylene",
+   "Methane"
+  ],
+  "answer_index": 0,
+  "explanation": "Acetylene (C2H2) is the simplest alkyne.",
+  "source_page": 165,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5fa4d99a-ee69-570a-9ba7-702a20c16b36",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Which hydrocarbons are the most reactive?",
+  "options": [
+   "Alkynes",
+   "Alkanes",
+   "All are equally reactive",
+   "Alkenes"
+  ],
+  "answer_index": 0,
+  "explanation": "Alkynes are the most reactive due to the triple bond; alkanes are least reactive.",
+  "source_page": 166,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "be218316-980e-5306-87fe-d53f24fa941c",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Bromine water is used to identify:",
+  "options": [
+   "Saturated compounds, which decolourise it",
+   "Carboxylic acids",
+   "Unsaturated compounds, which decolourise it",
+   "Alcohols"
+  ],
+  "answer_index": 2,
+  "explanation": "Unsaturated compounds decolourise bromine water; saturated ones do not.",
+  "source_page": 166,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0af1fd75-45e2-53f4-ab0d-e402ca534dc4",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "The chemical properties of an organic compound depend mainly on its:",
+  "options": [
+   "Physical state",
+   "Functional group",
+   "Carbon skeleton",
+   "Molecular mass"
+  ],
+  "answer_index": 1,
+  "explanation": "Chemical properties depend on the functional group; physical properties on the rest of the structure.",
+  "source_page": 166,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "db45d73f-f226-526c-b84f-8b39becbb393",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Match the class with its functional group formula: A. Aldehyde  B. Ketone  C. Ester  D. Ether with 1. R-O-R  2. R-COOR  3. R-CO-R  4. R-CHO",
+  "options": [
+   "A-4, B-3, C-2, D-1",
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-2, C-3, D-1",
+   "A-2, B-3, C-4, D-1"
+  ],
+  "answer_index": 0,
+  "explanation": "Table 11.2: aldehyde R-CHO, ketone R-CO-R, ester R-COOR, ether R-O-R.",
+  "source_page": 166,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "953b9700-c639-54fb-8421-eb8b83600923",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Successive members of a homologous series differ by:",
+  "options": [
+   "–C2H4 group, 28 amu",
+   "–OH group, 17 amu",
+   "–CH2 group, 14 amu",
+   "–CH3 group, 15 amu"
+  ],
+  "answer_index": 2,
+  "explanation": "Each member differs from the next by one methylene group (–CH2), i.e. 14 amu.",
+  "source_page": 167,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "82bbb7f4-8ca3-5e43-b35e-681ec3ea02af",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Which pair can be successive members of a homologous series?",
+  "options": [
+   "CH4 and C3H6",
+   "C2H2 and C2H4",
+   "C2H5OH and C4H8OH",
+   "C3H8 and C4H10"
+  ],
+  "answer_index": 3,
+  "explanation": "C3H8 and C4H10 are both alkanes differing by one CH2.",
+  "source_page": 167,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9e8c4a56-98e0-541c-9816-9ac6b87f2ff1",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "The name 'formic acid' comes from:",
+  "options": [
+   "The Greek word for 'form'",
+   "The Latin name of the red ant, Formica",
+   "The scientist Formica",
+   "Formaldehyde"
+  ],
+  "answer_index": 1,
+  "explanation": "Formic acid was first obtained by distilling red ants, whose Latin name is Formica.",
+  "source_page": 168,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "22b4775d-e782-5edf-bd7a-d6ee46ec6e09",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "In an IUPAC name, the carbon skeleton is described by the:",
+  "options": [
+   "Primary suffix",
+   "Prefix",
+   "Root word",
+   "Secondary suffix"
+  ],
+  "answer_index": 2,
+  "explanation": "The root word gives the number and arrangement of carbon atoms in the parent chain.",
+  "source_page": 168,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dc50af51-715a-5912-9745-051273432d72",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "The secondary suffix used in the IUPAC name of an aldehyde is:",
+  "options": [
+   "-al",
+   "-ol",
+   "-one",
+   "-oic acid"
+  ],
+  "answer_index": 0,
+  "explanation": "Table 11.5: alcohol -ol, aldehyde -al, ketone -one, carboxylic acid -oic acid.",
+  "source_page": 169,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "79e8e3ae-2eb3-5588-af14-2c2b7a3d690b",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "The IUPAC name of CH3-CH2-CH2-OH is:",
+  "options": [
+   "Propan-1-ol",
+   "1-Propanone",
+   "Propanal",
+   "Propanol-3"
+  ],
+  "answer_index": 0,
+  "explanation": "Prop + ane + 1-ol, with the terminal 'e' of 'ane' removed, gives propan-1-ol.",
+  "source_page": 170,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0738dfb9-438e-5d5e-9eed-1ce07fb15f50",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "The IUPAC name of CH3COOH is:",
+  "options": [
+   "Propanoic acid",
+   "Ethanoic acid",
+   "Methanoic acid",
+   "Ethanal"
+  ],
+  "answer_index": 1,
+  "explanation": "Two carbons (eth) + ane + oic acid = ethanoic acid.",
+  "source_page": 170,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "332c775e-29c7-56d2-bc76-037fbbebbe03",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Industrially, ethanol is manufactured by the fermentation of:",
+  "options": [
+   "Coal tar",
+   "Grapes",
+   "Molasses",
+   "Starch from rice"
+  ],
+  "answer_index": 2,
+  "explanation": "Ethanol is made by fermenting molasses, a by-product of sugar manufacture from sugarcane.",
+  "source_page": 171,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "48853715-67fa-535e-996e-7726443a75aa",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Which enzymes in yeast convert sucrose into ethanol?",
+  "options": [
+   "Invertase and zymase",
+   "Amylase and lipase",
+   "Maltase and lactase",
+   "Pepsin and trypsin"
+  ],
+  "answer_index": 0,
+  "explanation": "Invertase converts sucrose to glucose and fructose; zymase converts them into ethanol and CO2.",
+  "source_page": 171,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "12419ef9-c22c-5983-bd63-3700a98564c1",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Rectified spirit contains about:",
+  "options": [
+   "100 % ethanol",
+   "95.5 % ethanol and 4.5 % water",
+   "95 % ethanol and 5 % methanol",
+   "75.5 % ethanol"
+  ],
+  "answer_index": 1,
+  "explanation": "Fractional distillation of wash gives rectified spirit with 95.5 % ethanol and 4.5 % water.",
+  "source_page": 171,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b3d6968e-d4ee-5906-b4b5-0a6b6b849109",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Absolute alcohol (100 % ethanol) is obtained from rectified spirit by:",
+  "options": [
+   "Adding yeast",
+   "Adding sulphuric acid",
+   "Refluxing over quicklime and distilling",
+   "Freezing"
+  ],
+  "answer_index": 2,
+  "explanation": "Rectified spirit is refluxed over quicklime for 5-6 hours, left 12 hours, then distilled.",
+  "source_page": 171,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a911c41b-427f-59dd-abdc-0f3033f7db09",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "The fermented liquid obtained from molasses is technically called:",
+  "options": [
+   "Must",
+   "Wort",
+   "Wash",
+   "Mash"
+  ],
+  "answer_index": 2,
+  "explanation": "The fermented liquid, containing 15-18 % alcohol, is technically called wash.",
+  "source_page": 171,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5a28bc2f-8703-5466-83a3-f0184ca8b442",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "When ethanol is heated with concentrated H2SO4 at 443 K, it forms:",
+  "options": [
+   "Ethanoic acid",
+   "Ethene",
+   "Acetaldehyde",
+   "Ethane"
+  ],
+  "answer_index": 1,
+  "explanation": "Concentrated H2SO4 dehydrates ethanol to ethene.",
+  "source_page": 172,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b2ffd20e-13a9-54ad-938f-a689ffbd645d",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Oxidation of ethanol by acidified potassium dichromate is used to identify alcohols because:",
+  "options": [
+   "It forms a white precipitate",
+   "It produces a gas",
+   "It turns blue",
+   "The orange colour of K2Cr2O7 changes to green"
+  ],
+  "answer_index": 3,
+  "explanation": "Ethanol is oxidised to ethanoic acid and the orange dichromate turns green.",
+  "source_page": 172,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ae4a2639-fec9-5b49-aa33-cca7d4ac48d5",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Ethanol vapour passed over heated copper at 573 K gives:",
+  "options": [
+   "Methane",
+   "Ethyl ethanoate",
+   "Ethene",
+   "Acetaldehyde"
+  ],
+  "answer_index": 3,
+  "explanation": "Copper catalyses dehydrogenation of ethanol to acetaldehyde.",
+  "source_page": 172,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "02614ffb-c7f8-5a24-9cb0-f120157b2316",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Methylated spirit is a mixture of:",
+  "options": [
+   "Ethanol and pyridine",
+   "95.5 % ethanol and 4.5 % water",
+   "95 % ethanol and 5 % methanol",
+   "Petrol and ethanol"
+  ],
+  "answer_index": 2,
+  "explanation": "Methylated spirit is 95 % ethanol and 5 % methanol; power alcohol is petrol + ethanol; denatured spirit is ethanol + pyridine.",
+  "source_page": 173,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a30f7632-3ac8-5116-8afd-ae374a0b73f4",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Pure ethanoic acid is called 'glacial acetic acid' because:",
+  "options": [
+   "It is very cold",
+   "It is colourless",
+   "On cooling it freezes into ice-like flakes resembling glaciers",
+   "It is found in glaciers"
+  ],
+  "answer_index": 2,
+  "explanation": "On cooling, pure ethanoic acid forms ice-like flakes that look like glaciers.",
+  "source_page": 173,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "caecd09d-1a2f-540f-853d-8c348e47a045",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Ethanoic acid reacts with sodium bicarbonate to produce brisk effervescence of:",
+  "options": [
+   "Methane",
+   "Carbon dioxide",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "answer_index": 1,
+  "explanation": "CH3COOH + NaHCO3 → CH3COONa + CO2 + H2O.",
+  "source_page": 173,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f94d58eb-21f3-509e-afe9-b87a8b346c09",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Heating sodium ethanoate with soda lime produces:",
+  "options": [
+   "Ethanol",
+   "Ethane",
+   "Ethene",
+   "Methane"
+  ],
+  "answer_index": 3,
+  "explanation": "Decarboxylation with soda lime (3 parts NaOH : 1 part CaO) gives methane and sodium carbonate.",
+  "source_page": 173,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "82448290-3f45-55a7-b112-c782f0bebca8",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Which of the following is a use of ethanoic acid mentioned in the chapter?",
+  "options": [
+   "Anti-freeze in radiators",
+   "Coagulating rubber from latex",
+   "Fuel in LPG",
+   "Anaesthetic"
+  ],
+  "answer_index": 1,
+  "explanation": "Ethanoic acid is used for coagulating rubber from latex, making plastics, dyes and pharmaceuticals.",
+  "source_page": 174,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "30e8ebea-c204-590e-b61b-269d6a1fc8e2",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Which class of organic compounds is used as anaesthetic agents?",
+  "options": [
+   "Carboxylic acids",
+   "Aldehydes",
+   "Ethers",
+   "Esters"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists ethers as anaesthetic agents and pain killers.",
+  "source_page": 174,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "098387a7-7d74-54d6-8a8f-5059cfe6a406",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Soaps prepared by saponification of oils with caustic soda are called:",
+  "options": [
+   "Detergents",
+   "Liquid soaps",
+   "Soft soaps, used for bathing",
+   "Hard soaps, usually used for washing"
+  ],
+  "answer_index": 3,
+  "explanation": "Hard soaps use NaOH and are used for washing; soft soaps use potassium salts and are used for the body.",
+  "source_page": 174,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3a434c70-fbc1-5eb1-99d3-30fdbbdc3039",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "In the kettle process, soap is precipitated by adding common salt. This step is called:",
+  "options": [
+   "Esterification",
+   "Saponification",
+   "Salting out",
+   "Hydrolysis"
+  ],
+  "answer_index": 2,
+  "explanation": "After saponification, common salt is added and soap rises as a curdy mass: salting out.",
+  "source_page": 174,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "146de261-a411-57d4-a6b6-eef8746b39a4",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Ordinary soap is not suitable for use with hard water because:",
+  "options": [
+   "It produces too much foam",
+   "Ca2+ and Mg2+ ions precipitate it as sticky grey scum",
+   "It becomes acidic",
+   "It dissolves too fast"
+  ],
+  "answer_index": 1,
+  "explanation": "Hard water's calcium and magnesium ions precipitate soap as scum.",
+  "source_page": 174,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2faa95d5-f404-57b0-b975-de17026e0f01",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Which ingredient is added to detergent powder to prevent caking?",
+  "options": [
+   "Sodium silicate",
+   "Sodium sulphate",
+   "Sodium perborate",
+   "Enzymes"
+  ],
+  "answer_index": 1,
+  "explanation": "Sodium sulphate prevents caking; sodium silicate prevents corrosion; sodium perborate is an oxygen bleach.",
+  "source_page": 175,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b62b57e9-33f4-54c4-951f-f3a0c691d2e2",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "In a soap molecule, the hydrophobic part is:",
+  "options": [
+   "The long hydrocarbon tail",
+   "The carboxylate head (–COONa)",
+   "The sodium ion",
+   "The water molecule"
+  ],
+  "answer_index": 0,
+  "explanation": "The polar carboxylate head is hydrophilic; the long non-polar hydrocarbon tail is hydrophobic and attracts dirt.",
+  "source_page": 175,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "53335c11-eee9-5417-9968-bd3b950760a2",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Clusters of soap molecules that surround dirt in water are called:",
+  "options": [
+   "Emulsions",
+   "Polymers",
+   "Colloids",
+   "Micelles"
+  ],
+  "answer_index": 3,
+  "explanation": "When soap dissolves in water, the molecules join together as clusters called micelles.",
+  "source_page": 176,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e175c676-297e-5d36-874c-22e68f86991b",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Biodegradable detergents have:",
+  "options": [
+   "Highly branched hydrocarbon chains",
+   "No hydrocarbon chain",
+   "Benzene rings only",
+   "Straight hydrocarbon chains"
+  ],
+  "answer_index": 3,
+  "explanation": "Straight chains can be degraded by bacteria; highly branched chains cannot.",
+  "source_page": 176,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6b54181a-d25a-5d30-b6b2-810d3501bb6d",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "Assertion (A): Detergents are more effective cleansing agents than soaps in hard water. Reason (R): Detergents do not form precipitates with Ca2+ and Mg2+ ions.",
+  "options": [
+   "Both A and R are true and R explains A",
+   "Both A and R are true but R does not explain A",
+   "A is true but R is false",
+   "A is false but R is true"
+  ],
+  "answer_index": 0,
+  "explanation": "Detergents do not precipitate with hard-water ions, so they clean better than soap in hard water.",
+  "source_page": 175,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "93d9bbac-4f37-52b9-b087-eb3800326bdb",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "The ionic part of a detergent molecule is:",
+  "options": [
+   "–OH",
+   "–COO–Na+",
+   "–NH2",
+   "–SO3–Na+"
+  ],
+  "answer_index": 3,
+  "explanation": "Soap's ionic part is –COO–Na+; a detergent's is –SO3–Na+ (sodium salts of sulphonic acids).",
+  "source_page": 177,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "56f9c18e-f9e8-57ad-b16a-936dda33e3a7",
+  "chapter_id": "c10-sci-11",
+  "unit_code": "GS1",
+  "question": "TFM, used to assess the quality of soap, stands for:",
+  "options": [
+   "Thermal Foam Measure",
+   "Total Filler Mass",
+   "Total Free Minerals",
+   "Total Fatty Matter"
+  ],
+  "answer_index": 3,
+  "explanation": "TFM means Total Fatty Matter; a soap with higher TFM is a good bathing soap.",
+  "source_page": 177,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

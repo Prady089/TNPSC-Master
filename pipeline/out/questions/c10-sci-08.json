@@ -1,0 +1,920 @@
+[
+ {
+  "id": "bb7f0971-7a32-5409-bbf1-aa1fd180437f",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "By 1860, approximately how many elements had been discovered?",
+  "options": [
+   "92",
+   "60",
+   "40",
+   "118"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that by 1860 scientists had discovered 60 elements and determined their atomic masses.",
+  "source_page": 114,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b253d634-b8ec-5d7a-95ef-a49b4160e8cb",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Which discrepancy in Mendeleev's periodic table is cited in the chapter?",
+  "options": [
+   "Argon, heavier than potassium, placed before potassium",
+   "Noble gases had no place",
+   "Hydrogen placed with alkali metals",
+   "Lanthanides placed separately"
+  ],
+  "answer_index": 0,
+  "explanation": "Argon (39.95 amu) has a greater atomic mass than potassium (39.10 amu) but comes before it.",
+  "source_page": 115,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ffda3249-c126-5ba5-95bf-2cfc85e93b66",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Who discovered atomic number in 1912, providing the basis for the modern periodic table?",
+  "options": [
+   "Lothar Meyer",
+   "Henry Moseley",
+   "Dmitri Mendeleev",
+   "John Newlands"
+  ],
+  "answer_index": 1,
+  "explanation": "Henry Moseley, a British scientist, discovered atomic number in 1912.",
+  "source_page": 115,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9a4071eb-2bbd-58b9-acc6-cc7bdab7d3bc",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "The modern periodic law states that the properties of elements are periodic functions of their:",
+  "options": [
+   "Atomic masses",
+   "Atomic numbers",
+   "Isotopic masses",
+   "Number of neutrons"
+  ],
+  "answer_index": 1,
+  "explanation": "The modern periodic law: physical and chemical properties of elements are periodic functions of their atomic numbers.",
+  "source_page": 115,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8f483558-8d07-5761-b039-c7bd0677b644",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "The number of periods and groups in the modern periodic table respectively are:",
+  "options": [
+   "7 and 18",
+   "7 and 17",
+   "8 and 18",
+   "6 and 16"
+  ],
+  "answer_index": 0,
+  "explanation": "There are seven periods (horizontal rows) and 18 groups (vertical columns).",
+  "source_page": 115,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "799adc44-c28d-5cff-bd0c-a049b10c0756",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Which is the shortest period of the periodic table?",
+  "options": [
+   "Seventh period",
+   "Second period",
+   "First period",
+   "Third period"
+  ],
+  "answer_index": 2,
+  "explanation": "The first period, with only hydrogen and helium, is the shortest.",
+  "source_page": 115,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9288abd9-5767-5ac4-baf2-7502e1569cb7",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "The sixth period of the periodic table contains:",
+  "options": [
+   "18 elements, Potassium to Krypton",
+   "32 elements, Caesium to Radon",
+   "8 elements, Sodium to Argon",
+   "18 elements, Rubidium to Xenon"
+  ],
+  "answer_index": 1,
+  "explanation": "The sixth period is the longest, with 32 elements from caesium to radon, including 14 lanthanides.",
+  "source_page": 115,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2b7838c1-eecf-53cc-b6ff-1eb4bc3e084f",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "The fourth period contains 18 elements made up of:",
+  "options": [
+   "18 transition elements",
+   "10 representative and 8 transition elements",
+   "8 representative and 10 transition elements",
+   "8 representative, 10 transition and 14 inner transition elements"
+  ],
+  "answer_index": 2,
+  "explanation": "The fourth period (potassium to krypton) has 8 representative and 10 transition elements.",
+  "source_page": 115,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cc1f670e-c016-5a4a-827f-8fadeb4ffe61",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Inner transition elements (Lanthanides and Actinides) form part of which group?",
+  "options": [
+   "Group 3",
+   "Group 13",
+   "Group 18",
+   "Group 1"
+  ],
+  "answer_index": 0,
+  "explanation": "The Lanthanides and Actinides, which form part of Group 3, are called inner transition elements.",
+  "source_page": 117,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "79e2f38e-c9e9-5907-897c-fa9a38ad3970",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Group 16 elements are also known as the:",
+  "options": [
+   "Halogen family",
+   "Pnictogen family",
+   "Chalcogen family",
+   "Boron family"
+  ],
+  "answer_index": 2,
+  "explanation": "The table lists the oxygen family as also called the chalcogen family.",
+  "source_page": 117,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "33be1173-9e41-5cf3-94e8-998fe8b0d7a2",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Why are group 18 elements unreactive?",
+  "options": [
+   "They have high atomic mass",
+   "They have one valence electron",
+   "They are all solids",
+   "Their atoms have stable electronic configuration in their valence shells"
+  ],
+  "answer_index": 3,
+  "explanation": "The atoms of group 18 elements have stable valence-shell configurations and hence are unreactive.",
+  "source_page": 117,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "84513cd9-8a23-529c-94f1-499487a98772",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "The covalent radius of hydrogen, given an internuclear distance of 0.74 Å in H2, is:",
+  "options": [
+   "0.37 Å",
+   "0.18 Å",
+   "1.48 Å",
+   "0.74 Å"
+  ],
+  "answer_index": 0,
+  "explanation": "Covalent radius is half the distance between adjacent nuclei: 0.74/2 = 0.37 Å.",
+  "source_page": 117,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "471183fb-79d6-5d9d-908f-3a1dca93ba98",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Which statement about atomic radius is correct?",
+  "options": [
+   "It increases along a period and decreases down a group",
+   "It remains constant along a period",
+   "It increases both along a period and down a group",
+   "It decreases along a period and increases down a group"
+  ],
+  "answer_index": 3,
+  "explanation": "Along a period nuclear charge increases and the cloud shrinks; down a group the shell number increases.",
+  "source_page": 118,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2fd3092b-daea-510f-83f6-6745975f5bc5",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Among A, A+ and A-, which species is the smallest?",
+  "options": [
+   "A-",
+   "All are equal",
+   "A+",
+   "A"
+  ],
+  "answer_index": 2,
+  "explanation": "A cation is always smaller than its neutral atom, and an anion is larger than its neutral atom.",
+  "source_page": 118,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "22d3c83d-2a63-52ee-b5b6-84a1d664fbd2",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Ionisation energy is otherwise called:",
+  "options": [
+   "Ionisation enthalpy",
+   "Electronegativity",
+   "Lattice energy",
+   "Electron affinity"
+  ],
+  "answer_index": 0,
+  "explanation": "Ionisation energy, measured in kJ/mol, is otherwise called ionisation enthalpy.",
+  "source_page": 118,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "09b38407-d20f-5d94-ae02-b286ad1b3caa",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Why do noble gases have zero electron affinity?",
+  "options": [
+   "They are radioactive",
+   "They have no electrons",
+   "They have very large atomic radius",
+   "Their outer s and p orbitals are completely filled"
+  ],
+  "answer_index": 3,
+  "explanation": "Noble gases show no tendency to accept electrons because their outer s and p orbitals are completely filled.",
+  "source_page": 119,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0035f21f-0afb-5099-b941-0695f4f87d30",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Which is the widely used scale for electronegativity?",
+  "options": [
+   "Pauling scale",
+   "Kelvin scale",
+   "Richter scale",
+   "Mohs scale"
+  ],
+  "answer_index": 0,
+  "explanation": "The Pauling scale is the widely used scale to determine electronegativity.",
+  "source_page": 119,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a1991eb1-60c9-57bf-ac90-5284b8a1ff92",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "According to the values in the chapter, which element has the highest electronegativity?",
+  "options": [
+   "Fluorine (4.0)",
+   "Chlorine (3.0)",
+   "Hydrogen (2.1)",
+   "Bromine (2.8)"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter lists F = 4.0, Cl = 3.0, Br = 2.8, I = 2.5, H = 2.1, Na = 1.",
+  "source_page": 119,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "eddf41d2-ba8b-5f27-aa73-38d882754703",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Assertion (A): The bond in the HF molecule is ionic. Reason (R): The electronegativity difference between H and F is 1.9.",
+  "options": [
+   "Both A and R are true and R explains A",
+   "Both A and R are true but R does not explain A",
+   "A is true but R is false",
+   "A is false but R is true"
+  ],
+  "answer_index": 0,
+  "explanation": "F = 4.0 and H = 2.1 give a difference of 1.9; a difference greater than 1.7 makes the bond more ionic.",
+  "source_page": 119,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9a8ca0af-34e3-5043-8022-7b5cf7bd6593",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Consider the trends: 1. Ionisation energy decreases down a group. 2. Electron affinity decreases along a period. 3. Electronegativity increases along a period. Which are correct?",
+  "options": [
+   "1 and 2 only",
+   "1 and 3 only",
+   "2 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 1,
+  "explanation": "Electron affinity increases (not decreases) along a period; the other two statements are correct.",
+  "source_page": 120,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "26a48dce-5a16-5eff-9a71-b3b6f72f2d3f",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Which statement is correct about ores and minerals?",
+  "options": [
+   "Clay is the ore of aluminium",
+   "All ores are minerals, but all minerals are not ores",
+   "All minerals are ores",
+   "Ores and minerals are the same"
+  ],
+  "answer_index": 1,
+  "explanation": "An ore is a mineral from which the metal is readily and economically extracted; aluminium is profitably extracted only from bauxite, not clay.",
+  "source_page": 120,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ba700a62-c665-5114-8151-36c13251d0b5",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "The rocky impurity associated with an ore is called:",
+  "options": [
+   "Flux",
+   "Matte",
+   "Slag",
+   "Gangue or matrix"
+  ],
+  "answer_index": 3,
+  "explanation": "The rocky impurity associated with an ore is called gangue or matrix.",
+  "source_page": 120,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "86482293-926c-5321-af53-e1245f04cc9a",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "If the gangue is acidic, which type of flux is added?",
+  "options": [
+   "Basic flux such as calcium oxide",
+   "Neutral flux",
+   "Acidic flux such as silica",
+   "No flux is needed"
+  ],
+  "answer_index": 0,
+  "explanation": "If the gangue is acidic, a basic flux (e.g. calcium oxide) is added, and vice versa.",
+  "source_page": 120,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "93e99e15-55ae-5c54-9843-ed26d982bfe0",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Match the concentration method with an ore: A. Gravity separation  B. Magnetic separation  C. Froth floatation  D. Leaching with 1. Tinstone  2. Zinc blende  3. Haematite  4. Bauxite",
+  "options": [
+   "A-4, B-1, C-2, D-3",
+   "A-3, B-2, C-1, D-4",
+   "A-1, B-3, C-4, D-2",
+   "A-3, B-1, C-2, D-4"
+  ],
+  "answer_index": 3,
+  "explanation": "Haematite by gravity separation, tinstone (SnO2) by magnetic separation, zinc blende by froth floatation, bauxite by leaching.",
+  "source_page": 120,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "193034a3-522d-5277-ba91-37288dd1ed2d",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Froth floatation depends on the preferential wettability of the ore with:",
+  "options": [
+   "Sulphuric acid",
+   "Pine oil",
+   "Caustic soda",
+   "Kerosene"
+  ],
+  "answer_index": 1,
+  "explanation": "The ore is wetted by pine oil and the gangue by water; sulphide ores are concentrated this way.",
+  "source_page": 120,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "17dedd4f-9106-5545-b39c-ac3760403660",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Cryolite (Na3AlF6) and fluorspar (CaF2) belong to which type of ore?",
+  "options": [
+   "Halide ores",
+   "Sulphide ores",
+   "Carbonate ores",
+   "Oxide ores"
+  ],
+  "answer_index": 0,
+  "explanation": "Table 8.1 lists cryolite, fluorspar and rock salt as halide ores.",
+  "source_page": 121,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f62ab226-e5f4-5287-b76b-9e8d921bf7f4",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Less reactive metals such as silver and mercury are obtained from their oxides by:",
+  "options": [
+   "Thermal decomposition",
+   "Chemical reduction using coke",
+   "Electrolytic reduction",
+   "Froth floatation"
+  ],
+  "answer_index": 0,
+  "explanation": "More reactive metals: electrolytic reduction; medium: reduction with coke; less reactive (Ag, Hg): thermal decomposition.",
+  "source_page": 122,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c122c87f-e5b9-54c7-89c6-7231ce84ed3b",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "In Tamil Nadu, titanium minerals occur mainly in:",
+  "options": [
+   "Salem and Coimbatore",
+   "Kanyakumari, Tirunelveli and Tuticorin",
+   "Tiruchi and Cuddalore",
+   "Madurai and Dindigul"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter (citing ENVIS Centre, Tamil Nadu) lists titanium minerals in Kanyakumari, Tirunelveli and Tuticorin.",
+  "source_page": 122,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "30edc3c8-31c1-58a1-abb9-6639a7fe9e6c",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Match the minerals with their Tamil Nadu locations: A. Gypsum  B. Chromite  C. Tungsten  D. Magnetite with 1. Madurai and Dindigul  2. Tiruchi and Coimbatore  3. Dharmapuri, Erode, Salem, Thiruvannamalai  4. Coimbatore and Salem",
+  "options": [
+   "A-4, B-2, C-3, D-1",
+   "A-1, B-4, C-2, D-3",
+   "A-2, B-4, C-1, D-3",
+   "A-2, B-1, C-4, D-3"
+  ],
+  "answer_index": 2,
+  "explanation": "Gypsum: Tiruchi, Coimbatore; chromite: Coimbatore, Salem; tungsten: Madurai, Dindigul; magnetite: Dharmapuri, Erode, Salem, Thiruvannamalai.",
+  "source_page": 122,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "667b7d14-7aea-590b-a09a-e956ad7b99bd",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Which metals are exceptions to the rule that metals are solids at room temperature?",
+  "options": [
+   "Mercury and gallium",
+   "Zinc and mercury",
+   "Sodium and potassium",
+   "Tungsten and silver"
+  ],
+  "answer_index": 0,
+  "explanation": "All metals are solids at room temperature except mercury and gallium.",
+  "source_page": 122,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a8206fc1-4070-55c8-bd80-9d5e2c5893c0",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Which is the most abundant metal in the Earth's crust?",
+  "options": [
+   "Aluminium",
+   "Iron",
+   "Calcium",
+   "Copper"
+  ],
+  "answer_index": 0,
+  "explanation": "Aluminium is the metal found most abundantly in the Earth's crust; iron is second.",
+  "source_page": 123,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4417bbdf-cd6e-5236-865a-8c7cad298e7d",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "The conversion of bauxite into alumina is known as:",
+  "options": [
+   "Hall's process",
+   "Bessemer process",
+   "Baeyer's process",
+   "Aluminothermic process"
+  ],
+  "answer_index": 2,
+  "explanation": "Conversion of bauxite into alumina is Baeyer's process; electrolytic reduction of alumina is Hall's process.",
+  "source_page": 123,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cadf40c9-d16a-5b82-b242-5eb6fa3327be",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "In Hall's process, why is fluorspar added to the electrolyte?",
+  "options": [
+   "To increase conductivity of the anode",
+   "To remove oxygen",
+   "To lower the fusion temperature of the electrolyte",
+   "To act as the cathode"
+  ],
+  "answer_index": 2,
+  "explanation": "The electrolyte is pure alumina, molten cryolite and fluorspar; fluorspar lowers the fusion temperature.",
+  "source_page": 123,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2536237c-1e51-51c9-8e22-48211d6d0724",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "What is the melting point of aluminium given in the chapter?",
+  "options": [
+   "660 °C",
+   "1000 °C",
+   "1500 °C",
+   "1356 °C"
+  ],
+  "answer_index": 0,
+  "explanation": "Physical properties of aluminium include a melting point of 660 °C and low density (2.7).",
+  "source_page": 123,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0dc039ee-7eb9-5b68-8565-4ee80f52dfd6",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Which acid renders aluminium passive due to formation of an oxide film?",
+  "options": [
+   "Acetic acid",
+   "Dilute sulphuric acid",
+   "Hydrochloric acid",
+   "Nitric acid (dilute or concentrated)"
+  ],
+  "answer_index": 3,
+  "explanation": "Dilute or concentrated nitric acid does not attack aluminium but renders it passive by forming an oxide film.",
+  "source_page": 123,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b73c6850-7925-55bf-aea8-9f6f1fe21955",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "In the aluminothermic process, aluminium acts as a:",
+  "options": [
+   "Catalyst",
+   "Reducing agent",
+   "Flux",
+   "Oxidising agent"
+  ],
+  "answer_index": 1,
+  "explanation": "Aluminium is a powerful reducing agent; ignited with iron oxide it reduces it to iron.",
+  "source_page": 123,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c7257e83-a0d3-59a7-b38d-14547f3da1cf",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Copper was named 'cuprum' by the Romans because they obtained it from:",
+  "options": [
+   "Carthage",
+   "Cyprus",
+   "Sicily",
+   "Crete"
+  ],
+  "answer_index": 1,
+  "explanation": "It was named cuprum by the Romans because they got it from the island of Cyprus.",
+  "source_page": 124,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2754f946-64d5-5bea-9599-0a77d50c24a1",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "What share of world copper production comes from copper pyrites?",
+  "options": [
+   "About 50 %",
+   "Nearly 76 %",
+   "About 90 %",
+   "About 25 %"
+  ],
+  "answer_index": 1,
+  "explanation": "Copper pyrite, the chief ore of copper, yields nearly 76 % of world copper production.",
+  "source_page": 124,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "42375917-b034-5789-a47d-a50526d428d9",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Arrange the steps in extracting copper from copper pyrites in order:",
+  "options": [
+   "Roasting, concentration, smelting, Bessemerisation, refining",
+   "Concentration, smelting, roasting, refining, Bessemerisation",
+   "Concentration, roasting, smelting, Bessemerisation, refining",
+   "Smelting, concentration, roasting, Bessemerisation, refining"
+  ],
+  "answer_index": 2,
+  "explanation": "The ore is concentrated by froth floatation, roasted, smelted to matte, Bessemerised to blister copper, then refined.",
+  "source_page": 124,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1408dcff-d8d8-5431-acbb-51f2742d1fbb",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "In the electrolytic refining of copper, the impurities settle at the bottom of the anode as:",
+  "options": [
+   "Anode mud",
+   "Slag",
+   "Matte",
+   "Blister"
+  ],
+  "answer_index": 0,
+  "explanation": "Pure copper deposits at the cathode; impurities settle below the anode as sludge called anode mud.",
+  "source_page": 125,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e8c92c3b-ea9c-564d-b9d2-0c9af1fd0528",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "The green layer formed on a copper vessel exposed to moist air is:",
+  "options": [
+   "Copper sulphate",
+   "Copper oxide",
+   "Copper chloride",
+   "Basic copper carbonate"
+  ],
+  "answer_index": 3,
+  "explanation": "Copper gets covered with a green layer of basic copper carbonate (CuCO3.Cu(OH)2) in the presence of CO2 and moisture.",
+  "source_page": 125,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0abed854-5370-571e-a629-e53ca5282feb",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "In the blast furnace for iron, the ratio of roasted ore, coke and limestone in the charge is:",
+  "options": [
+   "4:8:1",
+   "8:1:4",
+   "1:4:8",
+   "8:4:1"
+  ],
+  "answer_index": 3,
+  "explanation": "The charge of roasted ore, coke and limestone in the ratio 8:4:1 is smelted in the blast furnace.",
+  "source_page": 125,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a326833c-3b47-5ab5-a0d4-9207fd33c083",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "In the blast furnace, the reduction zone (upper region) is at about:",
+  "options": [
+   "400 °C",
+   "2000 °C",
+   "1500 °C",
+   "1000 °C"
+  ],
+  "answer_index": 0,
+  "explanation": "The upper region (reduction zone) is at 400 °C, the middle (fusion) zone at 1000 °C and the lower (combustion) zone at 1500 °C.",
+  "source_page": 126,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "22c58823-8b87-5f30-834c-b39ae1f95a48",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Match the type of iron with its carbon content: A. Pig iron  B. Steel  C. Wrought iron with 1. Less than 0.25 %  2. 0.25 % to 2.0 %  3. 2.0 % to 4.5 %",
+  "options": [
+   "A-3, B-2, C-1",
+   "A-2, B-3, C-1",
+   "A-3, B-1, C-2",
+   "A-1, B-2, C-3"
+  ],
+  "answer_index": 0,
+  "explanation": "Pig iron has 2.0-4.5 % carbon, steel 0.25-2.0 %, and wrought iron less than 0.25 %.",
+  "source_page": 127,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "86fccfde-b922-520a-933f-efd43296b9db",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Which alloy is used for dental filling?",
+  "options": [
+   "Wood metal",
+   "Duralumin",
+   "Brass",
+   "Silver-tin amalgam"
+  ],
+  "answer_index": 3,
+  "explanation": "An amalgam is an alloy of mercury; silver-tin amalgam is used for dental filling.",
+  "source_page": 127,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8b587f0e-9dee-5d20-a82d-7fac8948af56",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Bronze is an alloy of:",
+  "options": [
+   "Copper and zinc",
+   "Copper and tin",
+   "Iron and nickel",
+   "Aluminium and magnesium"
+  ],
+  "answer_index": 1,
+  "explanation": "Bronze (Cu, Sn) is used for statues, coins, bells and gongs; brass is Cu and Zn.",
+  "source_page": 127,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3619ccf0-9824-5532-b160-58ec6e6e335f",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Duralumin, used in aircraft and pressure cookers, is an alloy based on:",
+  "options": [
+   "Lead",
+   "Iron",
+   "Copper",
+   "Aluminium"
+  ],
+  "answer_index": 3,
+  "explanation": "Duralumin (Al, Mg, Mn, Cu) is a non-ferrous aluminium alloy.",
+  "source_page": 127,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a9887ce5-e793-520c-9219-7966f717dd80",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Galvanization is the process of coating iron sheets with:",
+  "options": [
+   "Zinc",
+   "Nickel",
+   "Tin",
+   "Chromium"
+  ],
+  "answer_index": 0,
+  "explanation": "Galvanization is coating zinc on iron sheets by using electric current.",
+  "source_page": 128,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d83bc1ec-1db5-5bab-8a65-89eef50b3e82",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Which metal is widely used for the anodizing process?",
+  "options": [
+   "Iron",
+   "Copper",
+   "Zinc",
+   "Aluminium"
+  ],
+  "answer_index": 3,
+  "explanation": "Anodizing makes the metal surface decorative, durable and corrosion resistant; aluminium is widely used.",
+  "source_page": 128,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bf58744f-40ae-5ac1-8141-4f5904f47124",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "Dry (chemical) corrosion is caused mostly by which gas, the most reactive among those listed?",
+  "options": [
+   "N2",
+   "H2S",
+   "O2",
+   "SO2"
+  ],
+  "answer_index": 2,
+  "explanation": "Of the gases O2, N2, SO2, H2S, oxygen is the most reactive in causing chemical attack.",
+  "source_page": 128,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2cc9daf0-b933-5ef4-8aee-d726b8c58dd4",
+  "chapter_id": "c10-sci-08",
+  "unit_code": "GS1",
+  "question": "The Pamban Bridge, which connects Rameswaram on Pamban Island to mainland India, was opened in:",
+  "options": [
+   "2010",
+   "1854",
+   "1947",
+   "1914"
+  ],
+  "answer_index": 3,
+  "explanation": "Opened in 1914, it was India's first sea bridge until the Bandra-Worli Sea Link opened in 2010.",
+  "source_page": 128,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

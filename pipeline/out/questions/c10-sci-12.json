@@ -1,0 +1,758 @@
+[
+ {
+  "id": "10202f80-9533-5a17-9640-9af25ce54a1b",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Who is known as the Father of Plant Anatomy?",
+  "options": [
+   "Julius Sachs",
+   "Robert Hooke",
+   "Robert Brown",
+   "Nehemiah Grew"
+  ],
+  "answer_index": 3,
+  "explanation": "The English physician Nehemiah Grew published the first account of the internal structure of plants.",
+  "source_page": 181,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4a5e3829-6346-534c-a6f5-3a3d1ccc643c",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Who classified the tissue system in plants into three types, and when?",
+  "options": [
+   "Sachs, 1875",
+   "Hill, 1939",
+   "Grew, 1682",
+   "Calvin, 1961"
+  ],
+  "answer_index": 0,
+  "explanation": "Sachs (1875) classified tissue systems into dermal, ground and vascular.",
+  "source_page": 181,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0d9579c1-f042-5886-9864-6696881b2907",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Which of the following is NOT part of the ground tissue system?",
+  "options": [
+   "Epidermis",
+   "Endodermis",
+   "Pith",
+   "Cortex"
+  ],
+  "answer_index": 0,
+  "explanation": "Ground tissue includes all tissues except epidermal and vascular ones: cortex, endodermis, pericycle and pith.",
+  "source_page": 182,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "760db1d9-4082-56a6-b48e-294127b946ac",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Xylem and phloem lying on the same radius form a:",
+  "options": [
+   "Concentric bundle",
+   "Amphivasal bundle",
+   "Radial bundle",
+   "Conjoint bundle"
+  ],
+  "answer_index": 3,
+  "explanation": "In conjoint bundles xylem and phloem lie on the same radius.",
+  "source_page": 182,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a8e2b09d-7aa3-5ead-848a-69ea94b3e8f2",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "A collateral bundle with cambium is called open. It is found in:",
+  "options": [
+   "Ferns",
+   "Dicot stem",
+   "Roots",
+   "Monocot stem"
+  ],
+  "answer_index": 1,
+  "explanation": "Open collateral bundles (with cambium) occur in dicot stems; closed ones (without cambium) in monocot stems.",
+  "source_page": 182,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "130862e8-1fd3-55bb-bdb2-6427bc69feae",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "A bicollateral vascular bundle, with phloem on both sides of xylem, is found in:",
+  "options": [
+   "Fern",
+   "Cucurbita",
+   "Dracaena",
+   "Maize"
+  ],
+  "answer_index": 1,
+  "explanation": "Cucurbita is the example given of a bicollateral bundle.",
+  "source_page": 182,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a2f59090-4108-5e34-aef5-19ee0e12f0fa",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Match the bundle type with the example: A. Amphivasal  B. Amphicribral  C. Radial with 1. Roots  2. Ferns  3. Dracaena",
+  "options": [
+   "A-1, B-2, C-3",
+   "A-2, B-3, C-1",
+   "A-3, B-1, C-2",
+   "A-3, B-2, C-1"
+  ],
+  "answer_index": 3,
+  "explanation": "Amphivasal (xylem surrounds phloem) in Dracaena, amphicribral (phloem surrounds xylem) in ferns, radial in roots.",
+  "source_page": 182,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0b576c48-2cee-5d06-9849-73f87b34e372",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "The endarch condition of xylem is characteristic of:",
+  "options": [
+   "Stem",
+   "Root",
+   "Leaf",
+   "Flower"
+  ],
+  "answer_index": 0,
+  "explanation": "Endarch (protoxylem towards the centre) is found in stems; exarch in roots.",
+  "source_page": 182,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e5c8268d-f648-559c-a178-f49a797a87e7",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "The outermost layer of a dicot root, which bears unicellular root hairs, is called:",
+  "options": [
+   "Epidermis with cuticle",
+   "Epiblema (rhizodermis or piliferous layer)",
+   "Pericycle",
+   "Hypodermis"
+  ],
+  "answer_index": 1,
+  "explanation": "The epiblema lacks cuticle and stomata and bears root hairs; it is also called rhizodermis or piliferous layer.",
+  "source_page": 183,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c0ed1079-f626-5e54-8906-30f7fa2aba68",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Casparian strips are present in the ______ of the root.",
+  "options": [
+   "Pericycle",
+   "Endodermis",
+   "Cortex",
+   "Pith"
+  ],
+  "answer_index": 1,
+  "explanation": "The endodermis cells have band-like thickenings on radial and inner tangential walls called casparian strips.",
+  "source_page": 183,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5939e5e2-7ad4-5118-80de-d39c2f7f2bc3",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Endodermal cells opposite the protoxylem that lack casparian strips are called:",
+  "options": [
+   "Guard cells",
+   "Passage cells",
+   "Bulliform cells",
+   "Companion cells"
+  ],
+  "answer_index": 1,
+  "explanation": "These thin-walled passage cells help move water and salts from cortex into xylem.",
+  "source_page": 183,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b29f51b2-28cd-5bd5-8b75-efa710dfd2b7",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Lateral roots originate from the:",
+  "options": [
+   "Endodermis",
+   "Pericycle",
+   "Epiblema",
+   "Cortex"
+  ],
+  "answer_index": 1,
+  "explanation": "The pericycle, a single layer inner to the endodermis, is the site of origin of lateral roots.",
+  "source_page": 183,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0d9913ef-365b-5a82-8fe5-c418d9a7b068",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Casparian strips are made of:",
+  "options": [
+   "Cutin",
+   "Cellulose",
+   "Lignin",
+   "Suberin"
+  ],
+  "answer_index": 3,
+  "explanation": "Casparian strips are band-like thickenings made of suberin.",
+  "source_page": 184,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "20b30ea4-d434-54f5-9594-3ba0f2e338be",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Which is a correct difference between dicot and monocot roots?",
+  "options": [
+   "Dicot root is polyarch; monocot root is tetrarch",
+   "Dicot root has a large pith when old",
+   "Monocot root shows secondary growth",
+   "Dicot root has parenchymatous conjunctive tissue; monocot root has sclerenchymatous"
+  ],
+  "answer_index": 3,
+  "explanation": "Table 12.2: dicot root is tetrarch with parenchymatous conjunctive tissue; monocot root is polyarch with sclerenchymatous conjunctive tissue.",
+  "source_page": 185,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "462613cc-2b50-5408-99ba-737a4cfa3620",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "The hypodermis of a dicot stem (sunflower) is made of:",
+  "options": [
+   "Sclerenchyma",
+   "Chlorenchyma",
+   "Collenchyma",
+   "Parenchyma"
+  ],
+  "answer_index": 2,
+  "explanation": "The hypodermis has 3-6 layers of collenchyma for mechanical support; the monocot stem hypodermis is sclerenchymatous.",
+  "source_page": 184,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2c8204c1-c8b3-5117-95e5-81f25536699a",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Why is the endodermis of a dicot stem called the starch sheath?",
+  "options": [
+   "It surrounds the pith",
+   "It is made of sclerenchyma",
+   "It produces starch by photosynthesis",
+   "Its cells contain starch grains"
+  ],
+  "answer_index": 3,
+  "explanation": "The barrel-shaped endodermal cells contain starch grains, hence 'starch sheath'.",
+  "source_page": 185,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "189e7293-8ec3-5355-9e24-d78773b4aecc",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Vascular bundles of the dicot stem are:",
+  "options": [
+   "Conjoint, collateral, endarch and open, arranged in a ring",
+   "Radial and exarch",
+   "Scattered and closed",
+   "Concentric and amphivasal"
+  ],
+  "answer_index": 0,
+  "explanation": "In the sunflower stem, bundles are conjoint, collateral, endarch and open, in a ring around the pith.",
+  "source_page": 185,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "335b5a77-9cca-5b63-a36c-a908e4edf0e5",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "In the monocot stem (maize), vascular bundles are:",
+  "options": [
+   "Arranged in a ring and open",
+   "Bicollateral",
+   "Radial",
+   "Skull shaped, scattered and closed"
+  ],
+  "answer_index": 3,
+  "explanation": "Bundles are skull shaped and scattered in the ground tissue; they are conjoint, collateral, endarch and closed.",
+  "source_page": 186,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "760838a4-0fa9-5fcb-8b20-e282f521eafb",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "The cavity formed by disintegration of the lowermost protoxylem in a mature monocot stem bundle is the:",
+  "options": [
+   "Protoxylem lacuna",
+   "Pith cavity",
+   "Air chamber",
+   "Bundle cap"
+  ],
+  "answer_index": 0,
+  "explanation": "The lowermost protoxylem disintegrates to form a cavity called the protoxylem lacuna.",
+  "source_page": 186,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b4befb66-4b04-53b3-a2df-9aea39c1c8c3",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Which statement about the monocot stem is correct?",
+  "options": [
+   "Ground tissue is differentiated into cortex, endodermis and pith",
+   "Secondary growth is mostly absent",
+   "Bundle sheath is absent",
+   "Medullary rays are present"
+  ],
+  "answer_index": 1,
+  "explanation": "Table 12.3: monocot stem has undifferentiated ground tissue, no medullary rays, a bundle sheath and mostly no secondary growth.",
+  "source_page": 186,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "71dca36b-415f-56ef-a4e3-34c1cc5240e8",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "In a dicot (dorsiventral) leaf, palisade parenchyma is found:",
+  "options": [
+   "Around the vascular bundle",
+   "Just below the upper epidermis",
+   "In the mid-rib only",
+   "Just below the lower epidermis"
+  ],
+  "answer_index": 1,
+  "explanation": "Palisade cells, elongated and rich in chloroplasts, lie just below the upper epidermis.",
+  "source_page": 186,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ecb81830-2159-5a1a-aa1d-52d96fe50342",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "In the dicot leaf, chloroplasts in the lower epidermis are present only in:",
+  "options": [
+   "Guard cells",
+   "Bulliform cells",
+   "All epidermal cells",
+   "Trichomes"
+  ],
+  "answer_index": 0,
+  "explanation": "The lower epidermis has numerous stomata; chloroplasts are present only in guard cells.",
+  "source_page": 186,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b88b7e47-4db0-5653-ab10-83e0db468cd9",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Large, thin-walled cells in the upper epidermis of a grass leaf are called:",
+  "options": [
+   "Bulliform cells",
+   "Passage cells",
+   "Subsidiary cells",
+   "Guard cells"
+  ],
+  "answer_index": 0,
+  "explanation": "Some cells of the upper epidermis of the monocot leaf are large and thin walled: bulliform cells.",
+  "source_page": 187,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "34314ed7-537c-59f1-b290-d86f87d015a6",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "A monocot leaf is described as:",
+  "options": [
+   "Isobilateral, with palisade on both sides",
+   "Dorsiventral, with differentiated mesophyll",
+   "Isobilateral, with undifferentiated mesophyll",
+   "Dorsiventral, with stomata only on the lower side"
+  ],
+  "answer_index": 2,
+  "explanation": "Monocot leaves are isobilateral; mesophyll is not differentiated into palisade and spongy parenchyma.",
+  "source_page": 188,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "db9d3dbb-df00-557a-b953-81586b8b8cbe",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Colourless plastids are called:",
+  "options": [
+   "Chromoplasts",
+   "Amyloplasts",
+   "Chloroplasts",
+   "Leucoplasts"
+  ],
+  "answer_index": 3,
+  "explanation": "Chloroplasts are green, chromoplasts yellow/red/orange and leucoplasts colourless.",
+  "source_page": 188,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ac64a723-0cee-5880-b937-88d7ea9edb99",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "The stroma of the chloroplast contains:",
+  "options": [
+   "80S ribosomes only",
+   "DNA, 70S ribosomes and molecules for protein synthesis",
+   "Only chlorophyll",
+   "Mitochondria"
+  ],
+  "answer_index": 1,
+  "explanation": "The stroma (matrix) contains DNA, 70S ribosomes and other molecules for protein synthesis.",
+  "source_page": 188,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "41c549d5-e80c-59ff-b21b-d73db62c7ed7",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Stacks of disc-like thylakoids in the chloroplast are called:",
+  "options": [
+   "Cristae",
+   "Grana",
+   "Oxysomes",
+   "Stroma lamellae"
+  ],
+  "answer_index": 1,
+  "explanation": "Thylakoids stacked one above the other form a granum (plural grana), interconnected by stroma lamellae.",
+  "source_page": 188,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b9ed9547-90ad-5eea-be06-e84f5289f615",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Which pigment acts as the reaction centre in photosynthesis?",
+  "options": [
+   "Chlorophyll b",
+   "Carotenoids",
+   "Chlorophyll a",
+   "Xanthophyll"
+  ],
+  "answer_index": 2,
+  "explanation": "Chlorophyll a is the primary pigment; chlorophyll b and carotenoids are accessory pigments.",
+  "source_page": 189,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "247772a4-9a54-5fa4-aaaa-abef63080b48",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "The light-dependent reaction of photosynthesis was discovered by:",
+  "options": [
+   "Jan Ingenhousz",
+   "C.N.R. Rao",
+   "Robin Hill",
+   "Melvin Calvin"
+  ],
+  "answer_index": 2,
+  "explanation": "The Hill reaction (light reaction) was discovered by Robin Hill in 1939.",
+  "source_page": 189,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "28e2ab48-2690-56e2-9ffb-138a33cd9102",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Where do the light and dark reactions of photosynthesis take place?",
+  "options": [
+   "Both in the stroma",
+   "Light reaction in grana (thylakoids), dark reaction in stroma",
+   "Light reaction in stroma, dark reaction in grana",
+   "Both in the cytoplasm"
+  ],
+  "answer_index": 1,
+  "explanation": "The light reaction occurs in the thylakoid membranes (grana); the Calvin cycle in the stroma.",
+  "source_page": 189,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9bcaa95a-1c3b-5b06-9118-7c3e06a980c5",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "The products of the light reaction used in the Calvin cycle are:",
+  "options": [
+   "Pyruvic acid",
+   "Glucose and oxygen",
+   "CO2 and water",
+   "ATP and NADPH2"
+  ],
+  "answer_index": 3,
+  "explanation": "The light reaction produces ATP and NADPH2, which reduce CO2 to carbohydrate in the Calvin cycle.",
+  "source_page": 189,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b3d1b2b2-825a-5ad6-8535-e8ba95b8ad6c",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Melvin Calvin, who discovered the chemical pathway of photosynthesis, received the Nobel Prize in:",
+  "options": [
+   "1952",
+   "1939",
+   "1961",
+   "1975"
+  ],
+  "answer_index": 2,
+  "explanation": "Melvin Calvin, an American biochemist, was awarded the Nobel Prize in 1961.",
+  "source_page": 190,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a592371b-f05e-51c5-9131-affaf663c66c",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Which Indian scientist, conferred the Bharat Ratna in 2013, works on artificial photosynthesis to produce hydrogen fuel?",
+  "options": [
+   "M.S. Swaminathan",
+   "C.V. Raman",
+   "A.P.J. Abdul Kalam",
+   "C.N.R. Rao"
+  ],
+  "answer_index": 3,
+  "explanation": "C.N.R. Rao, Bharat Ratna 2013, works on artificial photosynthesis for hydrogen fuel.",
+  "source_page": 190,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "75d7195a-caee-5901-80f0-698dfc0591a1",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Mitochondria were first discovered by Kolliker in 1857 in:",
+  "options": [
+   "Nerve cells",
+   "Bacteria",
+   "Plant leaves",
+   "Striated muscles"
+  ],
+  "answer_index": 3,
+  "explanation": "Kolliker discovered them in 1857 as granular structures in striated muscles.",
+  "source_page": 190,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9ad2ad16-dc0b-526d-a57d-8c6881819313",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Why are mitochondria called the 'power house of the cell'?",
+  "options": [
+   "They produce ATP, the energy currency of the cell",
+   "They store starch",
+   "They contain chlorophyll",
+   "They control cell division"
+  ],
+  "answer_index": 0,
+  "explanation": "Mitochondria produce ATP, which forms the energy currency of the cell.",
+  "source_page": 190,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "74c1d573-98cc-5711-a74e-1686e485f195",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Tennis-racket-shaped particles on the inner mitochondrial membrane that synthesise ATP are:",
+  "options": [
+   "Cristae",
+   "Porins",
+   "Oxysomes (F1 particles)",
+   "Ribosomes"
+  ],
+  "answer_index": 2,
+  "explanation": "Oxysomes (F1 particles) on the inner membrane are involved in ATP synthesis.",
+  "source_page": 190,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d89c5d0b-1e7a-500a-8b22-9becdf908cf2",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Arrange the stages of aerobic respiration in order:",
+  "options": [
+   "Krebs cycle, glycolysis, electron transport chain",
+   "Electron transport chain, glycolysis, Krebs cycle",
+   "Glycolysis, Krebs cycle, electron transport chain",
+   "Glycolysis, electron transport chain, Krebs cycle"
+  ],
+  "answer_index": 2,
+  "explanation": "Glucose is split in glycolysis, pyruvate is oxidised in the Krebs cycle, and energy is captured in the ETC.",
+  "source_page": 191,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8b3e618f-d1c9-5d22-b512-97b6c3f5f7ad",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Match the stage with its location: A. Glycolysis  B. Krebs cycle  C. Electron transport chain with 1. Inner mitochondrial membrane  2. Mitochondrial matrix  3. Cytoplasm",
+  "options": [
+   "A-2, B-3, C-1",
+   "A-3, B-2, C-1",
+   "A-1, B-2, C-3",
+   "A-3, B-1, C-2"
+  ],
+  "answer_index": 1,
+  "explanation": "Glycolysis occurs in the cytoplasm, the Krebs cycle in the matrix and the ETC on the inner membrane.",
+  "source_page": 191,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "27d8f8c5-7ac9-5009-8585-00d6d9af88fd",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "The Krebs cycle is also called the:",
+  "options": [
+   "Calvin cycle",
+   "Glycolytic pathway",
+   "Hill reaction",
+   "Tricarboxylic Acid (TCA) cycle"
+  ],
+  "answer_index": 3,
+  "explanation": "The Krebs cycle, in the mitochondrial matrix, is also called the Tricarboxylic Acid Cycle.",
+  "source_page": 191,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b3e75044-b394-5cea-8f32-f46b1f1e5555",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "In the electron transport chain, the ultimate acceptor of electrons is:",
+  "options": [
+   "FAD",
+   "Oxygen, reduced to water",
+   "NAD+",
+   "ADP"
+  ],
+  "answer_index": 1,
+  "explanation": "O2 is the ultimate electron acceptor and gets reduced to water (oxidative phosphorylation).",
+  "source_page": 191,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "059b8700-30ad-5968-948d-6ce79b77421b",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Which product is formed during anaerobic respiration by yeast?",
+  "options": [
+   "Acetyl CoA",
+   "Carbohydrate",
+   "Ethyl alcohol",
+   "Oxygen"
+  ],
+  "answer_index": 2,
+  "explanation": "Without oxygen, yeast converts glucose into ethanol and CO2.",
+  "source_page": 192,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6364bb28-ec14-5231-a93b-b8cfce823033",
+  "chapter_id": "c10-sci-12",
+  "unit_code": "GS1",
+  "question": "Respiratory quotient (RQ) is the ratio of:",
+  "options": [
+   "CO2 liberated to O2 consumed",
+   "ATP made to glucose used",
+   "O2 consumed to CO2 liberated",
+   "Water produced to oxygen used"
+  ],
+  "answer_index": 0,
+  "explanation": "RQ = volume of CO2 liberated / volume of O2 consumed.",
+  "source_page": 192,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

@@ -1,0 +1,866 @@
+[
+ {
+  "id": "3dbfa622-265f-56ba-9536-7f1c8a2c152a",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The bulk movement of substances through the vascular tissue of plants is called:",
+  "options": [
+   "Translocation",
+   "Imbibition",
+   "Transpiration",
+   "Guttation"
+  ],
+  "answer_index": 0,
+  "explanation": "The bulk movement of substances through the vascular tissue is called translocation.",
+  "source_page": 208,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "004cb1e5-76dc-5838-a3ca-f3960b850d58",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Which of the following statements about active transport is correct?",
+  "options": [
+   "It moves molecules from lower to higher concentration",
+   "It requires energy",
+   "It is an 'uphill' process carried out by membrane proteins",
+   "All of the above"
+  ],
+  "answer_index": 3,
+  "explanation": "Active transport uses energy via membrane-bound protein pumps to move substances against the gradient.",
+  "source_page": 209,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a8d657e6-bf52-5129-b308-ddc05dc61018",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Which of the following processes requires energy?",
+  "options": [
+   "Diffusion",
+   "Imbibition",
+   "Osmosis",
+   "Active transport"
+  ],
+  "answer_index": 3,
+  "explanation": "Diffusion and osmosis are passive; active transport uses energy.",
+  "source_page": 209,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "24385c50-ffd4-5b6a-a3db-cd5079e84131",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Plasmolysis occurs when a living plant cell is placed in a:",
+  "options": [
+   "Hypotonic solution",
+   "Pure water",
+   "Hypertonic solution",
+   "Isotonic solution"
+  ],
+  "answer_index": 2,
+  "explanation": "In a hypertonic solution water leaves the cell and the protoplasm shrinks from the cell wall.",
+  "source_page": 209,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fe582efa-d475-5317-b481-95a0d77fe5c4",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Dry seeds swelling up when kept in water is an example of:",
+  "options": [
+   "Imbibition",
+   "Plasmolysis",
+   "Osmosis",
+   "Guttation"
+  ],
+  "answer_index": 0,
+  "explanation": "Imbibition is the absorption of water by solid plant material, which swells; it lets seedlings emerge.",
+  "source_page": 209,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "36985946-9dbb-53ce-933a-7e37f7510bd1",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Root hairs are:",
+  "options": [
+   "Multicellular outgrowths of xylem",
+   "Cortical cells",
+   "Unicellular projections of epidermal cells",
+   "Part of the pericycle"
+  ],
+  "answer_index": 2,
+  "explanation": "Root hairs are thin-walled, slender extensions of epidermal cells that increase the absorptive surface.",
+  "source_page": 209,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d848a42e-ec52-576f-890a-85e43cfce099",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "In the apoplast pathway, water moves through:",
+  "options": [
+   "Intercellular spaces and cell walls only",
+   "Cell membranes and cytoplasm",
+   "Phloem sieve tubes",
+   "Plasmodesmata"
+  ],
+  "answer_index": 0,
+  "explanation": "Apoplastic movement occurs exclusively through intercellular spaces and walls, without crossing membranes.",
+  "source_page": 210,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "aeb62d0d-3593-5b48-9e36-0e284322b84b",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Why is the symplast pathway slow?",
+  "options": [
+   "It moves against the gradient",
+   "Water has to pass through plasma membranes",
+   "It uses ATP",
+   "Water moves through cell walls"
+  ],
+  "answer_index": 1,
+  "explanation": "In the symplast pathway water moves through plasma membrane, cytoplasm and plasmodesmata, which is slow.",
+  "source_page": 210,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d0422a71-9b91-5799-9937-2bff9266c605",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "When guard cells lose water and become flaccid:",
+  "options": [
+   "Photosynthesis stops completely",
+   "The stoma closes",
+   "The stoma opens",
+   "Transpiration increases"
+  ],
+  "answer_index": 1,
+  "explanation": "Turgid guard cells open the stoma; flaccid guard cells close it.",
+  "source_page": 210,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c8edb4b7-370a-5e1a-a3ad-abbcf12028e2",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The force created at the top of the plant by loss of water from leaves, which pulls water up the xylem, is called:",
+  "options": [
+   "Root pressure",
+   "Transpiration pull",
+   "Osmotic pressure",
+   "Capillary action"
+  ],
+  "answer_index": 1,
+  "explanation": "Water lost from leaves creates pressure at the top that pulls more water from the xylem: transpiration pull.",
+  "source_page": 210,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "24962be8-5df1-5c2d-ba38-5b62a8f96dbd",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Which of the following is NOT a significance of transpiration listed in the chapter?",
+  "options": [
+   "Transports minerals",
+   "Cools the leaf surface",
+   "Supplies water for photosynthesis",
+   "Produces glucose"
+  ],
+  "answer_index": 3,
+  "explanation": "Transpiration creates pull, supplies water for photosynthesis, transports minerals, cools leaves and keeps cells turgid.",
+  "source_page": 211,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8b879849-9a27-5150-ace8-8bbb090c65ac",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Why can't most minerals be absorbed passively by roots?",
+  "options": [
+   "They are charged ions and their concentration in soil is lower than in the root",
+   "Roots have no membranes",
+   "They are too large",
+   "They are insoluble"
+  ],
+  "answer_index": 0,
+  "explanation": "Minerals are ions that cannot cross membranes and are less concentrated in soil, so they need active absorption using ATP.",
+  "source_page": 211,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d492ed6d-a036-54f9-b959-57a4ed2ed72a",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Which element is NOT remobilised from older dying leaves to younger leaves?",
+  "options": [
+   "Calcium",
+   "Nitrogen",
+   "Phosphorus",
+   "Potassium"
+  ],
+  "answer_index": 0,
+  "explanation": "Phosphorus, sulphur, nitrogen and potassium are easily mobilised; calcium is not.",
+  "source_page": 211,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "93a116f1-32bc-515e-ab74-a874ef7514f6",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The form of sugar transported through the phloem is:",
+  "options": [
+   "Sucrose",
+   "Starch",
+   "Fructose",
+   "Glucose"
+  ],
+  "answer_index": 0,
+  "explanation": "Glucose made at the source is converted to sucrose, which the phloem transports.",
+  "source_page": 211,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c4bb5bf5-ec59-50ff-b3ce-835830b20d90",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Which statement about the direction of transport is correct?",
+  "options": [
+   "Both xylem and phloem are unidirectional",
+   "Phloem is bidirectional; xylem is upward only",
+   "Xylem is bidirectional; phloem is downward only",
+   "Both are bidirectional"
+  ],
+  "answer_index": 1,
+  "explanation": "Because source-sink relations vary, phloem movement can be up or down; xylem movement is always upward.",
+  "source_page": 211,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "43fe9f0a-29ca-5f24-8ef3-a9364861694a",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The mechanism of translocation of sugars from source to sink is explained by the:",
+  "options": [
+   "Root pressure theory",
+   "Capillary theory",
+   "Cohesion-tension theory",
+   "Pressure flow hypothesis"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states translocation of sugars occurs through the pressure flow hypothesis.",
+  "source_page": 211,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "60bd665d-f7ca-5f68-8d20-6af993b9dec3",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Dew-like water droplets on grass leaves in the early morning, exuded due to root pressure, are a result of:",
+  "options": [
+   "Transpiration",
+   "Condensation",
+   "Guttation through hydathodes",
+   "Imbibition"
+  ],
+  "answer_index": 2,
+  "explanation": "Guttation is the exudation of excess water as liquid through hydathodes, due to root pressure.",
+  "source_page": 212,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "215c50c9-6f9d-5d77-9c02-c10aacbf24df",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The force of attraction between molecules of water is called:",
+  "options": [
+   "Adhesion",
+   "Capillarity",
+   "Cohesion",
+   "Surface tension"
+  ],
+  "answer_index": 2,
+  "explanation": "Cohesion is attraction between water molecules; adhesion is attraction between different substances.",
+  "source_page": 212,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "203d6d4f-e942-5eb6-83a2-02ad3f3ec655",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Plasma constitutes about what percentage of blood?",
+  "options": [
+   "45 %",
+   "90 %",
+   "55 %",
+   "65 %"
+  ],
+  "answer_index": 2,
+  "explanation": "Plasma is slightly alkaline and constitutes about 55 % of the blood.",
+  "source_page": 212,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3f5db998-4625-5f70-9615-3bbecd89dfa8",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The life span of a red blood corpuscle is about:",
+  "options": [
+   "8-10 days",
+   "120 days",
+   "1 year",
+   "30 days"
+  ],
+  "answer_index": 1,
+  "explanation": "RBCs are formed in bone marrow and live about 120 days.",
+  "source_page": 213,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "39ee682f-7c4d-5aa5-a440-1ec0508a48e6",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Why do mature mammalian RBCs lack a nucleus?",
+  "options": [
+   "To store glucose",
+   "To produce antibodies",
+   "To help them divide",
+   "To make them biconcave and increase surface area for oxygen binding"
+  ],
+  "answer_index": 3,
+  "explanation": "Loss of nucleus makes the cell biconcave and increases surface area for oxygen; loss of mitochondria and ER aids transport and flexibility.",
+  "source_page": 213,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4ec59acb-41de-5e95-9edb-c44128d2e55a",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Which leucocytes are most abundant, forming 60-65 % of the total?",
+  "options": [
+   "Lymphocytes",
+   "Eosinophils",
+   "Monocytes",
+   "Neutrophils"
+  ],
+  "answer_index": 3,
+  "explanation": "Neutrophils, with 2-7 lobed nuclei, form 60-65 % of leucocytes and increase during infection.",
+  "source_page": 213,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "250a5896-8b40-5bbc-96fb-f2ebbcb78adf",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Match the cell with its role: A. Eosinophils  B. Lymphocytes  C. Monocytes  D. Thrombocytes with 1. Blood clotting  2. Phagocytosis  3. Antibody production  4. Allergy and parasitic infections",
+  "options": [
+   "A-4, B-3, C-2, D-1",
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-2, C-3, D-1",
+   "A-2, B-3, C-4, D-1"
+  ],
+  "answer_index": 0,
+  "explanation": "Eosinophils rise in allergies, lymphocytes make antibodies, monocytes are phagocytic and platelets clot blood.",
+  "source_page": 213,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5823d5e5-80ce-50f1-a111-553a38317a58",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The largest leucocytes are:",
+  "options": [
+   "Lymphocytes",
+   "Neutrophils",
+   "Basophils",
+   "Monocytes"
+  ],
+  "answer_index": 3,
+  "explanation": "Monocytes are the largest leucocytes, amoeboid and phagocytic.",
+  "source_page": 213,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "53bb93c4-98f0-528e-a7bf-e8a78e977dd1",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "A decrease in the number of thrombocytes is called:",
+  "options": [
+   "Leukopenia",
+   "Anaemia",
+   "Leucocytosis",
+   "Thrombocytopenia"
+  ],
+  "answer_index": 3,
+  "explanation": "Anaemia: fewer RBCs; leucocytosis: more WBCs; leukopenia: fewer WBCs; thrombocytopenia: fewer platelets.",
+  "source_page": 213,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "837f203a-055c-5dbf-a0a1-073cf0324ec7",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Which artery carries deoxygenated blood?",
+  "options": [
+   "Pulmonary artery",
+   "Carotid artery",
+   "Aorta",
+   "Coronary artery"
+  ],
+  "answer_index": 0,
+  "explanation": "All arteries carry oxygenated blood except the pulmonary artery, which takes deoxygenated blood to the lungs.",
+  "source_page": 214,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "00e5f6ac-2714-57b7-b9c9-be6dbd5dc9ec",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Which is a correct difference between arteries and veins?",
+  "options": [
+   "Arteries have internal valves; veins do not",
+   "Veins have internal valves; arteries do not",
+   "Veins carry blood at high pressure",
+   "Arteries are superficial"
+  ],
+  "answer_index": 1,
+  "explanation": "Table 14.1: internal valves are absent in arteries and present in veins.",
+  "source_page": 214,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ff4c9eba-96b1-5b42-8ab2-21b7dc559219",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Open circulatory system, where blood flows into sinuses (haemocoel), is found in:",
+  "options": [
+   "Fishes",
+   "Vertebrates",
+   "Birds",
+   "Arthropods, molluscs and ascidians"
+  ],
+  "answer_index": 3,
+  "explanation": "Open type circulation occurs in arthropods, molluscs and ascidians; vertebrates have closed circulation.",
+  "source_page": 215,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1cba9d3d-b6ef-5627-8ac1-f53994bd7253",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Who discovered the closed circulatory system and is regarded as the Father of Modern Physiology?",
+  "options": [
+   "William Harvey",
+   "Karl Landsteiner",
+   "Galen",
+   "Marcello Malpighi"
+  ],
+  "answer_index": 0,
+  "explanation": "William Harvey discovered closed circulation in 1628.",
+  "source_page": 215,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bd31f883-7a32-57fb-ae8e-e17165a65c76",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The double-walled sac enclosing the heart is the:",
+  "options": [
+   "Pericardium",
+   "Meninges",
+   "Pleura",
+   "Peritoneum"
+  ],
+  "answer_index": 0,
+  "explanation": "The heart is enclosed in the pericardium, which contains lubricating pericardial fluid.",
+  "source_page": 214,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f19a9eb6-9c17-59ca-b6df-43d766ee8f90",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The right atrioventricular valve is called the tricuspid valve because:",
+  "options": [
+   "It has three triangular flaps",
+   "It connects three chambers",
+   "It has three chordae",
+   "It opens three times per beat"
+  ],
+  "answer_index": 0,
+  "explanation": "It has three thin triangular leaf-like flaps held by chordae tendinae from papillary muscles.",
+  "source_page": 216,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5da6ec2c-3f39-5c31-ad6c-4a5c9ac28529",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Which vertebrate group has an incomplete four-chambered heart?",
+  "options": [
+   "Reptiles (except crocodiles)",
+   "Fishes",
+   "Amphibians",
+   "Birds"
+  ],
+  "answer_index": 0,
+  "explanation": "Fishes: two; amphibians: three; reptiles: incomplete four; birds, mammals and crocodiles: four.",
+  "source_page": 216,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "89ac7568-7f7a-598b-a536-f791d89d62f3",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The supply of blood to the heart muscles themselves is called:",
+  "options": [
+   "Systemic circulation",
+   "Coronary circulation",
+   "Pulmonary circulation",
+   "Portal circulation"
+  ],
+  "answer_index": 1,
+  "explanation": "Coronary arteries from the aortic arch supply cardiac muscle; blood drains via coronary sinuses.",
+  "source_page": 216,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f18d9101-c264-5f13-8295-fd01d51d7b4d",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Human circulation is called 'double circulation' because:",
+  "options": [
+   "There are two types of blood",
+   "There are two hearts",
+   "Blood goes to two lungs",
+   "Blood passes through the heart twice in one complete cycle without mixing"
+  ],
+  "answer_index": 3,
+  "explanation": "In double circulation blood circulates twice through the heart, and oxygenated and deoxygenated blood do not mix.",
+  "source_page": 216,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "09eafc6b-7cc3-5e8a-9a0d-0b55adf31013",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The normal human heart beats approximately:",
+  "options": [
+   "50-60 times per minute",
+   "72-75 times per minute",
+   "90-100 times per minute",
+   "120 times per minute"
+  ],
+  "answer_index": 1,
+  "explanation": "The heart normally beats 72-75 times per minute.",
+  "source_page": 217,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1682b160-0343-5972-a65c-f08241d3cf7d",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The human heart is myogenic. This means the heart beat is initiated by:",
+  "options": [
+   "Hormones",
+   "A nerve ganglion near the heart",
+   "The brain",
+   "Specialised modified heart muscle fibres (SA node)"
+  ],
+  "answer_index": 3,
+  "explanation": "Myogenic beat is initiated by modified muscle fibres; neurogenic beat (annelids) by nerve ganglia.",
+  "source_page": 217,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4b81141c-0f89-531f-807f-0c038f2e767c",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Which structure is called the pacemaker of the heart?",
+  "options": [
+   "Bundle of His",
+   "AV node",
+   "Purkinje fibres",
+   "SA node"
+  ],
+  "answer_index": 3,
+  "explanation": "The sino-atrial node in the right atrium wall initiates impulses and acts as the pacemaker.",
+  "source_page": 217,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e8b89f7f-57d1-5616-aafa-83adaa6360a9",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Arrange the conduction of the heart impulse in order:",
+  "options": [
+   "SA node, Purkinje fibres, AV node, bundle of His",
+   "AV node, SA node, bundle of His, Purkinje fibres",
+   "SA node, AV node, bundle of His, Purkinje fibres",
+   "Bundle of His, SA node, AV node, Purkinje fibres"
+  ],
+  "answer_index": 2,
+  "explanation": "The impulse starts at the SA node, reaches the AV node, then spreads via the bundle of His and Purkinje fibres.",
+  "source_page": 217,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e18de93d-72d4-5b73-96d3-acf36f3ccf43",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The atrioventricular bundle was discovered in 1893 by:",
+  "options": [
+   "His",
+   "Harvey",
+   "Purkinje",
+   "Landsteiner"
+  ],
+  "answer_index": 0,
+  "explanation": "It was discovered by His (1893), hence 'Bundle of His'.",
+  "source_page": 217,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b46dbf05-fae3-5689-a7ff-1c18ab77077f",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The cardiac cycle lasts 0.8 second. Ventricular systole takes:",
+  "options": [
+   "0.8 s",
+   "0.1 s",
+   "0.3 s",
+   "0.4 s"
+  ],
+  "answer_index": 2,
+  "explanation": "Atrial systole 0.1 s, ventricular systole 0.3 s, ventricular diastole 0.4 s.",
+  "source_page": 218,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9faa95ea-8821-5464-9b2f-e874235bf99c",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The first heart sound 'LUBB' is produced by:",
+  "options": [
+   "Closure of tricuspid and bicuspid valves at the start of ventricular systole",
+   "Contraction of the atria",
+   "Closure of semilunar valves",
+   "Opening of the aortic valve"
+  ],
+  "answer_index": 0,
+  "explanation": "LUBB (longer) is closure of AV valves; DUPP (shorter) is closure of semilunar valves at the end of ventricular systole.",
+  "source_page": 218,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cce7667d-4371-532e-9d0c-7127bc94d51a",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The normal resting blood pressure of a healthy adult is:",
+  "options": [
+   "140/90 mm Hg",
+   "100/60 mm Hg",
+   "80/120 mm Hg",
+   "120/80 mm Hg"
+  ],
+  "answer_index": 3,
+  "explanation": "Systolic and diastolic pressure is expressed as 120/80 mm Hg.",
+  "source_page": 218,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "188f7e9e-e7cb-5836-898f-33227683adc8",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "A sphygmomanometer measures blood pressure in the:",
+  "options": [
+   "Brachial artery",
+   "Carotid artery",
+   "Aorta",
+   "Femoral vein"
+  ],
+  "answer_index": 0,
+  "explanation": "The sphygmomanometer measures the pressure of the brachial artery in a resting person.",
+  "source_page": 219,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9c59bfcf-9f8c-53d9-8f50-c773705b1385",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Who developed the concept of blood grouping in 1900?",
+  "options": [
+   "Wiener",
+   "William Harvey",
+   "Decastello and Sturli",
+   "Karl Landsteiner"
+  ],
+  "answer_index": 3,
+  "explanation": "Karl Landsteiner (1900) identified A, B and O; AB was recognised by Decastello and Sturli in 1902.",
+  "source_page": 219,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7a039c18-0775-5a2e-ba8b-e78e8bb66513",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The Rh factor was discovered by Landsteiner and Wiener in 1940 in:",
+  "options": [
+   "Rabbit",
+   "Mice",
+   "Humans",
+   "Rhesus monkey"
+  ],
+  "answer_index": 3,
+  "explanation": "The Rh factor was discovered in the Rhesus monkey, hence its name.",
+  "source_page": 219,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "955c3c85-3024-5283-950f-63e41b1b65a3",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "Assertion (A): Persons with AB blood group are universal recipients. Reason (R): Antibodies are absent in the plasma of AB group persons.",
+  "options": [
+   "Both A and R are true and R explains A",
+   "Both A and R are true but R does not explain A",
+   "A is true but R is false",
+   "Both A and R are false"
+  ],
+  "answer_index": 0,
+  "explanation": "AB plasma has no anti-a or anti-b antibodies, so it can receive blood of any group.",
+  "source_page": 219,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "13c798ec-a990-51c3-a347-d52a05d235b8",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "A patient with blood group O needs a transfusion. Which group should be used?",
+  "options": [
+   "A or B group",
+   "O group only",
+   "Any group",
+   "AB group"
+  ],
+  "answer_index": 1,
+  "explanation": "O group plasma has both anti-a and anti-b antibodies, so an O person can receive only from O (Table 14.2).",
+  "source_page": 220,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "40b53ca9-1bd2-51f3-a3c3-7fb546260ebb",
+  "chapter_id": "c10-sci-14",
+  "unit_code": "GS1",
+  "question": "The lymphatic capillaries of intestinal villi that absorb digested fats are called:",
+  "options": [
+   "Thoracic ducts",
+   "Lacteals",
+   "Venules",
+   "Lymph nodes"
+  ],
+  "answer_index": 1,
+  "explanation": "Lacteals in the intestinal villi absorb digested fats and carry them to the blood.",
+  "source_page": 220,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

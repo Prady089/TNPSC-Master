@@ -1,0 +1,794 @@
+[
+ {
+  "id": "eaea48e0-af4a-5003-a0e7-0a10c9d28932",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The scientific name of the Indian cattle leech is:",
+  "options": [
+   "Hirudinaria granulosa",
+   "Pheretima posthuma",
+   "Hirudo medicinalis",
+   "Oryctolagus cuniculus"
+  ],
+  "answer_index": 0,
+  "explanation": "The Indian cattle leech is Hirudinaria granulosa, of Phylum Annelida.",
+  "source_page": 195,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9b03b3e8-a5f2-5174-85f8-08df4f109528",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The rabbit Oryctolagus cuniculus belongs to which order?",
+  "options": [
+   "Primates",
+   "Lagomorpha",
+   "Rodentia",
+   "Carnivora"
+  ],
+  "answer_index": 1,
+  "explanation": "Its taxonomic position: Class Mammalia, Order Lagomorpha.",
+  "source_page": 202,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6e0168c8-20ce-5d39-a08c-edab07e75b86",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The leech belongs to which class?",
+  "options": [
+   "Insecta",
+   "Polychaeta",
+   "Oligochaeta",
+   "Hirudinea"
+  ],
+  "answer_index": 3,
+  "explanation": "Phylum Annelida, Class Hirudinea, Order Gnathobdellida.",
+  "source_page": 196,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7d93960d-f0e1-537c-b67e-b5d7f3311a37",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The most striking feature of a mammal, according to the chapter, is:",
+  "options": [
+   "Hair on the body",
+   "Warm blood",
+   "Mammary glands in females",
+   "Four-chambered heart"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says the mammary gland in females is the most striking feature of a mammal.",
+  "source_page": 195,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9d469675-ff79-5535-847b-ca9ae1e62243",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Hirudinaria granulosa is NOT found naturally in which of these countries, according to the chapter?",
+  "options": [
+   "Nepal",
+   "Bangladesh",
+   "Myanmar",
+   "Sri Lanka"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter lists India, Bangladesh, Pakistan, Myanmar and Sri Lanka.",
+  "source_page": 196,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e4c70d20-dbaf-5cb4-b932-0dcfc8a5ff41",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The term 'sanguivorous' describes an animal that:",
+  "options": [
+   "Eats plants",
+   "Eats insects",
+   "Eats dead matter",
+   "Sucks blood"
+  ],
+  "answer_index": 3,
+  "explanation": "The leech is sanguivorous, i.e. blood sucking.",
+  "source_page": 196,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "342b0ab5-4de2-5d79-85bb-34b3ed8428cf",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The body of a leech has how many segments?",
+  "options": [
+   "23",
+   "38",
+   "33",
+   "30"
+  ],
+  "answer_index": 2,
+  "explanation": "The body is metamerically divided into 33 segments.",
+  "source_page": 198,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6e013209-41e9-58cc-9a6b-17e52184aacc",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The segmentation of the body into similar segments one behind the other is called:",
+  "options": [
+   "Metamerism",
+   "Strobilation",
+   "Proglottid formation",
+   "Annulation"
+  ],
+  "answer_index": 0,
+  "explanation": "Metamerism is the segmentation of the body; segments are metameres (somites).",
+  "source_page": 198,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4e7a157c-b46a-5306-bc6e-7f666686c6da",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "In the leech, the temporary clitellum is formed on segments:",
+  "options": [
+   "27-33",
+   "9-11",
+   "12-22",
+   "1-5"
+  ],
+  "answer_index": 1,
+  "explanation": "A temporary clitellum forms on segments 9-11 during the breeding season to produce a cocoon.",
+  "source_page": 198,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4dc9e77e-195d-5f71-a574-52052848f281",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "How many pairs of eyes does a leech have?",
+  "options": [
+   "Five",
+   "Ten",
+   "Two",
+   "Three"
+  ],
+  "answer_index": 0,
+  "explanation": "There are five pairs of eyes on the first five segments, on the dorsal side.",
+  "source_page": 198,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e1e11796-33d5-5a9f-aa8f-d850d228b724",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The posterior sucker of the leech is formed by:",
+  "options": [
+   "The clitellum",
+   "The 26th segment only",
+   "The first five segments",
+   "Fusion of the last seven segments"
+  ],
+  "answer_index": 3,
+  "explanation": "The posterior sucker is formed by the fusion of the last seven segments (27th-33rd).",
+  "source_page": 198,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "378f0164-988e-5288-9249-85107e7aa20c",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "In the leech, the anus opens on the:",
+  "options": [
+   "11th segment",
+   "Mid-dorsal side of the 26th segment",
+   "Anterior sucker",
+   "Mid-ventral side of the 33rd segment"
+  ],
+  "answer_index": 1,
+  "explanation": "The anus is a small aperture on the mid-dorsal side of the 26th segment.",
+  "source_page": 198,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5df6e47f-e13b-594e-97b9-3ff3882a93d7",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Match the leech opening with its segment: A. Male genital pore  B. Female genital pore  C. Anus with 1. 26th  2. 11th  3. 10th",
+  "options": [
+   "A-3, B-2, C-1",
+   "A-2, B-3, C-1",
+   "A-1, B-2, C-3",
+   "A-3, B-1, C-2"
+  ],
+  "answer_index": 0,
+  "explanation": "Male genital pore in the 10th segment, female in the 11th, anus in the 26th.",
+  "source_page": 198,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0c3bd3ef-bca7-5fb5-bd6c-79ff6b4f5ba7",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Locomotion in the leech is performed by:",
+  "options": [
+   "Cilia",
+   "Parapodia",
+   "Contraction and relaxation of muscles, with suckers for attachment",
+   "Setae"
+  ],
+  "answer_index": 2,
+  "explanation": "Looping or crawling is brought about by muscle contraction and relaxation; suckers attach the body. Parapodia and setae are absent.",
+  "source_page": 198,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "07aec0c8-2ac6-5196-a813-b14a061f6e9c",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The body wall layer that fills the coelom around the gut in the leech is the:",
+  "options": [
+   "Epidermis",
+   "Dermis",
+   "Cuticle",
+   "Botryoidal tissue"
+  ],
+  "answer_index": 3,
+  "explanation": "Botryoidal tissue lies beneath the longitudinal muscles and fills the entire coelom around the gut.",
+  "source_page": 199,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "948fffe2-0846-5e92-ad9f-571bfb609463",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The substance in leech saliva that prevents blood from clotting is:",
+  "options": [
+   "Thrombin",
+   "Heparin",
+   "Fibrin",
+   "Hirudin"
+  ],
+  "answer_index": 3,
+  "explanation": "The salivary secretion contains hirudin, which prevents the coagulation of blood.",
+  "source_page": 199,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7da75dd2-2466-526d-aed8-4deff56bf009",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The shape of the wound made by a leech on its host is:",
+  "options": [
+   "Linear",
+   "Star-shaped",
+   "Circular",
+   "Y-shaped (triradiate)"
+  ],
+  "answer_index": 3,
+  "explanation": "The three jaws make a painless triradiate or Y-shaped incision.",
+  "source_page": 200,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c7c78c40-930a-50da-8553-f3da880d527c",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The largest portion of the leech's alimentary canal is the:",
+  "options": [
+   "Pharynx",
+   "Intestine",
+   "Crop",
+   "Stomach"
+  ],
+  "answer_index": 2,
+  "explanation": "The crop, divided into 10 chambers with diverticula, is the largest portion and stores blood.",
+  "source_page": 199,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "683a0701-f7dd-5df4-8900-86ba0cc42b69",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "How much blood can a leech suck relative to its body weight?",
+  "options": [
+   "Twice its weight",
+   "Ten times its weight",
+   "Equal to its weight",
+   "Five times its weight"
+  ],
+  "answer_index": 3,
+  "explanation": "Leeches can suck blood five times more than their body weight.",
+  "source_page": 200,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d9080069-6e01-56b2-8b79-4813cf9f94d8",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Respiration in the leech takes place through the:",
+  "options": [
+   "Tracheae",
+   "Lungs",
+   "Gills",
+   "Skin"
+  ],
+  "answer_index": 3,
+  "explanation": "Gases diffuse through the moist skin into the haemocoelic fluid in capillaries.",
+  "source_page": 200,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0e21f63b-640a-57ce-b261-e7effab0a360",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Circulation in the leech is carried out by:",
+  "options": [
+   "Open sinuses without fluid",
+   "True blood vessels and a heart",
+   "Water vascular system",
+   "Haemocoelic channels filled with blood-like fluid"
+  ],
+  "answer_index": 3,
+  "explanation": "There are no true blood vessels; four longitudinal haemocoelic channels carry the fluid.",
+  "source_page": 201,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "65dfe6d1-23bf-5535-9c8a-944f892c4e03",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The brain of the leech lies above the:",
+  "options": [
+   "Pharynx",
+   "Crop",
+   "Buccal cavity",
+   "Mouth"
+  ],
+  "answer_index": 0,
+  "explanation": "The suprapharyngeal ganglion (brain) lies above the pharynx as part of the nerve ring.",
+  "source_page": 201,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "74b12124-6225-5eaa-9914-1ed989dd697d",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Excretion in the leech takes place through:",
+  "options": [
+   "Kidneys",
+   "Flame cells",
+   "Malpighian tubules",
+   "17 pairs of nephridia"
+  ],
+  "answer_index": 3,
+  "explanation": "17 pairs of nephridia open by nephridiopores from the 6th to 22nd segments.",
+  "source_page": 201,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ba08b05c-102a-5851-96aa-fe28be2165f6",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Which statement about leech reproduction is correct?",
+  "options": [
+   "Fertilization is external",
+   "Development is indirect with a larva",
+   "It is hermaphrodite, with 11 pairs of testes and one pair of ovaries",
+   "Sexes are separate"
+  ],
+  "answer_index": 2,
+  "explanation": "Leech is hermaphrodite; fertilization is internal and development is direct in a cocoon.",
+  "source_page": 201,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "32598744-c520-5ad2-96e0-fb9d40e01d6d",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Which of the following is a parasitic adaptation of the leech?",
+  "options": [
+   "Elaborate digestive enzyme secretion",
+   "Salivary hirudin that keeps blood flowing",
+   "Presence of parapodia",
+   "Large compound eyes"
+  ],
+  "answer_index": 1,
+  "explanation": "Hirudin prevents clotting so a continuous blood supply is maintained; digestive secretions are not elaborate.",
+  "source_page": 202,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e1034949-661c-5820-8901-1800a7e1ed85",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Biochemical substances from leech saliva are used to prepare drugs to treat:",
+  "options": [
+   "Malaria",
+   "Hypertension",
+   "Diabetes",
+   "Tuberculosis"
+  ],
+  "answer_index": 1,
+  "explanation": "Leech saliva products are used in drugs that treat hypertension and cardiovascular diseases.",
+  "source_page": 202,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "af834409-06a0-5def-a748-6eefa95926dd",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The Columbia Basin Pygmy Rabbit was federally listed as an endangered species in:",
+  "options": [
+   "2010",
+   "1990",
+   "2003",
+   "1999"
+  ],
+  "answer_index": 2,
+  "explanation": "It was listed as threatened in Washington in 1990 and federally endangered in March 2003.",
+  "source_page": 202,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f9867059-9331-5097-b3a9-686f46532c2a",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Rabbits are described as gregarious, meaning they:",
+  "options": [
+   "Are nocturnal",
+   "Eat meat",
+   "Live alone",
+   "Move in groups"
+  ],
+  "answer_index": 3,
+  "explanation": "Gregarious animals move in groups.",
+  "source_page": 202,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7088152b-fd00-5e2d-aaa4-f8bdb5cfb679",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The tactile hairs projecting from the rabbit's upper lip are called:",
+  "options": [
+   "Pinnae",
+   "Vibrissae",
+   "Setae",
+   "Claws"
+  ],
+  "answer_index": 1,
+  "explanation": "Tactile hairs or vibrissae (whiskers) project from each side of the upper lip.",
+  "source_page": 203,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2c51017b-2a60-55c7-b110-414d65c5a9e3",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The characteristic feature of mammals that separates the thoracic and abdominal cavities is the:",
+  "options": [
+   "Pleura",
+   "Sternum",
+   "Diaphragm",
+   "Pericardium"
+  ],
+  "answer_index": 2,
+  "explanation": "The diaphragm, a transverse partition, is characteristic of mammals and drives breathing movements.",
+  "source_page": 203,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "23ce252a-ccbc-5ae7-b10f-34a5b9323a2f",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "In the rabbit, digestion of cellulose is aided by bacteria in the:",
+  "options": [
+   "Oesophagus",
+   "Caecum",
+   "Stomach",
+   "Rectum"
+  ],
+  "answer_index": 1,
+  "explanation": "The caecum, at the junction of the small and large intestine, contains bacteria that digest cellulose.",
+  "source_page": 204,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ad43548c-c33e-5793-8411-77b246c7c6f8",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Having two sets of teeth (milk and permanent) in life is called:",
+  "options": [
+   "Diphyodont",
+   "Heterodont",
+   "Thecodont",
+   "Homodont"
+  ],
+  "answer_index": 0,
+  "explanation": "The existence of two sets of teeth is diphyodont dentition; different types of teeth is heterodont.",
+  "source_page": 204,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7bb72334-ab3f-590f-902f-04d6b89fe95e",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Which type of tooth is absent in the rabbit?",
+  "options": [
+   "Molars",
+   "Premolars",
+   "Canines",
+   "Incisors"
+  ],
+  "answer_index": 2,
+  "explanation": "Canines are absent in the rabbit; its dental formula is 2033/1023.",
+  "source_page": 204,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fb01a0f7-f4ac-5018-bd57-f5f7bd2f5f0c",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The gap between the incisors and premolars in a rabbit is called the:",
+  "options": [
+   "Diastema",
+   "Diaphragm",
+   "Glottis",
+   "Vestibule"
+  ],
+  "answer_index": 0,
+  "explanation": "The diastema helps in mastication and chewing of food in herbivores.",
+  "source_page": 204,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "eef8beab-e681-516b-873b-2ee2a099224c",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The larynx of the rabbit is supported by:",
+  "options": [
+   "Muscles only",
+   "C-shaped rings",
+   "Rings of bone",
+   "Four cartilaginous plates"
+  ],
+  "answer_index": 3,
+  "explanation": "The larynx (voice box) wall is supported by four cartilaginous plates; the trachea by rings of cartilage.",
+  "source_page": 204,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8edf8206-d4bc-549e-96f0-4a5930dd4632",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Which structure prevents the entry of food into the trachea?",
+  "options": [
+   "Larynx",
+   "Epiglottis",
+   "Pleura",
+   "Glottis"
+  ],
+  "answer_index": 1,
+  "explanation": "The epiglottis prevents food from entering the trachea through the glottis.",
+  "source_page": 204,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e49997b6-12a0-5da1-a89e-93db35abafc3",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Consider: 1. Inspiration is an active process. 2. Expiration is a passive process. Which is/are correct for the rabbit?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states inspiration is active and expiration passive.",
+  "source_page": 204,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "eba63c64-077e-5b2f-8921-657d674c9160",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The left auriculoventricular aperture of the rabbit heart is guarded by the:",
+  "options": [
+   "Semilunar valve",
+   "Tricuspid valve",
+   "Bicuspid (mitral) valve",
+   "Eustachian valve"
+  ],
+  "answer_index": 2,
+  "explanation": "The right side has the tricuspid valve; the left has the bicuspid or mitral valve.",
+  "source_page": 205,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "da1dfc7e-e031-509e-bf59-371c4a264e30",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The right auricle of the rabbit receives deoxygenated blood through:",
+  "options": [
+   "The pulmonary artery",
+   "Two precaval and one postcaval veins",
+   "Pulmonary veins",
+   "The aorta"
+  ],
+  "answer_index": 1,
+  "explanation": "Two precavals (superior vena cava) and one postcaval (inferior vena cava) bring blood to the right auricle.",
+  "source_page": 205,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "976dd53f-d6e4-563e-977e-6f3dd3dea4c5",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The peripheral nervous system of the rabbit consists of:",
+  "options": [
+   "10 pairs of cranial and 31 pairs of spinal nerves",
+   "12 pairs of cranial and 31 pairs of spinal nerves",
+   "12 pairs of cranial and 37 pairs of spinal nerves",
+   "8 pairs of cranial and 37 pairs of spinal nerves"
+  ],
+  "answer_index": 2,
+  "explanation": "PNS is formed of 12 pairs of cranial nerves and 37 pairs of spinal nerves.",
+  "source_page": 205,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ef087071-e4ec-5d94-9ec4-412e62318c91",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The band of nerve tissue connecting the two cerebral hemispheres is the:",
+  "options": [
+   "Pons varolii",
+   "Diencephalon",
+   "Medulla oblongata",
+   "Corpus callosum"
+  ],
+  "answer_index": 3,
+  "explanation": "The right and left cerebral hemispheres are connected by the corpus callosum.",
+  "source_page": 205,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "43f7cdd0-b57f-59ab-b272-f907f97fe434",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Arrange the meninges of the rabbit brain from outer to inner:",
+  "options": [
+   "Duramater, piamater, arachnoid",
+   "Arachnoid, duramater, piamater",
+   "Piamater, arachnoid, duramater",
+   "Duramater, arachnoid, piamater"
+  ],
+  "answer_index": 3,
+  "explanation": "The brain is covered by an outer duramater, a middle arachnoid and an inner piamater.",
+  "source_page": 205,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3ec9cea3-b5a4-52d7-aa00-423de6bebb9b",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "Which of these is NOT an accessory gland in the male rabbit?",
+  "options": [
+   "Perineal gland",
+   "Cowper's gland",
+   "Prostate gland",
+   "Thyroid gland"
+  ],
+  "answer_index": 3,
+  "explanation": "The three accessory glands are the prostate, Cowper's and perineal glands.",
+  "source_page": 206,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cbaf1da6-6a3e-535a-958f-b248678fdbf6",
+  "chapter_id": "c10-sci-13",
+  "unit_code": "GS1",
+  "question": "The rabbit excretes nitrogenous waste mainly as:",
+  "options": [
+   "Urea",
+   "Guanine",
+   "Uric acid",
+   "Ammonia"
+  ],
+  "answer_index": 0,
+  "explanation": "The kidneys separate nitrogenous wastes from blood and excrete them as urea.",
+  "source_page": 206,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

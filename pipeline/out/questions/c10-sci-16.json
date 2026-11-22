@@ -1,0 +1,866 @@
+[
+ {
+  "id": "5b9fde3f-8c1c-519f-aa66-e2d964cda783",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "The word 'hormone' is derived from a Greek word meaning:",
+  "options": [
+   "To excite",
+   "To grow",
+   "To divide",
+   "To control"
+  ],
+  "answer_index": 0,
+  "explanation": "'Hormon' in Greek means 'to excite'.",
+  "source_page": 237,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "93ac3514-6769-5bdb-b06c-ab82a206534c",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Which plant hormones inhibit plant growth?",
+  "options": [
+   "Auxins and cytokinins",
+   "Abscisic acid and ethylene",
+   "Gibberellins and auxins",
+   "Cytokinins and ethylene"
+  ],
+  "answer_index": 1,
+  "explanation": "Auxins, cytokinins and gibberellins promote growth; abscisic acid and ethylene inhibit it.",
+  "source_page": 238,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a8d3eb58-00fd-55bd-9985-019a54a0f63b",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "The Avena coleoptile experiment showing that a growth chemical diffuses from the tip was conducted by:",
+  "options": [
+   "F.W. Went",
+   "Kogl",
+   "Kurosawa",
+   "Charles Darwin"
+  ],
+  "answer_index": 0,
+  "explanation": "Frits Warmolt Went, a Dutch biologist, used Avena coleoptiles and agar blocks and named the chemical auxin.",
+  "source_page": 238,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "524d2353-4cd2-52ac-a70a-46a1fbbfa066",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Charles Darwin (1880) observed curvature of coleoptiles of:",
+  "options": [
+   "Rice",
+   "Phalaris canariensis (canary grass)",
+   "Maize",
+   "Avena (oat)"
+  ],
+  "answer_index": 1,
+  "explanation": "Darwin observed unilateral growth and curvature in canary grass coleoptiles.",
+  "source_page": 238,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0fdd1641-2d37-5874-979f-0d847fa5efe3",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "The term 'auxin' was introduced in 1931 by:",
+  "options": [
+   "Kogl and Haagen-Smit",
+   "Bayliss and Starling",
+   "Went",
+   "Darwin"
+  ],
+  "answer_index": 0,
+  "explanation": "The term auxin was introduced by Kogl and Haagen-Smit (1931).",
+  "source_page": 238,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f29b0ad3-5cd9-5e55-bd2f-73268c19d320",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Which of the following is NOT naturally found in plants?",
+  "options": [
+   "Gibberellin",
+   "IAA",
+   "2,4-D",
+   "GA3"
+  ],
+  "answer_index": 2,
+  "explanation": "2,4-D (2,4-Dichlorophenoxy acetic acid) is a synthetic auxin; IAA is natural.",
+  "source_page": 238,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b1ed7574-9a7b-5bba-85c6-d4859fbe0236",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "The hormone which has a positive effect on apical dominance is:",
+  "options": [
+   "Auxin",
+   "Ethylene",
+   "Cytokinin",
+   "Gibberellin"
+  ],
+  "answer_index": 0,
+  "explanation": "Auxins from apical buds suppress lateral bud growth (apical dominance); cytokinins counter it.",
+  "source_page": 238,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "35ec385e-cfd8-5a73-9827-439975f9169d",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Development of seedless fruits without fertilization is called:",
+  "options": [
+   "Senescence",
+   "Bolting",
+   "Parthenogenesis",
+   "Parthenocarpy"
+  ],
+  "answer_index": 3,
+  "explanation": "Parthenocarpy can be induced by auxins (watermelon, grapes) and gibberellins (tomato).",
+  "source_page": 238,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "99c6782c-15cb-5bb3-a138-76b2e7ab8fc7",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Which of the following is a synthetic auxin?",
+  "options": [
+   "NAA",
+   "PAA",
+   "IAA",
+   "IAN"
+  ],
+  "answer_index": 0,
+  "explanation": "PAA and IAN are natural; IBA, NAA and 2,4,5-T are synthetic auxins.",
+  "source_page": 238,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5591d85a-b9b2-5008-90fe-cb7148139833",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Cytokinin was first isolated from:",
+  "options": [
+   "Coconut water",
+   "Maize",
+   "Herring fish sperm",
+   "Rice fungus"
+  ],
+  "answer_index": 2,
+  "explanation": "Cytokinin was first isolated from herring fish sperm; zeatin came from Zea mays.",
+  "source_page": 239,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "610b5eda-ebd9-5495-9b85-0eccb6d31a6f",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Cytokinin is found abundantly in:",
+  "options": [
+   "Liquid endosperm of coconut",
+   "Potato tubers",
+   "Ripe bananas",
+   "Root tips"
+  ],
+  "answer_index": 0,
+  "explanation": "Cytokinin is found abundantly in the liquid endosperm of coconut.",
+  "source_page": 239,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4c4d5531-4622-520d-a541-b2037f508973",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "The delay of ageing in plants by cytokinin application is called:",
+  "options": [
+   "Richmond Lang effect",
+   "Bolting",
+   "Apical dominance",
+   "Abscission"
+  ],
+  "answer_index": 0,
+  "explanation": "Application of cytokinin delays ageing, called the Richmond Lang effect.",
+  "source_page": 239,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "018b209d-516f-5472-a48f-15152483c5e7",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Assertion (A): Applying cytokinin to marketed vegetables can keep them fresh for several days. Reason (R): Cytokinins delay senescence.",
+  "options": [
+   "Both A and R are true and R explains A",
+   "Both A and R are true but R does not explain A",
+   "A is true but R is false",
+   "Both A and R are false"
+  ],
+  "answer_index": 0,
+  "explanation": "Cytokinins delay ageing (Richmond Lang effect), which keeps vegetables fresh.",
+  "source_page": 239,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e2ef32de-147c-5f46-b84b-ada3417954d5",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Bakanae ('foolish seedling') disease of rice, observed by Kurosawa in 1926, is caused by the fungus:",
+  "options": [
+   "Puccinia",
+   "Gibberella fujikuroi",
+   "Fusarium",
+   "Aspergillus"
+  ],
+  "answer_index": 1,
+  "explanation": "The internodal elongation was caused by Gibberella fujikuroi; the active substance was gibberellic acid.",
+  "source_page": 239,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9a87b996-9285-51ca-8c05-45353c25ce80",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Which are the most abundantly found plant hormones?",
+  "options": [
+   "Ethylene",
+   "Auxins",
+   "Gibberellins",
+   "Cytokinins"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states gibberellins are the most abundantly found plant hormones.",
+  "source_page": 239,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "166cb1e6-a479-5db5-95f5-7df73ccd2424",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Sudden shoot elongation followed by flowering in rosette plants treated with gibberellin is called:",
+  "options": [
+   "Abscission",
+   "Vernalisation",
+   "Parthenocarpy",
+   "Bolting"
+  ],
+  "answer_index": 3,
+  "explanation": "Gibberellin treatment of rosette plants induces bolting.",
+  "source_page": 239,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9a10dffd-8e1d-5e1c-958d-edc311f733fd",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Which hormone promotes the production of male flowers in cucurbits?",
+  "options": [
+   "Ethylene",
+   "Gibberellin",
+   "Auxin",
+   "Abscisic acid"
+  ],
+  "answer_index": 1,
+  "explanation": "Gibberellins promote male flowers in monoecious plants such as cucurbits.",
+  "source_page": 240,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "eb5aa28c-3390-5a92-87e6-3a0d52a0ea46",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Which hormone breaks the dormancy of potato tubers?",
+  "options": [
+   "Gibberellin",
+   "Auxin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "answer_index": 0,
+  "explanation": "Gibberellins break dormancy of potato tubers.",
+  "source_page": 240,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "79194684-598e-52d0-ab5f-bd4a6a7b8e93",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Abscisic acid is called the stress hormone because it:",
+  "options": [
+   "Causes cell division",
+   "Ripens fruits",
+   "Promotes rapid growth",
+   "Increases the plant's tolerance to various stresses, e.g. closing stomata in drought"
+  ],
+  "answer_index": 3,
+  "explanation": "ABA increases tolerance to stress and causes stomatal closure during water stress.",
+  "source_page": 240,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "042c4d28-286a-51da-9558-483bd34bb476",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Abscisic acid is found in the plant's:",
+  "options": [
+   "Root tip",
+   "Chloroplast",
+   "Coleoptile",
+   "Coconut water"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states ABA is found in the chloroplast of plants.",
+  "source_page": 240,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6376f350-2898-585b-8183-eaf858fc493c",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Unripe tomatoes kept in a closed bag with a ripe banana ripen faster because the banana releases:",
+  "options": [
+   "Auxin",
+   "Gibberellin",
+   "Carbon dioxide",
+   "Ethylene"
+  ],
+  "answer_index": 3,
+  "explanation": "The ripening banana produces ethylene gas, which ripens the tomatoes.",
+  "source_page": 240,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4ec955e0-d23b-5b11-ae96-3ba9437addc1",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Match the plant hormone with its source: A. Auxin  B. Gibberellin  C. Cytokinin  D. Abscisic acid with 1. Chloroplast  2. Coconut milk  3. Gibberella fujikuroi  4. Coleoptile tip",
+  "options": [
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-3, C-2, D-1",
+   "A-4, B-2, C-3, D-1",
+   "A-2, B-3, C-4, D-1"
+  ],
+  "answer_index": 1,
+  "explanation": "Auxin from the coleoptile tip, gibberellin from the fungus, cytokinin in coconut milk, ABA in the chloroplast.",
+  "source_page": 240,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "338afbd2-dbfc-5ad4-bc5e-41fd24c5bd15",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Who is known as the Father of Endocrinology?",
+  "options": [
+   "Frederick Banting",
+   "Thomas Addison",
+   "W.M. Bayliss",
+   "E.H. Starling"
+  ],
+  "answer_index": 1,
+  "explanation": "Thomas Addison is known as the Father of Endocrinology.",
+  "source_page": 240,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "aa9d3c99-4f4b-5bba-b063-875e718f4db6",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "The term 'hormone' was introduced in 1909 by:",
+  "options": [
+   "Banting and Best",
+   "Bayliss and Starling",
+   "Harrington and Barger",
+   "Kogl and Haagen-Smit"
+  ],
+  "answer_index": 1,
+  "explanation": "English physiologists W.M. Bayliss and E.H. Starling coined the term and discovered secretin.",
+  "source_page": 240,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "eca62c24-adf3-5c97-b14c-f704adfd6f8d",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Which of these is an exocrine gland?",
+  "options": [
+   "Salivary gland",
+   "Adrenal gland",
+   "Pituitary gland",
+   "Thyroid gland"
+  ],
+  "answer_index": 0,
+  "explanation": "Exocrine glands have ducts, e.g. salivary, mammary and sweat glands.",
+  "source_page": 240,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "146d9f39-41c8-5dc2-bcc4-76b2858c4731",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Which gland is called the 'Master gland'?",
+  "options": [
+   "Adrenal gland",
+   "Thyroid gland",
+   "Pituitary gland",
+   "Pineal gland"
+  ],
+  "answer_index": 2,
+  "explanation": "The pituitary regulates and controls other endocrine glands.",
+  "source_page": 241,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2088691d-b6af-5b19-bc4c-ce973ab4b05c",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Excess secretion of growth hormone in adults causes:",
+  "options": [
+   "Dwarfism",
+   "Acromegaly",
+   "Gigantism",
+   "Cretinism"
+  ],
+  "answer_index": 1,
+  "explanation": "In adults, excess GH enlarges head, face, hands and feet (acromegaly); in children it causes gigantism.",
+  "source_page": 241,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c46df1ef-e5ba-55f5-ad5f-9ede3114d1bf",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "LH is secreted by the:",
+  "options": [
+   "Adrenal gland",
+   "Thyroid gland",
+   "Hypothalamus",
+   "Anterior pituitary"
+  ],
+  "answer_index": 3,
+  "explanation": "Luteinizing hormone is one of the gonadotropins of the anterior pituitary.",
+  "source_page": 241,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0e6b2e1d-b898-5dd1-bbca-331781fba9e2",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Which hormone causes ovulation (rupture of the mature Graafian follicle)?",
+  "options": [
+   "Oxytocin",
+   "LH",
+   "Prolactin",
+   "FSH"
+  ],
+  "answer_index": 1,
+  "explanation": "LH causes ovulation and development of the corpus luteum.",
+  "source_page": 241,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8cdd616f-4f39-5f2d-b84a-4fea6f5c5107",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Deficiency of ADH (vasopressin) causes:",
+  "options": [
+   "Diabetes mellitus",
+   "Tetany",
+   "Diabetes insipidus",
+   "Goitre"
+  ],
+  "answer_index": 2,
+  "explanation": "Lack of ADH reduces water reabsorption, causing polyuria: diabetes insipidus.",
+  "source_page": 241,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7dea85ac-6575-5296-8eeb-adeb56931750",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Which hormone is responsible for milk production after childbirth?",
+  "options": [
+   "Prolactin",
+   "Oxytocin",
+   "Progesterone",
+   "Estrogen"
+  ],
+  "answer_index": 0,
+  "explanation": "Prolactin (lactogenic hormone) stimulates milk production; oxytocin causes milk ejection.",
+  "source_page": 241,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0083a7b1-f0e4-5345-a056-20dcb560a132",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Melatonin, called the 'time messenger', is produced by the:",
+  "options": [
+   "Thymus",
+   "Pituitary gland",
+   "Pineal gland",
+   "Thyroid"
+  ],
+  "answer_index": 2,
+  "explanation": "Melatonin from the pineal gland signals night-time information throughout the body.",
+  "source_page": 242,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7b4343b5-bc18-58c1-bac6-34cd0c292567",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Thyroid hormone is called the 'personality hormone' because it:",
+  "options": [
+   "Controls water balance",
+   "Is essential for normal physical, mental and personality development",
+   "Causes ovulation",
+   "Controls blood sugar"
+  ],
+  "answer_index": 1,
+  "explanation": "Thyroid hormones are essential for normal physical, mental and personality development.",
+  "source_page": 243,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a47d8135-3b41-5526-87fb-28f914abdd86",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "How much iodine does the thyroid gland require every day?",
+  "options": [
+   "12 µg",
+   "500 µg",
+   "120 µg",
+   "50 µg"
+  ],
+  "answer_index": 2,
+  "explanation": "The thyroid gland requires 120 µg of iodine every day to produce thyroxine.",
+  "source_page": 243,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "aa421acd-66ea-5746-96f0-959529b42431",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Who first crystallised thyroxine, in 1914?",
+  "options": [
+   "Frederick Banting",
+   "Edward C. Kendal",
+   "Thomas Addison",
+   "Charles Harrington"
+  ],
+  "answer_index": 1,
+  "explanation": "Kendal crystallised thyroxine in 1914; Harrington and Barger found its structure in 1927.",
+  "source_page": 243,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ac86fd20-b0d7-56c8-af57-7b3577940112",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Simple goitre is common in the Himalayan regions because of:",
+  "options": [
+   "Low iodine content in the soil",
+   "Excess calcium",
+   "Cold climate",
+   "Excess thyroxine"
+  ],
+  "answer_index": 0,
+  "explanation": "Goitre is caused by inadequate dietary iodine, common where soil iodine is low.",
+  "source_page": 243,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "522b73e6-76d3-5d83-b6c2-91b7a201b2b8",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Match the disorder with its cause: A. Cretinism  B. Myxoedema  C. Grave's disease with 1. Excess thyroid hormones  2. Thyroid deficiency in adults  3. Thyroid deficiency in children",
+  "options": [
+   "A-3, B-1, C-2",
+   "A-3, B-2, C-1",
+   "A-2, B-3, C-1",
+   "A-1, B-2, C-3"
+  ],
+  "answer_index": 1,
+  "explanation": "Cretinism: deficiency in children; myxoedema: deficiency in adults; Grave's disease: hyperthyroidism.",
+  "source_page": 243,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a27448be-ac15-5cae-91ad-0398d8b264fd",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Calcium metabolism of the body is controlled by:",
+  "options": [
+   "Parathormone",
+   "Thyroxine",
+   "Insulin",
+   "Aldosterone"
+  ],
+  "answer_index": 0,
+  "explanation": "Parathormone regulates calcium and phosphorus metabolism, acting on bone, kidney and intestine.",
+  "source_page": 243,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e61c4d5b-3324-5bd5-9808-159ed4c3cf25",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Which organ acts as both an exocrine and an endocrine gland?",
+  "options": [
+   "Liver",
+   "Kidney",
+   "Pancreas",
+   "Lungs"
+  ],
+  "answer_index": 2,
+  "explanation": "The exocrine pancreas secretes pancreatic juice; the islets of Langerhans secrete hormones.",
+  "source_page": 244,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "163bb971-bf2e-57c3-85d1-c0428a48aa9e",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "In the islets of Langerhans, beta cells secrete:",
+  "options": [
+   "Insulin",
+   "Thymosin",
+   "Glucagon",
+   "Somatostatin"
+  ],
+  "answer_index": 0,
+  "explanation": "Alpha cells secrete glucagon and beta cells secrete insulin.",
+  "source_page": 244,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f386ea01-2f51-5a21-9b80-e13c4199c220",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Increased thirst in diabetes mellitus is called:",
+  "options": [
+   "Polydipsia",
+   "Glycosuria",
+   "Polyphagia",
+   "Polyuria"
+  ],
+  "answer_index": 0,
+  "explanation": "Polyuria is frequent urination, polyphagia increased appetite, polydipsia increased thirst.",
+  "source_page": 244,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d5fa54d7-026e-515f-8b2a-b4084544a7b8",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Insulin was first used to treat diabetes on:",
+  "options": [
+   "11 January 1909",
+   "14 November 1921",
+   "11 January 1922",
+   "1 January 1921"
+  ],
+  "answer_index": 2,
+  "explanation": "Discovered by Banting, Best and MacLeod in 1921, insulin was first used on 11 January 1922.",
+  "source_page": 244,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fe702e4e-bbb6-53ab-8433-d5c3ddba3fde",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Which hormone of the adrenal cortex is called the 'life-saving hormone'?",
+  "options": [
+   "Adrenaline",
+   "Aldosterone",
+   "Cortisol",
+   "Noradrenaline"
+  ],
+  "answer_index": 2,
+  "explanation": "Cortisol helps the body recover from severe stress and is life saving in shock conditions.",
+  "source_page": 245,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "496dda03-d6f6-5ec1-8ca6-bf57b073e491",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Aldosterone, secreted by the zona glomerulosa, helps to:",
+  "options": [
+   "Stimulate lymphocytes",
+   "Convert glucose to glycogen",
+   "Reabsorb sodium ions from renal tubules",
+   "Increase heart rate in emergency"
+  ],
+  "answer_index": 2,
+  "explanation": "Aldosterone reabsorbs sodium, increases potassium excretion and regulates electrolyte balance.",
+  "source_page": 245,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d4843ccc-ae0b-5bcb-a06d-c082ecb0079e",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "A student sweats a lot with an increased heart rate just before an exam. This is due to:",
+  "options": [
+   "Adrenaline (epinephrine)",
+   "Thyroxine",
+   "Prolactin",
+   "Insulin"
+  ],
+  "answer_index": 0,
+  "explanation": "Adrenaline, the emergency 'flight, fright and fight' hormone, increases heart beat during stress.",
+  "source_page": 245,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f2d3cc90-a6a1-5aa2-8d74-d730a371234e",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Progesterone is secreted by the:",
+  "options": [
+   "Graafian follicle",
+   "Thymus",
+   "Corpus luteum",
+   "Leydig cells"
+  ],
+  "answer_index": 2,
+  "explanation": "Estrogen comes from Graafian follicles and progesterone from the corpus luteum.",
+  "source_page": 246,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "31562cce-e6e8-5838-8f92-ede34982ccb9",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Testosterone is secreted by which cells of the testes?",
+  "options": [
+   "Chromaffin cells",
+   "Sertoli cells",
+   "Germinal epithelium",
+   "Leydig cells"
+  ],
+  "answer_index": 3,
+  "explanation": "Leydig cells form the endocrine part of the testes and secrete testosterone.",
+  "source_page": 246,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7690f9f5-f800-5ade-916b-1a40b4759029",
+  "chapter_id": "c10-sci-16",
+  "unit_code": "GS1",
+  "question": "Thymosin, secreted by the thymus, mainly:",
+  "options": [
+   "Controls metabolism",
+   "Stimulates production and differentiation of lymphocytes",
+   "Regulates blood calcium",
+   "Causes ovulation"
+  ],
+  "answer_index": 1,
+  "explanation": "Thymosin stimulates immune function and lymphocyte production.",
+  "source_page": 246,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

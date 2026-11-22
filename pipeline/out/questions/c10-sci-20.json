@@ -1,0 +1,830 @@
+[
+ {
+  "id": "8ef5b5a7-104d-5a2a-a639-ab6d3455e1c1",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "By 2050 India's population is likely to reach 1.7 billion. At current rates, food production would meet what share of demand then?",
+  "options": [
+   "39 %",
+   "59 %",
+   "100 %",
+   "79 %"
+  ],
+  "answer_index": 1,
+  "explanation": "Current food production would meet only 59 % of the country's food demand in 2050.",
+  "source_page": 294,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f456aa30-d13e-574f-bb65-bbb79aa967ed",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Who is known as the 'Father of the Green Revolution' and received the Nobel Peace Prize in 1970?",
+  "options": [
+   "M.S. Swaminathan",
+   "Norman E. Borlaug",
+   "Verghese Kurien",
+   "G. Nammalvar"
+  ],
+  "answer_index": 1,
+  "explanation": "Dr Norman E. Borlaug, an American agronomist, received the Nobel Peace Prize in 1970.",
+  "source_page": 294,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0a54301e-543d-5e60-a571-6846fecac7d1",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Who is called the 'Father of the Indian Green Revolution'?",
+  "options": [
+   "M.S. Swaminathan",
+   "Birbal Sahni",
+   "C. Subramaniam",
+   "Norman Borlaug"
+  ],
+  "answer_index": 0,
+  "explanation": "Dr M.S. Swaminathan led India's Green Revolution by introducing Mexican wheat varieties.",
+  "source_page": 295,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "989e178b-de63-5c22-8c69-689a92b569c9",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Sonalika and Kalyan Sona are semi-dwarf varieties of:",
+  "options": [
+   "Wheat",
+   "Rice",
+   "Maize",
+   "Sugarcane"
+  ],
+  "answer_index": 0,
+  "explanation": "They were developed from high-yielding, fertilizer-responsive semi-dwarf wheat from Mexico.",
+  "source_page": 295,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3238dd15-aa7a-5050-93c3-d1a28fee08a1",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "The 'miracle rice' which saved millions of lives and celebrated its 50th birthday is:",
+  "options": [
+   "Atomita 2",
+   "IR-8",
+   "IR-24",
+   "Ponni"
+  ],
+  "answer_index": 1,
+  "explanation": "IR-8, a semi-dwarf rice from IRRI, Philippines, was introduced in India in 1966.",
+  "source_page": 295,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6698fb77-b13e-5c35-8d21-553a72346d1e",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "IR-8 was developed by crossing:",
+  "options": [
+   "Sonora-64 and Kalyan Sona",
+   "Taichung and Ponni",
+   "Basmati and Peta",
+   "Peta (Indonesia) and Dee-geo-woo-gen (China)"
+  ],
+  "answer_index": 3,
+  "explanation": "IR-8 is a hybrid of Peta from Indonesia and the Chinese dwarf variety Dee-geo-woo-gen.",
+  "source_page": 295,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "656a77ff-4661-5db3-8a20-6ba751d5a24d",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Due to M.S. Swaminathan's efforts, India's wheat production rose from about 12 million tonnes in the 1960s to about:",
+  "options": [
+   "50 million tonnes",
+   "30 million tonnes",
+   "70 million tonnes",
+   "100 million tonnes"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says wheat production rose from twelve million tonnes to seventy million tonnes.",
+  "source_page": 295,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7777505e-f6fc-5776-a5e9-fdf6684a2e5c",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Dr G. Nammalvar (1938-2013), a Tamil scientist, is best known as an expert in:",
+  "options": [
+   "Animal breeding",
+   "Mutation breeding",
+   "Genetic engineering",
+   "Organic farming"
+  ],
+  "answer_index": 3,
+  "explanation": "Nammalvar was an organic farming expert who founded the Vanagam trust.",
+  "source_page": 295,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cb493a81-89eb-5227-afa6-e97be896885b",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Himgiri, developed for resistance against rust pathogens, is a variety of:",
+  "options": [
+   "Chilli",
+   "Sugarcane",
+   "Maize",
+   "Wheat"
+  ],
+  "answer_index": 3,
+  "explanation": "Himgiri wheat resists leaf and stripe rust and hill bunt.",
+  "source_page": 295,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "66e5b63e-a485-59b7-9e80-07f81083f01b",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Pusa Komal is a disease-resistant variety of:",
+  "options": [
+   "Rice",
+   "Sugarcane",
+   "Cowpea",
+   "Maize"
+  ],
+  "answer_index": 2,
+  "explanation": "Pusa Komal cowpea resists bacterial blight.",
+  "source_page": 295,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "50c3d7ad-a784-5d6c-a1a0-0abd5bbe1d8c",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Match the variety with its crop: A. Pusa Gaurav  B. Pusa Sawani  C. Pusa Shubhra  D. Himgiri with 1. Cauliflower  2. Lady's finger  3. Brassica  4. Wheat",
+  "options": [
+   "A-3, B-1, C-2, D-4",
+   "A-3, B-2, C-1, D-4",
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-3, C-1, D-4"
+  ],
+  "answer_index": 1,
+  "explanation": "Pusa Gaurav: brassica (aphids); Pusa Sawani: okra; Pusa Shubhra: cauliflower; Himgiri: wheat.",
+  "source_page": 296,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1f42532a-e457-57fb-96bb-1f68f3527e21",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "The scientific process of developing crops enriched with vitamins, proteins and minerals is called:",
+  "options": [
+   "Biomagnification",
+   "Mutation breeding",
+   "Biofortification",
+   "Hybridisation"
+  ],
+  "answer_index": 2,
+  "explanation": "Biofortification develops crop plants with high levels of desirable nutrients.",
+  "source_page": 296,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cdc23d01-5af0-5d03-98f2-9376ff0e6a59",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Protina, Shakti and Rathna are lysine-rich hybrids of:",
+  "options": [
+   "Maize",
+   "Wheat",
+   "Bajra",
+   "Rice"
+  ],
+  "answer_index": 0,
+  "explanation": "They are lysine-rich maize hybrids developed in India.",
+  "source_page": 296,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4b9ea123-b473-50f4-9d6e-c80b6c4450a6",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "A protein-rich wheat variety is:",
+  "options": [
+   "Himgiri",
+   "Sonalika",
+   "Kalyan Sona",
+   "Atlas 66"
+  ],
+  "answer_index": 3,
+  "explanation": "Atlas 66 is a protein-rich wheat variety developed by biofortification.",
+  "source_page": 296,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d91d552b-2eca-56ff-8387-1f358829499f",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Imported plant materials are tested before introduction in fields in a:",
+  "options": [
+   "Gamma garden",
+   "Greenhouse",
+   "Seed bank",
+   "Plant quarantine"
+  ],
+  "answer_index": 3,
+  "explanation": "Exotic plants may carry pathogens, so they are tested in plant quarantine.",
+  "source_page": 296,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fdab40e0-e2a4-5ffd-9fdc-5625758dc2d5",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Which method of crop improvement can be practised by an inexperienced farmer?",
+  "options": [
+   "Clonal selection",
+   "Hybridisation",
+   "Pureline selection",
+   "Mass selection"
+  ],
+  "answer_index": 3,
+  "explanation": "Mass selection simply collects seeds of the best plants from a mixed population over generations.",
+  "source_page": 297,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "723d884f-17b9-5492-b757-2cf77522d050",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Groundnut varieties TMV-2 and AK-10 were developed by:",
+  "options": [
+   "Mutation breeding",
+   "Polyploidy breeding",
+   "Pureline selection",
+   "Mass selection"
+  ],
+  "answer_index": 3,
+  "explanation": "TMV-2 and AK-10 are common examples of mass selection.",
+  "source_page": 297,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "aa315a93-2bf6-5fe6-b0c9-7c46490bee03",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "A group of plants produced from a single plant through vegetative reproduction is called a:",
+  "options": [
+   "Pureline",
+   "Hybrid",
+   "Mutant",
+   "Clone"
+  ],
+  "answer_index": 3,
+  "explanation": "Clones arise from a single plant by vegetative or asexual reproduction and are genetically identical.",
+  "source_page": 297,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "92923179-3d5b-5690-bc8e-b57d971ef78a",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "The chemical used for doubling chromosome number in polyploidy breeding is:",
+  "options": [
+   "Nitrous acid",
+   "Colchicine",
+   "Mustard gas",
+   "Gibberellin"
+  ],
+  "answer_index": 1,
+  "explanation": "Polyploidy can be induced by chemical agents like colchicine.",
+  "source_page": 297,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2cc097dd-027c-5288-8624-d4ff13b34ca9",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "TV-29, with larger shoots and drought tolerance, is a triploid variety of:",
+  "options": [
+   "Watermelon",
+   "Banana",
+   "Tea",
+   "Coffee"
+  ],
+  "answer_index": 2,
+  "explanation": "TV-29 is a triploid tea variety achieved by polyploidy breeding.",
+  "source_page": 297,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "57d1e6d9-d9ba-51c0-bb4b-afa43e6cadbd",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Seedless watermelons and bananas are:",
+  "options": [
+   "Hexaploid (6n)",
+   "Diploid (2n)",
+   "Triploid (3n)",
+   "Tetraploid (4n)"
+  ],
+  "answer_index": 2,
+  "explanation": "Seedless watermelons and bananas are triploid (3n).",
+  "source_page": 297,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e40c3282-75e7-57aa-901e-8cec7f510f67",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Which of the following is a chemical mutagen?",
+  "options": [
+   "X-rays",
+   "Gamma rays",
+   "UV rays",
+   "Mustard gas"
+  ],
+  "answer_index": 3,
+  "explanation": "Mustard gas and nitrous acid are chemical mutagens; radiations are physical mutagens.",
+  "source_page": 298,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a569c0fe-7140-5997-9ebf-0f12ba7cd851",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "The radioactive sources used in a gamma garden for mutation breeding are:",
+  "options": [
+   "Uranium-235 and Plutonium",
+   "Cobalt-60 or Caesium-137",
+   "Radium",
+   "Carbon-14"
+  ],
+  "answer_index": 1,
+  "explanation": "Gamma rays from Cobalt-60 or Caesium-137 induce desirable mutations.",
+  "source_page": 298,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fcc81d66-b640-5b9f-9225-6bb71c05679c",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Sharbati Sonora wheat was produced from Sonora-64 by:",
+  "options": [
+   "Introduction",
+   "Polyploidy",
+   "Hybridisation",
+   "Gamma ray mutation"
+  ],
+  "answer_index": 3,
+  "explanation": "Sharbati Sonora was produced from Sonora-64 using gamma rays.",
+  "source_page": 298,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "08a801bd-779a-516d-aabf-77693d582951",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Which rice variety, produced by mutation breeding, tolerates saline soil?",
+  "options": [
+   "Ponni",
+   "IR-8",
+   "Golden Rice",
+   "Atomita 2"
+  ],
+  "answer_index": 3,
+  "explanation": "Atomita 2 rice has saline tolerance and pest resistance.",
+  "source_page": 298,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0f51816f-7d3c-5088-b797-8fb42be84616",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Triticale, the first man-made cereal, is a hybrid of:",
+  "options": [
+   "Wheat and rice",
+   "Rice and maize",
+   "Barley and oats",
+   "Wheat and rye"
+  ],
+  "answer_index": 3,
+  "explanation": "It comes from wheat (2n = 28) × rye (2n = 14), doubled with colchicine to 2n = 42.",
+  "source_page": 298,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "37871e63-92cc-533b-8e44-34287cccb9af",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "In hexaploid wheat (2n = 6x = 42), the haploid (n) and basic (x) chromosome numbers are:",
+  "options": [
+   "n = 21, x = 7",
+   "n = 7, x = 21",
+   "n = 7, x = 7",
+   "n = 21, x = 21"
+  ],
+  "answer_index": 0,
+  "explanation": "n = 42/2 = 21 and x = 42/6 = 7.",
+  "source_page": 298,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dc60e3cc-77bc-5322-9a1b-e57c129b6c47",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Mating of closely related animals within the same breed for 4-6 generations is:",
+  "options": [
+   "Cross breeding",
+   "Interspecific hybridisation",
+   "Inbreeding",
+   "Outbreeding"
+  ],
+  "answer_index": 2,
+  "explanation": "Inbreeding accumulates superior genes but continued inbreeding causes inbreeding depression.",
+  "source_page": 299,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "06fb4e10-78e8-5b9e-be94-b59dad9cd552",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Hissardale, a breed of sheep developed in Punjab, comes from crossing:",
+  "options": [
+   "Merino ewes and Rambouillet rams",
+   "Deccani ewes and Corriedale rams",
+   "Bikaneri ewes and Australian Merino rams",
+   "Nellore ewes and Merino rams"
+  ],
+  "answer_index": 2,
+  "explanation": "Hissardale was developed by crossing Bikaneri (Magra) ewes and Australian Merino rams.",
+  "source_page": 299,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "34a5f44c-f7e9-5ba3-b38f-a3abe01c9b78",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "A mule is produced by crossing a:",
+  "options": [
+   "Male donkey and female zebra",
+   "Male donkey and female horse",
+   "Male zebra and female horse",
+   "Male horse and female donkey"
+  ],
+  "answer_index": 1,
+  "explanation": "Male donkey × female horse gives the mule, strong and disease-resistant but sterile.",
+  "source_page": 299,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5df2522f-2ec0-5cc1-8f42-d4519ded5985",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Karan Swiss cows yield how much milk compared with indigenous cows?",
+  "options": [
+   "Half",
+   "10 times more",
+   "2-3 times more",
+   "Same"
+  ],
+  "answer_index": 2,
+  "explanation": "Karan Swiss (Brown Swiss × Sahiwal) yields 2-3 times more milk.",
+  "source_page": 299,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ca184bd8-43fb-5cbd-83a4-10affb6d1a3e",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "The superiority of a hybrid obtained by cross breeding is called:",
+  "options": [
+   "Atavism",
+   "Polyploidy",
+   "Inbreeding depression",
+   "Heterosis (hybrid vigour)"
+  ],
+  "answer_index": 3,
+  "explanation": "Heterosis or hybrid vigour gives more milk, eggs, better meat and faster growth.",
+  "source_page": 299,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "643e3ab1-d9d4-5fbd-9ab9-240b6854095a",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Genetic engineering is also called:",
+  "options": [
+   "Hybridisation",
+   "Tissue culture",
+   "Mutation breeding",
+   "Recombinant DNA technology"
+  ],
+  "answer_index": 3,
+  "explanation": "Joining DNA from two different sources creates recombinant DNA, so it is called rDNA technology.",
+  "source_page": 300,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d69827f3-db83-5bab-b503-e343b686acad",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Enzymes that cut DNA at specific sites, called 'molecular scissors', are:",
+  "options": [
+   "DNA ligases",
+   "DNA polymerases",
+   "Restriction endonucleases",
+   "RNAase"
+  ],
+  "answer_index": 2,
+  "explanation": "Restriction enzymes cut DNA at specific palindromic sites; DNA ligase joins fragments.",
+  "source_page": 300,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3488fae1-3418-5f3b-8bdb-71a0261ba988",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "A plasmid is:",
+  "options": [
+   "A small circular double-stranded DNA in bacterial cytoplasm that replicates independently",
+   "A protein coat of a virus",
+   "A linear single-stranded RNA",
+   "A chromosome of yeast"
+  ],
+  "answer_index": 0,
+  "explanation": "Plasmids are small circular dsDNA separate from chromosomal DNA, used as vectors.",
+  "source_page": 300,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "aaa06b39-69af-5435-81ca-75af5dbe76f0",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Dolly, the first cloned sheep, was developed at the Roslin Institute, Scotland, in:",
+  "options": [
+   "1996",
+   "2003",
+   "1990",
+   "2000"
+  ],
+  "answer_index": 0,
+  "explanation": "Dolly was developed by Dr Ian Wilmut in July 1996 by somatic cell nuclear transfer; she died in 2003.",
+  "source_page": 301,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "abdb56aa-197f-57e7-affa-95013b71a3ca",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Commercial production of human insulin by rDNA technology was first started in 1979 by:",
+  "options": [
+   "Pfizer",
+   "Roslin Institute",
+   "Genentech",
+   "Eli Lilly and Company"
+  ],
+  "answer_index": 3,
+  "explanation": "Eli Lilly and Company, United States, started it in 1979.",
+  "source_page": 301,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b138954d-8960-5ea6-9f50-f357d9c815e5",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Gene therapy was first successfully implemented in:",
+  "options": [
+   "2003",
+   "1990",
+   "1979",
+   "1996"
+  ],
+  "answer_index": 1,
+  "explanation": "Gene therapy, replacing defective genes with functional ones, was first implemented in 1990.",
+  "source_page": 301,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "58175021-624b-5f4b-8e7a-d4cc5772ee58",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Why is the correction by somatic gene therapy not passed to the next generation?",
+  "options": [
+   "Because it targets germ cells",
+   "Because it uses RNA",
+   "Because the gene is destroyed",
+   "Because it targets only somatic (non-reproductive) cells"
+  ],
+  "answer_index": 3,
+  "explanation": "Gene therapy so far targets somatic cells, so the corrected gene is not inherited.",
+  "source_page": 301,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b6f76b7f-bdab-5270-934b-4ab418778d07",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Embryonic stem cells are derived from the:",
+  "options": [
+   "Umbilical cord",
+   "Amniotic fluid",
+   "Bone marrow",
+   "Inner cell mass of the blastocyst"
+  ],
+  "answer_index": 3,
+  "explanation": "Embryonic stem cells come from the inner cell mass; adult stem cells from bone marrow, cord and amniotic fluid.",
+  "source_page": 302,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e830cdee-966e-5e5a-aae8-5fd13c727808",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Which disorders can be treated by replacing lost neurons with neuronal stem cells?",
+  "options": [
+   "Malaria and typhoid",
+   "Diabetes and anaemia",
+   "Goitre and rickets",
+   "Parkinson's and Alzheimer's disease"
+  ],
+  "answer_index": 3,
+  "explanation": "Neuronal stem cells can replace damaged neurons in neurodegenerative disorders.",
+  "source_page": 302,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3251f837-d766-5fde-bdad-89238101b927",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "DNA fingerprinting was developed by:",
+  "options": [
+   "Alec Jeffreys",
+   "Kary Mullis",
+   "Watson and Crick",
+   "Ian Wilmut"
+  ],
+  "answer_index": 0,
+  "explanation": "The DNA fingerprinting technique was developed by Alec Jeffreys.",
+  "source_page": 302,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3ffb97e9-59d1-5a5d-9f7c-00b868dfe729",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "DNA fingerprinting is based on identifying ______ sequences of DNA.",
+  "options": [
+   "Single-stranded",
+   "Mutated",
+   "Repetitive (VNTRs)",
+   "Polymorphic"
+  ],
+  "answer_index": 2,
+  "explanation": "Variable number of tandem repeats (VNTRs) in satellite DNA serve as molecular markers.",
+  "source_page": 302,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9b457c48-9377-58de-ab1e-9d4c2eca9fef",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "What percentage of human DNA base sequences are the same in all individuals?",
+  "options": [
+   "99 %",
+   "100 %",
+   "90 %",
+   "50 %"
+  ],
+  "answer_index": 0,
+  "explanation": "99 % is common (bulk genomic DNA); the 1 % that differs is satellite DNA.",
+  "source_page": 302,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "35968c37-595a-5be1-8870-dbcd519737a3",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "Golden Rice is genetically modified to produce:",
+  "options": [
+   "Lysine",
+   "Beta carotene",
+   "Insulin",
+   "Bt toxin"
+  ],
+  "answer_index": 1,
+  "explanation": "Golden Rice carries the beta carotene gene, helping prevent vitamin A deficiency.",
+  "source_page": 303,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f6a27f46-3e37-5931-80c6-d5950481758f",
+  "chapter_id": "c10-sci-20",
+  "unit_code": "GS1",
+  "question": "The Bt gene used in insect-resistant crops comes from:",
+  "options": [
+   "Rhizobium",
+   "Bacillus thuringiensis",
+   "Agrobacterium",
+   "Escherichia coli"
+  ],
+  "answer_index": 1,
+  "explanation": "The Bt gene from Bacillus thuringiensis produces a protein toxic to insects.",
+  "source_page": 303,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

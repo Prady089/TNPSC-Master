@@ -3505,7 +3505,9 @@
       99,
       113
      ],
-     "words": 5900
+     "words": 5900,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-08",
@@ -3520,7 +3522,9 @@
       114,
       131
      ],
-     "words": 7202
+     "words": 7202,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-09",
@@ -3535,7 +3539,9 @@
       132,
       144
      ],
-     "words": 4540
+     "words": 4540,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-10",
@@ -3550,7 +3556,9 @@
       145,
       162
      ],
-     "words": 7338
+     "words": 7338,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-11",
@@ -3565,7 +3573,9 @@
       163,
       180
      ],
-     "words": 6434
+     "words": 6434,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-12",
@@ -3580,7 +3590,9 @@
       181,
       194
      ],
-     "words": 4347
+     "words": 4347,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-13",
@@ -3595,7 +3607,9 @@
       195,
       207
      ],
-     "words": 4245
+     "words": 4245,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-14",
@@ -3610,7 +3624,9 @@
       208,
       225
      ],
-     "words": 6648
+     "words": 6648,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-15",
@@ -3625,7 +3641,9 @@
       226,
       236
      ],
-     "words": 3969
+     "words": 3969,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-16",
@@ -3640,7 +3658,9 @@
       237,
       250
      ],
-     "words": 4694
+     "words": 4694,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-17",
@@ -3655,7 +3675,9 @@
       251,
       268
      ],
-     "words": 6360
+     "words": 6360,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-18",
@@ -3670,7 +3692,9 @@
       269,
       281
      ],
-     "words": 4762
+     "words": 4762,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-19",
@@ -3685,7 +3709,9 @@
       282,
       293
      ],
-     "words": 4022
+     "words": 4022,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-20",
@@ -3700,7 +3726,9 @@
       294,
       307
      ],
-     "words": 4649
+     "words": 4649,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-21",
@@ -3715,7 +3743,9 @@
       308,
       322
      ],
-     "words": 5697
+     "words": 5697,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-22",
@@ -3730,7 +3760,9 @@
       323,
       336
      ],
-     "words": 5405
+     "words": 5405,
+     "relevant": true,
+     "enriched": true
     },
     {
      "id": "c10-sci-23",
@@ -3745,7 +3777,9 @@
       337,
       341
      ],
-     "words": 1186
+     "words": 1186,
+     "relevant": false,
+     "enriched": true
     }
    ]
   },

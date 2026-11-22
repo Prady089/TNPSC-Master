@@ -1,0 +1,740 @@
+[
+ {
+  "id": "0c72bd1d-66f5-5ac0-9f84-26c4280df3de",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "According to the Big Bang theory, the universe originated about:",
+  "options": [
+   "4.5 billion years ago",
+   "1 billion years ago",
+   "15 billion years ago",
+   "500 million years ago"
+  ],
+  "answer_index": 2,
+  "explanation": "The Big Bang theory proposes the universe originated about 15 billion years ago.",
+  "source_page": 282,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "acc2b432-ff49-50f2-a606-bcfc6109da81",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The Earth is believed to have formed about:",
+  "options": [
+   "4.5 billion years ago",
+   "65 million years ago",
+   "15 billion years ago",
+   "500 million years ago"
+  ],
+  "answer_index": 0,
+  "explanation": "Earth formed about 4.5 billion years ago; life appeared 500 million years later.",
+  "source_page": 282,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4acf14b4-1abd-531f-a498-fe40e41b4fb0",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The belief that fishes arose from mud and frogs from moist soil is the theory of:",
+  "options": [
+   "Special creation",
+   "Spontaneous generation (abiogenesis)",
+   "Panspermia",
+   "Biogenesis"
+  ],
+  "answer_index": 1,
+  "explanation": "Spontaneous generation held that life arose from lifeless matter.",
+  "source_page": 282,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4b01c1ba-5feb-57df-801c-e32d202c76f2",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Who showed in 1862 that life originates from pre-existing life?",
+  "options": [
+   "Oparin",
+   "Charles Darwin",
+   "Louis Pasteur",
+   "Haldane"
+  ],
+  "answer_index": 2,
+  "explanation": "Louis Pasteur (1862) proposed biogenesis using sterilised flasks with killed yeast.",
+  "source_page": 282,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "238fb06a-6442-565e-a4b2-5fcba23e7e0e",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The theory that units of life (spores) came to Earth from outer space is called:",
+  "options": [
+   "Abiogenesis",
+   "Biogenesis",
+   "Panspermia",
+   "Special creation"
+  ],
+  "answer_index": 2,
+  "explanation": "Cosmic origin states spores (panspermia) were transferred to planets including Earth.",
+  "source_page": 282,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3722cab3-2686-5150-94cf-7edc92c8d583",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The chemical evolution theory of the origin of life was developed by:",
+  "options": [
+   "Lamarck and Darwin",
+   "Pasteur and Redi",
+   "Watson and Crick",
+   "Oparin and Haldane"
+  ],
+  "answer_index": 3,
+  "explanation": "Oparin (1922) and Haldane (1929) proposed that life arose by sequential chemical reactions.",
+  "source_page": 282,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "08a05019-df85-5b40-8460-d605bbe73870",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The forelimbs of a human, a cat, a whale and a bat are examples of:",
+  "options": [
+   "Homologous organs",
+   "Analogous organs",
+   "Atavistic organs",
+   "Vestigial organs"
+  ],
+  "answer_index": 0,
+  "explanation": "They look different but share basic bone structure and development: homologous.",
+  "source_page": 283,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d3dcfe00-7f12-5805-a5b1-0c9a7535218c",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The wings of a bat, a bird and an insect are examples of:",
+  "options": [
+   "Vestigial organs",
+   "Analogous organs",
+   "Atavism",
+   "Homologous organs"
+  ],
+  "answer_index": 1,
+  "explanation": "They perform similar functions but have different basic structure and origin.",
+  "source_page": 283,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "001eb1fd-bde8-50a0-953c-37f3477d077a",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "A boy thinks a dragonfly's wing is similar to a crow's wing in evolutionary origin. He is:",
+  "options": [
+   "Correct, because they are homologous",
+   "Wrong, because insects have no wings",
+   "Correct, because both fly",
+   "Wrong, because they are analogous with different origins"
+  ],
+  "answer_index": 3,
+  "explanation": "Insect and bird wings have similar function but different structure and origin, so they are analogous.",
+  "source_page": 283,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "37d9c738-1651-5e7b-ada5-2448a10d6d84",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Which of the following is a vestigial organ in man?",
+  "options": [
+   "Vermiform appendix",
+   "Kidney",
+   "Thumb",
+   "Heart"
+  ],
+  "answer_index": 0,
+  "explanation": "The vermiform appendix, nictitating membrane, caudal vertebra and coccyx are vestigial in man.",
+  "source_page": 283,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a5bb3d04-c741-51cb-8896-2e9f6901639b",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The presence of a rudimentary tail in some newborn babies is an example of:",
+  "options": [
+   "Vestigial organ",
+   "Analogy",
+   "Mutation",
+   "Atavism"
+  ],
+  "answer_index": 3,
+  "explanation": "Atavism is the reappearance of ancestral characters, e.g. a rudimentary tail or thick body hair.",
+  "source_page": 283,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "953933c0-4e3f-596f-b2e1-c70e8002fa61",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Match: A. Atavism  B. Vestigial organs  C. Analogous organs  D. Homologous organs with 1. Bat wing and insect wing  2. Rudimentary tail  3. Cat forelimb and bat wing  4. Vermiform appendix",
+  "options": [
+   "A-2, B-4, C-1, D-3",
+   "A-4, B-2, C-3, D-1",
+   "A-2, B-1, C-4, D-3",
+   "A-3, B-4, C-1, D-2"
+  ],
+  "answer_index": 0,
+  "explanation": "Atavism: rudimentary tail; vestigial: appendix; analogous: bat and insect wings; homologous: cat forelimb and bat wing.",
+  "source_page": 283,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cbfc14fa-a244-5055-8bd1-3b66ff5a59c6",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The biogenetic law states that:",
+  "options": [
+   "There is no relationship between them",
+   "Ontogeny and phylogeny go together",
+   "Ontogeny recapitulates phylogeny",
+   "Phylogeny recapitulates ontogeny"
+  ],
+  "answer_index": 2,
+  "explanation": "Ernst Haeckel's recapitulation theory: ontogeny recapitulates phylogeny.",
+  "source_page": 284,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "85452e41-d91c-5f11-a37d-890d521314fd",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The biogenetic law (recapitulation theory) was given by:",
+  "options": [
+   "Charles Darwin",
+   "Lamarck",
+   "Hugo de Vries",
+   "Ernst Haeckel"
+  ],
+  "answer_index": 3,
+  "explanation": "The biogenetic law or recapitulation theory was given by Ernst Haeckel.",
+  "source_page": 284,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bc13214f-587d-5f35-b219-cc5c36a18b46",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Who is called the Father of Palaeontology?",
+  "options": [
+   "Leonardo da Vinci",
+   "Charles Darwin",
+   "Sternberg",
+   "Birbal Sahni"
+  ],
+  "answer_index": 0,
+  "explanation": "Leonardo da Vinci is called the Father of Palaeontology.",
+  "source_page": 284,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1e3a0665-5cd6-5118-9d15-5cceb3617f05",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Archaeopteryx, the oldest known fossil bird, belongs to the:",
+  "options": [
+   "Tertiary period",
+   "Cretaceous period",
+   "Jurassic period",
+   "Cambrian period"
+  ],
+  "answer_index": 2,
+  "explanation": "Archaeopteryx was an early bird-like form found in the Jurassic period.",
+  "source_page": 284,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6e36298d-8aa7-5182-9eef-25cbf7edd5cd",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Why is Archaeopteryx considered a connecting link between reptiles and birds?",
+  "options": [
+   "It laid eggs in water",
+   "It was a flying reptile without feathers",
+   "It had feathers and wings like birds, and a long tail, clawed digits and teeth like reptiles",
+   "It had scales and no wings"
+  ],
+  "answer_index": 2,
+  "explanation": "It combined bird features (feathered wings) with reptile features (long tail, claws, conical teeth).",
+  "source_page": 284,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "566c324e-284d-5bb2-a0b1-351593d7e0b1",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Lamarck's theory of evolution was published in 'Philosophie Zoologique' in:",
+  "options": [
+   "1809",
+   "1901",
+   "1859",
+   "1789"
+  ],
+  "answer_index": 0,
+  "explanation": "Lamarck's theory was published in 1809.",
+  "source_page": 285,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "81344e0b-8efd-503e-aad6-ad9a186b72ce",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The 'use and disuse theory' was proposed by:",
+  "options": [
+   "Ernst Haeckel",
+   "Charles Darwin",
+   "Gregor Mendel",
+   "Jean Baptiste Lamarck"
+  ],
+  "answer_index": 3,
+  "explanation": "Lamarckism is also called the theory of inheritance of acquired characters or use and disuse theory.",
+  "source_page": 285,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "edbfc991-69d5-5a05-b51f-9071efc6f579",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "According to Lamarck, which is an example of an organ of disuse?",
+  "options": [
+   "Long neck of giraffe",
+   "Hump of camel",
+   "Trunk of elephant",
+   "Degenerated wings of kiwi"
+  ],
+  "answer_index": 3,
+  "explanation": "The giraffe's neck illustrates use; the kiwi's degenerated wing illustrates disuse.",
+  "source_page": 285,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e0a7ab33-7f50-5847-91f1-0df74e18fe3a",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Which is NOT a principle of Lamarckism?",
+  "options": [
+   "Inheritance of acquired characters",
+   "Survival of the fittest",
+   "Environment and new needs",
+   "Internal vital force"
+  ],
+  "answer_index": 1,
+  "explanation": "Survival of the fittest is a postulate of Darwinism, not Lamarckism.",
+  "source_page": 285,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d8d553ee-a637-5b57-a04e-a3090ea3a0ea",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Darwin's voyage on HMS Beagle lasted from:",
+  "options": [
+   "1831-1835",
+   "1809-1814",
+   "1855-1859",
+   "1838-1842"
+  ],
+  "answer_index": 0,
+  "explanation": "Darwin made a five-year voyage from 1831 to 1835, visiting the Galapagos islands.",
+  "source_page": 285,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7db811e5-9ed7-58f6-a788-447f135fb11f",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Who recommended Darwin as the naturalist for the voyage on HMS Beagle?",
+  "options": [
+   "Thomas Huxley",
+   "Alfred Wallace",
+   "Professor J.S. Henslow",
+   "Charles Lyell"
+  ],
+  "answer_index": 2,
+  "explanation": "Dr Henslow was asked to nominate a young naturalist and Darwin was given the opportunity.",
+  "source_page": 285,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ae284c06-d8f8-5c39-a7d7-628553eb7d77",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Darwin published 'Origin of Species' in:",
+  "options": [
+   "1835",
+   "1859",
+   "1809",
+   "1882"
+  ],
+  "answer_index": 1,
+  "explanation": "Darwin published 'Origin of Species' in 1859 after about 20 years of work.",
+  "source_page": 285,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "407c0a4c-184e-5e83-9cc9-cc9240551f07",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Arrange the postulates of Darwinism in logical order:",
+  "options": [
+   "Natural selection, variation, overproduction, struggle",
+   "Variation, overproduction, natural selection, struggle",
+   "Overproduction, struggle for existence, variation, natural selection, origin of species",
+   "Struggle, overproduction, origin of species, variation"
+  ],
+  "answer_index": 2,
+  "explanation": "Overproduction leads to struggle; favourable variations survive by natural selection, forming new species.",
+  "source_page": 285,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d80ae697-983a-5ef1-80cf-04f2a5d32169",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Competition among individuals of the same species is called:",
+  "options": [
+   "Intraspecific struggle",
+   "Natural selection",
+   "Environmental struggle",
+   "Interspecific struggle"
+  ],
+  "answer_index": 0,
+  "explanation": "Intraspecific struggle is within a species; interspecific is between species.",
+  "source_page": 285,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "42edaa5d-cd3b-5e1e-a967-d17a3bba5b3c",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Which variations are NOT heritable?",
+  "options": [
+   "Germinal variations",
+   "Discontinuous variations",
+   "Continuous variations",
+   "Somatic variations"
+  ],
+  "answer_index": 3,
+  "explanation": "Somatic variations affect body cells due to environment and are not inherited.",
+  "source_page": 287,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "83f5aa2d-50ca-5411-9a9b-417da2318578",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Skin colour, height and weight are examples of:",
+  "options": [
+   "Atavism",
+   "Discontinuous variation",
+   "Continuous (fluctuating) variation",
+   "Somatic mutation"
+  ],
+  "answer_index": 2,
+  "explanation": "Continuous variations are small, gradual variations in a population.",
+  "source_page": 287,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fcdb7e1d-f981-5b61-8f4d-76f9620ff31f",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Short-legged Ancon sheep and six-fingered humans are examples of:",
+  "options": [
+   "Discontinuous variation",
+   "Analogous organs",
+   "Somatic variation",
+   "Continuous variation"
+  ],
+  "answer_index": 0,
+  "explanation": "Discontinuous variations are sudden changes due to mutation, the basis of De Vries' mutation theory.",
+  "source_page": 287,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ad54f42b-3511-5e77-8693-fb82b3eb466f",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Who is known as the Father of Indian Paleobotany?",
+  "options": [
+   "J.C. Bose",
+   "Birbal Sahni",
+   "M.S. Swaminathan",
+   "Salim Ali"
+  ],
+  "answer_index": 1,
+  "explanation": "Birbal Sahni (1891-1949) studied Paleozoic ferns and Indian Gondwana fossil plants.",
+  "source_page": 288,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "781ff2ee-8bb4-5540-ba11-219c807daea5",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The 'Father of Paleobotany', who founded the Bohemian National Museum in Prague, is:",
+  "options": [
+   "Leonardo da Vinci",
+   "Kaspar Maria von Sternberg",
+   "J.W. Harshberger",
+   "W.F. Libby"
+  ],
+  "answer_index": 1,
+  "explanation": "Kaspar Maria von Sternberg (1761-1838) is deemed the founder of modern paleobotany.",
+  "source_page": 288,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0761940b-0856-598c-a404-7b1f2266ea17",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "In which method of fossilization do minerals like silica replace organic tissue to form rock-like fossils?",
+  "options": [
+   "Mold and cast",
+   "Petrifaction",
+   "Preservation in amber",
+   "Compression"
+  ],
+  "answer_index": 1,
+  "explanation": "In petrifaction silica slowly replaces tissue; most bone and wood fossils are petrified.",
+  "source_page": 288,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9b16c58b-44f5-5946-8245-7baaf21aaaa9",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Entire organisms preserved in ice or amber (tree sap) is an example of:",
+  "options": [
+   "Preservation",
+   "Mold",
+   "Petrifaction",
+   "Infiltration"
+  ],
+  "answer_index": 0,
+  "explanation": "Original remains preserved in ice or amber are protected from decay.",
+  "source_page": 288,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6a742d17-63dd-520e-8afc-6e9d58d75276",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Which of the following is a 'living fossil'?",
+  "options": [
+   "Dinosaur",
+   "Ginkgo biloba",
+   "Archaeopteryx",
+   "Mammoth"
+  ],
+  "answer_index": 1,
+  "explanation": "Living fossils resemble their fossilised ancestors, e.g. Ginkgo biloba.",
+  "source_page": 288,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1ad24336-b565-56ff-8d22-c724b00105ef",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The radioactive carbon (C14) dating method was discovered by:",
+  "options": [
+   "Marie Curie",
+   "Rutherford",
+   "W.F. Libby",
+   "Haldane"
+  ],
+  "answer_index": 2,
+  "explanation": "Radiocarbon dating was discovered by W.F. Libby; C14 decay after death gives the age.",
+  "source_page": 288,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ee0a00b7-4b17-50df-ba75-c1a744053a73",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The best way of directly dating fossils of recent origin is:",
+  "options": [
+   "Counting tree rings",
+   "Radio-carbon method",
+   "Uranium-lead method",
+   "Potassium-argon method"
+  ],
+  "answer_index": 1,
+  "explanation": "Radioactive carbon (C14) dating measures C14 remaining since death; it suits recent remains.",
+  "source_page": 288,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "73376260-eef9-50f7-baad-aaf0f18b48a5",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The Thiruvakkarai fossil wood park is located in which district of Tamil Nadu?",
+  "options": [
+   "Perambalur",
+   "Villupuram",
+   "Ariyalur",
+   "Cuddalore"
+  ],
+  "answer_index": 1,
+  "explanation": "Thiruvakkarai fossil wood park is in Villupuram district.",
+  "source_page": 288,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "58bc43a0-5bbf-5a57-9054-4a17fd47f2b7",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The tree trunks at Thiruvakkarai were fossilized about how long ago?",
+  "options": [
+   "2,000 years",
+   "2 million years",
+   "20,000 years",
+   "200 million years"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says the trees were buried about 2 million years ago and replaced by silica.",
+  "source_page": 288,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "41457f04-4b12-5d66-bb45-e0cd2741de17",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The term 'Ethnobotany' was coined in 1895 by:",
+  "options": [
+   "Hugo de Vries",
+   "Khorana",
+   "Ronald Ross",
+   "J.W. Harshberger"
+  ],
+  "answer_index": 3,
+  "explanation": "J.W. Harshberger coined the term to include plants used by primitive and aboriginal people.",
+  "source_page": 289,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "880c86e5-d096-5352-ab03-90ad5ead8407",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "The 'Goldilocks zone' in astrobiology refers to:",
+  "options": [
+   "An orbit at the right distance from a star for liquid water to exist",
+   "The core of a star",
+   "The region of gold deposits on planets",
+   "Zones of extreme cold"
+  ],
+  "answer_index": 0,
+  "explanation": "A habitable planet needs the right mass and an orbit at just the right distance for liquid water.",
+  "source_page": 289,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fc184343-c7d8-5116-8660-1edf96abce98",
+  "chapter_id": "c10-sci-19",
+  "unit_code": "GS1",
+  "question": "Organisms living in extreme environmental conditions on Earth are called:",
+  "options": [
+   "Mesophiles",
+   "Saprophytes",
+   "Extremophiles",
+   "Autotrophs"
+  ],
+  "answer_index": 2,
+  "explanation": "Extremophiles live in extreme conditions; similar life may exist elsewhere, e.g. on Mars.",
+  "source_page": 289,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

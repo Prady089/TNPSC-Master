@@ -1,0 +1,812 @@
+[
+ {
+  "id": "c22420a0-fcad-5c41-868c-ea285fc138e8",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Which of the following is true of chemical bonds in a reaction?",
+  "options": [
+   "Bond breaking releases energy",
+   "Bond formation absorbs energy",
+   "Bond breaking absorbs energy and bond formation releases energy",
+   "Neither involves energy"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that bond breaking absorbs energy whereas bond formation releases energy.",
+  "source_page": 146,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f8d8b559-769f-5979-b4dc-9cc8ef4ceef9",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Chemical equations must be balanced because of the:",
+  "options": [
+   "Law of conservation of matter",
+   "Law of definite proportions",
+   "Law of multiple proportions",
+   "Avogadro's law"
+  ],
+  "answer_index": 0,
+  "explanation": "Matter cannot be created or destroyed, so atoms on both sides must be equal.",
+  "source_page": 146,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "699592ea-0a3d-5951-bbf8-282a755415fb",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "In a chemical equation, the symbol (aq) denotes:",
+  "options": [
+   "Air",
+   "Alkali",
+   "Aqueous solution",
+   "Acid"
+  ],
+  "answer_index": 2,
+  "explanation": "s, l, g and aq stand for solid, liquid, gas and aqueous solution.",
+  "source_page": 146,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "762069d8-e34b-5018-9485-caa1617de313",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "A combination reaction is otherwise called:",
+  "options": [
+   "Metathesis reaction",
+   "Synthesis or composition reaction",
+   "Thermolysis",
+   "Photolysis"
+  ],
+  "answer_index": 1,
+  "explanation": "A combination reaction is otherwise called a synthesis or composition reaction.",
+  "source_page": 147,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0ecf4edf-a6dc-51c8-8fcc-7c3a92149134",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "PCl3 + Cl2 → PCl5 is an example of which type of combination reaction?",
+  "options": [
+   "Element + Element → Compound",
+   "Compound + Compound → Compound",
+   "Decomposition",
+   "Compound + Element → Compound"
+  ],
+  "answer_index": 3,
+  "explanation": "Phosphorus trichloride (compound) reacts with chlorine (element) to form phosphorus pentachloride.",
+  "source_page": 147,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dc61aa35-0821-5d9e-9352-0197af21681c",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Which of the following is NOT an 'element + element → compound' reaction?",
+  "options": [
+   "C + O2 → CO2",
+   "4Fe + 3O2 → 2Fe2O3",
+   "2CO + O2 → 2CO2",
+   "2K + Br2 → 2KBr"
+  ],
+  "answer_index": 2,
+  "explanation": "CO is a compound, so 2CO + O2 → 2CO2 is a compound + element reaction.",
+  "source_page": 147,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1f16314d-b282-581e-87e9-c21bb4749597",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Why are most combination reactions exothermic?",
+  "options": [
+   "They need light",
+   "They involve formation of new bonds that release energy as heat",
+   "They involve breaking of bonds",
+   "They are reversible"
+  ],
+  "answer_index": 1,
+  "explanation": "Combination reactions form new bonds, which release a large amount of energy as heat.",
+  "source_page": 147,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "43255b1c-6f9b-5cc3-93f2-397eeeba39a7",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "The shiny finish on whitewashed walls after two to three days is due to the formation of:",
+  "options": [
+   "Calcium carbonate",
+   "Calcium hydroxide",
+   "Calcium oxide",
+   "Calcium sulphate"
+  ],
+  "answer_index": 0,
+  "explanation": "Slaked lime reacts slowly with CO2 in air to form a thin layer of calcium carbonate (CaCO3, same as marble).",
+  "source_page": 148,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b943f84b-3d96-5ac1-93ec-e2c8e3565681",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Thermal decomposition reactions are also called:",
+  "options": [
+   "Hydrolysis",
+   "Thermolysis",
+   "Electrolysis",
+   "Photolysis"
+  ],
+  "answer_index": 1,
+  "explanation": "As the molecule dissociates by absorbing heat, thermal decomposition is called thermolysis.",
+  "source_page": 148,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "996d315a-0db8-5ea6-80d5-a85106e27fde",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Match the decomposition with its type: A. 2HgO → 2Hg + O2  B. NaCl solution with electric current  C. 2AgBr → 2Ag + Br2 with 1. Photolysis  2. Thermolysis  3. Electrolysis",
+  "options": [
+   "A-3, B-2, C-1",
+   "A-1, B-3, C-2",
+   "A-2, B-3, C-1",
+   "A-2, B-1, C-3"
+  ],
+  "answer_index": 2,
+  "explanation": "Heating HgO is thermolysis; passing current through NaCl is electrolysis; light on AgBr is photolysis.",
+  "source_page": 148,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "179d44ba-4f42-5293-bdf6-ade4699d5590",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "When silver bromide is exposed to light, its colour changes from:",
+  "options": [
+   "White to black",
+   "Blue to colourless",
+   "Green to brown",
+   "Yellow to grey"
+  ],
+  "answer_index": 3,
+  "explanation": "Yellow silver bromide turns into grey silver metal in photo-decomposition.",
+  "source_page": 148,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4d482f88-16fc-53b7-964f-6795cf8d59b1",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "When an iron nail is placed in copper (II) sulphate solution:",
+  "options": [
+   "Copper displaces iron",
+   "Iron displaces copper, which deposits on the nail",
+   "Nothing happens",
+   "Hydrogen gas is released"
+  ],
+  "answer_index": 1,
+  "explanation": "Fe + CuSO4 → FeSO4 + Cu; iron displaces copper, which deposits on the nail.",
+  "source_page": 148,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "284dcb86-6f98-5e74-a8fc-3b5f94c589c6",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Why does the reaction 2NaF + Cl2 → 2NaCl + F2 NOT occur?",
+  "options": [
+   "Chlorine is more reactive than fluorine",
+   "The reaction needs light",
+   "Fluorine is more active than chlorine and lies above it in the periodic table",
+   "NaF is insoluble"
+  ],
+  "answer_index": 2,
+  "explanation": "A less active element cannot displace a more active one; fluorine is more active than chlorine.",
+  "source_page": 149,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "881089d3-e812-59be-9248-3743eef0478e",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "According to the activity series, which metal is the most reactive?",
+  "options": [
+   "Calcium",
+   "Sodium",
+   "Potassium",
+   "Lithium"
+  ],
+  "answer_index": 2,
+  "explanation": "The activity series begins with potassium (most reactive) and ends with platinum (least reactive).",
+  "source_page": 149,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4af66ee2-d83e-5b8e-aeca-b61bd649e403",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Which metals can displace hydrogen from dilute hydrochloric acid?",
+  "options": [
+   "Silver and copper",
+   "Gold and platinum",
+   "Copper and zinc",
+   "Zinc and magnesium"
+  ],
+  "answer_index": 3,
+  "explanation": "Metals above hydrogen in the activity series (such as Zn and Mg) displace it; Cu, Ag, Au and Pt lie below hydrogen.",
+  "source_page": 149,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ae8690af-2cda-5404-94e4-8331ab907bad",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Double displacement reactions are also called:",
+  "options": [
+   "Synthesis reactions",
+   "Metathesis reactions",
+   "Combustion reactions",
+   "Redox reactions"
+  ],
+  "answer_index": 1,
+  "explanation": "When ions of two compounds are interchanged, it is a double displacement or metathesis reaction.",
+  "source_page": 150,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a8e6727d-d8c3-504d-a259-15465c8302b5",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Mixing lead (II) nitrate and potassium iodide solutions forms a precipitate of colour:",
+  "options": [
+   "White",
+   "Yellow",
+   "Blue",
+   "Black"
+  ],
+  "answer_index": 1,
+  "explanation": "A yellow precipitate of lead (II) iodide (PbI2) is formed.",
+  "source_page": 150,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "072935ab-6749-58ad-bd46-ac8dea99244b",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "In a double displacement reaction, one of the products must be:",
+  "options": [
+   "A catalyst",
+   "A precipitate or water",
+   "A gas",
+   "An element"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that one of the products must be a precipitate or water, giving precipitation and neutralization reactions.",
+  "source_page": 150,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b3ce5e2f-f1b4-56e9-8557-506551c7dce9",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Na2SO4(aq) + BaCl2(aq) → BaSO4(s) + 2NaCl(aq) is a:",
+  "options": [
+   "Single displacement reaction",
+   "Neutralization reaction",
+   "Precipitation reaction",
+   "Combustion reaction"
+  ],
+  "answer_index": 2,
+  "explanation": "Two aqueous solutions form an insoluble compound (BaSO4) and a soluble one, which is a precipitation reaction.",
+  "source_page": 150,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "61a1900f-d1d7-593b-ad49-db5ac9002e95",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Which statement distinguishes combination from decomposition reactions correctly?",
+  "options": [
+   "Combination absorbs energy; decomposition releases energy",
+   "Combination releases energy; decomposition absorbs energy",
+   "Both release energy",
+   "Decomposition always has two reactants"
+  ],
+  "answer_index": 1,
+  "explanation": "Table 10.1: energy is released in combination reactions and absorbed in decomposition reactions.",
+  "source_page": 150,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "73ab39c0-8ad3-5ece-b5c1-6f2be73b5966",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "LPG used for domestic cooking is a mixture of:",
+  "options": [
+   "Propane, butane and propylene",
+   "Methane and ethane",
+   "Hydrogen and carbon monoxide",
+   "Ethylene and acetylene"
+  ],
+  "answer_index": 0,
+  "explanation": "LPG is a mixture of hydrocarbon gases like propane, butane and propylene.",
+  "source_page": 151,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1e05d411-0e8f-5509-bd60-012bd36d15e5",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "C(s) + O2(g) → CO2(g) + Heat can be classified as:",
+  "options": [
+   "Combination and irreversible only",
+   "Combination and combustion only",
+   "Combination, combustion and irreversible",
+   "Decomposition and combustion"
+  ],
+  "answer_index": 2,
+  "explanation": "Carbon and oxygen combine (combination), burn with oxygen (combustion), and the gas escapes so it cannot reverse (irreversible).",
+  "source_page": 152,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d5f6c923-8f78-5a22-b9f7-85f6c670f7f9",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Which everyday example is given of a reversible chemical reaction?",
+  "options": [
+   "Combustion of coal",
+   "Digestion of food",
+   "Charging and discharging a lithium ion battery",
+   "Burning of wood"
+  ],
+  "answer_index": 2,
+  "explanation": "The mobile phone's lithium ion battery discharges by chemical reactions that are reversed on recharging.",
+  "source_page": 151,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "65a3546a-7c50-593b-8cfc-e2092b2f8aec",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "How can the yield of a reversible reaction be increased?",
+  "options": [
+   "By periodically removing a product or adding reactants",
+   "It cannot be increased",
+   "By adding a catalyst only",
+   "By cooling the products"
+  ],
+  "answer_index": 0,
+  "explanation": "More product is obtained by periodical removal of a product or addition of reactants.",
+  "source_page": 152,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "11290e69-76bb-53a9-a9fe-3771fcb8f250",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Consider: 1. Irreversible reactions proceed only in the forward direction. 2. Reversible reactions attain equilibrium. 3. In reversible reactions reactants are completely converted into products. Which are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 0,
+  "explanation": "In reversible reactions the reactants cannot be completely converted into products (Table 10.2).",
+  "source_page": 153,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6e7f9663-59f6-59f9-ac8f-96c9464880e0",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "100 g of A leaves 50 g after one hour; 100 g of C leaves 20 g after one hour. Which reaction is faster?",
+  "options": [
+   "A",
+   "C",
+   "Both are equal",
+   "Cannot be determined"
+  ],
+  "answer_index": 1,
+  "explanation": "80 g of C reacted against 50 g of A in the same time, so C's reaction is faster.",
+  "source_page": 153,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "82055739-4bcf-51c2-929e-dc238b9e18ad",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Sodium reacts faster with hydrochloric acid than with acetic acid because:",
+  "options": [
+   "Sodium is passive in HCl",
+   "Hydrochloric acid is a stronger acid and more reactive",
+   "Acetic acid is a gas",
+   "Acetic acid is more concentrated"
+  ],
+  "answer_index": 1,
+  "explanation": "This illustrates the nature of reactants: HCl is a stronger acid than acetic acid.",
+  "source_page": 153,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2f5a2e35-fcae-58bf-9dfe-ae6cd3a2cb1d",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Powdered calcium carbonate reacts faster with HCl than marble chips because of:",
+  "options": [
+   "Higher temperature",
+   "Larger surface area",
+   "Higher concentration",
+   "Higher pressure"
+  ],
+  "answer_index": 1,
+  "explanation": "Powdering increases the surface area of solid reactants, increasing the reaction rate.",
+  "source_page": 153,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b16b4359-9af9-5a6b-bddd-138a7254a4c9",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Which catalyst increases the rate of decomposition of potassium chlorate?",
+  "options": [
+   "Platinum",
+   "Manganese dioxide",
+   "Iron",
+   "Nickel"
+  ],
+  "answer_index": 1,
+  "explanation": "Adding manganese dioxide increases the rate of decomposition of potassium chlorate into KCl and oxygen.",
+  "source_page": 153,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "99089232-f24c-5554-9dd4-00e713c0f0bf",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Granulated zinc reacts faster with 2M HCl than with 1M HCl. This shows the effect of:",
+  "options": [
+   "Catalyst",
+   "Concentration",
+   "Surface area",
+   "Temperature"
+  ],
+  "answer_index": 1,
+  "explanation": "More concentration means more particles per volume and a faster reaction.",
+  "source_page": 153,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f60451a9-14d5-55cb-925c-a47e1fa71240",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Food kept in a refrigerator spoils more slowly because:",
+  "options": [
+   "Pressure is higher",
+   "Lower temperature reduces the reaction rate",
+   "There is no oxygen",
+   "Light is absent"
+  ],
+  "answer_index": 1,
+  "explanation": "Most reactions go faster at higher temperature; the lower fridge temperature slows them.",
+  "source_page": 154,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cadacdcb-af6a-5930-83f8-b81e75dd2396",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Which statements about chemical equilibrium are correct? 1. It is dynamic. 2. Forward and backward rates are equal. 3. Irreversible reactions do not attain it. 4. Concentrations of reactants and products must be equal.",
+  "options": [
+   "1, 2 and 3",
+   "1, 2 and 4",
+   "2, 3 and 4",
+   "1, 3 and 4"
+  ],
+  "answer_index": 0,
+  "explanation": "At equilibrium concentrations stop changing but need not be equal; the other three are correct.",
+  "source_page": 155,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "31181418-da4c-5e5a-bb60-53bbdaba5d75",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "The equilibrium attained when water evaporates and condenses in a closed vessel is called:",
+  "options": [
+   "Static equilibrium",
+   "Physical equilibrium",
+   "Ionic equilibrium",
+   "Chemical equilibrium"
+  ],
+  "answer_index": 1,
+  "explanation": "Since it is a physical change, the equilibrium is physical; the volume of all phases stays constant.",
+  "source_page": 155,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5dcf11f1-bcbd-5a06-a20c-2326db7f21ee",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "An open soft-drink bottle goes 'flat' because:",
+  "options": [
+   "Sugar crystallizes",
+   "Carbonic acid turns into sugar",
+   "Gaseous CO2 escapes and dissolved CO2 keeps leaving to restore equilibrium",
+   "Water evaporates"
+  ],
+  "answer_index": 2,
+  "explanation": "Opening the bottle lets gaseous CO2 escape; dissolved CO2 then comes out until it is all gone.",
+  "source_page": 155,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a5f3c615-b040-5e1c-8342-a706b1bae374",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "The ionic product of water (Kw) at 25 °C is:",
+  "options": [
+   "7.00",
+   "1.00 × 10^14",
+   "1.00 × 10^-7",
+   "1.00 × 10^-14"
+  ],
+  "answer_index": 3,
+  "explanation": "Kw = [H+][OH-] = 1.00 × 10^-14 mol2 dm-6 at 25 °C.",
+  "source_page": 156,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e07ea057-f500-5c48-83c5-49086c6510b0",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Pure water conducts electricity to a little extent because of:",
+  "options": [
+   "Dissolved salts",
+   "Dissolved oxygen",
+   "Self-ionisation (auto-ionisation) of water",
+   "Free electrons"
+  ],
+  "answer_index": 2,
+  "explanation": "A proton transfers from one water molecule to another, forming H3O+ and OH- ions.",
+  "source_page": 156,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "57c5f3e3-dd4f-57b2-931b-61061d2a82fe",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Who devised the pH notation, and when?",
+  "options": [
+   "Sorensen, 1909",
+   "Bronsted, 1923",
+   "Lewis, 1916",
+   "Arrhenius, 1887"
+  ],
+  "answer_index": 0,
+  "explanation": "pH notation was devised by the Danish biochemist Sorensen in 1909.",
+  "source_page": 156,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "08b3f450-fb3c-5e4d-81a0-ce4d1ef9d4ce",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "The 'p' in pH stands for the German word 'Potenz', meaning:",
+  "options": [
+   "Potential",
+   "Proton",
+   "Positive",
+   "Power"
+  ],
+  "answer_index": 3,
+  "explanation": "The 'p' in pH stands for 'Potenz' in German, meaning 'power'.",
+  "source_page": 156,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f51b3ba2-ebd1-5c5b-92e0-7ee6190a67df",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "The approximate pH of the stomach fluid is:",
+  "options": [
+   "2.0",
+   "5.5",
+   "9.0",
+   "7.4"
+  ],
+  "answer_index": 0,
+  "explanation": "The stomach produces hydrochloric acid; its fluid pH is approximately 2.0.",
+  "source_page": 156,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "78c402d5-ed53-5506-acd9-62fdf6393154",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "The normal pH range of human blood is:",
+  "options": [
+   "7.35 to 7.45",
+   "7.0 to 7.8",
+   "5.5 to 6.5",
+   "6.5 to 7.5"
+  ],
+  "answer_index": 0,
+  "explanation": "Blood pH ranges from 7.35 to 7.45, the ideal being 7.4.",
+  "source_page": 157,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "aa0131ed-9a9f-5ad2-b06d-25de462e34ae",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Tooth decay begins when the pH of saliva falls below:",
+  "options": [
+   "7.0",
+   "5.5",
+   "4.0",
+   "6.5"
+  ],
+  "answer_index": 1,
+  "explanation": "When saliva pH falls below 5.5 the calcium phosphate enamel weathers.",
+  "source_page": 157,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e652d368-19e1-5407-a1f2-339fb3dcacfe",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "Match the crop with the soil it requires: A. Citrus  B. Rice  C. Sugarcane with 1. Neutral  2. Acidic  3. Slightly alkaline",
+  "options": [
+   "A-1, B-2, C-3",
+   "A-3, B-1, C-2",
+   "A-2, B-3, C-1",
+   "A-3, B-2, C-1"
+  ],
+  "answer_index": 3,
+  "explanation": "Citrus needs slightly alkaline soil, rice acidic soil and sugarcane neutral soil.",
+  "source_page": 157,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "49d218d8-8337-50da-9a16-a382aeb5664b",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "The pH of 0.001 M HCl is:",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "11"
+  ],
+  "answer_index": 2,
+  "explanation": "[H+] = 1 × 10^-3, so pH = -log(10^-3) = 3.",
+  "source_page": 158,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1046eb4c-bc63-560b-99b4-689a167047a8",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "A solution has a pOH of 11.76. Its pH is:",
+  "options": [
+   "25.76",
+   "2.24",
+   "11.76",
+   "7.00"
+  ],
+  "answer_index": 1,
+  "explanation": "pH = 14 - pOH = 14 - 11.76 = 2.24.",
+  "source_page": 158,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0704f554-fe5e-57d6-a385-33af7b94786b",
+  "chapter_id": "c10-sci-10",
+  "unit_code": "GS1",
+  "question": "The pH of a 1 × 10^-4 M NaOH solution is:",
+  "options": [
+   "4",
+   "7",
+   "10",
+   "14"
+  ],
+  "answer_index": 2,
+  "explanation": "pOH = 4, so pH = 14 - 4 = 10.",
+  "source_page": 158,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ }
+]

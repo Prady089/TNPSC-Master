@@ -1,0 +1,848 @@
+[
+ {
+  "id": "0b089dc3-ed03-562c-880d-d9b39ec2d54e",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "The POCSO Act, which protects children from sexual offences, was enacted in:",
+  "options": [
+   "2012",
+   "2015",
+   "2005",
+   "2007"
+  ],
+  "answer_index": 0,
+  "explanation": "The Ministry of Women and Child Development championed the POCSO Act, 2012.",
+  "source_page": 309,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "59f082c8-594c-5660-847e-df5f5805ae1c",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Which of the following is an objective of the POCSO Act, 2012?",
+  "options": [
+   "Establishing Special Courts for speedy trial of offences against children",
+   "Banning child labour in factories",
+   "Regulating adoption",
+   "Free education till 14"
+  ],
+  "answer_index": 0,
+  "explanation": "POCSO protects children from sexual assault, harassment and pornography and sets up special courts.",
+  "source_page": 309,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6dbf4595-b152-5fdf-8bd8-bf98337332f0",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "The National Commission for Protection of Child Rights (NCPCR) was set up in:",
+  "options": [
+   "March 2005",
+   "March 2007",
+   "November 2012",
+   "June 2000"
+  ],
+  "answer_index": 1,
+  "explanation": "NCPCR was set up in March 2007 under the CPCR Act, 2005.",
+  "source_page": 310,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a0fcd69d-fbcb-5aec-8a44-e2de7dcc7a0e",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Under the CPCR Act, protection is given to children up to what age?",
+  "options": [
+   "18 years",
+   "14 years",
+   "16 years",
+   "21 years"
+  ],
+  "answer_index": 0,
+  "explanation": "Protection of all children up to 18 years of age is of equal importance.",
+  "source_page": 310,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "20b09348-f633-5fc6-9e49-010943ce5f4c",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "The Child Helpline number in India is:",
+  "options": [
+   "1098",
+   "181",
+   "100",
+   "108"
+  ],
+  "answer_index": 0,
+  "explanation": "CHILD HELPLINE 1098 provides a social worker to help the child.",
+  "source_page": 310,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "74571005-b8d8-5a17-941b-57c37d2b1d56",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Drugs that act on the brain and alter behaviour, consciousness and perception are called:",
+  "options": [
+   "Antibiotics",
+   "Analgesics",
+   "Antiseptics",
+   "Psychotropic drugs"
+  ],
+  "answer_index": 3,
+  "explanation": "Psychotropic drugs are mood-altering drugs.",
+  "source_page": 311,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "69f0021d-2d47-5dc7-a95a-e0c421a64431",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "The International Day against Drug Abuse and Illicit Trafficking is observed on:",
+  "options": [
+   "26 June",
+   "7 April",
+   "1 December",
+   "31 May"
+  ],
+  "answer_index": 0,
+  "explanation": "It is observed on June 26.",
+  "source_page": 311,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a5d95ba9-5045-524f-8469-11ee796f8fb4",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "The Narcotic Drugs and Psychotropic Substances Act was introduced in:",
+  "options": [
+   "1994",
+   "2004",
+   "1985",
+   "1971"
+  ],
+  "answer_index": 2,
+  "explanation": "The NDPS Act was introduced in 1985.",
+  "source_page": 311,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9310432e-2698-57ba-b033-d67046f86f00",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "In 1984, WHO suggested using which term in place of drug addiction or drug abuse?",
+  "options": [
+   "Drug tolerance",
+   "Narcotism",
+   "Drug dependence",
+   "Substance use"
+  ],
+  "answer_index": 2,
+  "explanation": "WHO (1984) suggested the term drug dependence.",
+  "source_page": 311,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fdbceeda-10f8-5d20-9ab2-8c5b7f0bc187",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "The first phase of drug de-addiction treatment is:",
+  "options": [
+   "Detoxification",
+   "Rehabilitation",
+   "Family counselling",
+   "Psychotherapy"
+  ],
+  "answer_index": 0,
+  "explanation": "In detoxification the drug is stopped gradually and withdrawal symptoms are managed.",
+  "source_page": 311,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d71e5f84-c83a-5f8b-be27-694eb619db3a",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Tobacco consumption stimulates adrenaline secretion. The component responsible is:",
+  "options": [
+   "Leptin",
+   "Nicotine",
+   "Curcumin",
+   "Tannic acid"
+  ],
+  "answer_index": 1,
+  "explanation": "Addiction to tobacco is due to nicotine, a stimulant alkaloid.",
+  "source_page": 312,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5be9fc48-0fc7-5649-92eb-b9fbdee97fc0",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Taking powdered tobacco through the nose is called:",
+  "options": [
+   "Smoking",
+   "Chewing",
+   "Snuffing",
+   "Inhaling"
+  ],
+  "answer_index": 2,
+  "explanation": "When powdered tobacco is taken through the nose, it is called snuffing.",
+  "source_page": 312,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "aaf74c84-4564-5d1e-bbfe-0f467fbbca1e",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Which carcinogenic substance in tobacco smoke causes lung cancer?",
+  "options": [
+   "Benzopyrene",
+   "Nicotine",
+   "Carbon dioxide",
+   "Caffeine"
+  ],
+  "answer_index": 0,
+  "explanation": "Benzopyrene and polycyclic hydrocarbons in tobacco smoke cause lung cancer.",
+  "source_page": 312,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2d4aec6b-8689-5b12-a36e-cf1e7fc37e5e",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Smokers suffer from oxygen deficiency in their tissues because:",
+  "options": [
+   "Carbon monoxide in smoke binds to haemoglobin and reduces its oxygen-carrying capacity",
+   "Nicotine destroys RBCs",
+   "Tar blocks the trachea",
+   "Lungs stop functioning"
+  ],
+  "answer_index": 0,
+  "explanation": "CO binds to haemoglobin, decreasing oxygen-carrying capacity and causing hypoxia.",
+  "source_page": 312,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f35ed2a0-5e57-5977-a573-d6dc9f1a1cad",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Inflammation of lung alveoli reducing the surface area for gas exchange, caused by smoking, is:",
+  "options": [
+   "Bronchitis",
+   "Emphysema",
+   "Pneumonia",
+   "Asthma"
+  ],
+  "answer_index": 1,
+  "explanation": "Smoking inflames alveoli, decreasing surface area and causing emphysema.",
+  "source_page": 312,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "11331dfa-43fa-5a22-8f25-2fd1301e4bb2",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "World No Tobacco Day is observed on:",
+  "options": [
+   "22 April",
+   "2 October",
+   "31 May",
+   "6 June"
+  ],
+  "answer_index": 2,
+  "explanation": "May 31 is observed as World Anti-Tobacco Day.",
+  "source_page": 312,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0134d14d-10f5-580a-8a27-c81f4f713d91",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "The Anti Tobacco Act was passed on:",
+  "options": [
+   "1 May 2004",
+   "26 June 1985",
+   "1 December 2004",
+   "31 May 2004"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states the Anti Tobacco Act was passed on May 1st 2004.",
+  "source_page": 312,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ddd87a38-f4d3-5889-8555-276b64c82a69",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "By 2030 tobacco is expected to cause how many deaths per year worldwide?",
+  "options": [
+   "10 million",
+   "1 million",
+   "50 million",
+   "4 million"
+  ],
+  "answer_index": 0,
+  "explanation": "Tobacco is expected to be the single biggest cause of death, with 10 million deaths a year.",
+  "source_page": 312,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "baf486e7-726f-5bfd-a226-9bb2a858c7b6",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Excessive consumption of alcohol leads to:",
+  "options": [
+   "Loss of memory only",
+   "Diabetes insipidus",
+   "Goitre",
+   "Cirrhosis of liver"
+  ],
+  "answer_index": 3,
+  "explanation": "Liver damage results in fatty liver, which leads to cirrhosis.",
+  "source_page": 313,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5639ea8f-39a3-53f5-8fe5-66d90b95cf6d",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Where does alcohol act immediately after drinking?",
+  "options": [
+   "Central nervous system",
+   "Auditory region",
+   "Eyes",
+   "Liver"
+  ],
+  "answer_index": 0,
+  "explanation": "Alcohol depresses the nervous system, acting as a sedative and analgesic.",
+  "source_page": 313,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cfa04ff2-2884-508e-85bd-1eb7bd6e8270",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "The term 'diabetes mellitus' comes from Greek words meaning:",
+  "options": [
+   "Excess sugar",
+   "Sweet blood",
+   "Running through, sweet",
+   "Thirsty body"
+  ],
+  "answer_index": 2,
+  "explanation": "Diabetes means 'running through'; mellitus means 'sweet'.",
+  "source_page": 313,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5c9a28ad-120d-5d75-b1f0-b76087d755a3",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Type-1 diabetes (IDDM) is caused by:",
+  "options": [
+   "Destruction of β-cells of the pancreas",
+   "Insulin resistance of target cells",
+   "Excess glucagon",
+   "Obesity alone"
+  ],
+  "answer_index": 0,
+  "explanation": "IDDM results from destruction of pancreatic β-cells, leading to inadequate insulin.",
+  "source_page": 314,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6874eb87-07d6-59be-8f4a-db3a6891deb1",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "What proportion of diabetics have Type-2 (NIDDM) diabetes?",
+  "options": [
+   "100 %",
+   "80-90 %",
+   "40-50 %",
+   "10-20 %"
+  ],
+  "answer_index": 1,
+  "explanation": "NIDDM (adult onset) accounts for 80-90 %; IDDM for 10-20 %.",
+  "source_page": 314,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "88ae7cc1-2240-59ad-b5ca-d1f0350150c5",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Insulin resistance, where target cells do not respond to insulin, is characteristic of:",
+  "options": [
+   "Type-2 diabetes",
+   "Diabetes insipidus",
+   "Hypoglycaemia",
+   "Type-1 diabetes"
+  ],
+  "answer_index": 0,
+  "explanation": "In Type-2 insulin production is normal but its action is impaired.",
+  "source_page": 314,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "563ac3b4-7b76-50cf-a169-c718eaf953ca",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Polyphagia is a condition seen in:",
+  "options": [
+   "AIDS",
+   "Diabetes insipidus",
+   "Obesity",
+   "Diabetes mellitus"
+  ],
+  "answer_index": 3,
+  "explanation": "Excess hunger (polyphagia) occurs in diabetes due to loss of glucose in urine.",
+  "source_page": 314,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c116cc90-5e3f-5dfa-a6cc-2e58c7c54be6",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Match the symptom with its meaning: A. Polyuria  B. Polydipsia  C. Glycosuria  D. Polyphagia with 1. Excess hunger  2. Glucose in urine  3. Excess thirst  4. Increased urine output",
+  "options": [
+   "A-2, B-3, C-4, D-1",
+   "A-4, B-3, C-2, D-1",
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-2, C-3, D-1"
+  ],
+  "answer_index": 1,
+  "explanation": "Polyuria: more urine; polydipsia: thirst; glycosuria: glucose in urine; polyphagia: hunger.",
+  "source_page": 314,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "73579490-a7c2-5d90-94df-9c9efe825bcc",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "According to the chapter, one in how many Indians is diabetic?",
+  "options": [
+   "4",
+   "8",
+   "15",
+   "20"
+  ],
+  "answer_index": 1,
+  "explanation": "One in every 8 individuals in India is a diabetic.",
+  "source_page": 314,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "162b1c04-1f27-5a8a-9d81-82c2ebe397c6",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "According to WHO, testing to confirm diabetes is needed if fasting blood glucose is greater than:",
+  "options": [
+   "126 mg/dl",
+   "200 mg/dl",
+   "100 mg/dl",
+   "140 mg/dl"
+  ],
+  "answer_index": 3,
+  "explanation": "Fasting glucose above 140 mg/dl or random above 200 mg/dl on more than two occasions.",
+  "source_page": 314,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b73e703f-1cae-5df1-b2ef-7ed09cf2a6a0",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "In dietary management of diabetes, carbohydrates should be maintained at about what share of total calories?",
+  "options": [
+   "70-75 %",
+   "30-35 %",
+   "50-55 %",
+   "10-15 %"
+  ],
+  "answer_index": 2,
+  "explanation": "Carbohydrates about 50-55 %, protein 10-15 % and fat 15-25 % of total calories.",
+  "source_page": 314,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "80165103-d18d-5df7-a744-fb11f0b790ee",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Body Mass Index (BMI) is calculated as:",
+  "options": [
+   "Weight (kg) / Height (m)²",
+   "Weight (kg) × Height (m)",
+   "Weight (kg) / Age",
+   "Height (m) / Weight (kg)"
+  ],
+  "answer_index": 0,
+  "explanation": "BMI = weight in kg divided by the square of height in metres.",
+  "source_page": 315,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "52eabcf1-05d5-5b6e-bf8a-cd7cb2d380af",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "An adult weighing 20 % more than the standard weight is classified as:",
+  "options": [
+   "Normal",
+   "Underweight",
+   "Obese",
+   "Overweight"
+  ],
+  "answer_index": 2,
+  "explanation": "10 % above standard weight is overweight; 20 % above is obese.",
+  "source_page": 315,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5b59fcd2-94db-5d40-b784-1147ad18b59a",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Every how many calories of excess consumption lead to 1 g of fat deposit?",
+  "options": [
+   "3",
+   "7",
+   "9",
+   "70"
+  ],
+  "answer_index": 1,
+  "explanation": "Every 7 calories of excess consumption leads to 1 g of fat deposit.",
+  "source_page": 315,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d07ca4fa-586f-5a1d-a919-80b2a0b037b3",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Coronary heart disease is caused by:",
+  "options": [
+   "Streptococci bacteria",
+   "Weakening of heart valves",
+   "Inflammation of pericardium",
+   "Cholesterol deposits causing insufficient blood supply to heart muscle"
+  ],
+  "answer_index": 3,
+  "explanation": "Cholesterol deposits narrow arteries (atherosclerosis), causing ischaemia of heart muscle.",
+  "source_page": 316,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6c0923b8-1f63-5824-8b2c-2d12f36a186f",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Death of heart muscle tissue due to deficient blood supply is called:",
+  "options": [
+   "Myocardial infarction",
+   "Ischaemia",
+   "Hypertension",
+   "Atherosclerosis"
+  ],
+  "answer_index": 0,
+  "explanation": "Ischaemia is deficient blood supply; myocardial infarction is death of heart muscle tissue.",
+  "source_page": 316,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dc888b73-c678-5f11-8578-2c44f4ab04f9",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "The desirable level of blood cholesterol for Indians is:",
+  "options": [
+   "Above 300 mg/dl",
+   "Below 200 mg/dl",
+   "Below 100 mg/dl",
+   "200-300 mg/dl"
+  ],
+  "answer_index": 1,
+  "explanation": "Desirable blood cholesterol is less than 200 mg/dl; risk rises from 200 to 300.",
+  "source_page": 316,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ce555e90-77bc-5a20-bbfb-9e980c4cc254",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Which is called 'good' cholesterol?",
+  "options": [
+   "HDL",
+   "Triglyceride",
+   "LDL",
+   "VLDL"
+  ],
+  "answer_index": 0,
+  "explanation": "HDL lowers heart disease risk; LDL increases it.",
+  "source_page": 316,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bd88baf0-30d4-589c-9263-400e688c54b9",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "The word 'cancer' is derived from a Latin word meaning:",
+  "options": [
+   "Tumour",
+   "Death",
+   "Crab",
+   "Growth"
+  ],
+  "answer_index": 2,
+  "explanation": "Cancer means crab; the study of cancer is oncology.",
+  "source_page": 317,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "78fc34ab-4963-5e01-bec6-ce944af39a2e",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "The spread of cancer cells to distant parts of the body is called:",
+  "options": [
+   "Metastasis",
+   "Mitosis",
+   "Neoplasm",
+   "Oncogenesis"
+  ],
+  "answer_index": 0,
+  "explanation": "Migration of cancer cells to distant tissues is metastasis.",
+  "source_page": 317,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d098d126-2fe5-5406-91d9-af152f62c5d9",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Metastasis is associated with:",
+  "options": [
+   "Malignant tumour",
+   "Benign tumour",
+   "Both",
+   "Crown gall tumour"
+  ],
+  "answer_index": 0,
+  "explanation": "Benign tumours stay confined; malignant tumours invade and spread.",
+  "source_page": 317,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "18f041cf-5b80-59a5-bd57-55ff346c5eee",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Cancer of the epithelial and glandular tissues, about 85 % of tumours, is:",
+  "options": [
+   "Sarcoma",
+   "Lipoma",
+   "Carcinoma",
+   "Leukaemia"
+  ],
+  "answer_index": 2,
+  "explanation": "Carcinomas arise from epithelial tissues; sarcomas from connective tissue (1 %).",
+  "source_page": 317,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b3d8b46c-c9eb-571c-91e9-dc31158edbc9",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "World Cancer Day and National Cancer Awareness Day are observed respectively on:",
+  "options": [
+   "4 February and 7 November",
+   "7 November and 4 February",
+   "1 December and 31 May",
+   "26 June and 4 February"
+  ],
+  "answer_index": 0,
+  "explanation": "World Cancer Day is 4 February; National Cancer Awareness Day is 7 November.",
+  "source_page": 317,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bd1e89b4-ab2a-50c4-b1b7-43ac0eae668c",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Cancer cells are more easily damaged by radiation than normal cells because they are:",
+  "options": [
+   "Mutated",
+   "Different in structure",
+   "Non-dividing",
+   "Undergoing rapid division"
+  ],
+  "answer_index": 3,
+  "explanation": "Cancer is abnormal, uncontrolled division; rapidly dividing cells are vulnerable to radiation.",
+  "source_page": 317,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3ddd2965-6de9-5060-865f-2e93d1e6492b",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Interferons, used to activate the immune system against tumours, are part of:",
+  "options": [
+   "Immunotherapy",
+   "Radiation therapy",
+   "Surgery",
+   "Chemotherapy"
+  ],
+  "answer_index": 0,
+  "explanation": "Immunotherapy uses biological response modifiers like interferons.",
+  "source_page": 317,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7f13457c-a8e9-5c06-809a-b933973c7aaf",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Who documented the first evidence of HIV infection in India, in Chennai in 1985?",
+  "options": [
+   "Dr Muthulakshmi Reddy",
+   "Dr Suniti Solomon",
+   "Dr V. Shanta",
+   "Dr M.S. Swaminathan"
+  ],
+  "answer_index": 1,
+  "explanation": "Dr Suniti Solomon pioneered HIV research in India and set up the first voluntary testing centre in Chennai.",
+  "source_page": 318,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4b3a67f9-0c08-5ed7-8dbe-88f824de6567",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "Which of the following does NOT transmit HIV?",
+  "options": [
+   "Infected mother to child through placenta",
+   "Touching or shaking hands with a patient",
+   "Contaminated needles",
+   "Infected blood transfusion"
+  ],
+  "answer_index": 1,
+  "explanation": "HIV is not transmitted by touch or physical contact; it spreads through blood and body fluids.",
+  "source_page": 318,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6a6bdbc1-d8b2-5cb3-9aac-faf153da2d53",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "The presence of HIV can be confirmed by:",
+  "options": [
+   "Biopsy",
+   "Mantoux test",
+   "ELISA or Western blot",
+   "Widal test"
+  ],
+  "answer_index": 2,
+  "explanation": "HIV is confirmed by Western Blot analysis or ELISA.",
+  "source_page": 318,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bbd94d78-3f99-59b8-82c6-ee134f434e13",
+  "chapter_id": "c10-sci-21",
+  "unit_code": "GS1",
+  "question": "World AIDS Day is observed on:",
+  "options": [
+   "31 May",
+   "26 June",
+   "4 February",
+   "1 December"
+  ],
+  "answer_index": 3,
+  "explanation": "Every year December 1st is observed as World AIDS Day.",
+  "source_page": 318,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

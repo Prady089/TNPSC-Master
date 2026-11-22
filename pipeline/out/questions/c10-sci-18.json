@@ -1,0 +1,812 @@
+[
+ {
+  "id": "5bf11686-9ffb-5d86-bb7d-3c6d7a34ba41",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The transmission of characters from one generation to the next is called:",
+  "options": [
+   "Heredity",
+   "Evolution",
+   "Mutation",
+   "Variation"
+  ],
+  "answer_index": 0,
+  "explanation": "Heredity is transmission of characters; variation refers to differences between individuals.",
+  "source_page": 269,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5c316429-cbe8-5e4e-aef8-6bbd1ebe3fa6",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Gregor Johann Mendel, the Father of Genetics, was a:",
+  "options": [
+   "French chemist",
+   "Austrian monk",
+   "British botanist",
+   "German physician"
+  ],
+  "answer_index": 1,
+  "explanation": "Mendel (1822-1884) was an Austrian monk who discovered the basic principles of heredity.",
+  "source_page": 269,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3208987e-e832-56bf-a2f8-6baa50d7e919",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Mendel conducted his pea experiments during:",
+  "options": [
+   "1900-1910",
+   "1822-1834",
+   "1866-1880",
+   "1856-1865"
+  ],
+  "answer_index": 3,
+  "explanation": "He experimented in the monastery for about nine years, from 1856 to 1865.",
+  "source_page": 269,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "171f313a-e26a-5a19-92da-f909b854263f",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "How many pairs of contrasting characters did Mendel choose in pea?",
+  "options": [
+   "5",
+   "7",
+   "10",
+   "34"
+  ],
+  "answer_index": 1,
+  "explanation": "From 34 varieties, Mendel chose 7 pairs of contrasting characters.",
+  "source_page": 269,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c011f860-983f-5937-a243-9e832b2f0e6e",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Which of the following was NOT a reason for Mendel's choice of the pea plant?",
+  "options": [
+   "It has unisexual flowers",
+   "It has clearly defined contrasting characters",
+   "It has a short life span",
+   "It is naturally self-pollinating"
+  ],
+  "answer_index": 0,
+  "explanation": "Pea flowers are bisexual, which was one of the advantages listed.",
+  "source_page": 270,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4d9f2d48-41fc-545e-be38-4539c93bb974",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "In Mendel's monohybrid cross, the actual F2 numbers he obtained were:",
+  "options": [
+   "315 tall and 108 dwarf",
+   "787 tall and 277 dwarf",
+   "750 tall and 250 dwarf",
+   "600 tall and 200 dwarf"
+  ],
+  "answer_index": 1,
+  "explanation": "Mendel obtained 787 tall and 277 dwarf plants, close to 3:1.",
+  "source_page": 270,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ed04ff3f-2767-57d8-bfa3-e4cc1e4f9732",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The genotypic ratio in the F2 generation of a monohybrid cross is:",
+  "options": [
+   "1:1",
+   "3:1",
+   "9:3:3:1",
+   "1:2:1"
+  ],
+  "answer_index": 3,
+  "explanation": "TT : Tt : tt = 1 : 2 : 1, while the phenotypic ratio is 3:1.",
+  "source_page": 270,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "78c8b89e-1131-5d48-ab05-0d4130c40b90",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The external expression of a particular trait is known as:",
+  "options": [
+   "Karyotype",
+   "Allele",
+   "Phenotype",
+   "Genotype"
+  ],
+  "answer_index": 2,
+  "explanation": "Phenotype is the external expression; genotype is the genetic make-up.",
+  "source_page": 270,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8af97533-f2a7-5ee3-b62e-a2188dd03f6c",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "When both alleles of a gene are identical (TT or tt), the condition is called:",
+  "options": [
+   "Hybrid",
+   "Heterozygous",
+   "Dominant",
+   "Homozygous"
+  ],
+  "answer_index": 3,
+  "explanation": "Alike factors (TT, tt) are homozygous; unlike ones (Tt) are heterozygous.",
+  "source_page": 271,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7457b6d3-0426-597a-b7ea-0c76c13fc216",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "According to Mendel, alleles are:",
+  "options": [
+   "Only recessive factors",
+   "Gametes",
+   "A pair of factors responsible for contrasting forms of a character",
+   "Chromosomes"
+  ],
+  "answer_index": 2,
+  "explanation": "Two factors making up a pair of contrasting characters are called alleles.",
+  "source_page": 271,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ac976fa5-f192-52c4-86ca-634c1311bbc5",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The Punnett square was devised by:",
+  "options": [
+   "R.C. Punnett, a British geneticist",
+   "Gregor Mendel",
+   "T.H. Morgan",
+   "Hugo de Vries"
+  ],
+  "answer_index": 0,
+  "explanation": "The checker-board form was devised by British geneticist R.C. Punnett.",
+  "source_page": 271,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5f8ce5b2-d5ed-5fe5-9eb5-8a4e95e9083c",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The 9:3:3:1 ratio in the F2 of a dihybrid cross is due to:",
+  "options": [
+   "Segregation",
+   "Crossing over",
+   "Independent assortment",
+   "Recessiveness"
+  ],
+  "answer_index": 2,
+  "explanation": "The factors of each pair assort independently, giving the 9:3:3:1 dihybrid ratio.",
+  "source_page": 272,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3e806f84-d2c0-5c22-8285-074d263e692a",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "In Mendel's dihybrid cross (round yellow × wrinkled green), the new combinations that appeared in F2 were:",
+  "options": [
+   "Only round yellow",
+   "Round yellow and wrinkled green",
+   "Only wrinkled green",
+   "Round green and wrinkled yellow"
+  ],
+  "answer_index": 3,
+  "explanation": "Two new combinations, round green and wrinkled yellow, appeared in F2.",
+  "source_page": 272,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "76184f58-3777-57d7-a087-06a2dcf233f1",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "In the F2 dihybrid ratio 9:3:3:1, the '1' represents plants with:",
+  "options": [
+   "One dominant and one recessive trait",
+   "Two dominant traits",
+   "Two recessive traits (wrinkled green)",
+   "Mixed traits"
+  ],
+  "answer_index": 2,
+  "explanation": "1 in 16 shows both recessive traits, wrinkled and green.",
+  "source_page": 272,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ee3d86c8-c0fa-5436-b813-7e9021c8046e",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The law of segregation is also known as the:",
+  "options": [
+   "Law of purity of gametes",
+   "Law of dominance",
+   "Law of independent assortment",
+   "Law of linkage"
+  ],
+  "answer_index": 0,
+  "explanation": "The two factors separate at gamete formation so each gamete gets one: law of purity of gametes.",
+  "source_page": 272,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b80ce95c-7472-5265-abf5-087a83de20fa",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "A pea plant with axial white flowers is crossed with one having terminal violet flowers. Which traits are dominant?",
+  "options": [
+   "Axial position and violet colour",
+   "Terminal position and white colour",
+   "Terminal position and violet colour",
+   "Axial position and white colour"
+  ],
+  "answer_index": 0,
+  "explanation": "In Mendel's table, axillary flower position and coloured (violet) flowers are dominant over terminal and white.",
+  "source_page": 270,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4e01e912-a571-58bf-9a45-3f92e2575e85",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The term 'chromosome' was first coined by:",
+  "options": [
+   "Flemming in 1882",
+   "Mendel in 1865",
+   "Waldeyer in 1888",
+   "Morgan in 1910"
+  ],
+  "answer_index": 2,
+  "explanation": "The term chromosome was first coined by Waldeyer in 1888.",
+  "source_page": 273,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7afd0e2b-e563-5f23-8139-3c2fd9259f1a",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The specific position of a gene on a chromosome is called its:",
+  "options": [
+   "Allele",
+   "Centromere",
+   "Telomere",
+   "Locus"
+  ],
+  "answer_index": 3,
+  "explanation": "Each gene is present at a specific position on a chromosome called its locus.",
+  "source_page": 273,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6c8a42c7-0d1a-50d6-9133-47e2a27ca749",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The region of the chromosome where spindle fibres attach during cell division is the:",
+  "options": [
+   "Chromomere",
+   "Centrosome",
+   "Centromere",
+   "Chromonema"
+  ],
+  "answer_index": 2,
+  "explanation": "The centromere (primary constriction) is where spindle fibres attach.",
+  "source_page": 273,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dcc050eb-99ce-5e70-b902-7963e69e211f",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The secondary constriction of a chromosome is also known as the:",
+  "options": [
+   "Satellite",
+   "Telomere",
+   "Kinetochore",
+   "Nucleolar organiser"
+  ],
+  "answer_index": 3,
+  "explanation": "The secondary constriction is the nucleolar organiser, forming the nucleolus.",
+  "source_page": 273,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "24ed27fe-f8fa-580f-b3e8-a22e9464c27e",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Which part of the chromosome acts as an 'ageing clock'?",
+  "options": [
+   "Chromomere",
+   "Satellite",
+   "Centromere",
+   "Telomere"
+  ],
+  "answer_index": 3,
+  "explanation": "Telomeres shorten with each division; when too short, cells age.",
+  "source_page": 273,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6f8c0835-0617-507b-9027-ae55efb17ea4",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The centromere is found at the centre of a ______ chromosome.",
+  "options": [
+   "Acrocentric",
+   "Metacentric",
+   "Submetacentric",
+   "Telocentric"
+  ],
+  "answer_index": 1,
+  "explanation": "Metacentric chromosomes have a central centromere with two equal arms (V-shaped).",
+  "source_page": 274,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ac9cfab3-cb98-5412-8262-a23506153a0e",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Match the chromosome type with its shape: A. Metacentric  B. Submetacentric  C. Acrocentric with 1. Rod  2. J or L  3. V",
+  "options": [
+   "A-1, B-2, C-3",
+   "A-3, B-1, C-2",
+   "A-3, B-2, C-1",
+   "A-2, B-3, C-1"
+  ],
+  "answer_index": 2,
+  "explanation": "Metacentric is V-shaped, submetacentric J or L, and acrocentric and telocentric rod-shaped.",
+  "source_page": 274,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "829e10a6-937d-5dd9-a658-4383f09f2a33",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The number of chromosomes in human beings is:",
+  "options": [
+   "46 pairs of autosomes and 1 pair of allosomes",
+   "22 pairs of autosomes and 1 pair of allosomes",
+   "46 autosomes",
+   "22 autosomes and 1 allosome"
+  ],
+  "answer_index": 1,
+  "explanation": "Each human cell has 23 pairs: 22 pairs of autosomes and the 23rd pair, the sex chromosomes.",
+  "source_page": 274,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "082da318-12e9-51ea-a27c-13b8cec14918",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The diagrammatic representation of the karyotype of a species is called a(n):",
+  "options": [
+   "Idiogram",
+   "Pedigree",
+   "Chromatogram",
+   "Punnett square"
+  ],
+  "answer_index": 0,
+  "explanation": "An idiogram arranges metaphase chromosomes in homologous pairs by decreasing length.",
+  "source_page": 274,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "055b4687-89ba-5255-b400-36a781311bd1",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The double helical model of DNA was proposed by Watson and Crick on the basis of X-ray diffraction studies by:",
+  "options": [
+   "Rosalind Franklin and Maurice Wilkins",
+   "Meselson and Stahl",
+   "Hershey and Chase",
+   "Chargaff and Avery"
+  ],
+  "answer_index": 0,
+  "explanation": "Their model was based on X-ray diffraction studies by Rosalind Franklin and Maurice Wilkins.",
+  "source_page": 274,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c1161561-fefa-543c-b2be-8661f673b7f0",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Watson, Crick and Wilkins received the Nobel Prize for Medicine in:",
+  "options": [
+   "1953",
+   "1968",
+   "1962",
+   "1958"
+  ],
+  "answer_index": 2,
+  "explanation": "They were awarded the Nobel Prize for Medicine in 1962.",
+  "source_page": 274,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ac6225e6-24b9-55a7-814c-c4dbc1e1e045",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Which pair are purines?",
+  "options": [
+   "Cytosine and thymine",
+   "Guanine and cytosine",
+   "Adenine and guanine",
+   "Adenine and thymine"
+  ],
+  "answer_index": 2,
+  "explanation": "Purines are adenine and guanine; pyrimidines are cytosine and thymine.",
+  "source_page": 274,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8bb1823c-b3af-5705-89e9-a1794fac7bf6",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "A nucleotide is made up of:",
+  "options": [
+   "Nitrogen base + sugar + phosphate",
+   "Two nitrogen bases",
+   "Sugar + phosphate",
+   "Nitrogen base + sugar"
+  ],
+  "answer_index": 0,
+  "explanation": "Nucleoside = base + sugar; nucleotide = nucleoside + phosphate.",
+  "source_page": 274,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "96a4b791-0d7d-5a24-b8f9-baf94d506a60",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The backbone of DNA is formed by:",
+  "options": [
+   "Sugar-phosphate units",
+   "5-carbon sugar alone",
+   "Phosphate alone",
+   "Nitrogenous bases"
+  ],
+  "answer_index": 0,
+  "explanation": "Nitrogenous bases lie in the centre, linked to sugar-phosphate units that form the backbone.",
+  "source_page": 275,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "efd40ba6-d12e-5df0-ad95-7095d5972b33",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Cytosine pairs with guanine through how many hydrogen bonds?",
+  "options": [
+   "Four",
+   "One",
+   "Two",
+   "Three"
+  ],
+  "answer_index": 3,
+  "explanation": "C≡G has three hydrogen bonds; A=T has two.",
+  "source_page": 275,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "106ac9fb-6f2f-54f1-a9bd-97b98afa83e4",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Each turn of the DNA double helix measures 34 Å and contains:",
+  "options": [
+   "34 base pairs",
+   "10 base pairs",
+   "20 base pairs",
+   "5 base pairs"
+  ],
+  "answer_index": 1,
+  "explanation": "Each turn is 3.4 nm with ten base pairs.",
+  "source_page": 275,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b4c5669f-795b-5ccf-a17c-7f33de618227",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Nucleotides in a DNA strand are joined together by:",
+  "options": [
+   "Peptide bonds",
+   "Hydrogen bonds",
+   "Phosphodiester bonds",
+   "Glycosidic bonds only"
+  ],
+  "answer_index": 2,
+  "explanation": "Nucleotides in a helix are joined by phosphodiester bonds; the two strands by hydrogen bonds.",
+  "source_page": 275,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6d476ab2-4a8b-570c-922b-e7afbf079904",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Chargaff's rule states that in DNA:",
+  "options": [
+   "A = G and C = T",
+   "Purines exceed pyrimidines",
+   "A = T and G = C",
+   "A + T = G + C always"
+  ],
+  "answer_index": 2,
+  "explanation": "Erwin Chargaff: proportion of adenine equals thymine and guanine equals cytosine.",
+  "source_page": 275,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "88f28b71-8176-565a-aa53-9d35d71a67e4",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Which enzyme separates the two strands of DNA at the origin of replication?",
+  "options": [
+   "Primase",
+   "DNA ligase",
+   "DNA polymerase",
+   "Helicase"
+  ],
+  "answer_index": 3,
+  "explanation": "Helicase binds at the origin and separates the strands; topoisomerase removes twists.",
+  "source_page": 276,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "aa249f35-4000-5689-8ec0-9aa30acc4828",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Okazaki fragments are joined together by:",
+  "options": [
+   "DNA ligase",
+   "RNA primer",
+   "Helicase",
+   "DNA polymerase"
+  ],
+  "answer_index": 0,
+  "explanation": "The short segments on the lagging strand (Okazaki fragments) are joined by DNA ligase.",
+  "source_page": 276,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3a94029c-bb9b-55c2-87eb-82c29d06b77e",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The DNA strand synthesised continuously during replication is the:",
+  "options": [
+   "Okazaki strand",
+   "Lagging strand",
+   "Template strand",
+   "Leading strand"
+  ],
+  "answer_index": 3,
+  "explanation": "The leading strand is continuous; the lagging strand is made in short Okazaki fragments.",
+  "source_page": 276,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "510746d9-dc40-5c61-8bfb-35e20ddf477f",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Human males are called heterogametic because:",
+  "options": [
+   "They have two X chromosomes",
+   "They have no sex chromosomes",
+   "They produce one type of sperm",
+   "They produce two types of sperm, 22+X and 22+Y, in equal proportions"
+  ],
+  "answer_index": 3,
+  "explanation": "Males produce X-bearing and Y-bearing sperms; females produce only X eggs (homogametic).",
+  "source_page": 277,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5c32f484-b8fa-500e-8f41-6cf7539a5908",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Kavitha's relatives say she can only have daughters because of her family history. This is:",
+  "options": [
+   "False, as the father's sperm (X or Y) determines the child's sex",
+   "True, as sex is inherited from grandparents",
+   "False, as sex is decided by autosomes",
+   "True, as the mother decides sex"
+  ],
+  "answer_index": 0,
+  "explanation": "The mother always gives X; the sperm (X or Y) from the father decides the sex.",
+  "source_page": 277,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bcaae6b3-35fc-5c6e-bd28-0fb846695f81",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The term 'mutation' was introduced in 1901 by:",
+  "options": [
+   "Charles Darwin",
+   "Gregor Mendel",
+   "Hugo De Vries",
+   "T.H. Morgan"
+  ],
+  "answer_index": 2,
+  "explanation": "Hugo De Vries introduced it after observing changes in evening primrose (Oenothera lamarckiana).",
+  "source_page": 277,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fa1b4422-6410-59cd-9881-ee2e10f75bbe",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Triploid (3n) plants and animals are typically:",
+  "options": [
+   "Haploid",
+   "Highly fertile",
+   "Larger in fruit",
+   "Sterile"
+  ],
+  "answer_index": 3,
+  "explanation": "Triploids are typically sterile; tetraploid plants often have bigger fruits and flowers.",
+  "source_page": 277,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "202c7b6b-d84f-5a66-ac73-8148fb960fee",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "The loss or gain of one or more chromosomes in a set is called:",
+  "options": [
+   "Euploidy",
+   "Tetraploidy",
+   "Aneuploidy",
+   "Polyploidy"
+  ],
+  "answer_index": 2,
+  "explanation": "Aneuploidy includes monosomy (2n-1), trisomy (2n+1) and nullisomy (2n-2).",
+  "source_page": 278,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6d4d4f23-78fb-549d-8b3b-fe1e31f386a6",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Down's syndrome is caused by:",
+  "options": [
+   "Loss of the X chromosome",
+   "Monosomy of chromosome 21",
+   "Trisomy of chromosome 21",
+   "Tetraploidy"
+  ],
+  "answer_index": 2,
+  "explanation": "Down's syndrome has an extra copy of chromosome 21 (trisomy 21); the person has 47 chromosomes.",
+  "source_page": 278,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "75e42ef4-47fa-5e98-a275-416c2ffa48c6",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Down's syndrome was first identified by Langdon Down in:",
+  "options": [
+   "1901",
+   "1959",
+   "1866",
+   "1888"
+  ],
+  "answer_index": 2,
+  "explanation": "The condition was first identified by Dr Langdon Down in 1866.",
+  "source_page": 278,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "674261e7-0b01-535c-94e6-77fcb64cdac7",
+  "chapter_id": "c10-sci-18",
+  "unit_code": "GS1",
+  "question": "Sickle cell anaemia is an example of:",
+  "options": [
+   "Aneuploidy",
+   "Gene (point) mutation of a single gene",
+   "Chromosomal mutation",
+   "Euploidy"
+  ],
+  "answer_index": 1,
+  "explanation": "A single-gene mutation alters haemoglobin protein, making RBCs sickle shaped.",
+  "source_page": 278,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ }
+]

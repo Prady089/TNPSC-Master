@@ -289,6 +289,31 @@ def cmd_run(args):
     print(f"Tokens used: {tok_in:,} in, {tok_out:,} out")
 
 
+PACK_DIR = OUT / "packs"
+
+
+def cmd_import(args):
+    """Load hand-written packs (pipeline/out/packs/<chapter id>.json, same shape as SCHEMA)."""
+    catalog = load_catalog()
+    Q_DIR.mkdir(parents=True, exist_ok=True)
+    wanted = set(args.books.split(",")) if args.books else None
+    for path in sorted(PACK_DIR.glob("*.json")):
+        ch_id = path.stem
+        if wanted and ch_id.rsplit("-", 1)[0] not in wanted:
+            continue
+        data = json.loads(path.read_text(encoding="utf-8"))
+        missing = [k for k in SCHEMA["required"] if k not in data]
+        bad = [i for i, q in enumerate(data["questions"]) if len(q["options"]) != 4 or not 0 <= q["answer_index"] < 4]
+        if missing or bad:
+            print(f"  {ch_id}: skipped (missing {missing}, bad questions {bad})")
+            continue
+        save_pack(ch_id, data, catalog)
+        saved = json.loads((CONTENT / "chapters" / f"{ch_id}.json").read_text(encoding="utf-8"))
+        found = sum(1 for h in saved["highlights"] if h["block"] >= 0)
+        print(f"  {ch_id:14} {len(data['questions']):3} questions, {len(data['highlights']):2} highlights ({found} underlined)")
+    (CONTENT / "books.json").write_text(json.dumps(catalog, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
 def to_rows(ch_id: str, data: dict) -> list[dict]:
     rows = []
     for i, q in enumerate(data["questions"]):
@@ -357,13 +382,13 @@ def main():
     sys.stdout.reconfigure(encoding="utf-8")
     load_env()
     ap = argparse.ArgumentParser()
-    ap.add_argument("command", choices=["estimate", "submit", "status", "collect", "run"])
+    ap.add_argument("command", choices=["estimate", "submit", "status", "collect", "run", "import"])
     ap.add_argument("--books")
     ap.add_argument("--limit", type=int)
     ap.add_argument("--workers", type=int, default=4)
     args = ap.parse_args()
     OUT.mkdir(parents=True, exist_ok=True)
-    {"estimate": cmd_estimate, "submit": cmd_submit, "status": cmd_status, "collect": cmd_collect, "run": cmd_run}[args.command](args)
+    {"estimate": cmd_estimate, "submit": cmd_submit, "status": cmd_status, "collect": cmd_collect, "run": cmd_run, "import": cmd_import}[args.command](args)
 
 
 if __name__ == "__main__":

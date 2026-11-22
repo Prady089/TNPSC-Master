@@ -1,0 +1,758 @@
+[
+ {
+  "id": "2abf4c41-97fd-5247-b774-16359aff9215",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The maintenance of physiological balance through coordination of cells and organs is called:",
+  "options": [
+   "Reflex",
+   "Metabolism",
+   "Synapsis",
+   "Homeostasis"
+  ],
+  "answer_index": 3,
+  "explanation": "Coordination between cells and organs maintains physiological balance, called homeostasis.",
+  "source_page": 226,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bf51e780-65ab-5fb5-bc01-8fcdeed56afe",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The longest cell in the human body is the:",
+  "options": [
+   "Ovum",
+   "Neuron",
+   "Muscle cell",
+   "Red blood cell"
+  ],
+  "answer_index": 1,
+  "explanation": "The neuron is the longest cell of the human body, over 100 mm.",
+  "source_page": 226,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5f2f10cc-b911-5893-8596-fde971de9129",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Which cells of the nervous system do NOT initiate or conduct nerve impulses?",
+  "options": [
+   "Sensory neurons",
+   "Association neurons",
+   "Neuroglia (glial cells)",
+   "Motor neurons"
+  ],
+  "answer_index": 2,
+  "explanation": "Neuroglia are non-exciting, supporting cells.",
+  "source_page": 226,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5faf94de-255f-551f-a2da-2da60d07c876",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Nissl's granules are found in the:",
+  "options": [
+   "Axon",
+   "Cyton (cell body)",
+   "Synaptic knob",
+   "Myelin sheath"
+  ],
+  "answer_index": 1,
+  "explanation": "The cytoplasm of the cyton has large granular bodies called Nissl's granules.",
+  "source_page": 226,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "53e19c0e-9f8c-5eae-926f-35107c80b869",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Dendrites transmit impulses ____ the cell body and the axon transmits impulses ____ the cell body.",
+  "options": [
+   "towards, towards",
+   "away from, towards",
+   "towards, away from",
+   "away from, away from"
+  ],
+  "answer_index": 2,
+  "explanation": "Dendrites conduct impulses towards the cyton; the axon carries them away.",
+  "source_page": 227,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "390cae53-8422-5b09-81ad-0d8d6cdcdb53",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The cytoplasm of the axon is called:",
+  "options": [
+   "Neuroplasm",
+   "Axoplasm",
+   "Axolemma",
+   "Sarcoplasm"
+  ],
+  "answer_index": 1,
+  "explanation": "The axon's plasma membrane is the axolemma and its cytoplasm the axoplasm.",
+  "source_page": 227,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "75cfbe70-ea6c-5a9e-8b23-fc8dce8cab3b",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Nodes of Ranvier are found in:",
+  "options": [
+   "Muscles",
+   "Cyton",
+   "Axons",
+   "Dendrites"
+  ],
+  "answer_index": 2,
+  "explanation": "The myelin sheath of the axon breaks at intervals called nodes of Ranvier.",
+  "source_page": 227,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3bf84e67-5717-5312-b3ef-57521503e99f",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The layer of Schwann cells covering the myelin sheath is called:",
+  "options": [
+   "Sarcolemma",
+   "Meninges",
+   "Axolemma",
+   "Neurilemma"
+  ],
+  "answer_index": 3,
+  "explanation": "The myelin sheath is covered by a layer of Schwann cells called neurilemma.",
+  "source_page": 227,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "580036aa-d93b-5767-bdc9-a4514695193d",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "What is the function of the myelin sheath?",
+  "options": [
+   "Stores nutrients",
+   "Acts as an insulator and ensures rapid transmission",
+   "Divides the neuron",
+   "Produces neurotransmitters"
+  ],
+  "answer_index": 1,
+  "explanation": "The myelin sheath acts as an insulator and ensures rapid transmission of nerve impulses.",
+  "source_page": 227,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a618cccf-0ee9-5358-9f89-46b89aeb8023",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Nerve cells do NOT possess:",
+  "options": [
+   "Neurilemma",
+   "Dendrites",
+   "Sarcolemma",
+   "Axon"
+  ],
+  "answer_index": 2,
+  "explanation": "Sarcolemma is the membrane of muscle fibres; neurons have neurilemma, axons and dendrites.",
+  "source_page": 227,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8ad2d37b-d98f-5067-a18d-9de9274562e6",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The neurons that carry impulses from the CNS to a muscle fibre are:",
+  "options": [
+   "Unipolar neurons",
+   "Afferent neurons",
+   "Efferent neurons",
+   "Association neurons"
+  ],
+  "answer_index": 2,
+  "explanation": "Motor or efferent neurons carry impulses from the CNS to effector organs.",
+  "source_page": 228,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c5d6ffca-d5fd-5995-b703-277a73bd4d7f",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Bipolar neurons are found in the:",
+  "options": [
+   "Spinal cord",
+   "Early embryo only",
+   "Retina of the eye",
+   "Cerebral cortex"
+  ],
+  "answer_index": 2,
+  "explanation": "Bipolar neurons occur in the retina and olfactory epithelium; multipolar in the cerebral cortex; unipolar in early embryos.",
+  "source_page": 228,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3dea3a59-64ac-5654-9e06-14d92f0e49e6",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Match the neuron type with its location: A. Unipolar  B. Bipolar  C. Multipolar with 1. Cerebral cortex  2. Olfactory epithelium  3. Early embryos",
+  "options": [
+   "A-3, B-1, C-2",
+   "A-2, B-3, C-1",
+   "A-3, B-2, C-1",
+   "A-1, B-2, C-3"
+  ],
+  "answer_index": 2,
+  "explanation": "Unipolar neurons are found in early embryos, bipolar in the olfactory epithelium and retina, multipolar in the cerebral cortex.",
+  "source_page": 228,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "80344011-bb0b-5b05-8c13-4e35ac45d7db",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "In the central nervous system, myelinated fibres form the:",
+  "options": [
+   "CSF",
+   "Grey matter",
+   "White matter",
+   "Meninges"
+  ],
+  "answer_index": 2,
+  "explanation": "Myelinated fibres form white matter and non-myelinated fibres grey matter.",
+  "source_page": 228,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ef715c07-ed33-5d71-9900-b40075b5a2f2",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "How many nerve impulses can a neuron transmit per second, according to the chapter?",
+  "options": [
+   "100",
+   "1,000",
+   "10",
+   "10,000"
+  ],
+  "answer_index": 1,
+  "explanation": "Each neuron can transmit 1,000 impulses per second and make about ten thousand synaptic contacts.",
+  "source_page": 228,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "84a7d9c0-2b73-599b-ab5a-967c43bc02f6",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The important neurotransmitter released by neurons is:",
+  "options": [
+   "Insulin",
+   "Thyroxine",
+   "Acetylcholine",
+   "Adrenaline"
+  ],
+  "answer_index": 2,
+  "explanation": "The important neurotransmitter released by neurons is acetylcholine.",
+  "source_page": 229,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c0356656-57db-5a02-9ad3-abc3e2246a68",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The outermost of the three cranial meninges is the:",
+  "options": [
+   "Arachnoid membrane",
+   "Duramater",
+   "Piamater",
+   "Myelin sheath"
+  ],
+  "answer_index": 1,
+  "explanation": "Duramater is the outermost thick fibrous membrane; arachnoid is middle; piamater is innermost.",
+  "source_page": 229,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "077f5f56-8d74-5a9c-adfa-d5977de98b7c",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Which meninx is described as providing a web-like cushion?",
+  "options": [
+   "Neurilemma",
+   "Piamater",
+   "Duramater",
+   "Arachnoid membrane"
+  ],
+  "answer_index": 3,
+  "explanation": "The arachnoid (arachnoid = spider) is the middle, thin vascular membrane providing a web-like cushion.",
+  "source_page": 229,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "74649c42-43a7-5dfa-aa88-abfa93eacbe5",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Meningitis is:",
+  "options": [
+   "Inflammation of the meninges",
+   "Degeneration of neurons",
+   "Loss of myelin",
+   "A tumour of the cerebrum"
+  ],
+  "answer_index": 0,
+  "explanation": "Meningitis is an inflammation of the meninges, most commonly from viral and bacterial infections.",
+  "source_page": 230,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8973b437-565c-5093-b88c-1fec3272d1a3",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The largest part of the human brain is the:",
+  "options": [
+   "Cerebrum",
+   "Medulla oblongata",
+   "Cerebellum",
+   "Thalamus"
+  ],
+  "answer_index": 0,
+  "explanation": "The cerebrum forms nearly two-thirds of the brain.",
+  "source_page": 230,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9e92ead9-ac34-5227-95c5-7be8bb9ba3bd",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Which nervous band connects the two cerebral hemispheres?",
+  "options": [
+   "Pons",
+   "Hypothalamus",
+   "Thalamus",
+   "Corpus callosum"
+  ],
+  "answer_index": 3,
+  "explanation": "The two cerebral hemispheres are interconnected by the corpus callosum.",
+  "source_page": 230,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "79b66567-9f9c-5557-946a-a9477a47ecb1",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The folds that increase the surface area of the cerebral cortex are:",
+  "options": [
+   "Gyri and sulci",
+   "Lobes and vermis",
+   "Nodes and internodes",
+   "Horns and roots"
+  ],
+  "answer_index": 0,
+  "explanation": "The cortex is folded into elevations (gyri) and depressions (sulci).",
+  "source_page": 230,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1005090e-2048-5a45-8457-28a3b0567d1a",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Which part of the brain acts as a relay centre for sensory and motor signals?",
+  "options": [
+   "Pons",
+   "Cerebellum",
+   "Hypothalamus",
+   "Thalamus"
+  ],
+  "answer_index": 3,
+  "explanation": "The thalamus is a major conducting centre and acts as a relay centre.",
+  "source_page": 230,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "31a9f827-6e85-58d4-a45e-d3406bfd4df1",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "A person who met with an accident lost control of body temperature, water balance and hunger. Which part of the brain is likely damaged?",
+  "options": [
+   "Medulla oblongata",
+   "Pons",
+   "Hypothalamus",
+   "Cerebrum"
+  ],
+  "answer_index": 2,
+  "explanation": "The hypothalamus controls hunger, thirst, water balance and body temperature.",
+  "source_page": 230,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ec8c6d42-5a6f-5179-9b8a-d0c8664cb920",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Which part of the brain links the nervous system with the endocrine system?",
+  "options": [
+   "Thalamus",
+   "Midbrain",
+   "Hypothalamus",
+   "Cerebellum"
+  ],
+  "answer_index": 2,
+  "explanation": "The hypothalamus controls secretions of the anterior pituitary and links the nervous and endocrine systems.",
+  "source_page": 230,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fd1859c6-570e-5296-ab9c-6e105ebd569b",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Corpora quadrigemina, which control visual and auditory reflexes, are part of the:",
+  "options": [
+   "Midbrain",
+   "Hindbrain",
+   "Spinal cord",
+   "Forebrain"
+  ],
+  "answer_index": 0,
+  "explanation": "The dorsal midbrain has four rounded bodies called corpora quadrigemina.",
+  "source_page": 230,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c3e1a618-1e58-59d3-8a4e-27b5fd2d65a2",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Nearly what percentage of the human brain is fat?",
+  "options": [
+   "40 %",
+   "80 %",
+   "20 %",
+   "60 %"
+  ],
+  "answer_index": 3,
+  "explanation": "The human brain constitutes nearly 60 % fat; essential fatty acids must come from food.",
+  "source_page": 230,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4ed68392-9b34-5a05-a13c-9bff1515147c",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The parts of the hindbrain are:",
+  "options": [
+   "Cerebellum, pons, medulla oblongata",
+   "Corpora quadrigemina and pons",
+   "Cerebellum and thalamus",
+   "Cerebrum, thalamus, hypothalamus"
+  ],
+  "answer_index": 0,
+  "explanation": "The hindbrain is formed of cerebellum, pons and medulla oblongata.",
+  "source_page": 230,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8f10df93-455c-59d5-b1ef-634b1d4baf04",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Which part of the brain maintains body balance and coordinates voluntary movements?",
+  "options": [
+   "Hypothalamus",
+   "Cerebrum",
+   "Medulla",
+   "Cerebellum"
+  ],
+  "answer_index": 3,
+  "explanation": "The cerebellum, the second largest part, coordinates voluntary movements and maintains balance.",
+  "source_page": 231,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a192ac66-dcf8-57c6-a951-02c536fac5a9",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The word 'pons' is Latin for:",
+  "options": [
+   "Balance",
+   "Brain",
+   "Breath",
+   "Bridge"
+  ],
+  "answer_index": 3,
+  "explanation": "Pons means bridge; it is a bridge of nerve fibres that also controls respiration and sleep.",
+  "source_page": 231,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "50303d12-b5c9-5ece-bead-90be62600331",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The vomiting centre is located in the:",
+  "options": [
+   "Cerebrum",
+   "Stomach",
+   "Hypothalamus",
+   "Medulla oblongata"
+  ],
+  "answer_index": 3,
+  "explanation": "The medulla oblongata has cardiac, respiratory and vasomotor centres and regulates vomiting and salivation.",
+  "source_page": 231,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d029b15b-3ac0-521b-9ce2-34ddf458b489",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "An instrument that records the electrical impulses of the brain is the:",
+  "options": [
+   "MRI",
+   "Sphygmomanometer",
+   "ECG",
+   "EEG"
+  ],
+  "answer_index": 3,
+  "explanation": "The electroencephalogram (EEG) records brain impulses and helps diagnose seizures, epilepsy and tumours.",
+  "source_page": 231,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7bb416c3-f4da-5739-8dda-bb44767611c8",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The spinal cord extends from the medulla oblongata to the:",
+  "options": [
+   "Last cervical vertebra",
+   "Coccyx",
+   "Sacrum",
+   "First lumbar vertebra"
+  ],
+  "answer_index": 3,
+  "explanation": "The spinal cord extends to the first lumbar vertebra and tapers into the filum terminale.",
+  "source_page": 231,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "10c1e16c-76cc-57f6-b3bc-d5bb66306e57",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The grey matter of the spinal cord is shaped like the letter:",
+  "options": [
+   "O",
+   "H",
+   "X",
+   "Y"
+  ],
+  "answer_index": 1,
+  "explanation": "The grey matter of the spinal cord is H-shaped, with posterior and anterior horns.",
+  "source_page": 231,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c6cfcb3f-b91b-5046-a1a0-fa17c3b008ff",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Which statement about cerebrospinal fluid is NOT correct?",
+  "options": [
+   "It conducts nerve impulses",
+   "It supplies nutrients to the brain",
+   "It acts as a shock absorber",
+   "It maintains constant pressure inside the cranium"
+  ],
+  "answer_index": 0,
+  "explanation": "CSF absorbs shock, nourishes the brain, removes waste and maintains intracranial pressure; it does not conduct impulses.",
+  "source_page": 232,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "628fce99-367c-5c48-86f4-793c14b3af92",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Which of the following is a conditioned (acquired) reflex?",
+  "options": [
+   "Playing harmonium on seeing a music note",
+   "Winking when dust enters the eye",
+   "Coughing",
+   "Sneezing"
+  ],
+  "answer_index": 0,
+  "explanation": "Conditioned reflexes come from practice and learning, like playing harmonium; the others are simple reflexes.",
+  "source_page": 232,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6b60d265-cfbb-5540-ad4b-cd0c8be2abfe",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "In a reflex action, the reflex arc is formed by:",
+  "options": [
+   "Receptor, muscle, spinal cord",
+   "Muscle, receptor, brain",
+   "Brain, spinal cord, muscle",
+   "Receptor, spinal cord, muscle"
+  ],
+  "answer_index": 3,
+  "explanation": "The impulse goes from receptor via sensory neuron to the spinal cord, then via motor neuron to the muscle (effector).",
+  "source_page": 232,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9f80ceeb-6360-5710-aceb-e51f037235f8",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Most reflex actions are controlled by the spinal cord and so are also called:",
+  "options": [
+   "Cerebral reflexes",
+   "Visceral reflexes",
+   "Spinal reflexes",
+   "Conditioned reflexes"
+  ],
+  "answer_index": 2,
+  "explanation": "Since they are monitored by the spinal cord, they are known as spinal reflexes.",
+  "source_page": 232,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5c89d45b-b661-5b6f-9722-d52c799ba335",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "How many pairs of cranial and spinal nerves are there in man?",
+  "options": [
+   "12 and 21",
+   "31 and 12",
+   "12 and 13",
+   "12 and 31"
+  ],
+  "answer_index": 3,
+  "explanation": "Man has 12 pairs of cranial nerves and 31 pairs of spinal nerves.",
+  "source_page": 233,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4425b92b-91b9-5843-82ad-0f08bee8d638",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "In a spinal nerve, the dorsal root is:",
+  "options": [
+   "Autonomic only",
+   "Absent",
+   "Sensory, carrying impulses towards the cord",
+   "Motor, carrying impulses away from the cord"
+  ],
+  "answer_index": 2,
+  "explanation": "Each spinal nerve has a dorsal sensory root (towards the cord) and a ventral motor root (away).",
+  "source_page": 233,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "86cdd3ef-8b97-5968-8807-25af0147f6a6",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "The autonomic nervous system is also called the visceral nervous system because it:",
+  "options": [
+   "Is located in the brain",
+   "Controls voluntary muscles",
+   "Regulates internal visceral organs",
+   "Has only sensory nerves"
+  ],
+  "answer_index": 2,
+  "explanation": "The ANS regulates internal visceral organs through antagonistic sympathetic and parasympathetic systems.",
+  "source_page": 233,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b361d408-1f82-588c-afc1-00a289ec3a42",
+  "chapter_id": "c10-sci-15",
+  "unit_code": "GS1",
+  "question": "Which statement is correct?",
+  "options": [
+   "All nerves are covered by meninges",
+   "Sympathetic nervous system is part of the CNS",
+   "Dendrons conduct impulses away from the cell body",
+   "Hypothalamus is the thermoregulatory centre"
+  ],
+  "answer_index": 3,
+  "explanation": "The hypothalamus is the thermoregulatory centre; the other statements are false according to the chapter.",
+  "source_page": 230,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ }
+]

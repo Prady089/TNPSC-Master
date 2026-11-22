@@ -1,0 +1,848 @@
+[
+ {
+  "id": "1bfb0ed1-dcc8-560f-9d0d-a8a6234075c7",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The ability of living organisms to preserve their species through reproduction is called:",
+  "options": [
+   "Regeneration",
+   "Self-pollination",
+   "Metamorphosis",
+   "Self-perpetuation"
+  ],
+  "answer_index": 3,
+  "explanation": "Reproduction preserves individual species, which is called self-perpetuation.",
+  "source_page": 251,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e560da89-bfd2-555b-9bfa-6dd33c2e7c35",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The plant which propagates with the help of its leaves is:",
+  "options": [
+   "Neem",
+   "Onion",
+   "Ginger",
+   "Bryophyllum"
+  ],
+  "answer_index": 3,
+  "explanation": "In Bryophyllum, small plants grow at the leaf notches.",
+  "source_page": 251,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "595f3b95-b48c-50f0-ac9d-a7d0197f37d6",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Agave reproduces vegetatively through:",
+  "options": [
+   "Bulbils",
+   "Leaf notches",
+   "Runners",
+   "Tuberous roots"
+  ],
+  "answer_index": 0,
+  "explanation": "In Agave, flower buds are modified into globose bulbils that grow into new plants.",
+  "source_page": 252,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "60420801-b821-5959-b2c8-05cd710e5b2f",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Match the method with the organism: A. Fission  B. Budding  C. Fragmentation  D. Regeneration with 1. Spirogyra  2. Yeast  3. Amoeba  4. Planaria",
+  "options": [
+   "A-1, B-2, C-3, D-4",
+   "A-3, B-2, C-1, D-4",
+   "A-2, B-3, C-1, D-4",
+   "A-3, B-1, C-2, D-4"
+  ],
+  "answer_index": 1,
+  "explanation": "Amoeba divides by fission, yeast buds, Spirogyra fragments and Planaria regenerates.",
+  "source_page": 252,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5ba8f244-8db9-5af5-a977-dd243b9a55a6",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Which of the following is true of vegetative reproduction?",
+  "options": [
+   "It needs pollination",
+   "It produces new varieties",
+   "Daughter plants are genetically similar to the parent",
+   "It involves meiosis and gametic fusion"
+  ],
+  "answer_index": 2,
+  "explanation": "Vegetative reproduction has only mitosis and no gametic fusion, so offspring resemble the parent.",
+  "source_page": 251,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "94919798-930e-5309-9d1b-1df9e46a095b",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The most common method of asexual reproduction in fungi and bacteria is:",
+  "options": [
+   "Regeneration",
+   "Budding",
+   "Fragmentation",
+   "Spore formation"
+  ],
+  "answer_index": 3,
+  "explanation": "Spore formation, with spores developing in a sporangium (e.g. Rhizopus), is most common.",
+  "source_page": 253,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "249121dd-6b44-599a-a5ad-e5eaa4d96d7e",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The essential whorls of a flower are:",
+  "options": [
+   "Calyx and androecium",
+   "Calyx and corolla",
+   "Corolla and gynoecium",
+   "Androecium and gynoecium"
+  ],
+  "answer_index": 3,
+  "explanation": "Androecium and gynoecium take part directly in reproduction; calyx and corolla are accessory.",
+  "source_page": 253,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8df2fd2b-97a7-51dc-b1de-7a891d40f6c1",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The inner wall layer (intine) of a pollen grain is made of:",
+  "options": [
+   "Suberin",
+   "Cellulose and pectin",
+   "Lignin",
+   "Sporopollenin"
+  ],
+  "answer_index": 1,
+  "explanation": "The intine is a thin continuous layer of cellulose and pectin; the exine is hard with germ pores.",
+  "source_page": 254,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "129fa71d-fddb-51ef-b63e-97ab80cbb3af",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Male gametes in angiosperms are formed by division of the:",
+  "options": [
+   "Vegetative cell",
+   "Generative cell",
+   "Tube nucleus",
+   "Microspore mother cell"
+  ],
+  "answer_index": 1,
+  "explanation": "The generative cell divides mitotically to form two male gametes.",
+  "source_page": 254,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4d5aa8a5-9fc5-5c9e-aab8-0d0ae46fb92a",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The stalk attaching the ovule to the ovary wall is called the:",
+  "options": [
+   "Funiculus",
+   "Pedicel",
+   "Micropyle",
+   "Chalaza"
+  ],
+  "answer_index": 0,
+  "explanation": "The ovule is attached by a stalk called the funiculus; chalaza is the basal part.",
+  "source_page": 254,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "12262807-76d0-5ae8-8a0b-43efa600e06d",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "At the time of fertilization, the embryo sac of a typical angiosperm is:",
+  "options": [
+   "8-celled, 8-nucleate",
+   "7-celled, 8-nucleate",
+   "6-celled, 7-nucleate",
+   "4-celled, 4-nucleate"
+  ],
+  "answer_index": 1,
+  "explanation": "The embryo sac contains seven cells and eight nuclei.",
+  "source_page": 254,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "69089b50-3a0a-5c22-a6c0-fe43423f88ed",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The egg apparatus at the micropylar end consists of:",
+  "options": [
+   "Egg cell and two synergids",
+   "Egg and two antipodals",
+   "Two polar nuclei",
+   "Three antipodal cells"
+  ],
+  "answer_index": 0,
+  "explanation": "The egg apparatus has the egg cell and two synergids; antipodals are at the chalazal end.",
+  "source_page": 254,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a0e6d2b3-3ae9-5fe7-be07-5c3d51a2a1a9",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Self-pollination is also known as:",
+  "options": [
+   "Geitonogamy",
+   "Allogamy",
+   "Autogamy",
+   "Xenogamy"
+  ],
+  "answer_index": 2,
+  "explanation": "The transfer of pollen within the same flower or plant is self-pollination or autogamy.",
+  "source_page": 254,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9738833d-6b72-5a00-9da5-57d6b98b420a",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Which is a disadvantage of self-pollination?",
+  "options": [
+   "New varieties cannot be produced",
+   "It depends on external agents",
+   "Pollen wastage is high",
+   "It needs two plants"
+  ],
+  "answer_index": 0,
+  "explanation": "Self-pollination gives fewer seeds, weak plants and no new varieties.",
+  "source_page": 254,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6243ebad-edf8-58d5-a57e-494605fbf2a8",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Anemophilous (wind-pollinated) flowers have:",
+  "options": [
+   "Brightly coloured petals",
+   "Small smooth stigma",
+   "Sessile stigma",
+   "Large, protruding, sometimes hairy stigma"
+  ],
+  "answer_index": 3,
+  "explanation": "Wind-pollinated flowers have large protruding stigmas to trap small, light, dry pollen.",
+  "source_page": 255,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ca74a2c6-f8dd-592e-b0dd-88b7c805b26b",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Pollen of wind-pollinated plants may be carried over a distance of more than:",
+  "options": [
+   "10,000 km",
+   "10 km",
+   "1,000 km",
+   "100 km"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says such pollen is blown over a distance of more than 1,000 km.",
+  "source_page": 255,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0f0629e4-bf79-5402-bc26-6c02840759a2",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Approximately what share of insect pollination is carried out by honey bees?",
+  "options": [
+   "50 %",
+   "80 %",
+   "95 %",
+   "30 %"
+  ],
+  "answer_index": 1,
+  "explanation": "About 80 % of the pollination done by insects is by honey bees.",
+  "source_page": 255,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f9599cb2-8301-5a70-b5bc-218e84e827ba",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Pollination by water (hydrophily) occurs in:",
+  "options": [
+   "Canna",
+   "Silk cotton",
+   "Vallisneria and Hydrilla",
+   "Grasses"
+  ],
+  "answer_index": 2,
+  "explanation": "Hydrophily takes place in aquatic plants such as Hydrilla and Vallisneria.",
+  "source_page": 255,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "06fae0d3-b24d-5afc-b345-16f3197f4059",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Flowers of the silk cotton tree are pollinated by:",
+  "options": [
+   "Bats",
+   "Wind",
+   "Squirrels",
+   "Sunbirds"
+  ],
+  "answer_index": 2,
+  "explanation": "Zoophily: sunbirds pollinate Canna and Gladioli; squirrels pollinate silk cotton.",
+  "source_page": 255,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "72c2d551-108f-5826-a4c3-238e9d0d9167",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The fusion of a male gamete with the secondary nucleus is called:",
+  "options": [
+   "Triple fusion",
+   "Parthenogenesis",
+   "Syngamy",
+   "Apomixis"
+  ],
+  "answer_index": 0,
+  "explanation": "One sperm fuses with the egg (syngamy); the other with the secondary nucleus (triple fusion).",
+  "source_page": 256,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8edd3a6b-f344-5e46-849c-ed88bae1c889",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The primary endosperm nucleus formed by triple fusion is:",
+  "options": [
+   "Haploid",
+   "Triploid",
+   "Diploid",
+   "Tetraploid"
+  ],
+  "answer_index": 1,
+  "explanation": "Triple fusion forms a triploid primary endosperm nucleus, which feeds the embryo.",
+  "source_page": 256,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1babc11c-3604-57d5-a53b-a8feb51a617b",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "After fertilization, the ovary develops into the:",
+  "options": [
+   "Seed",
+   "Fruit",
+   "Seed coat",
+   "Endosperm"
+  ],
+  "answer_index": 1,
+  "explanation": "The ovule becomes the seed, integuments the seed coat, and the ovary the fruit.",
+  "source_page": 256,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5947d9ee-40da-5b01-8fb7-8873643518ea",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "If one pollen grain produces two male gametes, how many pollen grains are needed to fertilise 10 ovules?",
+  "options": [
+   "5",
+   "10",
+   "20",
+   "1"
+  ],
+  "answer_index": 1,
+  "explanation": "Both gametes of a pollen grain are used in one ovule (double fertilization), so 10 ovules need 10 pollen grains.",
+  "source_page": 256,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e3fbe532-2bbc-57e7-a989-7aa0fe04bf4c",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The large cells that provide nutrition to developing sperms are:",
+  "options": [
+   "Primary germ cells",
+   "Spermatogonia",
+   "Sertoli cells",
+   "Leydig cells"
+  ],
+  "answer_index": 2,
+  "explanation": "Sertoli cells support and nourish developing sperms; Leydig cells secrete testosterone.",
+  "source_page": 257,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2cec99f0-64bf-54af-b31f-6278387f3fbe",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Each testis is covered by a fibrous layer called:",
+  "options": [
+   "Corona radiata",
+   "Vitelline membrane",
+   "Zona pellucida",
+   "Tunica albuginea"
+  ],
+  "answer_index": 3,
+  "explanation": "Each testis is covered with a fibrous tissue layer called tunica albuginea.",
+  "source_page": 257,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fc30b218-385e-5155-9fad-afe77f8f7570",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "A single highly coiled tube where sperms are stored, concentrated and matured is the:",
+  "options": [
+   "Vas deferens",
+   "Seminiferous tubule",
+   "Vasa efferentia",
+   "Epididymis"
+  ],
+  "answer_index": 3,
+  "explanation": "The epididymis is the coiled tube in which sperms mature and are stored.",
+  "source_page": 257,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2600e8b6-198a-5a15-851f-5ea322cd4c26",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "During her lifetime, a woman ovulates approximately:",
+  "options": [
+   "30-40 eggs",
+   "60,000-70,000 eggs",
+   "7 million eggs",
+   "300-400 eggs"
+  ],
+  "answer_index": 3,
+  "explanation": "She ovulates only 300 to 400 of the 1-2 million eggs she was born with.",
+  "source_page": 257,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4b28e6c6-5144-515b-9ada-16485a150b6c",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The acrosome of the human sperm contains the enzyme:",
+  "options": [
+   "Amylase",
+   "Trypsin",
+   "Pepsin",
+   "Hyaluronidase"
+  ],
+  "answer_index": 3,
+  "explanation": "The acrosome contains hyaluronidase, which helps the sperm enter the ovum.",
+  "source_page": 258,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5ba55546-08ca-5ae7-a6f1-7d343ef250d4",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The mitochondria in the middle piece of the sperm:",
+  "options": [
+   "Contain the genetic material",
+   "Provide energy for movement of the tail",
+   "Dissolve the ovum membrane",
+   "Form the acrosome"
+  ],
+  "answer_index": 1,
+  "explanation": "Mitochondria in the middle piece provide energy for tail movement (motility).",
+  "source_page": 258,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "22db6d07-edc3-5d09-91b0-d2e9ebdbc4ea",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The outer thick layer of the human ovum, formed of follicle cells, is the:",
+  "options": [
+   "Vitelline membrane",
+   "Zona pellucida",
+   "Perivitelline space",
+   "Corona radiata"
+  ],
+  "answer_index": 3,
+  "explanation": "The plasma membrane is surrounded by an inner thin zona pellucida and an outer thick corona radiata.",
+  "source_page": 258,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ebc87993-ad73-5e6e-bbaf-4c812f8875a2",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Estrogen is secreted by the:",
+  "options": [
+   "Primary follicle",
+   "Anterior pituitary",
+   "Corpus luteum",
+   "Graafian follicle"
+  ],
+  "answer_index": 3,
+  "explanation": "Estrogen is produced by Graafian follicles; progesterone by the corpus luteum.",
+  "source_page": 258,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a54657aa-ce17-59f5-bcaf-7f394a1f52f3",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The onset of menstruation at puberty is called:",
+  "options": [
+   "Menopause",
+   "Menarche",
+   "Ovulation",
+   "Parturition"
+  ],
+  "answer_index": 1,
+  "explanation": "The cycle starts at 11-13 years (menarche) and ceases around 48-50 years (menopause).",
+  "source_page": 259,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4c8296f1-8645-5040-9409-83bf5ffaaf8b",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "On which day of a 28-day menstrual cycle does ovulation typically occur?",
+  "options": [
+   "5th day",
+   "10th day",
+   "28th day",
+   "14th day"
+  ],
+  "answer_index": 3,
+  "explanation": "In the ovulatory phase on the 14th day, the Graafian follicle ruptures and releases the ovum (LH peak).",
+  "source_page": 259,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "05f8d3a4-c03c-5c0e-b0fb-e2f12a24db87",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Arrange the phases of the menstrual cycle in order:",
+  "options": [
+   "Menstrual, luteal, ovulatory, follicular",
+   "Menstrual, follicular, ovulatory, luteal",
+   "Follicular, menstrual, ovulatory, luteal",
+   "Ovulatory, follicular, luteal, menstrual"
+  ],
+  "answer_index": 1,
+  "explanation": "Menstrual (days 1-5), follicular (6-13), ovulatory (14) and luteal (15-28).",
+  "source_page": 259,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e1591437-c3b4-51ef-891e-7498c7c13cf7",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "In humans, fertilization usually takes place in the:",
+  "options": [
+   "Cervix",
+   "Uterus",
+   "Ampulla of the fallopian tube",
+   "Ovary"
+  ],
+  "answer_index": 2,
+  "explanation": "Fertilization is internal and usually occurs in the ampulla of the fallopian tube.",
+  "source_page": 260,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "20fc465d-a6bc-5aac-9f3f-02dc974c5ce4",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "An oocyte released from the follicle remains alive for about:",
+  "options": [
+   "6 hours",
+   "24 hours",
+   "7 days",
+   "3 days"
+  ],
+  "answer_index": 1,
+  "explanation": "An oocyte is alive for about 24 hours, so fertilization must occur within that time.",
+  "source_page": 260,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b6f96cce-29bf-5c73-ae87-6a75c84d589b",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The fertilised egg becomes implanted in the uterus about how long after fertilization?",
+  "options": [
+   "2-3 days",
+   "6-7 days",
+   "14 days",
+   "30 hours"
+  ],
+  "answer_index": 1,
+  "explanation": "Implantation of the blastocyst in the endometrium occurs about 6-7 days after fertilization.",
+  "source_page": 260,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a6ac3905-b53d-57a9-8660-930b809f8ba0",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The normal gestation period in humans is about:",
+  "options": [
+   "280 days",
+   "240 days",
+   "180 days",
+   "320 days"
+  ],
+  "answer_index": 0,
+  "explanation": "Human gestation normally lasts about 280 days.",
+  "source_page": 261,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8aed449c-4f21-5bf3-814c-67f752039f13",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The hormone responsible for the vigorous contractions of uterine muscles during childbirth is:",
+  "options": [
+   "Prolactin",
+   "Progesterone",
+   "Oxytocin",
+   "Estrogen"
+  ],
+  "answer_index": 2,
+  "explanation": "Oxytocin from the posterior pituitary stimulates uterine contractions during parturition.",
+  "source_page": 261,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1115525e-5b60-55c4-864c-3308de80e2e4",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The first milk secreted for 2-3 days after childbirth, which provides immunity, is:",
+  "options": [
+   "Casein",
+   "Colostrum",
+   "Whey",
+   "Lactose"
+  ],
+  "answer_index": 1,
+  "explanation": "Colostrum contains immune substances that protect the newborn.",
+  "source_page": 261,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "94654b97-9898-58b3-b2b8-b96c9753a982",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Identical twins develop when:",
+  "options": [
+   "A single fertilised egg divides into two foetuses",
+   "Two eggs are fertilised by two sperms",
+   "One egg is fertilised by two sperms",
+   "Two eggs are fertilised by one sperm"
+  ],
+  "answer_index": 0,
+  "explanation": "Two eggs fertilised separately give fraternal twins; one fertilised egg dividing gives identical twins.",
+  "source_page": 261,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e4640f6a-08ac-5db3-a92d-f8e25e802f1f",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "In which year did India launch its nationwide family planning programme, one of the first in the world?",
+  "options": [
+   "1947",
+   "1966",
+   "1952",
+   "1976"
+  ],
+  "answer_index": 2,
+  "explanation": "India launched the nationwide family planning programme in 1952.",
+  "source_page": 262,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e3e8db79-c388-58aa-94fa-e1d936e96c9a",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The symbol of family planning in India is:",
+  "options": [
+   "Red cross",
+   "Blue star",
+   "Inverted red triangle",
+   "Green circle"
+  ],
+  "answer_index": 2,
+  "explanation": "The inverted red triangle with the slogan 'Small Family, Happy Family' is displayed at health centres.",
+  "source_page": 262,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2c270e14-f183-56fc-ae0c-bfcdc4591f6a",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Which one of the following is an intra-uterine contraceptive device?",
+  "options": [
+   "Diaphragm",
+   "Copper-T",
+   "Oral pills",
+   "Tubectomy"
+  ],
+  "answer_index": 1,
+  "explanation": "Copper-T and Lippe's loop are IUDs; pills are hormonal, diaphragm a barrier, tubectomy surgical.",
+  "source_page": 262,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1bdab4c7-8747-595a-b3f9-4b4fc1ac7ce1",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "Vasectomy involves ligation of the:",
+  "options": [
+   "Vas deferens",
+   "Epididymis",
+   "Urethra",
+   "Fallopian tube"
+  ],
+  "answer_index": 0,
+  "explanation": "Vasectomy is ligation of the vas deferens in males; tubectomy is ligation of the fallopian tube.",
+  "source_page": 262,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d74e9bef-9354-5270-a904-fc71dec4aa78",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "World Menstrual Hygiene Day is observed every year on:",
+  "options": [
+   "8 March",
+   "28 May",
+   "1 December",
+   "7 April"
+  ],
+  "answer_index": 1,
+  "explanation": "Every year 28 May is observed as Menstrual Hygiene Day.",
+  "source_page": 264,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bbb710ce-4ea1-5cfe-97fc-09dc5b508b44",
+  "chapter_id": "c10-sci-17",
+  "unit_code": "GS1",
+  "question": "The Health Ministry's scheme to provide subsidised sanitary napkins was launched in:",
+  "options": [
+   "2011",
+   "2014",
+   "2005",
+   "2017"
+  ],
+  "answer_index": 0,
+  "explanation": "The menstrual hygiene scheme for subsidised sanitary napkins was launched in 2011.",
+  "source_page": 264,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ }
+]
