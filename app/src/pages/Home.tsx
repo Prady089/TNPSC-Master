@@ -17,7 +17,7 @@ export default function Home() {
       api.getAttempts(100),
       api.getUnitStats(),
       api.getReading(),
-      api.getNews(3).catch(() => []),
+      api.getNews(20).catch(() => []),
       chapterIndex().catch(() => new Map()),
     ]);
     return { attempts, stats, reading, news, chapters };
@@ -137,7 +137,7 @@ export default function Home() {
           <Link to="/news" className="text-sm font-medium text-brand">All news</Link>
         </div>
         {news.length ? (
-          <ul className="divide-y divide-line">
+          <ul className="-mr-2 max-h-[26rem] divide-y divide-line overflow-y-auto overscroll-contain pr-2 lg:max-h-[34rem]">
             {news.map((n) => (
               <li key={n.id} className="py-2.5">
                 <a href={n.url} target="_blank" rel="noreferrer" className="font-medium leading-snug hover:text-brand">{n.title}</a>
