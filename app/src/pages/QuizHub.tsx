@@ -14,8 +14,8 @@ export default function QuizHub() {
   const [printCount, setPrintCount] = useState(25);
   const today = istDate();
   const { data, loading } = useAsync(async () => {
-    const [attempts, stats, wrong] = await Promise.all([api.getAttempts(15), api.getUnitStats(), api.getWrongQuestionIds(50)]);
-    return { attempts, stats, wrong };
+    const [attempts, stats, wrong, counts] = await Promise.all([api.getAttempts(15), api.getUnitStats(), api.getWrongQuestionIds(50), api.getUnitQuestionCounts().catch(() => ({} as Record<string, number>))]);
+    return { attempts, stats, wrong, counts };
   }, []);
 
   if (loading || !data) return <Spinner />;
@@ -61,15 +61,27 @@ export default function QuizHub() {
         <div className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
           {UNITS.map((u) => {
             const s = statFor(u.code);
+            const n = data.counts[u.code] ?? 0;
+            if (!n) {
+              return (
+                <Card key={u.code} className="h-full border-dashed bg-transparent p-3.5 opacity-70">
+                  <div className="flex items-start justify-between gap-2">
+                    <p className="font-medium leading-snug">{u.short}</p>
+                    <Pill>Coming soon</Pill>
+                  </div>
+                  <p className="mt-1 text-xs text-muted">{u.weight ? `${u.weight} Qs in Prelims · ` : ''}questions being prepared</p>
+                </Card>
+              );
+            }
             return (
-              <Link key={u.code} to={`/quiz/play?mode=unit&unit=${u.code}&count=${count}`} className="block">
+              <Link key={u.code} to={`/quiz/play?mode=unit&unit=${u.code}&count=${Math.min(count, n)}`} className="block">
                 <Card className="h-full p-3.5 hover:border-brand">
                   <div className="flex items-start justify-between gap-2">
                     <p className="font-medium leading-snug">{u.short}</p>
                     <Pill tone="brand">{u.code}</Pill>
                   </div>
                   <p className="mt-1 text-xs text-muted">
-                    {u.weight ? `${u.weight} Qs in Prelims` : 'From daily TN news'}
+                    {n} questions{u.weight ? ` · ${u.weight} Qs in Prelims` : ''}
                     {s ? ` · ${pct(s.correct, s.answered)}% of ${s.answered} correct` : ''}
                   </p>
                 </Card>
@@ -90,7 +102,7 @@ export default function QuizHub() {
         <div className="mt-3 flex flex-wrap gap-2">
           <select className={cx(inputBase, 'min-w-0 flex-1')} value={printUnit} onChange={(e) => setPrintUnit(e.target.value)} aria-label="What to print">
             <option value="daily">Today's daily quiz</option>
-            {UNITS.map((u) => <option key={u.code} value={u.code}>{u.short}</option>)}
+            {UNITS.filter((u) => data.counts[u.code]).map((u) => <option key={u.code} value={u.code}>{u.short} ({data.counts[u.code]} Qs)</option>)}
           </select>
           {printUnit !== 'daily' && (
             <select className={inputBase} value={printCount} onChange={(e) => setPrintCount(Number(e.target.value))} aria-label="Number of questions">

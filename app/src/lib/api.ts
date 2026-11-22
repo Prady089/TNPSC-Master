@@ -32,6 +32,8 @@ export interface Api {
   getDailyQuiz(date: string): Promise<Question[]>;
   getPractice(opts: { unit?: string; chapter?: string; count: number }): Promise<Question[]>;
   getQuestionsByIds(ids: string[]): Promise<Question[]>;
+  /** Number of published questions per syllabus unit. */
+  getUnitQuestionCounts(): Promise<Record<string, number>>;
   // scores
   saveAttempt(a: NewAttempt, answers: AnswerRecord[]): Promise<void>;
   getAttempts(limit?: number): Promise<Attempt[]>;

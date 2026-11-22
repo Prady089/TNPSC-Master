@@ -77,6 +77,12 @@ export const remoteApi: Api = {
     const pool = must(await db().from('questions').select('id,unit_code').eq('status', 'approved').limit(5000)) ?? [];
     return this.getQuestionsByIds(pickDaily(pool, date));
   },
+  async getUnitQuestionCounts() {
+    const rows = (must(await db().from('questions').select('unit_code').eq('status', 'approved').limit(20000)) ?? []) as { unit_code: string }[];
+    const out: Record<string, number> = {};
+    for (const r of rows) out[r.unit_code] = (out[r.unit_code] ?? 0) + 1;
+    return out;
+  },
   async getPractice({ unit, chapter, count }) {
     let q = db().from('questions').select('id').eq('status', 'approved');
     if (unit) q = q.eq('unit_code', unit);

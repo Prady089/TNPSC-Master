@@ -88,6 +88,11 @@ export const localApi: Api = {
     const byId = new Map(pool.map((q) => [q.id, q]));
     return ids.map((id) => byId.get(id)!).filter(Boolean);
   },
+  async getUnitQuestionCounts() {
+    const out: Record<string, number> = {};
+    for (const q of await approved()) out[q.unit_code] = (out[q.unit_code] ?? 0) + 1;
+    return out;
+  },
   async getPractice({ unit, chapter, count }) {
     const pool = (await approved()).filter((q) => (!unit || q.unit_code === unit) && (!chapter || q.chapter_id === chapter));
     return shuffle(pool).slice(0, count);

@@ -72,7 +72,7 @@ export default function QuizPrint() {
 
   if (loading) return <>{toolbar}<Spinner label="Preparing your paper…" /></>;
   if (error || !data) return <>{toolbar}<div className="p-4"><ErrorNote>{error ?? 'Could not load questions'}</ErrorNote></div></>;
-  if (!qs.length) return <>{toolbar}<Empty title="No questions to print yet">Questions appear here once they are reviewed and published.</Empty></>;
+  if (!qs.length) return <>{toolbar}<Empty title="No questions for this yet">{mode === 'unit' ? `${unitByCode(unit ?? '')?.short ?? 'This unit'} questions are still being prepared. Try another unit or today's daily quiz.` : 'Questions appear here once they are published.'}</Empty></>;
 
   return (
     <div className="min-h-dvh bg-surface-2 print:bg-white">
