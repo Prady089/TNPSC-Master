@@ -31,6 +31,10 @@ export default defineConfig({
         ],
       },
       workbox: {
+        // Take over immediately after a deploy (don't wait for every tab to close).
+        skipWaiting: true,
+        clientsClaim: true,
+        cleanupOutdatedCaches: true,
         // App shell is precached; book chapters (13 MB) are cached as they are opened.
         globPatterns: ['**/*.{js,css,html,svg,png,woff2}'],
         globIgnores: ['content/**'],

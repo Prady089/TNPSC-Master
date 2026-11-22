@@ -24,6 +24,15 @@ window.addEventListener('vite:preloadError', (e) => {
 
 // Offline service worker: when a new version is deployed, switch to it and refresh automatically,
 // and check for updates every 30 minutes while the app stays open.
+if ('serviceWorker' in navigator && navigator.serviceWorker.controller) {
+  // A newer version took over this page: reload once so the student sees it.
+  let reloaded = false;
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (reloaded) return;
+    reloaded = true;
+    window.location.reload();
+  });
+}
 registerSW({
   immediate: true,
   onRegisteredSW(_url, reg) {
