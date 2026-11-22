@@ -1,4 +1,4 @@
-import { NavLink, Outlet, Link } from 'react-router-dom';
+import { NavLink, Outlet, Link, useLocation, useNavigate } from 'react-router-dom';
 import { api } from '../lib/api';
 import { isStaff, isSuper, useAuth } from '../lib/auth';
 import { BookIcon, CalendarIcon, ChartIcon, ChatIcon, HomeIcon, NewsIcon, QuizIcon, UserIcon } from './icons';
@@ -12,6 +12,18 @@ const NAV = [
   { to: '/news', label: 'News', icon: NewsIcon },
   { to: '/progress', label: 'Progress', icon: ChartIcon },
 ];
+/** Phone tab bar: five tabs like a native app. Discuss is on hold, so it lives in the desktop menu only. */
+const TABS = NAV.filter((n) => n.to !== '/chat');
+const TAB_ROOTS = new Set(NAV.map((n) => n.to));
+
+/** Title shown in the phone app bar on pages below a tab (these get a back arrow). */
+function subTitle(path: string): string {
+  if (path.startsWith('/learn')) return 'Library';
+  if (path.startsWith('/profile')) return 'Profile';
+  if (path.startsWith('/admin/review')) return 'Review';
+  if (path.startsWith('/admin')) return 'Admin';
+  return '';
+}
 
 function Brand() {
   return (
@@ -22,8 +34,21 @@ function Brand() {
   );
 }
 
+function BackIcon() {
+  return (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+      <path d="M15 18l-6-6 6-6" />
+    </svg>
+  );
+}
+
 export default function Layout() {
   const { profile } = useAuth();
+  const { pathname } = useLocation();
+  const navigate = useNavigate();
+  const isRoot = TAB_ROOTS.has(pathname);
+  const goBack = () => (window.history.length > 1 ? navigate(-1) : navigate('/'));
+
   const initials = (profile?.full_name ?? '?').split(' ').map((s) => s[0]).slice(0, 2).join('').toUpperCase();
   const avatar = (
     <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-brand-soft text-xs font-bold text-brand">
@@ -41,7 +66,7 @@ export default function Layout() {
   return (
     <div className="min-h-dvh lg:flex">
       {/* Desktop sidebar */}
-      <aside className="sticky top-0 hidden h-dvh w-64 shrink-0 flex-col border-r border-line bg-surface px-4 py-5 lg:flex">
+      <aside className="app-chrome sticky top-0 hidden h-dvh w-64 shrink-0 flex-col border-r border-line bg-surface px-4 py-5 lg:flex">
         <div className="flex flex-col items-start gap-2 whitespace-nowrap px-2"><Brand />{demo}</div>
         <nav className="mt-8 flex flex-col gap-1">
           {NAV.map(({ to, label, icon: Icon, end }) => (
@@ -63,11 +88,19 @@ export default function Layout() {
       </aside>
 
       <div className="mx-auto flex min-h-dvh w-full max-w-3xl flex-col lg:max-w-5xl">
-        {/* Phone / tablet header */}
-        <header className="sticky top-0 z-20 border-b border-line bg-bg/90 backdrop-blur lg:hidden">
-          <div className="flex h-14 items-center gap-3 px-4">
-            <Brand />
-            {demo}
+        {/* Phone / tablet app bar */}
+        <header className="app-chrome sticky top-0 z-20 border-b border-line bg-bg/90 pt-[env(safe-area-inset-top)] backdrop-blur lg:hidden">
+          <div className="flex h-14 items-center gap-2 px-4">
+            {isRoot ? (
+              <><Brand />{demo}</>
+            ) : (
+              <>
+                <button onClick={goBack} aria-label="Back" className="press -ml-2 flex h-10 w-10 items-center justify-center rounded-full text-ink active:bg-surface-2">
+                  <BackIcon />
+                </button>
+                <span className="truncate text-[17px] font-semibold">{subTitle(pathname)}</span>
+              </>
+            )}
             <nav className="ml-auto hidden items-center gap-1 md:flex">
               {NAV.map((n) => (
                 <NavLink key={n.to} to={n.to} end={n.end}
@@ -76,21 +109,35 @@ export default function Layout() {
                 </NavLink>
               ))}
             </nav>
-            <Link to="/profile" aria-label="Profile" className="ml-auto md:ml-2">{avatar}</Link>
+            {pathname !== '/profile' && <Link to="/profile" aria-label="Profile" className="press ml-auto md:ml-2">{avatar}</Link>}
           </div>
         </header>
 
-        <main className="flex-1 px-4 pb-28 pt-4 md:pb-10 lg:px-10 lg:pt-8">
-          <Outlet />
+        <main className="flex-1 px-4 pb-[calc(5.5rem+env(safe-area-inset-bottom))] pt-4 md:pb-10 lg:px-10 lg:pt-8">
+          <div key={pathname} className="page-enter">
+            <Outlet />
+          </div>
         </main>
 
-        <nav className="fixed inset-x-0 bottom-0 z-20 border-t border-line bg-surface/95 pb-[env(safe-area-inset-bottom)] backdrop-blur md:hidden">
-          <div className="mx-auto grid max-w-3xl grid-cols-6">
-            {NAV.map(({ to, label, icon: Icon, end }) => (
+        {/* Phone tab bar */}
+        <nav className="app-chrome fixed inset-x-0 bottom-0 z-20 border-t border-line bg-surface/95 pb-[env(safe-area-inset-bottom)] backdrop-blur md:hidden">
+          <div className="mx-auto grid max-w-3xl grid-cols-5">
+            {TABS.map(({ to, label, icon: Icon, end }) => (
               <NavLink key={to} to={to} end={end}
-                className={({ isActive }) => cx('flex flex-col items-center gap-0.5 py-2 text-[10.5px] font-medium', isActive ? 'text-brand' : 'text-muted')}>
-                <Icon size={22} />
-                {label}
+                className={({ isActive }) => cx('flex flex-col items-center gap-1 pb-2 pt-2.5 text-[11px] font-semibold',
+                  isActive || (to === '/library' && pathname.startsWith('/learn')) ? 'text-brand' : 'text-muted')}>
+                {({ isActive: exact }) => {
+                  const isActive = exact || (to === '/library' && pathname.startsWith('/learn'));
+                  return (
+                  <>
+                    <span className={cx('flex h-8 w-14 items-center justify-center rounded-full transition-colors duration-200',
+                      isActive ? 'bg-brand-soft' : 'bg-transparent')}>
+                      <Icon size={22} />
+                    </span>
+                    {label}
+                  </>
+                  );
+                }}
               </NavLink>
             ))}
           </div>

@@ -90,6 +90,44 @@ body {
 
 body {
   min-height: 100dvh;
+  /* App feel: no rubber-band bounce past the page edges, no double-tap zoom delay. */
+  overscroll-behavior-y: none;
+  touch-action: manipulation;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Navigation chrome behaves like app UI: no text selection or long-press callouts. */
+.app-chrome,
+.app-chrome * {
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+
+/* Tap feedback on phones (touch screens only, so desktop hover is unchanged). */
+@media (hover: none) {
+  .press,
+  main a,
+  main button {
+    transition: transform 0.12s ease, opacity 0.12s ease;
+  }
+  .press:active,
+  main a:active,
+  main button:not(:disabled):active {
+    transform: scale(0.97);
+    opacity: 0.85;
+  }
+}
+
+/* Gentle fade-up when switching pages. */
+@keyframes page-enter {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: none; }
+}
+.page-enter { animation: page-enter 0.22s ease-out; }
+@media (prefers-reduced-motion: reduce) {
+  .page-enter { animation: none; }
+  .press:active, main a:active, main button:active { transform: none; }
 }
 
 :focus-visible {
