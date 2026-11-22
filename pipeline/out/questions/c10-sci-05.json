@@ -1,0 +1,830 @@
+[
+ {
+  "id": "33cd1b7d-d9da-5324-9f8d-b24c1bd39130",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Which of the following best defines acoustics as given in the chapter?",
+  "options": [
+   "A branch of physics dealing only with musical instruments",
+   "A branch of physics dealing with production, transmission, reception, control and effects of sound",
+   "A branch of chemistry dealing with gases and liquids",
+   "A branch of biology dealing with hearing organs"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that acoustics deals with production, transmission, reception, control and effects of sound, not merely musical instruments or auditorium design.",
+  "source_page": 67,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "83065e1a-0bc3-518e-93ff-3c2b1341663f",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Sound produced by a ringing bell or musical instrument is mainly due to",
+  "options": [
+   "heating of the surrounding air",
+   "reflection from nearby walls",
+   "vibrations of the body",
+   "chemical changes in the material"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter explains that by touching a ringing bell or musical instrument, one can conclude that sound is produced by vibrations.",
+  "source_page": 67,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3a9e65e7-931a-51ec-aed8-9214e1d913b9",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Why will two persons on the Moon not hear each other’s sound directly, according to the chapter?",
+  "options": [
+   "The Moon has no mountains",
+   "The Moon has no air as a material medium",
+   "Sound travels too fast on the Moon",
+   "Human ears cannot detect lunar sound"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says that as the Moon does not have air, sound produced by a friend cannot be heard; sound needs a material medium for propagation.",
+  "source_page": 67,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f895bdbe-7cc6-542e-9178-8a32b432a02c",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "With reference to sound propagation, which of the following statements is correct?",
+  "options": [
+   "Sound can propagate only through gases",
+   "Sound can propagate through gases, liquids and solids",
+   "Sound can propagate through vacuum better than air",
+   "Sound needs only light for propagation"
+  ],
+  "answer_index": 1,
+  "explanation": "The text states that sound can propagate through a gaseous medium, a liquid medium or a solid medium.",
+  "source_page": 67,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "642a7c47-24b1-5241-8814-4191fe65bff2",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Sound waves are longitudinal waves because the particles of the medium vibrate",
+  "options": [
+   "perpendicular to the direction of wave propagation",
+   "opposite to the direction of energy only",
+   "along the direction of propagation of the wave",
+   "without displacement from their mean positions"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines sound waves as longitudinal waves in which particles vibrate along the direction of propagation.",
+  "source_page": 68,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "84d76716-ff15-52cb-b4a7-40842aa22c6b",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "The high and low pressure regions produced during propagation of sound are respectively called",
+  "options": [
+   "crests and troughs",
+   "nodes and antinodes",
+   "compressions and rarefactions",
+   "focus and normal"
+  ],
+  "answer_index": 2,
+  "explanation": "Sound propagation produces a series of high and low pressure regions called compressions and rarefactions.",
+  "source_page": 68,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bcda0604-ec73-5851-aa2e-6928fdc26e65",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Match the categories of sound waves with their frequency ranges: A. Audible waves  B. Infrasonic waves  C. Ultrasonic waves; 1. Greater than 20 kHz  2. 20 Hz to 20,000 Hz  3. Below 20 Hz.",
+  "options": [
+   "A-2, B-3, C-1",
+   "A-1, B-2, C-3",
+   "A-3, B-1, C-2",
+   "A-2, B-1, C-3"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter classifies audible waves as 20 Hz to 20,000 Hz, infrasonic waves as below 20 Hz, and ultrasonic waves as greater than 20 kHz.",
+  "source_page": 68,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2940cc0d-6ae8-5f3c-a449-f0d208781ad8",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Which of the following is an example of infrasonic waves mentioned in the chapter?",
+  "options": [
+   "Waves produced by bats",
+   "Waves produced during earthquake",
+   "Sound from stretched strings in audible range",
+   "Radio waves in RADAR"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter gives waves produced during earthquake, ocean waves and sound produced by whales as examples of infrasonic waves.",
+  "source_page": 68,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "aa91ddc9-e707-5969-b6bb-2aa966b68f7d",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Which creatures are stated in the chapter as being able to detect ultrasonic waves?",
+  "options": [
+   "Mosquito, dogs, bats and dolphins",
+   "Frogs, cows, horses and sheep",
+   "Elephants, whales, cats and snakes",
+   "Humans, lions, tigers and deer"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that certain creatures like mosquito, dogs, bats and dolphins can detect ultrasonic waves.",
+  "source_page": 68,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "88522896-b601-5d55-937d-356a8a26a446",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Which one of the following is a correct difference between sound waves and light waves according to the chapter?",
+  "options": [
+   "Sound waves are transverse; light waves are longitudinal",
+   "Sound waves need no medium; light waves need a medium",
+   "Sound waves are longitudinal; light waves are transverse",
+   "Sound waves travel in air at 3 × 10^8 ms–1"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter’s comparison table states that sound waves are longitudinal whereas light waves are transverse.",
+  "source_page": 68,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7d6fecf7-e4de-52bc-af1d-a45a28b80093",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "In the context of wave motion, particle velocity means the velocity with which",
+  "options": [
+   "the wave travels through vacuum",
+   "particles of the medium vibrate to transfer energy as a wave",
+   "light particles move in a straight line",
+   "sound reflects from a rigid wall"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines particle velocity as the velocity with which particles of the medium vibrate to transfer energy in the form of a wave.",
+  "source_page": 69,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dce52862-55bb-50ee-9c1e-216fc4931ae4",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "The wave velocity of sound is best described as",
+  "options": [
+   "the number of vibrations produced per second only",
+   "the distance travelled by a sound wave in unit time",
+   "the speed of individual air molecules only",
+   "the change in pressure at a reflecting surface"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines wave velocity as the velocity with which the wave travels through the medium, or distance travelled by a sound wave in unit time.",
+  "source_page": 69,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9656ff6a-bab5-5414-bd06-67d6593b7ccf",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "If n is frequency and λ is wavelength, the velocity V of a sound wave is",
+  "options": [
+   "V = n/λ",
+   "V = λ/n",
+   "V = nλ",
+   "V = 1/nλ"
+  ],
+  "answer_index": 2,
+  "explanation": "Using frequency n = 1/T, the chapter gives the expression V = nλ for wave velocity.",
+  "source_page": 69,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dd37678f-fcdc-5021-b571-9fc4b5eae8bc",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Why is the velocity of sound maximum in solids according to the chapter?",
+  "options": [
+   "Solids are more elastic in nature than liquids and gases",
+   "Solids have no particles to vibrate",
+   "Solids have the least elasticity",
+   "Solids always have the least density"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the velocity of sound is maximum in solids because they are more elastic in nature than liquids and gases.",
+  "source_page": 69,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "40ba64ca-5462-521f-b1e2-f6ea1d04d140",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Regarding the velocity of sound in solids, which of the following statements is correct?",
+  "options": [
+   "It increases when density increases and elasticity decreases",
+   "It is independent of elasticity and density",
+   "It decreases as density increases and increases when elasticity increases",
+   "It is least in solids because solids are most elastic"
+  ],
+  "answer_index": 2,
+  "explanation": "The text says speed is directly proportional to the square root of elastic modulus and inversely proportional to the square root of density.",
+  "source_page": 69,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ac359821-ac95-565e-9073-0859151741eb",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "In a gas, the velocity of sound is affected by which of the following factors as listed in the chapter?",
+  "options": [
+   "Density, temperature and relative humidity",
+   "Colour, shape and brightness",
+   "Electric charge, magnetism and transparency",
+   "Mass number, atomic number and valency"
+  ],
+  "answer_index": 0,
+  "explanation": "Under factors affecting velocity in gases, the chapter lists density, temperature and relative humidity.",
+  "source_page": 69,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c5e7affb-0372-5ddb-ad87-6cdcc770b679",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Assertion (A): In a gas, the velocity of sound decreases as density increases. Reason (R): The velocity of sound in a gas is inversely proportional to the square root of the density of the gas.",
+  "options": [
+   "Both A and R are true, and R is the correct explanation of A",
+   "Both A and R are true, but R is not the correct explanation of A",
+   "A is true, but R is false",
+   "A is false, but R is true"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter directly states that velocity is inversely proportional to the square root of gas density; hence velocity decreases as density increases.",
+  "source_page": 69,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "36590952-cfa0-5893-a7fa-a9edacaab0a2",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "For air, the velocity of sound at 0°C is given as 331 ms–1. According to the chapter, how much does it change for each one degree Celsius change in temperature?",
+  "options": [
+   "0.061 ms–1",
+   "0.61 ms–1",
+   "6.1 ms–1",
+   "61 ms–1"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that for air v0 = 331 ms–1 and the velocity changes by 0.61 ms–1 for one degree Celsius change.",
+  "source_page": 69,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "beabeb95-f020-5818-a9a8-b5761f967671",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "According to the formula vT = v0 + 0.61T, what is the velocity of sound in air at 20°C?",
+  "options": [
+   "331 ms–1",
+   "343.2 ms–1",
+   "351.0 ms–1",
+   "391.0 ms–1"
+  ],
+  "answer_index": 1,
+  "explanation": "Using vT = 331 + 0.61 × 20 gives 343.2 ms–1, which is consistent with the chapter’s statement that air at 20°C has about 343 ms–1.",
+  "source_page": 69,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a28796a7-ccb3-547c-9bf5-e46a441d4fec",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Why can sound from long distances be heard clearly during rainy seasons, according to the chapter?",
+  "options": [
+   "Rain reduces all reflection of sound",
+   "Humidity increases the speed of sound",
+   "Temperature becomes exactly 0°C",
+   "Sound becomes a transverse wave"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that when humidity increases, the speed of sound increases, and therefore sound from long distances can be heard clearly during rainy seasons.",
+  "source_page": 69,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "747512e7-77d9-57cd-a886-5419e1cfd323",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Which of the following is one of the laws of reflection applicable to sound waves?",
+  "options": [
+   "The angle of incidence is twice the angle of reflection",
+   "The incident wave and reflected wave must be perpendicular",
+   "The angle of incidence is equal to the angle of reflection",
+   "Only transverse waves obey reflection"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the angle of incidence ∠i is equal to the angle of reflection ∠r for sound reflection.",
+  "source_page": 70,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "02034820-528e-56b6-bf7f-e5bab3f0c2a0",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Reflection of sound refers to",
+  "options": [
+   "bending of sound while entering the same medium",
+   "bouncing of sound waves from the interface between two media",
+   "complete disappearance of sound at a surface",
+   "conversion of sound into light"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines reflection of sound as the bouncing of sound waves from the interface between two media.",
+  "source_page": 70,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e9c3d054-b482-5de0-9ecd-3b363b018cda",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Match the terms in sound reflection: A. Incident wave  B. Reflected wave  C. Normal; 1. Perpendicular drawn at the point of incidence  2. Wave travelling towards the reflecting surface  3. Wave bouncing back from the reflecting surface.",
+  "options": [
+   "A-1, B-2, C-3",
+   "A-2, B-3, C-1",
+   "A-3, B-1, C-2",
+   "A-2, B-1, C-3"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines incident waves as those travelling towards the surface, reflected waves as those bouncing back, and normal as the perpendicular at the point of incidence.",
+  "source_page": 70,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9bde3878-33b5-54e7-b7ff-02e651038008",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "The acoustical wonder of Golconda Fort is associated with which feature mentioned in the chapter?",
+  "options": [
+   "A completely sound-absorbing wall",
+   "A clapping portico with a series of arches",
+   "A vacuum chamber for sound testing",
+   "A parabolic ceiling in St. Paul’s cathedral"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter describes the Clapping portico in Golconda Fort as a series of arches where sound gets compressed and bounces back amplified.",
+  "source_page": 70,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ed370dbc-9c74-543d-8364-92056b5f33a9",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "When a compression travelling in air reaches a rigid wall, it is reflected back as",
+  "options": [
+   "a rarefaction",
+   "a transverse wave",
+   "a compression",
+   "no wave"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that a compression travelling towards a rigid wall is reflected back as a compression.",
+  "source_page": 71,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2af90dcb-19cd-5b96-9b05-98e234aaa7c9",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "When a compression travelling in a solid medium strikes the interface with air, it is reflected as",
+  "options": [
+   "a compression only",
+   "a rarefaction",
+   "an electromagnetic wave",
+   "a light wave"
+  ],
+  "answer_index": 1,
+  "explanation": "At the boundary of a rarer medium, the chapter explains that a compression is reflected as a rarefaction.",
+  "source_page": 71,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "62677fc0-fd93-5353-bae3-9d5c55542d87",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "According to the chapter, for sound, a medium in which the velocity of sound increases compared to another medium is called",
+  "options": [
+   "denser medium",
+   "rarer medium",
+   "opaque medium",
+   "elastic vacuum"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines a rarer medium as one in which the velocity of sound increases compared to another medium.",
+  "source_page": 71,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "db130d30-9bf0-5335-b83c-7ec1318d3e6a",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Which statement about reflection of sound from different surfaces is correct?",
+  "options": [
+   "A plane surface always increases the intensity of reflected sound",
+   "A convex surface converges sound and increases intensity at a point",
+   "A concave surface converges reflected sound and focuses it at a point",
+   "A curved surface never changes the intensity of reflected waves"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that sound reflected from a concave surface is converged and focused at a point, concentrating intensity there.",
+  "source_page": 71,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8e557ac3-c205-5499-b26b-6bffc7db72c2",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Which type of reflecting surface is used when sound must be focused at a particular point?",
+  "options": [
+   "Parabolic surface",
+   "Plane surface only",
+   "Irregular rough surface",
+   "Transparent surface"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that parabolic surfaces are used when it is required to focus sound at a particular point.",
+  "source_page": 71,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b6b24617-f7e1-56dd-95c8-c5d63c7a67b6",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "The principle of whispering halls is based on which property of elliptical surfaces?",
+  "options": [
+   "Sound from one focus is always reflected to the other focus",
+   "All sound is absorbed at both foci",
+   "Sound travels in vacuum between two foci",
+   "Only ultrasonic waves are reflected"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter explains that in elliptical surfaces, sound from one focus is reflected to the other focus, which is used in whispering halls.",
+  "source_page": 71,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ec1199a2-8abe-5bdc-b468-6741fc87a9c1",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "An echo is produced due to",
+  "options": [
+   "refraction of light through air",
+   "reflection of original sound from rigid surfaces",
+   "heating of air by sound waves",
+   "conversion of ultrasound into electricity"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines an echo as sound reproduced due to reflection of the original sound from rigid surfaces such as walls, ceilings or mountains.",
+  "source_page": 72,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "043293f0-f521-52a4-807f-b7f14d85993f",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Which of the following conditions is necessary for hearing a distinct echo?",
+  "options": [
+   "The time gap between original sound and echo must be at least 0.1 s",
+   "The reflecting surface must be less than 1 m away",
+   "The source and listener must move mutually perpendicular",
+   "Sound must be ultrasonic only"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the persistence of hearing is 0.1 s, so the minimum time gap between original sound and echo must be 0.1 s.",
+  "source_page": 72,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a56696a5-314d-5cee-b774-c203f14039d1",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "If the velocity of sound in air is taken as 344 ms–1, what minimum distance from the reflecting surface is required to hear an echo?",
+  "options": [
+   "8.6 m",
+   "17.2 m",
+   "34.4 m",
+   "172 m"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter gives the minimum distance as one-twentieth of the velocity of sound; 344/20 = 17.2 m.",
+  "source_page": 72,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c4b67c00-44b5-5898-a82d-7beaf3c7ad17",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Which of the following is an application of echo mentioned in the chapter?",
+  "options": [
+   "Determining the density of metals by colour",
+   "Creating real-time visual images in obstetric ultrasonography",
+   "Producing light from sound waves",
+   "Preventing all reflections in halls"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that echo is used in obstetric ultrasonography to create real-time visual images of the developing embryo or fetus.",
+  "source_page": 72,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "09af996f-d859-5c2d-8ed3-a54e61301fbb",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Arrange the steps in measuring velocity of sound by echo method: A. Measure distance d between source and reflecting surface. B. Emit a sound pulse with receiver adjacent to source. C. Note time interval t between sending pulse and receiving echo. D. Calculate speed as 2d/t.",
+  "options": [
+   "A-B-C-D",
+   "B-A-D-C",
+   "C-B-A-D",
+   "D-C-B-A"
+  ],
+  "answer_index": 0,
+  "explanation": "The procedure in the chapter begins with measuring distance, then emitting the pulse, noting time interval, and using total distance 2d to calculate speed as 2d/t.",
+  "source_page": 73,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cdcecc14-a4f3-50a5-9f83-83f5c24f5310",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "A sound pulse is sent towards a wall 170 m away and its echo is received after 1 second. Using the echo method, the speed of sound is",
+  "options": [
+   "170 ms–1",
+   "255 ms–1",
+   "340 ms–1",
+   "680 ms–1"
+  ],
+  "answer_index": 2,
+  "explanation": "In the echo method, the pulse travels 2d; hence speed = 2 × 170 / 1 = 340 ms–1.",
+  "source_page": 73,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "52940d27-f9e6-5e18-9efb-aedcc46fada0",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Which statement correctly describes a sound board?",
+  "options": [
+   "It is a convex surface used to scatter sound away from the audience",
+   "It is a concave curved surface placed so that the speaker is at its focus",
+   "It is a flat surface used only to absorb all sound",
+   "It is a narrow tube used by people with hearing difficulty"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that sound boards are concave curved surfaces placed with the speaker at the focus to reflect sound towards the audience.",
+  "source_page": 73,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d1134e3a-ebfe-5681-82d2-22f0146f8585",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Match the device with its description: A. Ear trumpet  B. Megaphone  C. Sound board; 1. Horn-shaped device for addressing a small gathering  2. Hearing aid with wide and narrow ends  3. Concave surface used in halls to improve sound quality.",
+  "options": [
+   "A-2, B-1, C-3",
+   "A-1, B-3, C-2",
+   "A-3, B-2, C-1",
+   "A-2, B-3, C-1"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter describes ear trumpet as a hearing aid, megaphone as a horn-shaped addressing device, and sound board as a concave surface used in halls.",
+  "source_page": 73,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2bcc7c1c-65ec-5459-bf71-736feb66e8d6",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "The apparent change in pitch of a fast-moving train whistle as it approaches and then moves away is explained by",
+  "options": [
+   "echo only",
+   "reflection at a denser medium",
+   "Doppler effect",
+   "rarefaction at a rigid wall"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter introduces Doppler effect using the example of a train whistle increasing in pitch while approaching and decreasing while moving away.",
+  "source_page": 73,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "17fbd5ab-e1cc-5d48-b5c7-34b8854609a6",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Doppler effect was first observed and explained by",
+  "options": [
+   "Christian Doppler",
+   "St. Paul",
+   "Golconda",
+   "RAdio Detection And Ranging"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the apparent change in frequency was first observed and explained by Christian Doppler, an Austrian mathematician and physicist.",
+  "source_page": 73,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "957e13b1-995a-5975-9d8b-f80ebb54ec52",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Which of the following is the definition of Doppler effect as stated in the chapter?",
+  "options": [
+   "Reflection of sound from rigid surfaces after 0.1 s",
+   "Increase in speed of sound due to humidity",
+   "Difference between heard frequency and original frequency due to relative motion between source and listener",
+   "Conversion of audible waves into ultrasonic waves"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines Doppler effect as the change in frequency heard by the listener from the original emitted frequency whenever there is relative motion between source and listener.",
+  "source_page": 74,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6560a57c-4470-5f08-ad29-7b5a51acf42d",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "When the source and listener move towards each other, the apparent frequency n' is given in the chapter as",
+  "options": [
+   "n' = ((v + vL)/(v - vS)) n",
+   "n' = ((v - vL)/(v + vS)) n",
+   "n' = ((v - vL)/(v - vS)) n",
+   "n' = ((v + vS)/(v - vL)) n"
+  ],
+  "answer_index": 0,
+  "explanation": "For source and listener moving towards each other, the chapter gives n' = (v + vL)/(v − vS) multiplied by n.",
+  "source_page": 74,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5147b389-db21-5fa8-9746-9631ee49805d",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Which of the following Doppler-effect situations gives an apparent frequency less than the actual frequency?",
+  "options": [
+   "Source at rest and listener moves towards the source",
+   "Listener at rest and source moves towards the listener",
+   "Both source and listener move towards each other",
+   "Source at rest and listener moves away from the source"
+  ],
+  "answer_index": 3,
+  "explanation": "The table states that when the listener moves away from a source at rest, distance increases and apparent frequency is less than actual frequency.",
+  "source_page": 75,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6288363e-bda8-5a51-865d-d32671af3fd4",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "If wind moves in the direction of propagation of sound with velocity W, what replacement is made for v in Doppler-effect calculations?",
+  "options": [
+   "v is replaced by v + W",
+   "v is replaced by v − W",
+   "v is replaced by W − v",
+   "v is replaced by v/W"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that if the medium moves in the direction of propagation, the velocity of sound v should be replaced with v + W.",
+  "source_page": 75,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bfcb2b19-7c52-5cd7-9f8f-3eef2902b0aa",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Which of the following is NOT a condition for no Doppler effect according to the chapter?",
+  "options": [
+   "Source and listener both are at rest",
+   "Source and listener move so that distance between them remains constant",
+   "Source and listener move in mutually perpendicular directions",
+   "Source moves towards a stationary listener"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter lists no Doppler effect when both are at rest, distance remains constant, or motions are mutually perpendicular; a source moving towards a stationary listener produces Doppler effect.",
+  "source_page": 77,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "eab36155-d35c-50e6-b3c5-be745eb82b21",
+  "chapter_id": "c10-sci-05",
+  "unit_code": "GS1",
+  "question": "Which application uses frequency change between sent and received signals to determine the speed of marine animals and submarines?",
+  "options": [
+   "RADAR",
+   "Sound board",
+   "SONAR",
+   "Ear trumpet"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that in SONAR, the change in frequency between sent and received signals is used to determine the speed of marine animals and submarines.",
+  "source_page": 77,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

@@ -1,0 +1,722 @@
+[
+ {
+  "id": "21001a66-8a01-59fd-999c-0bbaf072edbb",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Which of the following best defines electric current as given in the chapter?",
+  "options": [
+   "The total energy supplied by a battery",
+   "The rate of flow of charges in a conductor",
+   "The opposition offered by a material to current",
+   "The work done in moving a charge from infinity"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines electric current as the rate of flow of charges in a conductor and represents it by the symbol I.",
+  "source_page": 50,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "56bfcf82-c34b-561b-aead-86782cfd6ae0",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "The SI unit of electric current is",
+  "options": [
+   "ampere",
+   "volt",
+   "ohm",
+   "watt"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the SI unit of electric current is ampere, represented by A.",
+  "source_page": 51,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9d2a506b-88a9-5ac7-a2f9-9a8b4c0413dc",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "In an electric circuit with a switch and a bulb, the bulb glows when the switch is on because",
+  "options": [
+   "the switch itself produces electric charges",
+   "the battery becomes disconnected from the bulb",
+   "the circuit becomes closed for current to pass",
+   "the bulb stores charge before glowing"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter explains that the circuit must be closed in order that current passes through it; when the switch is on, the bulb glows.",
+  "source_page": 52,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "17790716-aeca-5653-b891-6c79128db742",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Which statement correctly compares electron flow and conventional current in a battery circuit?",
+  "options": [
+   "Both electrons and conventional current flow from positive to negative terminal",
+   "Electrons flow from positive to negative, while conventional current has no direction",
+   "Electrons do not flow in a metallic conductor",
+   "Electrons flow from negative to positive, while current is taken from positive to negative"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says electrons flow from the negative terminal to the positive terminal, while by convention current flows opposite to electrons, from positive to negative.",
+  "source_page": 52,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dbeb5145-8224-5269-a21a-0d0d03523620",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Match the circuit component with its use: A. Ammeter  B. Voltmeter  C. Galvanometer  D. Ground connection; 1. Measure potential difference  2. Measure current  3. Detect current and direction  4. Protection/reference point",
+  "options": [
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-1, C-3, D-4",
+   "A-2, B-3, C-1, D-4",
+   "A-4, B-1, C-3, D-2"
+  ],
+  "answer_index": 1,
+  "explanation": "The table states that an ammeter measures current, a voltmeter measures potential difference, a galvanometer detects current and its direction, and ground connection provides protection and a reference point.",
+  "source_page": 51,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d9df59bf-6060-5978-847c-f7cb6fa0557e",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Electric potential difference between two points is defined as the amount of work done in moving",
+  "options": [
+   "a unit positive charge from one point to another against the electric force",
+   "a unit negative charge from one point to another along the electric force",
+   "one ampere of current through one ohm resistance",
+   "one coulomb of charge through a conductor in one second"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines potential difference as the work done in moving a unit positive charge from one point to another against the electric force.",
+  "source_page": 52,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ef2f697a-60e2-5ca6-b0f6-a6f630836f14",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "When is the potential difference between two points said to be one volt?",
+  "options": [
+   "When one ampere current flows for one second",
+   "When one ohm resistance opposes one ampere current",
+   "When one joule of work moves one coulomb of charge between the points",
+   "When one watt of power is consumed for one hour"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that one volt is the potential difference when one joule of work is done in moving one coulomb of charge between two points against the electric force.",
+  "source_page": 52,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6df23ff6-e86d-5c7b-9c9a-8ec0ffd480e8",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Electric potential at a point is the work done in moving a unit positive charge",
+  "options": [
+   "from that point to another point in the circuit",
+   "from the positive terminal to the negative terminal",
+   "from a lower potential to a higher potential only",
+   "from infinity to that point against the electric force"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter defines electric potential at a point as the work done in moving a unit positive charge from infinity to that point against the electric force.",
+  "source_page": 52,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "608f192d-c35c-5400-991c-358205bc1a93",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "According to Ohm’s law, at constant temperature, the steady current through a conductor is directly proportional to the",
+  "options": [
+   "resistance of the conductor",
+   "potential difference between the two ends of the conductor",
+   "length of the conductor only",
+   "area of cross-section of the conductor only"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that, at constant temperature, current I is directly proportional to the potential difference V between the two ends of the conductor.",
+  "source_page": 53,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8cdc1d79-5ac4-5a66-b816-3cda540b02e3",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "For a conductor obeying Ohm’s law, the graph between potential difference V and current I is",
+  "options": [
+   "a straight line",
+   "a circle",
+   "a parabola",
+   "a zig-zag curve"
+  ],
+  "answer_index": 0,
+  "explanation": "Since V is proportional to I, the chapter notes that the graph between V and I is a straight line for a conductor.",
+  "source_page": 53,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ba6caf58-4a22-571b-9240-2f4fd725a53e",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Resistance of a material is its property to",
+  "options": [
+   "aid the flow of charges",
+   "store electrical energy permanently",
+   "oppose the flow of charges and current",
+   "convert light into electric current"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines resistance as the property of a material to oppose the flow of charges and hence the passage of current.",
+  "source_page": 53,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fad7e1a6-b8a3-5e6a-8205-c57cc2793c36",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "The SI unit of resistance is",
+  "options": [
+   "mho",
+   "ohm metre",
+   "watt hour",
+   "ohm"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that the SI unit of resistance is ohm, represented by the symbol Ω.",
+  "source_page": 53,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f4d36e74-db2b-568f-b4f7-35b008502478",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Which statement about resistance of a conductor is correct according to the chapter?",
+  "options": [
+   "It is directly proportional to length and inversely proportional to area of cross-section",
+   "It is inversely proportional to both length and area of cross-section",
+   "It is directly proportional to area of cross-section and independent of length",
+   "It is the reciprocal of electrical conductivity only"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says resistance R is directly proportional to the length L and inversely proportional to the area of cross-section A.",
+  "source_page": 54,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5989a44e-0476-53a7-b2c9-84a4b09aba87",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Why is Nichrome used in making heating elements?",
+  "options": [
+   "It has the lowest resistivity among conductors",
+   "It has high resistivity",
+   "It is an insulator like glass",
+   "It has no resistance at all"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that Nichrome has the highest resistivity equal to 1.5 × 10–6 Ω m and hence is used in making heating elements.",
+  "source_page": 54,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "beec8d49-61a0-5305-897e-291d4b005ad2",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Conductance of a material is mathematically defined as the reciprocal of its",
+  "options": [
+   "resistivity",
+   "potential difference",
+   "resistance",
+   "electric power"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines conductance G as the reciprocal of resistance R, and gives its unit as ohm−1 or mho.",
+  "source_page": 54,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "aa1cb9d7-6026-52de-8a45-766d2538d01c",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Which of the following is correct about resistivity and conductivity?",
+  "options": [
+   "Conductors have more resistivity than insulators",
+   "Insulators have more conductivity than conductors",
+   "Conductivity is independent of material",
+   "Conductors have higher conductivity and lower resistivity than insulators"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that conductivity is more for conductors than for insulators, while resistivity is less for conductors than for insulators.",
+  "source_page": 54,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a4675574-6075-5514-a196-a342565a4663",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "As per the resistivity table in the chapter, which material has resistivity 1.62 × 10–8 Ω m?",
+  "options": [
+   "Copper",
+   "Nickel",
+   "Chromium",
+   "Glass"
+  ],
+  "answer_index": 0,
+  "explanation": "Table 4.2 lists the resistivity of copper as 1.62 × 10–8 Ω m.",
+  "source_page": 55,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c67a8d33-49ec-5f33-bbb2-2e00460f9b08",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Which of the following is incorrect regarding a series circuit?",
+  "options": [
+   "Components are connected one after another",
+   "It has two or more loops through which current can pass",
+   "If interrupted at any point, no current can pass",
+   "Flashlights commonly use series circuits"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says a series circuit has only one loop. A circuit with two or more loops is described as a parallel circuit.",
+  "source_page": 55,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "58362d67-d26c-543c-9135-d3fc9d13bc75",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "When resistors are connected in series, the effective resistance is",
+  "options": [
+   "less than the lowest individual resistance",
+   "equal to the reciprocal of the sum of reciprocals",
+   "equal to the sum of the individual resistances",
+   "always zero"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter derives that for series resistors, Rs = R1 + R2 + R3, and the equivalent resistance is greater than the highest individual resistance.",
+  "source_page": 55,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a456a6ef-48f8-52db-9cb2-9086594b892f",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Three resistors of 5 Ω, 3 Ω and 2 Ω are connected in series with a 10 V battery. What are the effective resistance and current?",
+  "options": [
+   "5 Ω and 2 A",
+   "10 Ω and 2 A",
+   "5 Ω and 1 A",
+   "10 Ω and 1 A"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter’s solved problem gives Rs = 5 + 3 + 2 = 10 Ω and current I = 10/10 = 1 A.",
+  "source_page": 55,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9c17bc4b-682d-51f1-93d6-de535afb5a11",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Which statement correctly describes a parallel circuit?",
+  "options": [
+   "It has two or more loops through which current can pass",
+   "It has only one loop and all devices stop if one loop opens",
+   "The same current must pass through every resistor",
+   "Its equivalent resistance is more than the highest resistance"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that a parallel circuit has two or more loops and that current can still pass through other loops if one loop is disconnected.",
+  "source_page": 56,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e9d1016e-3654-5c0a-9dfe-9df5493c9f66",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "When n resistors of equal resistance R are connected in parallel, their equivalent resistance is",
+  "options": [
+   "nR",
+   "R/n",
+   "R + n",
+   "n/R"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that when n equal resistors R are connected in parallel, the equivalent resistance is R/n.",
+  "source_page": 56,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7b3f7402-d48e-5740-9ec1-4d5b366db32f",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "In a series-parallel circuit described in the chapter, R1 and R2 form one parallel segment and R3 and R4 form another. How is the final resistance obtained?",
+  "options": [
+   "By adding all four resistances directly",
+   "By taking the reciprocal of R1 + R2 + R3 + R4",
+   "By finding each parallel effective resistance and then adding them in series",
+   "By multiplying the two parallel effective resistances"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter explains that R1 and R2 give RP1, R3 and R4 give RP2, and the total resistance is Rtotal = RP1 + RP2.",
+  "source_page": 57,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a58579a9-322b-50d7-ae9d-17d3db880355",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Match the criterion with the correct comparison: A. Equivalent resistance in series  B. Equivalent resistance in parallel  C. Switching in series  D. Switching in parallel; 1. Others work independently if one appliance is disconnected  2. More than highest resistance  3. Less than lowest resistance  4. Others also do not work if one appliance is disconnected",
+  "options": [
+   "A-3, B-2, C-4, D-1",
+   "A-2, B-3, C-1, D-4",
+   "A-4, B-1, C-2, D-3",
+   "A-2, B-3, C-4, D-1"
+  ],
+  "answer_index": 3,
+  "explanation": "Table 4.3 states that series equivalent resistance is more than the highest, parallel is less than the lowest, and parallel appliances work independently unlike series.",
+  "source_page": 58,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "655b8e84-6afa-5f7d-ae68-0d1256642ca1",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "The heating effect of current refers to the phenomenon in which",
+  "options": [
+   "a magnetic field disappears around a wire",
+   "passage of electric current through a wire produces heat",
+   "potential difference becomes zero in every resistor",
+   "electric current changes into chemical energy only"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that passage of electric current through a wire results in production of heat, called the heating effect of current.",
+  "source_page": 58,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1947eaeb-0197-540d-96df-8405374baafa",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "According to Joule’s law of heating, heat produced in a resistor is directly proportional to",
+  "options": [
+   "the square of current, resistance and time",
+   "the square of resistance, current and area",
+   "conductivity, voltage and length only",
+   "resistivity only"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter gives H = I²Rt and states that heat is directly proportional to the square of current, resistance and time.",
+  "source_page": 58,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2a722ba9-473e-5665-a4ab-df7aa127d864",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Which set gives the reasons for using Nichrome as a heating element in electric heating devices?",
+  "options": [
+   "Low resistivity, low melting point, easily oxidized",
+   "High conductivity, no resistance, transparent nature",
+   "High resistivity, high melting point, not easily oxidized",
+   "Low resistivity, high melting point, easily oxidized"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says Nichrome is used because it has high resistivity, high melting point, and is not easily oxidized.",
+  "source_page": 58,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "07cfd406-8368-5957-a16c-b13fe5a06784",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "How does a fuse wire protect electrical appliances?",
+  "options": [
+   "It increases the voltage supplied to appliances",
+   "It converts alternating current into direct current",
+   "It stores excess current for later use",
+   "It melts when large current passes and disconnects the circuit"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter explains that when a large current passes, fuse wire melts due to Joule’s heating effect and disconnects the circuit, saving appliances.",
+  "source_page": 58,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5f6a14b4-9085-5f2d-841b-5a4e9352631f",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Which material is commonly used to make the filament in electric bulbs?",
+  "options": [
+   "Nichrome",
+   "Tungsten",
+   "Copper",
+   "Rubber"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that tungsten is the commonly used material to make the filament in bulbs because the filament material needs a very high melting point.",
+  "source_page": 58,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ec00a5f8-d1ce-582c-a8d6-b58ddd023a3c",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Electric power is defined as the",
+  "options": [
+   "rate of consumption of electrical energy",
+   "total charge flowing through a conductor",
+   "reciprocal of electrical resistance",
+   "resisting power of a material"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines electric power as the rate of consumption of electrical energy, or the rate at which electrical energy is converted into another form.",
+  "source_page": 59,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "62bfca88-169c-56a0-9d2a-c664ba76bbdd",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "One horse power is equal to",
+  "options": [
+   "220 watt",
+   "50 watt",
+   "746 watt",
+   "1000 watt"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that horse power is a unit in the fps or English system and is equal to 746 watt.",
+  "source_page": 59,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "af60a582-a670-53f0-9947-47a5dda77144",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Which of the following correctly states the meaning of one kilowatt hour?",
+  "options": [
+   "One watt used for one second",
+   "One ampere flowing for one hour",
+   "One volt supplied for one hour",
+   "1000 watt of electric power utilized for one hour"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that one kilowatt hour means an electric power of 1000 watt has been utilized for an hour.",
+  "source_page": 59,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a996bd67-15af-5fa7-8250-cb7a045a6ff2",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "In the domestic electric circuit described in the chapter, which is the correct sequence after supply is brought from a distribution panel?",
+  "options": [
+   "Main switch → meter → fuse box → separate circuits",
+   "Main-box with fuse box and meter → main switch → separate circuits",
+   "Separate circuits → main switch → meter → main-box",
+   "MCB only → earth wire → live wire → neutral wire"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says the first stage is to bring supply to the main-box containing fuse box and meter; after the meter, wires enter the main switch and then separate circuits.",
+  "source_page": 59,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8f43291a-89d9-5949-bcdf-7a8742d2b173",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Which of the following statements about domestic wiring in India is correct?",
+  "options": [
+   "Live wire has red insulation, neutral wire has black insulation, and domestic AC is 220/230 V at 50 Hz",
+   "Live wire has black insulation, neutral wire has green insulation, and domestic AC is 110/120 V at 60 Hz",
+   "The 5 A circuit is used for air-conditioners and electric heaters",
+   "All circuits in a house are connected in series"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the live wire has red insulation, neutral wire black insulation, and in India domestic circuits receive 220/230 V AC at 50 Hz.",
+  "source_page": 60,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "79161598-0617-55b7-abab-add27c6f0e79",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Assertion (A): A short circuit can cause a large current to flow through wires. Reason (R): In a short circuit, the effective resistance in the circuit becomes very small.",
+  "options": [
+   "Both A and R are true, and R is the correct explanation of A",
+   "Both A and R are true, but R is not the correct explanation of A",
+   "A is true, but R is false",
+   "A is false, but R is true"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter explains that when live and neutral wires touch, the effective resistance becomes very small, leading to a large current and heating of wires.",
+  "source_page": 60,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e1622e64-e4eb-56c7-bdbc-fa804be91e2e",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "What is the main function of the earth wire in domestic circuits?",
+  "options": [
+   "To increase the power rating of appliances",
+   "To replace the neutral wire during normal operation",
+   "To make all appliances glow brighter",
+   "To provide a low resistance path and protect from electric shocks"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that the earth wire provides a low resistance path to current and serves as a protective conductor, saving us from electric shocks.",
+  "source_page": 61,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4e5c9ae3-320a-50b0-97f4-856bc22d9d81",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Which statement about LED bulbs is correct?",
+  "options": [
+   "They emit light only because a filament becomes white hot",
+   "Their emitted colour depends on the type of materials used",
+   "They require mercury and other toxic materials",
+   "They are used only in monochrome televisions"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter describes an LED bulb as a semiconductor device emitting visible light when current passes through it, and says the colour depends on the materials used.",
+  "source_page": 61,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "17d85ee7-5937-5d4f-91cf-61ce298678b2",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "A seven segment display consists of",
+  "options": [
+   "7 LED segments in the form of digit 8, with an extra 8th LED to display a dot",
+   "7 incandescent filaments arranged in a circle",
+   "8 LED segments only for alphabet display",
+   "6 LEDs and one tungsten filament"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that a seven segment display consists of 7 LEDs in the form of digit 8, named a to g, with an extra 8th LED for a dot.",
+  "source_page": 61,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d87f32b0-6239-5802-9f5b-462922d7ee82",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Which statement about LED television is correct according to the chapter?",
+  "options": [
+   "The first commercial LED television was introduced by James P. Mitchell in 1977",
+   "LED televisions use only tungsten filaments as pixels",
+   "James P. Mitchell developed the first LED television screen in 1977, and SONY introduced the first commercial LED Television in 2009",
+   "An LED TV is a CRT television with LED backlight"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that James P. Mitchell developed the first LED television screen in 1977 and SONY introduced the first commercial LED Television in 2009.",
+  "source_page": 62,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "199777e9-24c8-5db5-92bc-3c9eb2394743",
+  "chapter_id": "c10-sci-04",
+  "unit_code": "GS1",
+  "question": "Which of the following is listed as an advantage of LED television?",
+  "options": [
+   "It has lower picture brightness",
+   "It uses more power than normal TV",
+   "Its life span is less",
+   "It is thinner and consumes very less energy"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter lists the advantages of LED television: brighter picture quality, thinner size, less power use, longer life span and reliability.",
+  "source_page": 62,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

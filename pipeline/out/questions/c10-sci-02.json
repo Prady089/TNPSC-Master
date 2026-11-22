@@ -1,0 +1,902 @@
+[
+ {
+  "id": "1dabda3d-8819-517a-bcbb-8a9e090b2e32",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which one of the following statements correctly describes light as introduced in the chapter?",
+  "options": [
+   "Light is a form of energy which travels in the form of waves.",
+   "Light requires air as a compulsory medium for propagation.",
+   "Light cannot travel in a straight line in vacuum.",
+   "Light is visible only when it directly falls on the eyes."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter begins by stating that light is a form of energy travelling in the form of waves. It also says light does not need a medium and travels in straight lines.",
+  "source_page": 24,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0a522003-ee79-5ccd-b0b5-e9d395f24197",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Consider the following statements about the basic properties of light. Which is correct?",
+  "options": [
+   "Red light has the lowest wavelength among visible light.",
+   "Violet light has the highest wavelength among visible light.",
+   "The speed of light in vacuum or air is 3 × 10^8 ms–1.",
+   "Different coloured lights have the same wavelength and frequency."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the speed of light in vacuum or air is c = 3 × 10^8 ms–1. It also states violet has the lowest wavelength and red the highest among visible light.",
+  "source_page": 24,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e8b3d30b-1630-5a9f-912d-cc8d3ea40aaf",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Refraction of light takes place mainly because of",
+  "options": [
+   "equal speed of light in all media",
+   "difference in the velocity of light in different media",
+   "reflection of light from opaque surfaces",
+   "absence of wavelength in light waves"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines refraction as deviation of light when it passes from one transparent medium to another obliquely, and states that it occurs due to difference in velocity of light in different media.",
+  "source_page": 25,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2facc910-7ea5-504e-afb3-63c76698e4b4",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Assertion (A): When light travels from a denser medium into a rarer medium, the refracted ray bends away from the normal. Reason (R): The velocity of light is less in a denser medium and more in a rarer medium. Choose the correct answer.",
+  "options": [
+   "Both A and R are true, and R explains A.",
+   "Both A and R are true, but R does not explain A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states both that light bends away from the normal while going from denser to rarer medium and that velocity is less in denser and more in rarer medium. The change in velocity is given as the cause of refraction.",
+  "source_page": 25,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "338768b1-ae0c-5072-b804-daf3e4e84f44",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which of the following is known as Snell’s law in the chapter?",
+  "options": [
+   "Light travels only in vacuum.",
+   "The incident ray, refracted ray and normal lie in different planes.",
+   "The ratio of sine of angle of incidence to sine of angle of refraction equals the ratio of refractive indices of the two media.",
+   "The amount of scattering is inversely proportional to wavelength."
+  ],
+  "answer_index": 2,
+  "explanation": "The second law of refraction is described as the ratio of sine of incidence to sine of refraction being equal to the ratio of refractive indices; the chapter says this is Snell’s law.",
+  "source_page": 25,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c1fbde69-a236-516a-8f51-80228d939bfa",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "A medium has a high refractive index. According to the chapter, what can be inferred about the speed of light in it?",
+  "options": [
+   "The speed of light is high.",
+   "The speed of light is low.",
+   "The speed is independent of refractive index.",
+   "The speed becomes zero."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that speed of light in a medium is low if the refractive index of the medium is high, and vice versa.",
+  "source_page": 25,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d589ec83-04a5-5bc3-bdcf-b2833b934ad0",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which statement about dispersion of white light is correct?",
+  "options": [
+   "White light contains only red and violet colours.",
+   "Dispersion occurs only in vacuum.",
+   "Red light has the largest angle of refraction and violet the smallest.",
+   "White or composite light splits into component colours when refracted through transparent media."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says that when white or composite light is refracted through transparent media such as glass or water, it splits into component colours; this is dispersion.",
+  "source_page": 25,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8ac994d5-ed36-54c4-91fc-5507e0ad472b",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Arrange the colours of the spectrum in the order represented by VIBGYOR.",
+  "options": [
+   "Violet, Indigo, Blue, Green, Yellow, Orange, Red",
+   "Violet, Blue, Indigo, Green, Orange, Yellow, Red",
+   "Red, Orange, Yellow, Green, Blue, Indigo, Violet",
+   "Indigo, Violet, Blue, Yellow, Green, Orange, Red"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter lists the spectrum colours as Violet, Indigo, Blue, Green, Yellow, Orange and Red, represented by VIBGYOR.",
+  "source_page": 25,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0c2569ed-222f-531f-b24e-76d00539f690",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Why do different colours separate during dispersion through a transparent medium?",
+  "options": [
+   "All colours have identical wavelengths but different amplitudes.",
+   "Different coloured lights are bent through different angles.",
+   "Red light alone is reflected and other colours are absorbed.",
+   "Transparent media allow only violet light to pass."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter explains that the spectrum is obtained because different coloured lights are bent through different angles; hence their angle of refraction differs.",
+  "source_page": 25,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "eebbc2e7-9afe-50a6-a50d-bff79fe77637",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "In scattering of light, the interacting particle of the medium is called",
+  "options": [
+   "refractor",
+   "reflector",
+   "scatterer",
+   "aperture"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines scattering as redirection of the beam in all directions when it interacts with particles, and calls the interacting particle the scatterer.",
+  "source_page": 26,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "68f52b2e-8d3b-5f2d-9ba7-a625de417caf",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Match the type of scattering with its description: A. Elastic scattering  B. Inelastic scattering  C. Rayleigh scattering  D. Mie scattering; 1. Incident and scattered beam energies are same  2. Energies are not same  3. Sunlight scattered by atmospheric gas atoms/molecules  4. Scatterer diameter similar to or larger than wavelength. Choose the correct match.",
+  "options": [
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-1, C-4, D-3",
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-3, C-2, D-1"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines elastic and inelastic scattering by equality or inequality of incident and scattered energies, Rayleigh scattering by atmospheric gas atoms/molecules, and Mie scattering by scatterers comparable to or larger than wavelength.",
+  "source_page": 26,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e4c4c57a-127e-5f24-ac32-2f497676021e",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Rayleigh’s scattering law states that the amount of scattering of light is",
+  "options": [
+   "directly proportional to the wavelength",
+   "inversely proportional to the square of wavelength",
+   "inversely proportional to the fourth power of wavelength",
+   "independent of wavelength"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states Rayleigh’s law as: the amount of scattering of light is inversely proportional to the fourth power of its wavelength.",
+  "source_page": 26,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7b6d2b1c-76db-516f-9cfd-d40598ea5296",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "The sky appears blue mainly because",
+  "options": [
+   "red light is scattered more than blue light",
+   "blue light of shorter wavelength is scattered to a greater extent than red light",
+   "all colours are equally scattered by water droplets",
+   "violet light alone reaches the eye without scattering"
+  ],
+  "answer_index": 1,
+  "explanation": "According to the chapter, when sunlight passes through the atmosphere, blue colour of shorter wavelength is scattered more than red, causing the sky to appear blue.",
+  "source_page": 26,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a8e8303d-26f7-5585-ac0d-bb531b90f00e",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "At sunrise and sunset, the Sun appears red because",
+  "options": [
+   "red light gets scattered away completely",
+   "blue light is scattered away and least-scattered red light reaches us",
+   "all colours are equally scattered by clouds",
+   "sunlight becomes monochromatic at the horizon"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter explains that at sunrise and sunset sunlight travels a larger atmospheric distance; most blue light is scattered away, and the least-scattered red light reaches us.",
+  "source_page": 26,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3f0d6c2f-b050-5328-8c78-2288340207ed",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which of the following is associated with Mie scattering as per the chapter?",
+  "options": [
+   "It occurs only when scatterers are much smaller than wavelength.",
+   "It is responsible for the white appearance of clouds.",
+   "It produces Raman lines with changed frequencies.",
+   "It is the scattering of light by colloidal particles only."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that Mie scattering is caused by pollen, dust, smoke, water droplets and other lower-atmosphere particles, and is responsible for the white appearance of clouds.",
+  "source_page": 26,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ea1a9e95-06ce-588d-ab98-cd6329d3d5d4",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which statement correctly distinguishes Tyndall scattering from Raman scattering?",
+  "options": [
+   "Tyndall scattering changes the wavelength of light; Raman scattering occurs only in vacuum.",
+   "Tyndall scattering is by colloidal particles, while Raman scattering involves interaction with pure liquids or transparent solids causing change in wavelength or frequency.",
+   "Tyndall scattering produces only Rayleigh lines; Raman scattering produces only white clouds.",
+   "Tyndall scattering is independent of particles; Raman scattering is caused by water droplets only."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines Tyndall scattering as scattering by colloidal particles in a colloidal solution. Raman scattering is defined as interaction of light with particles of pure liquids or transparent solids leading to change in wavelength or frequency.",
+  "source_page": 26,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a9535449-1f63-5f9e-ba41-718636e311d4",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "In Raman scattering, spectral lines having frequencies other than the incident ray frequency are called",
+  "options": [
+   "Rayleigh lines",
+   "Normal lines",
+   "Raman lines",
+   "VIBGYOR lines"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says spectral lines having frequency equal to the incident ray are Rayleigh lines, while those having frequencies other than the incident ray frequency are Raman lines.",
+  "source_page": 26,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3cd95dee-1a3d-5b8e-a035-f1ec53a53cb8",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which one of the following correctly describes a convex lens?",
+  "options": [
+   "It is thinner at the centre than at the edges and diverges light.",
+   "It is bounded only by plane surfaces and reflects light.",
+   "It is thicker at the centre than at the edges and converges light.",
+   "It forms only virtual images in all cases."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that a convex or bi-convex lens is thicker at the centre than at the edges, and a beam passing through it converges to a point.",
+  "source_page": 27,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "25daeeb8-3c36-51f1-8be3-9b4a122c47e0",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "If one face of a bi-concave lens is plane, it is called a",
+  "options": [
+   "plano-convex lens",
+   "plano-concave lens",
+   "bi-convex lens",
+   "converging lens"
+  ],
+  "answer_index": 1,
+  "explanation": "Under other types of lenses, the chapter states that if one face of a bi-concave lens is plane, it is known as a plano-concave lens.",
+  "source_page": 27,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "61d8ba37-f91f-5b6f-9a67-40ebaa154c2e",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "A ray of light strikes a convex or concave lens obliquely at its optical centre. What happens to it according to Rule-1?",
+  "options": [
+   "It passes without any deviation.",
+   "It always converges at the principal focus.",
+   "It always diverges from the principal focus.",
+   "It reflects back along the same path."
+  ],
+  "answer_index": 0,
+  "explanation": "Rule-1 in the chapter says that a ray striking the optical centre of a convex or concave lens obliquely continues its path without deviation.",
+  "source_page": 28,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6bd2a15f-430f-56f7-8e76-2a176bb315ce",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "According to the basic lens ray rules, when a ray passing through the principal focus of a convex lens strikes the lens, the refracted ray",
+  "options": [
+   "passes through the optical centre",
+   "becomes parallel to the principal axis",
+   "bends back towards the object",
+   "diverges from the second focus"
+  ],
+  "answer_index": 1,
+  "explanation": "Rule-3 states that when a ray passing through the principal focus strikes a convex lens, the refracted ray will be parallel to the principal axis.",
+  "source_page": 28,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4ca583ad-58c8-5f5d-a36d-826fc67e9ad3",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "For a convex lens, when an object is placed at infinity, the image is formed",
+  "options": [
+   "at the optical centre, virtual and enlarged",
+   "between F and C, real and inverted",
+   "at the principal focus, real and much smaller",
+   "behind the centre of curvature, real and enlarged"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that for a convex lens, an object at infinity forms a real image at the principal focus, much smaller than the object.",
+  "source_page": 28,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "df946011-f4ae-560d-af48-bb4209d1cabf",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "For a convex lens, an object is placed beyond C (>2F). Which image description is correct?",
+  "options": [
+   "Virtual, erect and larger image between F and O",
+   "Real and inverted image between C and the principal focus, smaller than the object",
+   "Real image at infinity, much larger than the object",
+   "Virtual image at the focus, much smaller than the object"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that when an object is placed beyond C, a real and inverted image is formed between the centre of curvature and principal focus, smaller than the object.",
+  "source_page": 28,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1c39a8b9-dada-5975-a7f1-c84b861112a6",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Match the convex lens object position with the image formed: A. Object at C  B. Object between F and C  C. Object at F  D. Object between F and O; 1. Image at other C, same size  2. Image behind C, bigger  3. Image at infinity, much larger  4. Virtual image, larger. Choose the correct match.",
+  "options": [
+   "A-2, B-1, C-4, D-3",
+   "A-1, B-2, C-3, D-4",
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-3, C-2, D-1"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter explains these four standard convex lens cases: at C gives same-sized image at the other C; between F and C gives bigger image beyond C; at F gives image at infinity; between F and O gives a larger virtual image.",
+  "source_page": 28,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3e9b736c-c153-5d2d-bd54-fc060c2f3ee8",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which of the following is NOT listed as an application of convex lenses in the chapter?",
+  "options": [
+   "Camera lenses",
+   "Magnifying lenses",
+   "Correction of myopia",
+   "Microscopes, telescopes and slide projectors"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists convex lenses as camera lenses, magnifying lenses, in microscopes/telescopes/slide projectors, and to correct hypermetropia. Myopia is corrected by concave lenses.",
+  "source_page": 29,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ea50e302-b224-5d16-bc41-36f77c1a5b69",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "For a concave lens, when an object is placed anywhere on the principal axis at a finite distance, the image is formed",
+  "options": [
+   "between the optical centre and focus, virtual and smaller",
+   "at the other centre of curvature, real and same size",
+   "behind the centre of curvature, real and bigger",
+   "at infinity, real and much larger"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that for a concave lens with object at a finite distance, a virtual image is formed between optical centre and focus, smaller than the object.",
+  "source_page": 29,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "014c9cb1-937e-5bc0-834d-ae9cef2ed216",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which pair correctly gives an application of a concave lens and the eye defect it corrects?",
+  "options": [
+   "Camera lens — hypermetropia",
+   "Galilean telescope eye lens — myopia",
+   "Slide projector — astigmatism",
+   "Simple microscope — presbyopia"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter lists concave lenses as eye lens of Galilean Telescope, wide angle spy hole in doors, and for correcting myopia.",
+  "source_page": 30,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5f1c89ec-07f1-5cbe-a04c-2c4d2eaf2277",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which of the following correctly states the lens formula given in the chapter?",
+  "options": [
+   "1/f = 1/u − 1/v",
+   "1/f = 1/v − 1/u",
+   "f = u + v",
+   "f = uv"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter gives the lens formula as 1/f = 1/v − 1/u, applicable to both convex and concave lenses.",
+  "source_page": 30,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7567faa9-dc8d-5206-90eb-780028ea46a5",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "According to the Cartesian sign convention for lenses, distances measured against the direction of incident light are taken as",
+  "options": [
+   "positive",
+   "negative",
+   "zero",
+   "always equal to focal length"
+  ],
+  "answer_index": 1,
+  "explanation": "The sign convention section states that distances measured in the same direction as incident light are positive, while those measured against it are negative.",
+  "source_page": 30,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9f153921-fa43-57ea-90f5-a088a691db93",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Magnification produced by a spherical lens is defined as the ratio of",
+  "options": [
+   "focal length to image distance",
+   "height of object to focal length",
+   "height of image to height of object",
+   "object distance to image distance"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines magnification as the ratio of the height of the image to the height of the object, and also relates it to v/u.",
+  "source_page": 30,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "24574fea-eca2-5b5c-98ab-991b606c6947",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "If the magnification of a lens is less than 1, the image obtained is",
+  "options": [
+   "enlarged",
+   "diminished",
+   "always at infinity",
+   "always same size"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that if magnification is greater than 1 the image is enlarged, while if it is less than 1 the image is diminished.",
+  "source_page": 30,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "912f8d4f-c4fe-503c-9c9a-0db4aeec3257",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "The lens maker’s formula relates focal length of a lens with",
+  "options": [
+   "only object distance and image distance",
+   "radii of curvature and refractive index of the lens material",
+   "only magnification and power",
+   "only wavelength and frequency of light"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter explains that lens maker’s formula relates radii of curvature of the lens, refractive index of the lens material and the required focal length.",
+  "source_page": 31,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8bd3e36e-5a0d-5453-975b-fde414f8ceab",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which statement about power of a lens is correct?",
+  "options": [
+   "It is numerically the reciprocal of focal length.",
+   "Its SI unit is metre per second.",
+   "Power of a convex lens is conventionally negative.",
+   "Power of a concave lens is conventionally positive."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines power as the degree of convergence or divergence and numerically as reciprocal of focal length. It also says convex power is positive and concave power is negative, with SI unit dioptre.",
+  "source_page": 31,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a64733bb-30b3-5b45-b085-c43bcc4e13c5",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "A lens has a focal length of 1 metre. What is its power according to the chapter?",
+  "options": [
+   "0.1 D",
+   "1 D",
+   "10 D",
+   "100 D"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that 1D is the power of a lens whose focal length is 1 metre; 1D = 1m−1.",
+  "source_page": 31,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1279c5ba-2915-5a89-8e6d-ea5e1ab56833",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which of the following correctly compares convex and concave lenses?",
+  "options": [
+   "Convex lens is diverging; concave lens is converging.",
+   "Convex lens produces only virtual images; concave lens produces mostly real images.",
+   "Convex lens treats myopia; concave lens treats hypermetropia.",
+   "Convex lens is thicker in the middle; concave lens is thinner in the middle."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter’s comparison table states that a convex lens is thicker in the middle and is converging, while a concave lens is thinner in the middle and is diverging.",
+  "source_page": 31,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fd5a4a4a-5d83-5c0c-8630-a5fa484580ae",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Match the part of the human eye with its function/description: A. Cornea  B. Iris  C. Retina  D. Ciliary muscles; 1. Main refracting surface  2. Controls amount of light entering pupil  3. Sensitive back surface where real inverted image forms  4. Helps change focal length of eye lens. Choose the correct match.",
+  "options": [
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-1, C-4, D-3",
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-3, C-2, D-1"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter identifies the cornea as the main refracting surface, iris as controlling light entering the pupil, retina as the sensitive surface where real inverted image forms, and ciliary muscles as changing focal length.",
+  "source_page": 32,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "549709c2-9fe8-5915-8b73-6ae85fa892f2",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "During the working of the human eye, the final perception of an erect image occurs because",
+  "options": [
+   "the cornea directly forms an erect image on the retina",
+   "the eye lens is concave in nature",
+   "the retina sends the real inverted image to the brain through optic nerves and the brain senses it as erect",
+   "the iris converts the image into an erect one before it reaches the lens"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the convex eye lens forms a real inverted image on the retina; the retina passes it to the brain through optical nerves, and the brain senses it as erect.",
+  "source_page": 32,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2b238ae1-9a8a-5463-b86a-97fc523576be",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "The power of accommodation of the eye is mainly achieved by",
+  "options": [
+   "changing the colour of the iris",
+   "changing the focal length of the eye lens with the help of ciliary muscles",
+   "changing the diameter of the eyeball continuously",
+   "changing the position of the retina"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines accommodation as the ability to focus nearby and distant objects, achieved by changing the focal length of the eye lens using ciliary muscles.",
+  "source_page": 32,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "94a3a0c3-d849-5307-88fd-39eb3b3ad7b3",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "For a normal human eye, the least distance of distinct vision and the far point are respectively",
+  "options": [
+   "25 cm and infinity",
+   "2.3 cm and 25 cm",
+   "infinity and 25 cm",
+   "1 metre and 25 cm"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the near point or least distance of distinct vision is 25 cm for a normal human eye, and the far point is infinity.",
+  "source_page": 32,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d6d4924c-a10f-5142-a08a-62085158146a",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which statement about myopia is correct?",
+  "options": [
+   "Nearby objects cannot be seen clearly but distant objects can be seen clearly.",
+   "It occurs due to shortening of the eyeball.",
+   "The image of distant objects is formed before the retina and it is corrected using a concave lens.",
+   "It is corrected using a convex lens because the near point moves farther."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that myopia or short sightedness occurs due to lengthening of the eyeball; nearby objects are clear, distant objects are not, image forms before the retina, and it is corrected by a concave lens.",
+  "source_page": 33,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a28ce19d-e61c-5c21-9164-8b7949f40879",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Assertion (A): Hypermetropia is also known as long sightedness. Reason (R): In hypermetropia, distant objects can be seen clearly but nearby objects cannot be seen clearly. Choose the correct answer.",
+  "options": [
+   "Both A and R are true, and R explains A.",
+   "Both A and R are true, but R does not explain A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter explicitly calls hypermetropia long sightedness and states that in this defect distant objects are clear but nearby objects are not. Thus the reason explains the name.",
+  "source_page": 33,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a677a1cc-482d-5cef-81fb-2ac090b55c90",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which of the following pairs is correctly matched?",
+  "options": [
+   "Presbyopia — corrected by cylindrical lenses",
+   "Astigmatism — old age hypermetropia",
+   "Bifocal lenses — upper concave part for myopia and lower convex part for hypermetropia",
+   "Myopia — image of nearby objects formed behind retina"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that bifocal lenses have an upper concave lens to correct myopia for distant vision and a lower convex lens to correct hypermetropia for reading. It also says presbyopia is old age hypermetropia and astigmatism is corrected by cylindrical lenses.",
+  "source_page": 33,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0dce4144-2edb-5f6e-b63a-7319315df940",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "A simple microscope uses",
+  "options": [
+   "a concave lens of long focal length held away from the eye",
+   "a convex lens of short focal length held near the eye",
+   "two concave lenses fixed in a narrow tube",
+   "a parabolic mirror and a plane mirror"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that a simple microscope has a convex lens of short focal length and is held near the eye to get an enlarged image of small objects.",
+  "source_page": 34,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "efff3c79-837c-52c6-9224-3dae50d63122",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which statement about the compound microscope is correct?",
+  "options": [
+   "It consists of two convex lenses: a shorter focal length objective near the object and a larger focal length eye lens near the observer’s eye.",
+   "It uses only one convex lens of short focal length.",
+   "It has lower magnification power than a simple microscope.",
+   "Its objective lens forms the final virtual erect image directly for the eye."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter describes a compound microscope as consisting of two convex lenses: the shorter focal length objective near the object and the larger focal length, larger aperture eye lens near the observer’s eye.",
+  "source_page": 34,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2220671f-cbd1-550c-a2f2-f0e015a71354",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "The compound microscope has how much more magnification power than a simple microscope, according to the chapter?",
+  "options": [
+   "5 to 20 times",
+   "10 to 40 times",
+   "50 to 200 times",
+   "500 to 2000 times"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that a compound microscope has 50 to 200 times more magnification power than a simple microscope.",
+  "source_page": 35,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9bcbb7cb-6055-508a-a603-352a534f14ab",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "A travelling microscope is used for measuring very small length with high accuracy at the order of",
+  "options": [
+   "0.1 cm",
+   "0.01 mm",
+   "1 mm",
+   "10 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that a travelling microscope measures very small length with high accuracy at the order of 0.01 mm, and its least count is 0.01 mm.",
+  "source_page": 35,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c9878eb9-226b-5d96-b3da-ee8741baf087",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which sequence of events is correctly supported by the chapter?",
+  "options": [
+   "Kepler invented a telescope in 1611 → Johann Lippershey invented the first telescope in 1608",
+   "Johann Lippershey invented the first telescope in 1608 → Kepler invented a telescope in 1611",
+   "Galileo invented the first telescope in 1608 → Kepler observed Jupiter’s satellites",
+   "Newton invented the first telescope in 1608 → Galileo invented Keplerian telescope in 1611"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says the first telescope was invented by Johann Lippershey in 1608 and Kepler invented a telescope in 1611.",
+  "source_page": 35,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d7916334-bfdf-54c1-8a31-56d73334cd69",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "According to optical property, telescopes are classified into",
+  "options": [
+   "astronomical and terrestrial telescopes",
+   "simple and compound telescopes",
+   "refracting and reflecting telescopes",
+   "objective and eyepiece telescopes"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter classifies telescopes according to optical property into refracting telescopes and reflecting telescopes.",
+  "source_page": 35,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "635055c9-079d-539f-9f6a-6ec6d21650bc",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which of the following pairs is correctly matched as per the telescope section?",
+  "options": [
+   "Refracting telescope — parabolic mirrors are used",
+   "Reflecting telescope — lenses are used",
+   "Astronomical telescope — provides erect image for Earth surface viewing",
+   "Terrestrial telescope — provides an erect image"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that refracting telescopes use lenses, reflecting telescopes use parabolic mirrors, and terrestrial telescopes provide an erect image because astronomical telescopes give an inverted image.",
+  "source_page": 35,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8b7973e5-37ea-556c-8a0b-3b72f3b34990",
+  "chapter_id": "c10-sci-02",
+  "unit_code": "GS1",
+  "question": "Which of the following is listed as a disadvantage of telescopes in the chapter?",
+  "options": [
+   "They cannot view heavenly bodies.",
+   "They cannot be used with low intensity of light.",
+   "They are not easily portable.",
+   "Cameras cannot be attached to them."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists telescope disadvantages as needing frequent maintenance and not being easily portable. It lists viewing low intensity light and attaching cameras as advantages.",
+  "source_page": 35,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

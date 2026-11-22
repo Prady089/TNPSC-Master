@@ -1,0 +1,1010 @@
+[
+ {
+  "id": "135bd44a-9787-5e21-b167-5d10b70d4a32",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which branch of physics deals with the effect of force on bodies?",
+  "options": [
+   "Kinematics",
+   "Mechanics",
+   "Thermodynamics",
+   "Optics"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that mechanics is the branch of physics that deals with the effect of force on bodies.",
+  "source_page": 10,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f2f69388-82fa-5948-b3a8-4b8f28752c5d",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which of the following pairs is correctly matched?",
+  "options": [
+   "Statics — moving bodies without forces",
+   "Dynamics — bodies at rest under forces",
+   "Kinematics — motion without considering the cause of motion",
+   "Kinetics — motion without considering the cause of motion"
+  ],
+  "answer_index": 2,
+  "explanation": "Kinematics deals with the motion of bodies without considering the cause of motion. Kinetics considers the cause of motion.",
+  "source_page": 10,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d7354c94-7d8b-5cf6-bb75-c41783fb1be3",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "According to Aristotle, which statement about earthly bodies is correct?",
+  "options": [
+   "Their natural state is uniform motion.",
+   "Their natural state is rest.",
+   "All falling bodies reach the ground together in vacuum.",
+   "Motion continues without any external force."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says Aristotle stated that the natural state of earthly bodies is rest and that heavier bodies fall faster than lighter ones.",
+  "source_page": 10,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bf1479c6-4d05-5438-a3ab-7026cb73591a",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which of the following was proposed by Galileo?",
+  "options": [
+   "A force is always needed to maintain uniform motion.",
+   "Heavier bodies always fall faster than lighter ones.",
+   "A moving body naturally comes to rest without external influence.",
+   "In vacuum, bodies of different size, shape and mass fall at the same rate."
+  ],
+  "answer_index": 3,
+  "explanation": "Galileo proposed that when dropped from a height in vacuum, bodies of different size, shape and mass fall at the same rate and reach the ground at the same time.",
+  "source_page": 10,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9dc0609a-756f-5627-a3df-6552ea75f014",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "The inherent property of a body to resist any change in its state of rest or uniform motion is called",
+  "options": [
+   "momentum",
+   "impulse",
+   "inertia",
+   "torque"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines inertia as the inherent property of a body to resist any change in its state of rest or uniform motion unless influenced by an external unbalanced force.",
+  "source_page": 10,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ddb3ef21-be47-5aa1-a94f-bdfff8968c2b",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Match the following: A. Inertia of rest  B. Inertia of motion  C. Inertia of direction with 1. Resistance to change direction of motion  2. Resistance to change state of rest  3. Resistance to change state of motion. Choose the correct code.",
+  "options": [
+   "A-1, B-2, C-3",
+   "A-2, B-3, C-1",
+   "A-3, B-1, C-2",
+   "A-2, B-1, C-3"
+  ],
+  "answer_index": 1,
+  "explanation": "Inertia of rest resists change of rest; inertia of motion resists change of motion; inertia of direction resists change in direction of motion.",
+  "source_page": 10,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ae63be68-6016-5662-a61a-06be2c0d0770",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "An athlete runs some distance before jumping because of",
+  "options": [
+   "inertia of motion",
+   "inertia of rest",
+   "inertia of direction",
+   "balanced force"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter gives this as an example of inertia of motion, helping the athlete jump longer and higher.",
+  "source_page": 11,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dac2f32b-da63-588c-a05f-d5cdf5442dee",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Newton’s first law of motion states that a body continues in its state of rest or uniform motion along a straight line unless it is acted upon by",
+  "options": [
+   "centripetal acceleration",
+   "some external force",
+   "gravitational constant",
+   "apparent weight"
+  ],
+  "answer_index": 1,
+  "explanation": "Newton’s first law in the chapter says every body continues in rest or uniform straight-line motion unless acted upon by some external force.",
+  "source_page": 11,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9779b3d4-46b8-5bb3-8280-2e1fd7432e0c",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which of the following statements about force is correct?",
+  "options": [
+   "Force has magnitude but no direction.",
+   "Force can only produce motion but cannot stop it.",
+   "Force is an external effort in the form of push or pull.",
+   "Force is a scalar quantity."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines force as an external effort in the form of push or pull and states that it has both magnitude and direction, making it a vector quantity.",
+  "source_page": 11,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "590fd40a-8e82-58fc-9a8b-1ba47dfe1a10",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Linear momentum of a moving body is given by",
+  "options": [
+   "mass × acceleration",
+   "force × time",
+   "force × distance",
+   "mass × velocity"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter defines linear momentum as the product of mass and velocity of a moving body, p = mv.",
+  "source_page": 11,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "78609ee2-011f-5eb7-88a0-a4777573e2f4",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which of the following correctly states the SI and CGS units of linear momentum?",
+  "options": [
+   "kg m s−1 and g cm s−1",
+   "N and dyne",
+   "N m and dyne cm",
+   "kg f and g f"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the SI unit of momentum is kg m s−1 and the CGS unit is g cm s−1.",
+  "source_page": 11,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f5eb8311-2e83-5bcc-9203-662f1253e218",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Two or more forces acting parallel to each other along the same direction are called",
+  "options": [
+   "unlike parallel forces",
+   "like parallel forces",
+   "balanced forces only",
+   "equilibrant forces"
+  ],
+  "answer_index": 1,
+  "explanation": "Like parallel forces are defined as two or more forces of equal or unequal magnitude acting along the same direction, parallel to each other.",
+  "source_page": 11,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d8206103-668c-5b38-9ab6-9910fd053dee",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "If several forces act simultaneously on the same body, the single force representing their combined effect is called",
+  "options": [
+   "impulsive force",
+   "centripetal force",
+   "resultant force",
+   "gravitational force"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines the combined effect of multiple forces on the same body as the resultant force.",
+  "source_page": 11,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a0e2c6d8-9d9e-59c3-b33b-15f4316e9d31",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which statement is correct about balanced forces and equilibrant?",
+  "options": [
+   "Balanced forces have non-zero resultant force.",
+   "Equilibrant acts in the same direction as the resultant force.",
+   "Balanced forces always cause acceleration.",
+   "Equilibrant is equal to the resultant force in magnitude but opposite in direction."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that if resultant force is zero, forces are balanced; an equilibrant is equal to the resultant in magnitude but opposite in direction.",
+  "source_page": 12,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "328bf2e9-161d-5c9b-93a8-95dec435a679",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "The turning effect of a force on a door is greater when the force is applied",
+  "options": [
+   "far away from the fixed edge",
+   "exactly at the hinges",
+   "parallel to the fixed edge only",
+   "with zero perpendicular distance"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter explains that the turning effect is more when the distance between the fixed edge and the point of application of force is more.",
+  "source_page": 12,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dbb33f27-b8c9-55bb-ad90-e8348b4338db",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "The rotating or turning effect of a force about a fixed point or fixed axis is called",
+  "options": [
+   "linear momentum",
+   "moment of the force or torque",
+   "impulse",
+   "weight"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines moment of the force or torque as the rotating or turning effect of a force about a fixed point or fixed axis.",
+  "source_page": 13,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a7e728d9-059f-5170-a203-e2d1d056762e",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which of the following about torque is incorrect?",
+  "options": [
+   "It is measured by force multiplied by perpendicular distance.",
+   "Its SI unit is N m.",
+   "It is a vector quantity.",
+   "It acts along the direction of velocity of the object."
+  ],
+  "answer_index": 3,
+  "explanation": "Torque acts perpendicular to the plane containing the line of action of force and the distance. Momentum, not torque, acts in the direction of velocity.",
+  "source_page": 13,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0ed2c392-d0aa-518f-8d49-5c933b2c83a9",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Two equal and unlike parallel forces applied simultaneously at two distinct points constitute a",
+  "options": [
+   "couple",
+   "balanced translatory force",
+   "unit force",
+   "centripetal force"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines a couple as two equal and unlike parallel forces applied simultaneously at two distinct points.",
+  "source_page": 13,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "eb2e4a77-c618-5dfd-a4b5-3156f516d375",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "A couple does not produce translatory motion because",
+  "options": [
+   "its torque is zero",
+   "its resultant is zero",
+   "its forces act in the same direction",
+   "its forces are unequal"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that a couple does not produce translatory motion since the resultant is zero, but it causes rotation.",
+  "source_page": 13,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "37f7f218-83d2-5e15-bd3d-c05b24ed8900",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "By convention, the moment of a force or couple is positive when the body rotates in the",
+  "options": [
+   "clockwise direction",
+   "downward direction",
+   "anti-clockwise direction",
+   "straight-line direction"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the direction of moment is taken as positive for anti-clockwise rotation and negative for clockwise rotation.",
+  "source_page": 13,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "caf8c9d7-79d7-57e2-82e1-043b395fde61",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which device is described as a circular wheel with teeth around its rim that changes speed of rotation by changing torque?",
+  "options": [
+   "Seesaw",
+   "Gear",
+   "Fulcrum",
+   "Lever arm"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines a gear as a circular wheel with teeth around its rim, helping change the speed of rotation by changing torque.",
+  "source_page": 13,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ed2dcc17-79d2-5071-927c-bc1e56b476b7",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "In a seesaw, a lighter person can lift a heavier person when the heavier person comes closer to the fulcrum because",
+  "options": [
+   "the heavier person’s mass becomes smaller",
+   "the distance of the line of action of force decreases and less torque acts",
+   "gravity becomes zero near the fulcrum",
+   "the force changes into impulse"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter explains that when the heavier person comes closer to the pivot, the distance decreases, causing less torque, enabling the lighter person to lift the heavier person.",
+  "source_page": 13,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a69d10d8-4d22-5614-9f78-214bb0555010",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "The principle of moments states that, for a rigid body in equilibrium under parallel forces, the algebraic sum of clockwise moments is",
+  "options": [
+   "greater than the anticlockwise moments",
+   "equal to the algebraic sum of anticlockwise moments",
+   "always negative",
+   "independent of distance"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that in equilibrium, the algebraic sum of clockwise moments equals the algebraic sum of anticlockwise moments.",
+  "source_page": 13,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "acde455e-0671-5689-99b1-2146a18747dd",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "For the illustration of the principle of moments with forces F1 and F2 at distances d1 and d2 from the fulcrum, the equilibrium condition is",
+  "options": [
+   "F1 + d1 = F2 + d2",
+   "F1 / d1 = F2 / d2",
+   "F1 × d1 = F2 × d2",
+   "F1 − d1 = F2 − d2"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter writes the principle of moments as moment in clockwise direction equals moment in anticlockwise direction: F1 × d1 = F2 × d2.",
+  "source_page": 14,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bfd260e9-8651-53f3-b5aa-1dbdcd9c7561",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Newton’s second law of motion is also called the",
+  "options": [
+   "law of force",
+   "law of inertia",
+   "law of gravitation",
+   "law of weightlessness"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says Newton’s second law helps measure the amount of force, so it is also called the law of force.",
+  "source_page": 14,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "533a840d-2ed2-57f6-80e1-f0c4138e8f27",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "According to Newton’s second law, the change in momentum takes place in the direction of the",
+  "options": [
+   "initial velocity",
+   "mass of the body",
+   "force",
+   "final displacement"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that force is directly proportional to the rate of change of linear momentum and that the change in momentum takes place in the direction of the force.",
+  "source_page": 14,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f973c73b-0531-5703-890e-d0a057d85083",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "From Newton’s second law, when k = 1 and acceleration a = (v − u)/t, force is given by",
+  "options": [
+   "F = m/a",
+   "F = ma",
+   "F = m + a",
+   "F = a/m"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter derives F = m × a from the rate of change of momentum, with k = 1 in all systems of units.",
+  "source_page": 14,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5ed33d9f-13ab-531c-8880-d0014c8c83a9",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "In uniform circular motion, even if speed remains constant, acceleration is produced because",
+  "options": [
+   "the mass continuously decreases",
+   "the direction of velocity changes at every point",
+   "there is no force on the body",
+   "the body is in free fall"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that in uniform circular motion, the direction of velocity changes at every point, producing centripetal acceleration.",
+  "source_page": 14,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c050d675-c8b1-58bd-a4ab-4881921f29d9",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which of the following is correctly matched?",
+  "options": [
+   "1 newton — force producing 1 m s−2 in a body of mass 1 kg",
+   "1 dyne — force producing 1 m s−2 in a body of mass 1 gram",
+   "1 newton — 1 g cm s−2",
+   "1 dyne — 1 kg m s−2"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines 1 newton as the force required for a body of mass 1 kg to produce an acceleration of 1 m s−2.",
+  "source_page": 14,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3b1a47d4-90a3-5a32-8d09-61f77f024a59",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which numerical relation is stated in the chapter for force units?",
+  "options": [
+   "1 N = 10 dyne",
+   "1 N = 10^3 dyne",
+   "1 N = 10^5 dyne",
+   "1 N = 980 dyne"
+  ],
+  "answer_index": 2,
+  "explanation": "After defining newton and dyne, the chapter states that 1 N = 10^5 dyne.",
+  "source_page": 14,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "83b8ad9f-bd3b-5b44-b855-87d682a5f3ec",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "In the SI system, the gravitational unit of force is",
+  "options": [
+   "gram force",
+   "kilogram force",
+   "dyne",
+   "newton metre"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that in the SI system of units, the gravitational unit of force is kilogram force, represented by kg f.",
+  "source_page": 15,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1af51214-adaa-55c9-98cc-b40994b11ee4",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "A large force acting for a very short interval of time is called",
+  "options": [
+   "balanced force",
+   "unlike parallel force",
+   "impulsive force",
+   "equilibrant"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines a large force acting for a very short interval of time as impulsive force.",
+  "source_page": 15,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "84e695a6-308f-5ee2-bed3-515c211ac8f2",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Impulse is equal to",
+  "options": [
+   "force divided by time only",
+   "change in momentum",
+   "mass divided by acceleration",
+   "gravitational force divided by mass"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter gives impulse J = F × t and, using Newton’s second law, states that J = Δp, so impulse equals change in momentum.",
+  "source_page": 15,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9f01d3f5-066a-5de7-9f5d-e051918f399b",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which of the following statements about impulse is correct?",
+  "options": [
+   "Its unit is kg m s−1 or N s.",
+   "It cannot be produced by a small force acting for a long time.",
+   "It is independent of momentum change.",
+   "It is equal to force divided by distance."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that impulse is equal to the magnitude of change in momentum and its unit is kg m s−1 or N s.",
+  "source_page": 15,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9b435293-0d74-5c22-8b28-b652a53ad88e",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Assertion (A): In cricket, a fielder pulls back his hands while catching the ball. Reason (R): This makes him experience a smaller force for a longer interval of time. Choose the correct answer.",
+  "options": [
+   "Both A and R are true, and R explains A.",
+   "Both A and R are true, but R does not explain A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that a fielder pulls back his hands so that he experiences a smaller force for a longer interval of time, resulting in lesser impulse on his hands.",
+  "source_page": 15,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5c60594f-fdfa-5995-926b-8492597bb259",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Newton’s third law says that action and reaction",
+  "options": [
+   "act on the same body in the same direction",
+   "are unequal but opposite",
+   "are equal and opposite and act on two different bodies",
+   "occur only when bodies have equal masses"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that for every action there is an equal and opposite reaction, and they always act on two different bodies.",
+  "source_page": 15,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ea7a5fa2-9c27-5dcc-96a5-df3a1a431694",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which example in the chapter illustrates Newton’s third law correctly?",
+  "options": [
+   "A door handle placed at the edge of a door",
+   "A body in vacuum falling at the same rate",
+   "A swimmer pushes water backward and water pushes the swimmer forward",
+   "A body resisting change in its state of rest"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter gives swimming as an example: the swimmer pushes water backward, and the water pushes the swimmer forward.",
+  "source_page": 15,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4b066c68-7c63-579e-b030-6d17728385ab",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "The principle of conservation of linear momentum states that there is no change in the linear momentum of a system of bodies as long as",
+  "options": [
+   "no net external force acts on them",
+   "their masses are equal",
+   "their velocities are zero",
+   "they move only vertically"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that linear momentum remains unchanged as long as no net external force acts on the system of bodies.",
+  "source_page": 15,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a43793f1-9b4c-52cf-8dea-e0f6d1f6673a",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "In the proof of conservation of linear momentum for two colliding bodies A and B, Newton’s third law is used to obtain which result?",
+  "options": [
+   "m1v1 + m2v2 = m1u1 + m2u2",
+   "m1u1 − m2u2 = 0",
+   "m1v1 = m2v2 only",
+   "u1 = u2 = v1 = v2"
+  ],
+  "answer_index": 0,
+  "explanation": "Using action force equals reaction force in opposite directions, the chapter derives m1v1 + m2v2 = m1u1 + m2u2.",
+  "source_page": 16,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e7da9b1a-cf6c-57b9-ada0-34855eca4483",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Rocket propulsion is based on",
+  "options": [
+   "Newton’s first law only",
+   "Newton’s law of gravitation only",
+   "law of conservation of linear momentum and Newton’s third law",
+   "principle of moments and apparent weight"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter explicitly states that propulsion of rockets is based on the law of conservation of linear momentum as well as Newton’s third law of motion.",
+  "source_page": 16,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "68ba1f09-6ba3-51d0-8890-5a4bb7bf44ff",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "During rocket motion, the velocity of the rocket gradually increases because",
+  "options": [
+   "the mass of the rocket decreases with altitude",
+   "the value of G increases",
+   "the rocket loses all momentum",
+   "gravity becomes absent near Earth"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the mass of the rocket decreases with altitude, resulting in the gradual increase in velocity of the rocket.",
+  "source_page": 16,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bcd0acfd-3967-52ca-b266-cb98ad580784",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Newton’s universal law of gravitation states that the force between two particles is",
+  "options": [
+   "directly proportional to the distance between them",
+   "inversely proportional to the product of their masses",
+   "directly proportional to the product of their masses and inversely proportional to the square of the distance between their centres",
+   "repulsive and dependent on the medium"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that gravitational force is directly proportional to the product of masses and inversely proportional to the square of the distance between their centres; it is always attractive and medium-independent.",
+  "source_page": 16,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "265284f1-338e-5fe4-9b76-b624566363d7",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "The universal gravitational constant G has the SI value",
+  "options": [
+   "9.8 m s−2",
+   "6.674 × 10−11 N m2 kg−2",
+   "5.972 × 10^24 kg",
+   "1.625 m s−2"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter gives the SI value of G as 6.674 × 10−11 N m2 kg−2.",
+  "source_page": 17,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "60e57919-eb23-591c-a2ca-4e189f6566f1",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "The mean value of acceleration due to gravity on the surface of the Earth is taken as",
+  "options": [
+   "1.625 m s−2",
+   "6.674 × 10−11 m s−2",
+   "9.8 m s−2",
+   "980 m s−2"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the mean value of acceleration due to gravity is taken as 9.8 m s−2 on the Earth’s surface.",
+  "source_page": 17,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4f9eceec-86c0-51d4-ab5f-6fcab5fde9fd",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "The relation between acceleration due to gravity g and universal gravitational constant G on the Earth’s surface is",
+  "options": [
+   "g = GM/R2",
+   "g = GR2/M",
+   "g = R2/GM",
+   "g = GMm/R2"
+  ],
+  "answer_index": 0,
+  "explanation": "By comparing gravitational force GMm/R2 with weight mg, the chapter derives g = GM/R2.",
+  "source_page": 17,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e1fce78d-045a-5bcb-9a8b-7478f3b9ee59",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "The mass of the Earth calculated in the chapter is",
+  "options": [
+   "6.674 × 10−11 kg",
+   "6378 kg",
+   "5.972 × 10^24 kg",
+   "9.8 × 10^24 kg"
+  ],
+  "answer_index": 2,
+  "explanation": "After rearranging g = GM/R2, the chapter states that the mass of the Earth is M = 5.972 × 10^24 kg.",
+  "source_page": 17,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fe0972fc-12b3-5f25-91a0-e26cb84036b7",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which of the following statements about variation of g is correct?",
+  "options": [
+   "g is maximum at the equatorial region.",
+   "g is minimum at the polar region.",
+   "g increases when moving to a higher altitude.",
+   "g is zero at the centre of the Earth."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that g is maximum at the poles, minimum at the equator, reduces with height and depth, and is zero at the centre of the Earth.",
+  "source_page": 18,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "93d17e6f-91ca-5439-a081-441fbf0afcdc",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Mass of a body is defined as the",
+  "options": [
+   "gravitational force exerted on it",
+   "quantity of matter contained in the body",
+   "apparent reaction force on it",
+   "product of force and time"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines mass as the quantity of matter contained in the body and gives its SI unit as kilogram.",
+  "source_page": 18,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d16713b8-376a-556b-9614-7cd04cb74137",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which statement about weight is correct?",
+  "options": [
+   "Weight is a scalar quantity.",
+   "Weight is independent of g.",
+   "Direction of weight is always towards the centre of the Earth.",
+   "SI unit of weight is kilogram."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says weight is a vector quantity, depends on g, has SI unit newton, and its direction is always towards the centre of the Earth.",
+  "source_page": 18,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "de8ec9b2-6159-5468-828f-4f44e020ba2b",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "The value of acceleration due to gravity on the surface of the Moon is stated as",
+  "options": [
+   "1.625 m s−2",
+   "9.8 m s−2",
+   "0.1654 m s−2",
+   "980 cm s−2"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the acceleration due to gravity on the Moon’s surface is 1.625 m s−2.",
+  "source_page": 18,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4c027e2c-f04c-55cc-b18f-34b7eb088513",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "A person has mass 60 kg. According to the chapter’s example, his weight on Earth and on the Moon respectively are",
+  "options": [
+   "60 N and 60 N",
+   "588 N and 97.5 N",
+   "97.5 N and 588 N",
+   "9.8 N and 1.625 N"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter calculates that a 60 kg person weighs 588 N on Earth and 97.5 N on the Moon, while mass remains 60 kg.",
+  "source_page": 18,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fe2e5821-0cea-5f3b-8d49-2ccff0969939",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Apparent weight is defined as the weight of the body acquired due to",
+  "options": [
+   "mass alone",
+   "velocity alone",
+   "the action of gravity and other external forces acting on the body",
+   "universal gravitational constant alone"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines apparent weight as the weight acquired due to gravity and other external forces acting on the body.",
+  "source_page": 18,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f5fb3056-8637-5887-b218-2e3a42b0f68b",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "When a lift moves upward with acceleration a, the apparent weight R of a person of mass m is",
+  "options": [
+   "m(g − a)",
+   "mg",
+   "m(g + a)",
+   "0"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter’s lift table gives for upward acceleration: R = W + ma = mg + ma = m(g + a), so apparent weight is greater than actual weight.",
+  "source_page": 19,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2e6b9aa4-6976-5b4e-a974-d7d5b70cd96f",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "When a lift falls freely with acceleration equal to g, the apparent weight of the person is",
+  "options": [
+   "equal to actual weight",
+   "greater than actual weight",
+   "m(g + a)",
+   "zero"
+  ],
+  "answer_index": 3,
+  "explanation": "For free fall, a = g; the chapter gives R = m(g − g) = 0, which is the state of weightlessness.",
+  "source_page": 19,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8d32e57a-3298-501b-9479-ab36bcf1142c",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Assertion (A): Astronauts in an orbiting space station are in a state of weightlessness. Reason (R): The space station and astronauts have equal acceleration and are under free fall condition. Choose the correct answer.",
+  "options": [
+   "Both A and R are true, and R explains A.",
+   "Both A and R are true, but R does not explain A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says astronauts are not floating due to absence of gravity; the space station and astronauts have equal acceleration under free fall, so R = 0 and they are weightless.",
+  "source_page": 19,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c94ff812-0cc0-5059-a5a9-e64aba543dd6",
+  "chapter_id": "c10-sci-01",
+  "unit_code": "GS1",
+  "question": "Which of the following is listed as an application of Newton’s law of gravitation?",
+  "options": [
+   "Changing speed of rotation using gears",
+   "Measuring dimensions of heavenly bodies",
+   "Reducing jerks using shock absorbers",
+   "Explaining inertia of rest"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter lists measuring dimensions of heavenly bodies, discovering stars and planets, explaining geotropism, and predicting paths of astronomical bodies as applications of gravitation.",
+  "source_page": 20,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

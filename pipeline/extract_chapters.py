@@ -53,7 +53,8 @@ SUBJECT_KEYWORDS = [
 # Lines that are print artefacts, not content.
 NOISE_RE = re.compile(
     r"(\.indd\s*\d*|^\s*\d{1,3}\s*$|^\s*[ivxlc]+\s*$|^\s*(science|history|geography|civics|economics|mathematics)\s*$|"
-    r"\d{2}-\d{2}-\d{4}\s+\d{2}:\d{2}|www\.|^\s*\(?\d+\)?\s*\(?\s*$)",
+    r"\d{2}-\d{2}-\d{4}\s+\d{2}:\d{2}|www\.|^\s*\(?\d+\)?\s*\(?\s*$|"
+    r"^\s*(\d{1,2}(th|st|nd|rd)\s+(standard|std)|(class|std)\s+([ivx]+|\d{1,2}))\s*$)",  # running headers
     re.I,
 )
 HEADING_RE = re.compile(r"^\s*(\d{1,2}(\.\d{1,2}){1,2})\s+([A-Z].{2,90})$")
@@ -183,7 +184,12 @@ def to_blocks(pages: list[str], start_page: int, title: str = "", cut_end_matter
             m = HEADING_RE.match(line)
             if m:
                 flush()
-                blocks.append({"t": "h", "text": f"{m.group(1)} {m.group(3)}", "page": pno})
+                # "1.2.1 Types of Inertia a) Inertia of rest: The" -> heading + start of the next paragraph
+                parts = re.split(r"\s(?=(?:[a-h]|i{1,3}|\d)\)\s)", m.group(3), maxsplit=1)
+                head, rest = parts[0], (parts[1] if len(parts) > 1 else "")
+                blocks.append({"t": "h", "text": f"{m.group(1)} {head}", "page": pno})
+                if rest:
+                    para, para_page = [rest], pno
                 continue
             pieces = [x.strip() for x in line.split(BULLET)]
             for j, piece in enumerate(pieces):
@@ -201,8 +207,25 @@ def to_blocks(pages: list[str], start_page: int, title: str = "", cut_end_matter
     return finish(blocks)
 
 
+INLINE_BULLET_RE = re.compile(r"(?:^|(?<=[.:;?!]))\s*-\s+(?=[A-Z])")
+
+
+def split_inline_bullets(blocks: list[dict]) -> list[dict]:
+    """Some books print bullets as ' - ' inside a paragraph ("...able to: - Understand x. - Explain y.")."""
+    out: list[dict] = []
+    for b in blocks:
+        if b["t"] != "p" or len(INLINE_BULLET_RE.findall(b["text"])) < 2:
+            out.append(b)
+            continue
+        parts = [x.strip() for x in INLINE_BULLET_RE.split(b["text"])]
+        if parts[0]:
+            out.append({**b, "text": parts[0]})
+        out.extend({**b, "t": "li", "text": x} for x in parts[1:] if x)
+    return out
+
+
 def finish(blocks: list[dict]) -> list[dict]:
-    merged = merge_broken_paragraphs(blocks)
+    merged = split_inline_bullets(merge_broken_paragraphs(blocks))
     for b in merged:  # drop capitals split from their word: "1.2 G ross", "L ight is"
         b["text"] = re.sub(r"(^|^[\d.]+ |[.!?:] )([B-HJ-Z]) ([a-z]{2,})", r"\1\2\3", b["text"])
     return [b for b in merged if b["t"] == "h" or len(b["text"]) > (3 if b["t"] == "li" else 25)]
@@ -262,6 +285,11 @@ def process_book(book: dict) -> dict | None:
         old = json.loads(path.read_text(encoding="utf-8") or "{}") if path.exists() else {}
         pack = {k: old[k] for k in ("units", "relevant", "summary", "keyFacts", "highlights", "enriched") if k in old and old.get("enriched")}
         chapter.update({k: v for k, v in pack.items() if k in ("units", "relevant", "enriched")})
+        if pack.get("highlights"):  # blocks may have moved: re-point each highlight at its passage
+            norm = [re.sub(r"[^a-z0-9]+", " ", b["text"].lower()) for b in blocks]
+            for h in pack["highlights"]:
+                q = re.sub(r"[^a-z0-9]+", " ", h["quote"].lower()).strip()
+                h["block"] = next((i for i, t in enumerate(norm) if q and q in t), -1)
         path.write_text(json.dumps({**chapter, **pack, "blocks": blocks}, ensure_ascii=False), encoding="utf-8")
         plain = "\n\n".join({"h": "## ", "li": "- "}.get(b["t"], "") + b["text"] + f"  [p{b['page']}]" for b in blocks)
         (TEXT_OUT / f"{ch_id}.txt").write_text(plain, encoding="utf-8")

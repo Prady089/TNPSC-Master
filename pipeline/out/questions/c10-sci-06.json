@@ -1,0 +1,776 @@
+[
+ {
+  "id": "0bae5c63-a8ea-5cef-88cd-558d052dc8d3",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which sequence correctly matches the early development of atomic and nuclear ideas given in the chapter?",
+  "options": [
+   "Democritus—matter consists of atoms; Dalton—elements consist of identical atoms; Rutherford—mass concentrated in nucleus",
+   "Dalton—discovered electrons; Democritus—discovered protons; Chadwick—explained the nucleus",
+   "Rutherford—discovered neutrons; Goldstein—discovered electrons; Thomson—discovered positive rays",
+   "Democritus—proposed nuclear fission; Dalton—discovered radium; Rutherford—named protons"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Democritus believed matter is made of atoms, Dalton considered elements to consist of identical atoms, and Rutherford explained that atomic mass is concentrated in the nucleus.",
+  "source_page": 82,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "49b136a6-efac-5ea9-b9e6-ff020cb99ea1",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Who discovered the chargeless particles called neutrons, according to the chapter?",
+  "options": [
+   "J. J. Thomson",
+   "James Chadwick",
+   "Goldstein",
+   "Henri Becquerel"
+  ],
+  "answer_index": 1,
+  "explanation": "The introduction states that in 1932, James Chadwick discovered the chargeless particles called neutrons.",
+  "source_page": 82,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "18471ab5-144c-56fd-83dc-4ed58364f34c",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "The accidental discovery of radioactivity by Henri Becquerel involved which of the following?",
+  "options": [
+   "Pitchblende kept near an electromagnet",
+   "Radium kept near a cloud chamber",
+   "A uranium compound kept near an unexposed photographic plate",
+   "A thorium sample bombarded with alpha particles"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says Becquerel stored a uranium compound in a drawer along with an unexposed photographic plate and later found the film exposed by radiation.",
+  "source_page": 83,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8f06abf7-00c8-5788-87f3-5a8997bdee48",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which statement about the Curie couple’s work on pitchblende is correct?",
+  "options": [
+   "They found pitchblende had no relation to uranium.",
+   "They concluded that pitchblende contained another radioactive substance besides uranium.",
+   "They named the radioactive substance in pitchblende as technetium.",
+   "They proved that pure uranium emitted no radiation."
+  ],
+  "answer_index": 1,
+  "explanation": "Marie Curie and Pierre Curie observed intense radiation from pitchblende and concluded that another substance was present; after separating it, they named it radium.",
+  "source_page": 83,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2bb0aa1d-2946-5fc1-8909-48a30bb4e5a7",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which of the following best defines radioactivity as given in the chapter?",
+  "options": [
+   "Emission of light by heated metals",
+   "Chemical change of an atom due to oxidation",
+   "Nuclear decay of certain elements with emission of alpha, beta and gamma rays",
+   "Absorption of neutrons without emission of radiation"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines radioactivity as nuclear decay of certain elements with emission of radiations like alpha, beta and gamma rays.",
+  "source_page": 83,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ec36d67a-9e30-5f79-aeec-d8f25d4e0505",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Consider the following statements about natural radioactivity: 1. It is spontaneous emission of radiation from certain elements on their own. 2. Uranium and radium are examples. 3. Technetium and promethium are radioactive substances with atomic number less than 82. Which of the statements is/are correct?",
+  "options": [
+   "1 only",
+   "1 and 2 only",
+   "2 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states all three: natural radioactivity is spontaneous, uranium and radium are examples, and technetium and promethium are the two identified radioactive substances below atomic number 82.",
+  "source_page": 83,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "65b21518-1d75-5187-977e-6b5e28ecd542",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Artificial radioactivity was discovered by whom and in which year?",
+  "options": [
+   "Henri Becquerel, 1896",
+   "Marie Curie and Pierre Curie, 1898",
+   "Irene Curie and F. Joliot, 1934",
+   "Otto Hahn and F. Strassman, 1939"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter explicitly says artificial radioactivity was discovered by Irene Curie and F. Joliot in 1934.",
+  "source_page": 83,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "39bfaf8f-61af-5625-b72f-4866edcbc0b7",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Match the terms with their meanings: A. Parent nucleus  B. Daughter nucleus  C. Projectile  D. Ejected particle; 1. Particle used to induce artificial disintegration  2. Nucleus produced after disintegration  3. Nucleus undergoing disintegration  4. Particle produced after disintegration",
+  "options": [
+   "A-3, B-2, C-1, D-4",
+   "A-2, B-3, C-4, D-1",
+   "A-1, B-4, C-3, D-2",
+   "A-4, B-1, C-2, D-3"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines the disintegrating nucleus as parent, the product nucleus as daughter, the inducing particle as projectile, and the produced particle as ejected particle.",
+  "source_page": 84,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2a13f8fe-a8bf-5c3d-9486-27d770865e95",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which pair correctly distinguishes natural and artificial radioactivity?",
+  "options": [
+   "Natural radioactivity is induced and controllable; artificial radioactivity is spontaneous and uncontrollable.",
+   "Natural radioactivity emits alpha, beta and gamma radiations; artificial radioactivity mostly emits elementary particles such as neutron and positron.",
+   "Natural radioactivity is exhibited only by light elements; artificial radioactivity is exhibited only by elements like uranium.",
+   "Natural radioactivity is produced only by alpha bombardment; artificial radioactivity occurs without human intervention."
+  ],
+  "answer_index": 1,
+  "explanation": "The comparison table states that natural radioactivity emits alpha, beta and gamma radiations, while artificial radioactivity mostly emits elementary particles such as neutron and positron.",
+  "source_page": 84,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "913df7aa-9565-5d65-9446-fc5ad7d51367",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Match the units with their definitions: A. Curie  B. Rutherford  C. Becquerel  D. Roentgen; 1. One disintegration per second  2. 10^6 disintegrations per second  3. 3.7 × 10^10 disintegrations per second  4. Exposure of gamma and X-rays measured by charge in air",
+  "options": [
+   "A-2, B-3, C-4, D-1",
+   "A-1, B-4, C-2, D-3",
+   "A-3, B-2, C-1, D-4",
+   "A-4, B-1, C-3, D-2"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines curie as 3.7 × 10^10 disintegrations per second, rutherford as 10^6 disintegrations per second, becquerel as one disintegration per second, and roentgen as a unit for gamma and X-ray exposure.",
+  "source_page": 84,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "91804551-a416-532b-9129-3a4781346e68",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which of the following correctly describes alpha, beta and gamma rays?",
+  "options": [
+   "Alpha rays are electrons, beta rays are photons, and gamma rays are helium nuclei.",
+   "Alpha rays are helium nuclei, beta rays are electrons, and gamma rays are electromagnetic waves consisting of photons.",
+   "Alpha rays are protons only, beta rays are neutrons, and gamma rays are positrons.",
+   "Alpha rays are neutral waves, beta rays are positive nuclei, and gamma rays are negative particles."
+  ],
+  "answer_index": 1,
+  "explanation": "The properties table states that alpha rays are helium nuclei, beta rays are electrons, and gamma rays are electromagnetic waves consisting of photons.",
+  "source_page": 85,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a8561e67-682d-553f-ba32-b6d42928b81a",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which of the following statements about alpha, beta and gamma radiations is incorrect?",
+  "options": [
+   "Alpha rays have low penetrating power and can be stopped by thick paper.",
+   "Beta rays are deflected in the opposite direction to alpha rays in fields.",
+   "Gamma rays are not deflected by electric and magnetic fields.",
+   "Gamma rays have the greatest ionising power among the three."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that alpha rays have ionising power 100 times greater than beta rays and 10,000 times greater than gamma rays; hence gamma rays do not have the greatest ionising power.",
+  "source_page": 85,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "99aa072b-b52d-5765-a803-1d6bdbdf47ca",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "According to Soddy and Fajan’s displacement law, what happens when a radioactive element emits an alpha particle?",
+  "options": [
+   "Mass number remains the same and atomic number increases by one.",
+   "Mass number decreases by four and atomic number decreases by two.",
+   "Mass number increases by four and atomic number increases by two.",
+   "Only energy level changes, while mass and atomic numbers remain unchanged."
+  ],
+  "answer_index": 1,
+  "explanation": "The displacement law says alpha emission forms a daughter nucleus with mass number less by 4 units and atomic number less by 2 units than the parent.",
+  "source_page": 85,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ca8bf350-fd17-5552-9ca3-27e7cdfec8eb",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "In beta decay, which change occurs in the daughter nucleus?",
+  "options": [
+   "Mass number decreases by four and atomic number decreases by two.",
+   "Mass number increases by one and atomic number remains the same.",
+   "Mass number remains the same and atomic number increases by one.",
+   "Both mass number and atomic number remain the same."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that in beta decay there is no change in mass number, but the atomic number increases by one.",
+  "source_page": 86,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a3f54d3f-5dbd-5d1f-a789-ee672600b4c3",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "In gamma decay, which of the following remains unchanged?",
+  "options": [
+   "Only mass number",
+   "Only atomic number",
+   "Only energy level",
+   "Both atomic number and mass number"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that in gamma decay only the energy level of the nucleus changes; the atomic number and mass number remain the same.",
+  "source_page": 86,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cf708fa2-a8a8-53c4-a2e6-5b3a30faa09c",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Who discovered in 1939 that a uranium nucleus bombarded with a neutron splits into two smaller nuclei with neutrons and energy?",
+  "options": [
+   "Irene Curie and F. Joliot",
+   "Henri Becquerel and Marie Curie",
+   "Soddy and Fajan",
+   "Otto Hahn and F. Strassman"
+  ],
+  "answer_index": 3,
+  "explanation": "The nuclear fission section states that Otto Hahn and F. Strassman made this discovery in 1939.",
+  "source_page": 86,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e9d0d022-40b8-5959-9ee8-22758c171a49",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "In the nuclear fission of U-235 given in the chapter, the major products are",
+  "options": [
+   "Thorium, helium and gamma rays",
+   "Barium, krypton, three neutrons and energy",
+   "Sulphur, beta particle and heat",
+   "Deuterium, helium and energy"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter gives the fission reaction of U-235 as producing Ba-141, Kr-92, three neutrons and energy.",
+  "source_page": 86,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2269c83f-7505-563a-a8d4-9f59d7d782c9",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which of the following is a correct statement about fissionable and fertile materials?",
+  "options": [
+   "All isotopes of uranium undergo nuclear fission after absorbing a neutron.",
+   "U-238 is fissionable, while U-235 is non-fissionable.",
+   "Fertile materials can be converted into fissionable material.",
+   "Thorium-232 is listed as a fissionable material."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says some radioactive elements can be converted into fissionable material and are called fertile materials; examples include U-238, Th-232 and Pu-240.",
+  "source_page": 86,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d70810f4-5204-5158-a409-22f752271b68",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Natural uranium consists mainly of which isotopes in the proportions stated in the chapter?",
+  "options": [
+   "99.28% U-238 and 0.72% U-235",
+   "99.28% U-235 and 0.72% U-238",
+   "50% U-238 and 50% U-235",
+   "0.72% U-239 and 99.28% Pu-239"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that natural uranium consists of 99.28% U-238 and 0.72% U-235; U-235 undergoes fission whereas U-238 does not.",
+  "source_page": 86,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fa1d87ee-62bf-5c6f-acd2-c91c46c777ab",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "A chain reaction in nuclear fission is best described as",
+  "options": [
+   "a process in which gamma rays are completely absorbed by lead",
+   "a self-propagating process in which the number of neutrons multiplies rapidly almost in geometrical progression",
+   "a process in which two light nuclei combine at room temperature",
+   "a process in which the atomic number decreases by two in every step"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines chain reaction as a self-propagating process where the number of neutrons goes on multiplying rapidly almost in a geometrical progression.",
+  "source_page": 87,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6cd8ae16-4828-5d2e-b10b-cc8c100d67b3",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Assertion (A): Controlled chain reaction is used in a nuclear reactor. Reason (R): In a controlled chain reaction, extra neutrons are absorbed so that only one neutron produces further fission.",
+  "options": [
+   "Both A and R are true, and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that controlled chain reaction is used in a nuclear reactor and that neutron absorbers maintain only one neutron for further fission, allowing sustained control.",
+  "source_page": 87,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4cce90a6-f478-572b-9920-70f0b1d24fdb",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which reaction is associated with an atom bomb according to the chapter?",
+  "options": [
+   "Controlled nuclear fusion",
+   "Uncontrolled chain reaction",
+   "Radio carbon dating",
+   "Slow neutron moderation only"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that uncontrolled chain reaction is used in the atom bomb to produce an explosion.",
+  "source_page": 87,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a2e59f04-bb2f-508e-a6bd-ce21991c5a3f",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Critical mass is defined as the",
+  "options": [
+   "maximum mass of moderator required to stop all neutrons",
+   "minimum mass of a fissile material necessary to sustain the chain reaction",
+   "mass of coolant required to produce steam",
+   "mass lost when two nuclei combine in fusion"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines critical mass as the minimum mass of a fissile material necessary to sustain the chain reaction.",
+  "source_page": 87,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b05635f0-95f2-57a4-81b1-8e802499b23b",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which of the following statements about an atom bomb is correct?",
+  "options": [
+   "It is based on a controlled chain reaction in a subcritical mass only.",
+   "It uses only nuclear fusion and no fissile material.",
+   "Two subcritical pieces of fissile material join to form a supercritical mass, causing explosion.",
+   "It releases only light and heat without hazardous radiation."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter explains that an atom bomb has subcritical fissile pieces which are brought together to form a supercritical mass, leading to explosion and hazardous radiation.",
+  "source_page": 88,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3192f568-d656-50e8-b9ce-6c1cfe9fe403",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which of the following is correctly matched?",
+  "options": [
+   "1 eV — 1.602 × 10^-19 joule",
+   "1 MeV — 10^3 eV",
+   "Average fusion energy — 200 MeV",
+   "Average fission energy — 3.84 × 10^-12 J"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that 1 eV = 1.602 × 10^-19 joule and 1 MeV = 10^6 eV; it also states that fission releases about 200 MeV.",
+  "source_page": 88,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8137b37e-7c5a-59d5-9aad-a416bed35ff2",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Nuclear fusion is the process in which",
+  "options": [
+   "a heavy nucleus splits into two smaller nuclei",
+   "two lighter nuclei combine to form a heavier nucleus",
+   "a nucleus emits a beta particle only",
+   "a radioactive material is kept inside a lead container"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines nuclear fusion as the process in which two lighter nuclei combine to form a heavier nucleus.",
+  "source_page": 88,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "441035db-dc5b-5452-803b-f68d93b963ca",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which statement about mass defect and Einstein’s relation is correct?",
+  "options": [
+   "Mass defect means the daughter nucleus is heavier than the parent nuclei combined.",
+   "Einstein proposed mass-energy equivalence in 1905, expressed as E = mc².",
+   "The value of c given in the chapter is 3 × 10^6 m s^-1.",
+   "Mass-energy equivalence applies only to chemical reactions, not nuclear reactions."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that Einstein proposed mass-energy equivalence in 1905 and gave E = mc², where c = 3 × 10^8 m s^-1.",
+  "source_page": 88,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "039897e9-2a64-562d-8cff-911a29097471",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Why is nuclear fusion called a thermonuclear reaction?",
+  "options": [
+   "It can occur only at extremely high temperature and high pressure.",
+   "It occurs only in cold water reactors.",
+   "It emits only beta particles.",
+   "It converts gamma rays into neutrons."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says fusion is possible only at temperatures of the order of 10^7 to 10^9 K and high pressure, hence it is called thermonuclear reaction.",
+  "source_page": 89,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "36f21d89-9c6c-5549-bb01-863ef0c2e6fb",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "The immediate reason why high temperature is needed for nuclear fusion is that",
+  "options": [
+   "gamma rays must be slowed down",
+   "positive nuclei repel each other and need kinetic energy to overcome repulsion",
+   "electrons must be removed from lead containers",
+   "neutrons must be absorbed by cadmium rods"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter explains that positively charged nuclei repel each other, and high temperature gives sufficient kinetic energy to overcome this repulsive force.",
+  "source_page": 89,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "575f21da-09c0-5300-85b0-baded64ffd5f",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Stellar energy is produced mainly by",
+  "options": [
+   "nuclear fission in uranium present in the Sun",
+   "nuclear fusion of hydrogen nuclei in the cores of the Sun and other stars",
+   "radio carbon dating of old stars",
+   "beta decay of phosphorous in the atmosphere"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that fusion of hydrogen nuclei in the cores of the Sun and other stars produces the enormous energy called stellar energy.",
+  "source_page": 89,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4953eace-189f-5cb0-a0d4-2547e2a68be7",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which statement about the hydrogen bomb is correct?",
+  "options": [
+   "It is based on nuclear fission alone and releases less energy than an atom bomb.",
+   "It has an inbuilt atom bomb to create high temperature and pressure for fusion.",
+   "It operates by controlled chain reaction in a nuclear reactor.",
+   "It requires only normal temperature and pressure for explosion."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says a hydrogen bomb is based on nuclear fusion and contains an inbuilt atom bomb to create the high temperature and pressure needed for fusion.",
+  "source_page": 89,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "88bd5e84-2d25-5260-bb58-cf3c40063478",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which of the following correctly contrasts nuclear fission and nuclear fusion as given in the chapter?",
+  "options": [
+   "Fission needs extremely high temperature and pressure; fusion can be performed at room temperature.",
+   "Fission is combination of light nuclei; fusion is splitting of a heavy nucleus.",
+   "Fission emits alpha, beta and gamma radiations; fusion emits alpha rays, positrons and neutrinos.",
+   "Fission emits only light and heat; fusion triggers genetic diseases by gamma radiation."
+  ],
+  "answer_index": 2,
+  "explanation": "The comparison table states that fission emits alpha, beta and gamma radiations, whereas fusion emits alpha rays, positrons and neutrinos.",
+  "source_page": 90,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9997652a-1e76-5d71-be28-ddf1d49ba700",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which radioisotope is stated to help increase the productivity of crops?",
+  "options": [
+   "Radio sodium Na-24",
+   "Radio phosphorous P-32",
+   "Radio iodine I-131",
+   "Radio cobalt Co-60"
+  ],
+  "answer_index": 1,
+  "explanation": "Under agriculture, the chapter states that the radio isotope of phosphorous (P-32) helps to increase the productivity of crops.",
+  "source_page": 90,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f251bac9-178d-51d9-8ebf-cc8a256aba15",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Match the medical use with the radioisotope: A. Effective functioning of heart  B. Cure goiter  C. Diagnose anaemia  D. Treat skin cancer; 1. I-131  2. Fe-59  3. Na-24  4. Co-60 and Au-198",
+  "options": [
+   "A-3, B-1, C-2, D-4",
+   "A-1, B-3, C-4, D-2",
+   "A-2, B-4, C-1, D-3",
+   "A-4, B-2, C-3, D-1"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter lists Na-24 for effective functioning of heart, I-131 to cure goiter, Fe-59 for anaemia, and Co-60 and Au-198 for skin cancer.",
+  "source_page": 90,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cb070b98-6df0-5451-8a1a-dac98fdcddce",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which of the following pairs is correctly matched regarding industrial and archaeological uses?",
+  "options": [
+   "Americium-241 — radio carbon dating",
+   "Californium-252 — detecting explosives in luggage",
+   "Carbon tracer — smoke detector",
+   "Cobalt-60 — determining age of the Earth and fossils"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that an isotope of californium, Cf-252, is used in airlines to detect explosives in luggage; Am-241 is used as a smoke detector and radio carbon dating estimates age.",
+  "source_page": 91,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e8102c54-5846-5dbb-b662-3de8ef7a4452",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which of the following exposure limits or effects is correctly stated in the chapter?",
+  "options": [
+   "Safe overall exposure is 200 milli sievert per year.",
+   "Safe receiving limit is about 100 mR per week.",
+   "Exposure of 100 R always leads immediately to death.",
+   "Exposure of 600 R is harmless if it is natural radiation."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states the safe limit of receiving radiation is about 100 mR per week; 100 R may cause fatal diseases and about 600 R leads to death.",
+  "source_page": 91,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d28b9ddb-6bd3-553d-9d97-7cafb8b2f158",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which device is used to detect levels of exposure to ionizing radiation?",
+  "options": [
+   "Moderator",
+   "Dosimeter",
+   "Control rod",
+   "Coolant"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines a dosimeter as a device used to detect the levels of exposure to ionizing radiation.",
+  "source_page": 91,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "700597c8-4f5d-5c63-a43c-21b69641dffc",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which of the following is NOT listed as a preventive measure while handling radioactive materials?",
+  "options": [
+   "Keep radioactive materials in a thick walled lead container.",
+   "Use lead coated aprons and lead gloves.",
+   "Handle radioactive materials only by tongs or remote control device.",
+   "Keep radioactive materials in thin aluminium containers for easy access."
+  ],
+  "answer_index": 3,
+  "explanation": "The preventive measures include thick lead containers, lead aprons and gloves, tongs or remote control devices, avoiding eating, and wearing dosimeters; thin aluminium containers are not listed.",
+  "source_page": 92,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a3ccf9a5-d112-5b14-9206-0dfed84e82f3",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "A nuclear reactor is a device in which",
+  "options": [
+   "nuclear fusion occurs explosively in an uncontrolled manner",
+   "nuclear fission takes place in a self-sustained and controlled manner to produce electricity",
+   "radio carbon dating is used to determine fossil age",
+   "gamma rays are produced without any nuclear reaction"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines a nuclear reactor as a device where nuclear fission takes place in a self-sustained and controlled manner to produce electricity.",
+  "source_page": 92,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "214dd3aa-efe5-56e4-9a95-038350d95040",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Match the nuclear reactor component with its function/material: A. Fuel  B. Moderator  C. Control rod  D. Coolant; 1. Slows high energy neutrons  2. Fissile material, commonly uranium  3. Removes heat to produce steam  4. Absorbs neutrons, mostly boron or cadmium rods",
+  "options": [
+   "A-2, B-1, C-4, D-3",
+   "A-1, B-2, C-3, D-4",
+   "A-4, B-3, C-2, D-1",
+   "A-3, B-4, C-1, D-2"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says uranium is commonly used as fuel, moderators like graphite or heavy water slow neutrons, control rods of boron or cadmium absorb neutrons, and coolants remove heat to produce steam.",
+  "source_page": 92,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ace4cf15-50fe-5f04-869a-bc438d394fda",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which of the following is a stated use of breeder reactors?",
+  "options": [
+   "To sterilize surgical devices",
+   "To convert non-fissionable materials into fissionable materials",
+   "To measure exposure to X-rays and gamma rays",
+   "To cure goiter"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that breeder reactors are used to convert non-fissionable materials into fissionable materials.",
+  "source_page": 92,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b6a13b3a-d026-570d-ac7b-a129c142b483",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Which statement about nuclear power development in India is correct according to the chapter?",
+  "options": [
+   "The Indian Atomic Energy Commission was established in August 1948 at Bombay.",
+   "Tarapur Atomic Power Station is located in Tamil Nadu.",
+   "Apsara was the first nuclear reactor built only in India, not Asia.",
+   "India has nuclear power stations only in Maharashtra and Rajasthan."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the Indian Atomic Energy Commission was established in August 1948 at Bombay, now Mumbai; it also says Tarapur was India’s first nuclear power station and Apsara was first in India and Asia.",
+  "source_page": 92,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4fa6af8d-2574-54b7-a371-95e279e88b1a",
+  "chapter_id": "c10-sci-06",
+  "unit_code": "GS1",
+  "question": "Arrange the following in chronological order as given or implied in the chapter: A. Discovery of radioactivity  B. Discovery of radium  C. Discovery of artificial radioactivity  D. First nuclear reactor built",
+  "options": [
+   "A, B, C, D",
+   "B, A, C, D",
+   "A, C, B, D",
+   "C, A, D, B"
+  ],
+  "answer_index": 0,
+  "explanation": "Radioactivity was discovered in 1896; radium was discovered two years later; artificial radioactivity was discovered in 1934; and the first nuclear reactor was built in 1942.",
+  "source_page": 92,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ }
+]

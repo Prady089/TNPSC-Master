@@ -1,0 +1,470 @@
+[
+ {
+  "id": "88a75a90-e755-5cd9-b049-0f75f8eb403c",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Which of the following best defines temperature as given in the chapter?",
+  "options": [
+   "The degree of hotness of a body",
+   "The total heat content of a body",
+   "The quantity of energy absorbed by a body",
+   "The amount of expansion produced in a body"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines temperature as the degree of hotness of a body. It also states that temperature determines the direction of heat flow.",
+  "source_page": 40,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "60b31a17-edaa-50df-b962-b15af4d768a1",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Which of the following statements about temperature is/are correct?\n1. It is a scalar quantity.\n2. Its SI unit is kelvin.\n3. Its SI unit is joule.\n4. It determines the direction of flow of heat.",
+  "options": [
+   "1 and 3 only",
+   "2 and 3 only",
+   "1, 2 and 4 only",
+   "1, 2, 3 and 4"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that temperature is a scalar quantity, its SI unit is kelvin, and it determines the direction of flow of heat. Joule is the SI unit of heat energy, not temperature.",
+  "source_page": 40,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "75f1b181-3c2f-5734-a9c3-77b2a818ef8c",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "The absolute scale of temperature is also known as which of the following?",
+  "options": [
+   "Celsius temperature",
+   "Thermodynamic temperature",
+   "Fahrenheit temperature",
+   "Caloric temperature"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that temperature measured in relation to absolute zero using the kelvin scale is known as absolute scale temperature, also called thermodynamic temperature.",
+  "source_page": 40,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "59c8de60-aa36-5583-8f86-ecec3b87491b",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Which one of the following relations is stated in the chapter?",
+  "options": [
+   "0 K = 273°C",
+   "K = C − 273",
+   "1°C temperature difference is equal to 273 K",
+   "0 K = –273°C"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter gives the relation K = C + 273 and states that 0 K = –273°C.",
+  "source_page": 41,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "365a973b-5e1f-54d2-a51b-4bb25ff772cc",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Two bodies are said to be in thermal equilibrium when:",
+  "options": [
+   "there is no net flow of thermal energy between them",
+   "one body is hotter and the other is colder",
+   "heat flows continuously from the cold body to the hot body",
+   "their masses become equal"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines thermal equilibrium as the condition in which there is no net flow of thermal energy between systems. It also says bodies in thermal equilibrium are at the same temperature.",
+  "source_page": 41,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8be99771-497e-5e8d-b8bf-87df3bdfbbef",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Assertion (A): When a hot body and a cold body are in contact, heat energy is transferred until thermal equilibrium is established.\nReason (R): Heat energy flows from the hot body to the cold body due to temperature difference.\nChoose the correct answer.",
+  "options": [
+   "A is true, but R is false",
+   "Both A and R are true, and R is the correct explanation of A",
+   "Both A and R are true, but R is not the correct explanation of A",
+   "A is false, but R is true"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter explains that when bodies at different temperatures are brought into contact, heat flows from the hot body to the cold body until thermal equilibrium is established. The reason correctly explains the assertion.",
+  "source_page": 41,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "040bdf00-40be-5a45-8513-d4384e35efc2",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Thermal energy, according to the chapter, is best described as:",
+  "options": [
+   "energy possessed only by solids due to expansion",
+   "energy stored permanently in a hot body",
+   "a form of energy transferred between two bodies due to temperature difference",
+   "the average kinetic energy of molecules measured in kelvin"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that thermal energy is a form of energy transferred between any two bodies due to the difference in their temperatures. It is also called heat energy or simply heat.",
+  "source_page": 41,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5804a4f4-7fd0-5c5d-b42d-af59e8e6d1b3",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Which of the following is NOT a characteristic feature of heat energy transfer stated in the chapter?",
+  "options": [
+   "Heat always flows from a system at higher temperature to lower temperature.",
+   "Mass of a system is not altered when heated or cooled.",
+   "Heat gained by the cold system is equal to heat lost by the hot system.",
+   "Heat gained by the hot system is always greater than heat lost by the cold system."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that heat gained by the cold system is equal to heat lost by the hot system. It does not state that heat gained by the hot system is greater.",
+  "source_page": 41,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9364bd92-134d-515c-9c85-5924da0348d5",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Match the following:\nA. Calorie\nB. Kilocalorie\nC. SI unit of heat energy\nD. Heat transfer process\nwith\n1. Joule\n2. Raises 1 kg of water through 1°C\n3. Raises 1 g of water through 1°C\n4. Heating",
+  "options": [
+   "A-1, B-2, C-3, D-4",
+   "A-3, B-2, C-1, D-4",
+   "A-2, B-3, C-1, D-4",
+   "A-3, B-1, C-2, D-4"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines calorie as heat needed to raise 1 gram of water through 1°C and kilocalorie as heat needed to raise 1 kilogram of water through 1°C. The SI unit of heat energy is joule, and heat flow from higher to lower temperature is called heating.",
+  "source_page": 42,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bcef903d-642a-5360-aff4-4b42d21839b2",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "When a certain amount of heat energy is given to a substance, which of the following changes may occur according to the chapter?",
+  "options": [
+   "Rise in temperature, change of state, or expansion",
+   "Only increase in mass",
+   "Only decrease in volume",
+   "Only conversion from gas to solid"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter lists three possible effects of heat: rise in temperature, change of state from solid to liquid or liquid to gas, and expansion.",
+  "source_page": 42,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4473f5a9-8d6a-5b3a-a18f-bb2869840e17",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Which of the following statements about thermal expansion is correct?",
+  "options": [
+   "Only solids undergo expansion on heating.",
+   "Liquids do not expand when heated.",
+   "All forms of matter undergo expansion on heating.",
+   "Gases expand less than solids for a given rise in temperature."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that all forms of matter—solid, liquid and gas—undergo expansion on heating. It also says gases show the highest expansion for a given rise in temperature.",
+  "source_page": 42,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d94f81d5-7d80-511d-819f-39854709b431",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "The coefficient of linear expansion is defined as the ratio of increase in length per degree rise in temperature to:",
+  "options": [
+   "its unit area",
+   "its unit volume",
+   "its final length",
+   "its unit length"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter defines coefficient of linear expansion as the ratio of increase in length of the body per degree rise in temperature to its unit length. Its SI unit is K−1.",
+  "source_page": 42,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "be33e7de-752f-5876-9d0f-0dd70ed66d46",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Match the following types of expansion with the corresponding change:\nA. Linear expansion\nB. Superficial expansion\nC. Cubical expansion\nD. Thermal expansion\nwith\n1. Change in area\n2. Change in dimension due to rise in temperature\n3. Change in length\n4. Change in volume",
+  "options": [
+   "A-1, B-3, C-4, D-2",
+   "A-4, B-1, C-3, D-2",
+   "A-3, B-1, C-4, D-2",
+   "A-3, B-4, C-1, D-2"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter explains that linear expansion relates to length, superficial expansion to area, and cubical expansion to volume. Thermal expansion is the change in dimension due to rise in temperature.",
+  "source_page": 43,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ac53bba3-be39-5269-8cd6-03352e19851a",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Match the materials with their coefficient of cubical expansion as given in Table 3.1:\nA. Aluminium\nB. Glass\nC. Water\nD. Mercury\nwith\n1. 20.7 × 10−5 K−1\n2. 7 × 10−5 K−1\n3. 18.2 × 10−5 K−1\n4. 2.5 × 10−5 K−1",
+  "options": [
+   "A-1, B-4, C-2, D-3",
+   "A-2, B-1, C-4, D-3",
+   "A-4, B-2, C-1, D-3",
+   "A-2, B-4, C-1, D-3"
+  ],
+  "answer_index": 3,
+  "explanation": "The table gives aluminium as 7 × 10−5, glass as 2.5 × 10−5, water as 20.7 × 10−5, and mercury as 18.2 × 10−5 K−1.",
+  "source_page": 43,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6bd16396-c6be-5a97-bb24-172848766810",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Which of the following statements about expansion in liquids and gases is correct?",
+  "options": [
+   "For a given rise in temperature, gases expand more than liquids and solids.",
+   "For a given rise in temperature, solids expand more than liquids and gases.",
+   "The coefficient of cubical expansion of gases is independent of temperature.",
+   "Liquids never expand when heated in a container."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that for a given rise in temperature, a liquid expands more than a solid, and a gas has the highest expansion. It also notes that the coefficient for gases depends on temperature.",
+  "source_page": 43,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3980f905-72d4-59c3-8a54-b773667ad34b",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Which of the following correctly distinguishes real expansion and apparent expansion of a liquid?",
+  "options": [
+   "Real expansion ignores container expansion; apparent expansion is heating without a container.",
+   "Real expansion occurs only in gases; apparent expansion occurs only in solids.",
+   "Real expansion is always less than apparent expansion.",
+   "Real expansion is observed when heated directly, while apparent expansion is observed without considering container expansion."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter defines real expansion as the expansion observed if a liquid is heated directly without a container. Apparent expansion is the observed expansion without considering the expansion of the container.",
+  "source_page": 44,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9d2fc813-835a-5d2f-a313-bd82ee009143",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "In the experiment to measure real and apparent expansion of a liquid, the correct sequence of levels is:",
+  "options": [
+   "L2: initial level, L1: reduced level, L3: final raised level",
+   "L1: initial level, L2: reduced level, L3: final raised level",
+   "L3: initial level, L1: reduced level, L2: final raised level",
+   "L1: final raised level, L2: initial level, L3: reduced level"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says the initial level is marked L1, the reduced level after the container expands is L2, and the level after further heating is L3.",
+  "source_page": 44,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3c32deca-7e38-5c55-bf8a-30637527931f",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Which set contains the three fundamental laws of gases stated in the chapter?",
+  "options": [
+   "Boyle’s law, Charles’s law and Avogadro’s law",
+   "Newton’s law, Boyle’s law and Joule’s law",
+   "Avogadro’s law, Ohm’s law and Charles’s law",
+   "Pascal’s law, Boyle’s law and Archimedes’ law"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter lists the three fundamental laws connecting pressure, volume and temperature as Boyle’s law, Charles’s law and Avogadro’s law.",
+  "source_page": 44,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c1f0abc1-d183-5fb9-be4b-b4104daeaa84",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "According to Boyle’s law, when temperature is kept constant, the volume of a fixed mass of gas is:",
+  "options": [
+   "directly proportional to its pressure",
+   "directly proportional to its temperature",
+   "inversely proportional to its pressure",
+   "independent of its pressure"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states Boyle’s law as: at constant temperature, the volume of a fixed mass of gas is inversely proportional to its pressure, and PV is constant.",
+  "source_page": 44,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "23c6702f-2a43-5d72-a929-0fbee9d4ea85",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Which statement correctly represents Charles’s law as given in the chapter?",
+  "options": [
+   "At constant temperature, pressure is inversely proportional to volume.",
+   "At constant pressure, volume is directly proportional to temperature.",
+   "At constant pressure and temperature, volume is directly proportional to number of molecules.",
+   "At constant volume, pressure is independent of temperature."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that according to Charles’s law, when pressure is kept constant, the volume of a gas is directly proportional to its temperature.",
+  "source_page": 45,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6e59de68-e3c9-5964-9607-fe190a78e76f",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Avogadro’s law states that at constant pressure and temperature, the volume of a gas is directly proportional to:",
+  "options": [
+   "the pressure of the gas",
+   "the density of the gas",
+   "the cubical expansion of the container",
+   "the number of atoms or molecules present in it"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that Avogadro’s law relates volume directly to the number of atoms or molecules present at constant pressure and temperature. It also gives Avogadro’s number as 6.023 × 10^23 per mol.",
+  "source_page": 45,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a419bb74-9968-532e-a9fd-9cc5f4498e13",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Which of the following correctly describes a real gas as stated in the chapter?",
+  "options": [
+   "Its molecules or atoms interact with a definite intermolecular or interatomic force of attraction.",
+   "Its atoms or molecules never interact with each other.",
+   "It obeys only Avogadro’s law and no other gas law.",
+   "It behaves ideally only at low temperature and high pressure."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines real gases as gases in which molecules or atoms interact with definite intermolecular or interatomic force of attraction. It also states that real gases behave like ideal gases at very high temperature or low pressure.",
+  "source_page": 45,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0180292f-1709-5f91-af9b-dd89436d795e",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Which of the following statements about an ideal gas is INCORRECT?",
+  "options": [
+   "An ideal gas is also called a perfect gas.",
+   "In practice, no gas is ideal.",
+   "Ideal gas molecules interact strongly with each other.",
+   "Ideal gases obey Boyle’s law, Charles’s law and Avogadro’s law."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that in an ideal gas, atoms or molecules do not interact with each other. It also notes that no gas is actually ideal in practice and that ideal gases obey the three gas laws.",
+  "source_page": 45,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5822f9a5-d031-586f-a96f-9981866a58ca",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "Which pair of constants and values is correctly given in the chapter?",
+  "options": [
+   "Boltzmann constant: 8.31 J mol−1 K−1; universal gas constant: 1.38 × 10−23 JK−1",
+   "Boltzmann constant: 6.023 × 10^23 mol−1; universal gas constant: 8.31 JK−1",
+   "Boltzmann constant: 1.38 J mol−1 K−1; universal gas constant: 6.023 × 10^23 mol−1",
+   "Boltzmann constant: 1.38 × 10−23 JK−1; universal gas constant: 8.31 J mol−1 K−1"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter gives Boltzmann constant as 1.38 × 10−23 JK−1 and the universal gas constant as 8.31 J mol−1 K−1.",
+  "source_page": 46,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "57206004-8437-50ac-9d77-52ff24795d70",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "A liquid level is initially L1 = 50 ml. On heating, it first falls to L2 = 48.5 ml and then rises to L3 = 51.2 ml. What are the apparent expansion and real expansion respectively?",
+  "options": [
+   "2.7 ml and 1.2 ml",
+   "1.2 ml and 2.7 ml",
+   "1.5 ml and 1.2 ml",
+   "51.2 ml and 48.5 ml"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter’s solved problem uses apparent expansion = L3 − L1 = 51.2 − 50 = 1.2 ml and real expansion = L3 − L2 = 51.2 − 48.5 = 2.7 ml.",
+  "source_page": 46,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3d293db6-c3a3-5588-8af2-bf9719a394c6",
+  "chapter_id": "c10-sci-03",
+  "unit_code": "GS1",
+  "question": "A gas has initial volume 20 cm3 at pressure P. Keeping temperature constant, the pressure is increased to 4P. What is the final volume according to Boyle’s law?",
+  "options": [
+   "5 cm3",
+   "10 cm3",
+   "40 cm3",
+   "80 cm3"
+  ],
+  "answer_index": 0,
+  "explanation": "Using Boyle’s law, P1V1 = P2V2. With P1 = P, V1 = 20 cm3 and P2 = 4P, V2 = (P/4P) × 20 = 5 cm3, as shown in the chapter’s solved problem.",
+  "source_page": 47,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ }
+]
