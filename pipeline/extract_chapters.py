@@ -117,6 +117,7 @@ def clean_line(line: str) -> str:
     for ch in ("\u00ad", "\ufeff", "\u200b"):
         line = line.replace(ch, "")
     line = re.sub("[\u00a0\u2000-\u200a\u202f]", " ", line)  # nbsp, thin/en/em spaces
+    line = re.sub(r"www\.tntextbooks\.in", " ", line, flags=re.I)  # watermark on mirror copies
     line = re.sub(r"`\s?(?=\d)", "\u20b9", line)  # the Rupee font maps the rupee sign to a backtick
     line = TAMIL_RE.sub(" ", line)
     line = BULLET_RE.sub(f" {BULLET} ", line)
@@ -247,6 +248,22 @@ def merge_broken_paragraphs(blocks: list[dict]) -> list[dict]:
     return out
 
 
+UNIT_START_RE = re.compile(r"^\s*(?:www\.tntextbooks\.in\s*)?(?:chapter|unit)\s*[-:]?\s*(\d{1,2})\b", re.I)
+
+
+def detect_chapter_starts(pdf: Path, n_pages: int):
+    """For PDFs without bookmarks: a chapter opens with 'Chapter n' / 'UNIT n' at the top of the page,
+    followed by its learning objectives."""
+    marks = []
+    for p in range(3, n_pages + 1):
+        t = "\n".join(page_text(pdf, p, p))
+        head = re.sub(r"\s+", " ", t[:400])
+        m = UNIT_START_RE.match(head)
+        if m and re.search(r"learning (objectives|outcomes)|after (completing|studying)", t[:3000], re.I):
+            marks.append((p, f"Unit {m.group(1)}", False))
+    return marks
+
+
 def process_book(book: dict) -> dict | None:
     pdf = ROOT / book["file"]
     if not pdf.exists():
@@ -254,8 +271,12 @@ def process_book(book: dict) -> dict | None:
         return None
     reader = pypdf.PdfReader(str(pdf))
     n_pages = len(reader.pages)
-    marks = flatten_outline(reader)
-    boundaries = sorted({p for p, _, _ in marks} | {n_pages + 1})
+    if book.get("toc"):  # explicit chapter start pages, read from the book's contents page
+        marks = [(p, f"Unit {t}", False) for p, t in book["toc"]]
+    else:
+        marks = flatten_outline(reader) or detect_chapter_starts(pdf, n_pages)
+    last = book.get("last_page", n_pages)
+    boundaries = sorted({p for p, _, _ in marks} | {last + 1})
 
     chapters = []
     for page, title, has_children in marks:

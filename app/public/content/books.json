@@ -7560,6 +7560,609 @@
      "words": 6091
     }
    ]
+  },
+  {
+   "id": "c6-t1-maths",
+   "std": 6,
+   "title": "Mathematics Term 1",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c6-t1-maths-01",
+     "bookId": "c6-t1-maths",
+     "order": 1,
+     "title": "Numbers",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      5,
+      35
+     ],
+     "words": 8481
+    },
+    {
+     "id": "c6-t1-maths-02",
+     "bookId": "c6-t1-maths",
+     "order": 2,
+     "title": "Introduction to Algebra",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      36,
+      49
+     ],
+     "words": 3015
+    },
+    {
+     "id": "c6-t1-maths-03",
+     "bookId": "c6-t1-maths",
+     "order": 3,
+     "title": "Ratio and Proportion",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      50,
+      66
+     ],
+     "words": 5121
+    },
+    {
+     "id": "c6-t1-maths-04",
+     "bookId": "c6-t1-maths",
+     "order": 4,
+     "title": "Geometry",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      67,
+      91
+     ],
+     "words": 4671
+    },
+    {
+     "id": "c6-t1-maths-05",
+     "bookId": "c6-t1-maths",
+     "order": 5,
+     "title": "Statistics",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      92,
+      111
+     ],
+     "words": 3981
+    },
+    {
+     "id": "c6-t1-maths-06",
+     "bookId": "c6-t1-maths",
+     "order": 6,
+     "title": "Information Processing",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      112,
+      136
+     ],
+     "words": 5320
+    }
+   ]
+  },
+  {
+   "id": "c6-t2-maths",
+   "std": 6,
+   "title": "Mathematics Term 2",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c6-t2-maths-01",
+     "bookId": "c6-t2-maths",
+     "order": 1,
+     "title": "Numbers",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      7,
+      29
+     ],
+     "words": 8544
+    },
+    {
+     "id": "c6-t2-maths-02",
+     "bookId": "c6-t2-maths",
+     "order": 2,
+     "title": "Measurements",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      30,
+      49
+     ],
+     "words": 6577
+    },
+    {
+     "id": "c6-t2-maths-03",
+     "bookId": "c6-t2-maths",
+     "order": 3,
+     "title": "Bill, Profit and Loss",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      50,
+      62
+     ],
+     "words": 3635
+    },
+    {
+     "id": "c6-t2-maths-04",
+     "bookId": "c6-t2-maths",
+     "order": 4,
+     "title": "Geometry",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      63,
+      80
+     ],
+     "words": 4097
+    },
+    {
+     "id": "c6-t2-maths-05",
+     "bookId": "c6-t2-maths",
+     "order": 5,
+     "title": "Information Processing",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      81,
+      96
+     ],
+     "words": 3989
+    }
+   ]
+  },
+  {
+   "id": "c6-t3-maths",
+   "std": 6,
+   "title": "Mathematics Term 3",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c6-t3-maths-01",
+     "bookId": "c6-t3-maths",
+     "order": 1,
+     "title": "Fractions",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      5,
+      26
+     ],
+     "words": 6125
+    },
+    {
+     "id": "c6-t3-maths-02",
+     "bookId": "c6-t3-maths",
+     "order": 2,
+     "title": "Integers",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      27,
+      40
+     ],
+     "words": 4635
+    },
+    {
+     "id": "c6-t3-maths-03",
+     "bookId": "c6-t3-maths",
+     "order": 3,
+     "title": "Perimeter and Area",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      41,
+      58
+     ],
+     "words": 4885
+    },
+    {
+     "id": "c6-t3-maths-04",
+     "bookId": "c6-t3-maths",
+     "order": 4,
+     "title": "Symmetry",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      59,
+      75
+     ],
+     "words": 3078
+    },
+    {
+     "id": "c6-t3-maths-05",
+     "bookId": "c6-t3-maths",
+     "order": 5,
+     "title": "Information Processing",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      76,
+      88
+     ],
+     "words": 3911
+    }
+   ]
+  },
+  {
+   "id": "c10-maths",
+   "std": 10,
+   "title": "Mathematics",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c10-maths-01",
+     "bookId": "c10-maths",
+     "order": 1,
+     "title": "Relations and Functions",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      7,
+      41
+     ],
+     "words": 12978
+    },
+    {
+     "id": "c10-maths-02",
+     "bookId": "c10-maths",
+     "order": 2,
+     "title": "Numbers and Sequences",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      42,
+      90
+     ],
+     "words": 18436
+    },
+    {
+     "id": "c10-maths-03",
+     "bookId": "c10-maths",
+     "order": 3,
+     "title": "Algebra",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      91,
+      166
+     ],
+     "words": 26618
+    },
+    {
+     "id": "c10-maths-04",
+     "bookId": "c10-maths",
+     "order": 4,
+     "title": "Geometry",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      167,
+      208
+     ],
+     "words": 14032
+    },
+    {
+     "id": "c10-maths-05",
+     "bookId": "c10-maths",
+     "order": 5,
+     "title": "Coordinate Geometry",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      209,
+      244
+     ],
+     "words": 12567
+    },
+    {
+     "id": "c10-maths-06",
+     "bookId": "c10-maths",
+     "order": 6,
+     "title": "Trigonometry",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      245,
+      274
+     ],
+     "words": 10130
+    },
+    {
+     "id": "c10-maths-07",
+     "bookId": "c10-maths",
+     "order": 7,
+     "title": "Mensuration",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      275,
+      306
+     ],
+     "words": 10600
+    },
+    {
+     "id": "c10-maths-08",
+     "bookId": "c10-maths",
+     "order": 8,
+     "title": "Statistics and Probability",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      307,
+      339
+     ],
+     "words": 11271
+    }
+   ]
+  },
+  {
+   "id": "c11-phy1",
+   "std": 11,
+   "title": "Physics Vol 1",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c11-phy1-01",
+     "bookId": "c11-phy1",
+     "order": 1,
+     "title": "Nature of Physical World and Measurement",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      9,
+      48
+     ],
+     "words": 12753
+    },
+    {
+     "id": "c11-phy1-02",
+     "bookId": "c11-phy1",
+     "order": 2,
+     "title": "Kinematics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      49,
+      112
+     ],
+     "words": 14413
+    },
+    {
+     "id": "c11-phy1-03",
+     "bookId": "c11-phy1",
+     "order": 3,
+     "title": "Laws of Motion",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      113,
+      174
+     ],
+     "words": 12623
+    },
+    {
+     "id": "c11-phy1-04",
+     "bookId": "c11-phy1",
+     "order": 4,
+     "title": "Work, Energy and Power",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      175,
+      215
+     ],
+     "words": 8502
+    },
+    {
+     "id": "c11-phy1-05",
+     "bookId": "c11-phy1",
+     "order": 5,
+     "title": "Motion of System of Particles and Rigid Bodies",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      216,
+      320
+     ],
+     "words": 10820
+    }
+   ]
+  },
+  {
+   "id": "c12-chem2",
+   "std": 12,
+   "title": "Chemistry Vol 2",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c12-chem2-01",
+     "bookId": "c12-chem2",
+     "order": 1,
+     "title": "Ionic Equilibrium",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      5,
+      36
+     ],
+     "words": 7173
+    },
+    {
+     "id": "c12-chem2-02",
+     "bookId": "c12-chem2",
+     "order": 2,
+     "title": "Electrochemistry",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      37,
+      72
+     ],
+     "words": 8900
+    },
+    {
+     "id": "c12-chem2-03",
+     "bookId": "c12-chem2",
+     "order": 3,
+     "title": "Surface Chemistry",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      73,
+      107
+     ],
+     "words": 8640
+    },
+    {
+     "id": "c12-chem2-04",
+     "bookId": "c12-chem2",
+     "order": 4,
+     "title": "Hydroxy Compounds and Ethers",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      108,
+      148
+     ],
+     "words": 7280
+    },
+    {
+     "id": "c12-chem2-05",
+     "bookId": "c12-chem2",
+     "order": 5,
+     "title": "Carbonyl Compounds and Carboxylic Acids",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      149,
+      199
+     ],
+     "words": 9238
+    },
+    {
+     "id": "c12-chem2-06",
+     "bookId": "c12-chem2",
+     "order": 6,
+     "title": "Organic Nitrogen Compounds",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      200,
+      240
+     ],
+     "words": 7065
+    },
+    {
+     "id": "c12-chem2-07",
+     "bookId": "c12-chem2",
+     "order": 7,
+     "title": "Biomolecules",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      241,
+      275
+     ],
+     "words": 7763
+    },
+    {
+     "id": "c12-chem2-08",
+     "bookId": "c12-chem2",
+     "order": 8,
+     "title": "Chemistry in Everyday Life",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      276,
+      300
+     ],
+     "words": 5549
+    }
+   ]
   }
  ]
 }

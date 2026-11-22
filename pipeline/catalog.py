@@ -62,4 +62,13 @@ BOOKS = [
     {"id": "c12-chem1", "file": "books/12-chemistry-vol1.pdf", "std": 12, "title": "Chemistry Vol 1", "subject": "science"},
     {"id": "c12-bot", "file": "books/12-botany.pdf", "std": 12, "title": "Botany", "subject": "science"},
     {"id": "c12-zoo", "file": "books/12-zoology.pdf", "std": 12, "title": "Zoology", "subject": "science"},
+    # From tntextbooks.in (Google Drive copies of the SCERT books) where the official store has no file.
+    {"id": "c6-t1-maths", "file": "books/6-maths-t1.pdf", "std": 6, "title": "Mathematics Term 1", "subject": "maths"},
+    {"id": "c6-t2-maths", "file": "books/6-maths-t2.pdf", "std": 6, "title": "Mathematics Term 2", "subject": "maths"},
+    {"id": "c6-t3-maths", "file": "books/6-maths-t3.pdf", "std": 6, "title": "Mathematics Term 3", "subject": "maths"},
+    {"id": "c10-maths", "file": "books/10-maths.pdf", "std": 10, "title": "Mathematics", "subject": "maths"},
+    {"id": "c11-phy1", "file": "books/11-physics-vol1.pdf", "std": 11, "title": "Physics Vol 1", "subject": "science"},
+    {"id": "c12-chem2", "file": "books/12-chemistry-vol2.pdf", "std": 12, "title": "Chemistry Vol 2", "subject": "science",
+     # no bookmarks: start pages from the contents page (printed page + 4)
+     "toc": [(5, "8"), (37, "9"), (73, "10"), (108, "11"), (149, "12"), (200, "13"), (241, "14"), (276, "15")], "last_page": 300},
 ]
