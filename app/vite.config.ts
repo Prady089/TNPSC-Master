@@ -43,7 +43,7 @@ export default defineConfig({
         runtimeCaching: [
           {
             // Index files change whenever books are added: always try the network first.
-            urlPattern: ({ url }) => /^\/content\/[^/]+\.json$/.test(url.pathname),
+            urlPattern: ({ url }) => /^\/content\/(?:bookback\/)?[^/]+\.json$/.test(url.pathname),
             handler: 'NetworkFirst',
             options: { cacheName: 'content-index', networkTimeoutSeconds: 4 },
           },

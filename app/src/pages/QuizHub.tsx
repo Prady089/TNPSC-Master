@@ -4,7 +4,7 @@ import { api } from '../lib/api';
 import { pct, useAsync } from '../lib/hooks';
 import { DAILY_SIZE, istDate, unitByCode, UNITS } from '../shared/syllabus';
 import { Card, LinkButton, PageTitle, Pill, Spinner, cx, inputBase } from '../components/ui';
-import { ChevronRight, PrintIcon, RefreshIcon } from '../components/icons';
+import { BookIcon, ChevronRight, PrintIcon, RefreshIcon } from '../components/icons';
 
 const MODE_LABEL: Record<string, string> = { daily: 'Daily quiz', unit: 'Unit practice', chapter: 'Chapter practice', revise: 'Revision', mock: 'Mock test' };
 
@@ -35,6 +35,17 @@ export default function QuizHub() {
           {daily ? 'Review' : 'Start'}
         </LinkButton>
       </Card>
+
+      <Link to="/bookback/I" className="block">
+        <Card className="flex items-center gap-3 hover:border-brand">
+          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-brand-soft text-brand"><BookIcon size={20} /></div>
+          <div className="min-w-0 flex-1">
+            <p className="font-semibold">Book back questions</p>
+            <p className="text-sm text-muted">Textbook exercises with answers, tagged with past TNPSC papers. Q&A, online quiz and pen test.</p>
+          </div>
+          <ChevronRight className="shrink-0 text-muted" />
+        </Card>
+      </Link>
 
       {data.wrong.length > 0 && (
         <Link to={`/quiz/play?mode=revise&count=20`} className="block">

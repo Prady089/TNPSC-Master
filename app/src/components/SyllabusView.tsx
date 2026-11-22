@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { api } from '../lib/api';
 import { chapterIndex } from '../lib/content';
+import { getBookBackIndex } from '../lib/bookback';
 import { useAsync } from '../lib/hooks';
 import { CheckIcon, ChevronRight } from './icons';
 import { Card, ErrorNote, Spinner, cx } from './ui';
@@ -21,13 +22,15 @@ export default function SyllabusView() {
     try { return sessionStorage.getItem(OPEN_KEY) ?? 'I'; } catch { return 'I'; }
   });
   const { data, loading, error } = useAsync(async () => {
-    const [syllabus, chapters, reading] = await Promise.all([
+    const [syllabus, chapters, reading, bb] = await Promise.all([
       fetch('/content/syllabus.json', { cache: 'no-cache' }).then((r) => r.json() as Promise<Syllabus>),
       chapterIndex(),
       api.getReading().catch(() => []),
+      getBookBackIndex(),
     ]);
     const done = new Set(reading.filter((r) => (r.progress ?? 0) >= 0.9).map((r) => r.chapter_id));
-    return { syllabus, chapters, done };
+    const bookback = new Set(Object.entries(bb.units).filter(([, u]) => Object.keys(u.chapters).length).map(([code]) => code));
+    return { syllabus, chapters, done, bookback };
   }, []);
 
   const toggle = (code: string) => {
@@ -81,6 +84,11 @@ export default function SyllabusView() {
                   </button>
                   {isOpen && (
                     <div className="space-y-5 border-t border-line px-4 pb-4 pt-3">
+                      {data.bookback.has(u.code) && (
+                        <Link to={`/bookback/${u.code}`} className="flex items-center justify-between rounded-lg bg-brand-soft px-3 py-2 text-sm font-semibold text-brand">
+                          Book back questions for this unit <ChevronRight size={18} />
+                        </Link>
+                      )}
                       {u.sections.map((sec, si) => (
                         <section key={si}>
                           {sec.title && <h3 className="mb-2 text-sm font-bold text-brand">{sec.title}</h3>}

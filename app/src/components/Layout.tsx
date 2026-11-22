@@ -20,6 +20,7 @@ const TAB_ROOTS = new Set([...TABS.map((n) => n.to), '/chat']);
 function subTitle(path: string): string {
   if (path.startsWith('/learn')) return 'Library';
   if (path.startsWith('/pyq')) return 'Past papers';
+  if (path.startsWith('/bookback')) return 'Book back questions';
   if (path.startsWith('/profile')) return 'Profile';
   if (path.startsWith('/admin/review')) return 'Review';
   if (path.startsWith('/admin')) return 'Admin';
@@ -128,9 +129,9 @@ export default function Layout() {
             {TABS.map(({ to, label, icon: Icon, end }) => (
               <NavLink key={to} to={to} end={end}
                 className={({ isActive }) => cx('flex flex-col items-center gap-1 pb-2 pt-2.5 text-[10.5px] font-semibold',
-                  isActive || (to === '/library' && pathname.startsWith('/learn')) || (to === '/quiz' && pathname.startsWith('/pyq')) ? 'text-brand' : 'text-muted')}>
+                  isActive || (to === '/library' && pathname.startsWith('/learn')) || (to === '/quiz' && (pathname.startsWith('/pyq') || pathname.startsWith('/bookback'))) ? 'text-brand' : 'text-muted')}>
                 {({ isActive: exact }) => {
-                  const isActive = exact || (to === '/library' && pathname.startsWith('/learn')) || (to === '/quiz' && pathname.startsWith('/pyq'));
+                  const isActive = exact || (to === '/library' && pathname.startsWith('/learn')) || (to === '/quiz' && (pathname.startsWith('/pyq') || pathname.startsWith('/bookback')));
                   return (
                   <>
                     <span className={cx('flex h-8 w-12 items-center justify-center rounded-full transition-colors duration-200',

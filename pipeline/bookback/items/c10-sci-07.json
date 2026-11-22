@@ -1,0 +1,54 @@
+[
+  {"k": "mcq", "q": "Which of the following has the smallest mass?", "o": ["6.023 × 10²³ atoms of He", "1 atom of He", "2 g of He", "1 mole atoms of He"], "a": 1, "x": "A single helium atom weighs about 6.6 × 10⁻²⁴ g; the others are grams of helium."},
+  {"k": "mcq", "q": "Which of the following is a triatomic molecule?", "o": ["Glucose", "Helium", "Carbon dioxide", "Hydrogen"], "a": 2, "x": "CO₂ has three atoms (one C, two O). Helium is monoatomic, hydrogen diatomic, glucose polyatomic."},
+  {"k": "mcq", "q": "The volume occupied by 4.4 g of CO₂ at S.T.P. is", "o": ["22.4 litre", "2.24 litre", "0.24 litre", "0.1 litre"], "a": 1, "x": "4.4 g ÷ 44 g/mol = 0.1 mol; 0.1 × 22.4 L = 2.24 L."},
+  {"k": "mcq", "q": "Mass of 1 mole of nitrogen atom is", "o": ["28 amu", "14 amu", "28 g", "14 g"], "a": 3, "x": "Gram atomic mass of nitrogen = 14 g (28 g is one mole of N₂ molecules)."},
+  {"k": "mcq", "q": "Which of the following represents 1 amu?", "o": ["Mass of a C-12 atom", "Mass of a hydrogen atom", "1/12th of the mass of a C-12 atom", "Mass of an O-16 atom"], "a": 2, "x": "The atomic mass unit is defined as one-twelfth of the mass of a carbon-12 atom."},
+  {"k": "mcq", "q": "Which of the following statements is incorrect?", "o": ["12 g of C-12 contains Avogadro's number of atoms", "One mole of oxygen gas contains Avogadro's number of molecules", "One mole of hydrogen gas contains Avogadro's number of atoms", "One mole of electrons stands for 6.023 × 10²³ electrons"], "a": 2, "x": "One mole of H₂ gas has Avogadro's number of molecules, i.e. twice that number of atoms."},
+  {"k": "mcq", "q": "The volume occupied by 1 mole of a diatomic gas at S.T.P. is", "o": ["11.2 litre", "5.6 litre", "22.4 litre", "44.8 litre"], "a": 2, "x": "One mole of any gas occupies 22.4 L at S.T.P. (molar volume), whatever its atomicity."},
+  {"k": "mcq", "q": "In the nucleus of ₂₀Ca⁴⁰ there are", "o": ["20 protons and 40 neutrons", "20 protons and 20 neutrons", "20 protons and 40 electrons", "40 protons and 20 electrons"], "a": 1, "x": "Atomic number 20 = 20 protons; neutrons = 40 − 20 = 20. Electrons are not in the nucleus."},
+  {"k": "mcq", "q": "The gram molecular mass of oxygen molecule is", "o": ["16 g", "18 g", "32 g", "17 g"], "a": 2, "x": "O₂ = 2 × 16 = 32 g."},
+  {"k": "mcq", "q": "1 mole of any substance contains ____ molecules.", "o": ["6.023 × 10²³", "6.023 × 10⁻²³", "3.0115 × 10²³", "12.046 × 10²³"], "a": 0, "x": "Avogadro's number, 6.023 × 10²³."},
+
+  {"k": "fill", "q": "Atoms of different elements having ____ mass number but ____ atomic numbers are called isobars.", "a": "same; different"},
+  {"k": "fill", "q": "Atoms of different elements having the same number of ____ are called isotones.", "a": "neutrons"},
+  {"k": "fill", "q": "Atoms of one element can be transmuted into atoms of another element by ____.", "a": "artificial (nuclear) transmutation"},
+  {"k": "fill", "q": "The sum of the numbers of protons and neutrons of an atom is called its ____.", "a": "mass number"},
+  {"k": "fill", "q": "Relative atomic mass is otherwise known as ____.", "a": "atomic weight"},
+  {"k": "fill", "q": "The average atomic mass of hydrogen is ____ amu.", "a": "1.008"},
+  {"k": "fill", "q": "If a molecule is made of similar kind of atoms, it is called a ____ atomic molecule.", "a": "homo"},
+  {"k": "fill", "q": "The number of atoms present in a molecule is called its ____.", "a": "atomicity"},
+  {"k": "fill", "q": "One mole of any gas occupies ____ mL at S.T.P.", "a": "22400"},
+  {"k": "fill", "q": "Atomicity of phosphorus is ____.", "a": "4 (P₄)"},
+
+  {"k": "match", "q": "Match the mass with the number of moles.", "p": [["8 g of O₂", "0.25 moles"], ["4 g of H₂", "2 moles"], ["52 g of He", "13 moles"], ["112 g of N₂", "4 moles"], ["35.5 g of Cl₂", "0.5 moles"]], "x": "Moles = mass ÷ molar mass: 8/32, 4/2, 52/4, 112/28, 35.5/71."},
+
+  {"k": "tf", "q": "Two elements can sometimes form more than one compound.", "a": true, "x": "For example, carbon and oxygen form CO and CO₂ (law of multiple proportions)."},
+  {"k": "tf", "q": "Noble gases are diatomic.", "a": false, "x": "Noble gases are monoatomic."},
+  {"k": "tf", "q": "The gram atomic mass of an element has no unit.", "a": false, "x": "Gram atomic mass is expressed in grams; it is relative atomic mass that has no unit."},
+  {"k": "tf", "q": "1 mole of gold and 1 mole of silver contain the same number of atoms.", "a": true, "x": "One mole of any element has 6.023 × 10²³ atoms."},
+  {"k": "tf", "q": "Molar mass of CO₂ is 42 g.", "a": false, "x": "Molar mass of CO₂ = 12 + 2 × 16 = 44 g."},
+
+  {"k": "ar", "q": "Assertion (A): The relative atomic mass of aluminium is 27.\nReason (R): An atom of aluminium is 27 times heavier than 1/12th of the mass of a C-12 atom.", "o": ["A and R are correct, R explains A", "A is correct, R is wrong", "A is wrong, R is correct", "A and R are correct, R does not explain A"], "a": 0, "x": "Relative atomic mass is defined against 1/12 of a C-12 atom, so R is the definition behind A."},
+  {"k": "ar", "q": "Assertion (A): The relative molecular mass of chlorine is 35.5 amu.\nReason (R): The natural abundances of chlorine isotopes are not equal.", "o": ["A and R are correct, R explains A", "A is correct, R is wrong", "A is wrong, R is correct", "A and R are correct, R does not explain A"], "a": 2, "x": "35.5 is the average relative atomic mass of chlorine (Cl-35 and Cl-37 are not equally abundant); the molecular mass of Cl₂ is 71."},
+
+  {"k": "short", "q": "Define relative atomic mass.", "a": "The ratio of the average mass of one atom of an element to one-twelfth of the mass of a carbon-12 atom. It has no unit."},
+  {"k": "short", "q": "Write the different isotopes of oxygen and their percentage abundance.", "a": "₈O¹⁶ – 99.757%, ₈O¹⁷ – 0.038%, ₈O¹⁸ – 0.205%."},
+  {"k": "short", "q": "Define atomicity.", "a": "The number of atoms present in one molecule of an element or compound. Example: O₂ is diatomic, O₃ triatomic, P₄ tetratomic."},
+  {"k": "short", "q": "Give any two examples of heterodiatomic molecules.", "a": "HCl, CO (also NO, HF)."},
+  {"k": "short", "q": "What is the molar volume of a gas?", "a": "The volume occupied by one mole of any gas at S.T.P. It is 22.4 litres (22400 mL)."},
+  {"k": "short", "q": "Find the percentage of nitrogen in ammonia.", "a": "Molar mass of NH₃ = 14 + 3 = 17 g. % N = 14/17 × 100 = 82.35%."},
+
+  {"k": "long", "q": "Calculate the number of water molecules present in one drop of water which weighs 0.18 g.", "a": "Moles of water = 0.18 ÷ 18 = 0.01 mol. Molecules = 0.01 × 6.023 × 10²³ = 6.023 × 10²¹ molecules."},
+  {"k": "long", "q": "N₂ + 3H₂ → 2NH₃ (N = 14, H = 1). Complete: 1 mole of nitrogen (__ g) + 3 moles of hydrogen (__ g) → 2 moles of ammonia (__ g).", "a": "28 g + 6 g → 34 g. Mass is conserved."},
+  {"k": "long", "q": "Calculate the number of moles in (i) 27 g of Al (ii) 1.51 × 10²³ molecules of NH₄Cl.", "a": "(i) 27 ÷ 27 = 1 mole. (ii) 1.51 × 10²³ ÷ 6.023 × 10²³ = 0.25 mole."},
+  {"k": "long", "q": "Give the salient features of modern atomic theory.", "a": "1) An atom is no longer indivisible; it is made of protons, neutrons and electrons. 2) Atoms of the same element can have different masses (isotopes, e.g. ₁₇Cl³⁵ and ₁₇Cl³⁷). 3) Atoms of different elements can have the same mass (isobars, e.g. ₁₈Ar⁴⁰ and ₂₀Ca⁴⁰). 4) Atoms of one element can be changed into another by transmutation. 5) Atoms may not combine in simple whole-number ratios (e.g. sucrose C₁₂H₂₂O₁₁). 6) The mass of an atom can be converted into energy (E = mc²). 7) The atom is the smallest particle that takes part in a chemical reaction."},
+  {"k": "long", "q": "Derive the relationship between relative molecular mass and vapour density.", "a": "Vapour density = mass of a volume of gas ÷ mass of the same volume of hydrogen. By Avogadro's law equal volumes have equal numbers of molecules, so VD = mass of 1 molecule of gas ÷ mass of 1 molecule of H₂ = mass of 1 molecule ÷ (2 × mass of 1 H atom). Relative molecular mass = mass of 1 molecule ÷ mass of 1 H atom. Therefore 2 × vapour density = relative molecular mass."},
+
+  {"k": "hot", "q": "CaCO₃ → CaO + CO₂. (i) How many moles of calcium carbonate are involved? (ii) Calculate the gram molecular mass of calcium carbonate involved. (iii) How many moles of CO₂ are there in this equation?", "a": "(i) 1 mole. (ii) 40 + 12 + 48 = 100 g. (iii) 1 mole."},
+
+  {"k": "num", "q": "How many grams are there in: (i) 2 moles of H₂ (ii) 3 moles of Cl₂ (iii) 5 moles of S₈ (iv) 4 moles of P₄?", "a": "(i) 2 × 2 = 4 g (ii) 3 × 71 = 213 g (iii) 5 × 256 = 1280 g (iv) 4 × 124 = 496 g."},
+  {"k": "num", "q": "Calculate the % of each element in calcium carbonate (Ca = 40, C = 12, O = 16).", "a": "Molar mass = 100 g. Ca = 40%, C = 12%, O = 48/100 × 100 = 48%."},
+  {"k": "num", "q": "Calculate the % of oxygen in Al₂(SO₄)₃ (Al = 27, S = 32, O = 16).", "a": "Molar mass = 54 + 3 × 96 = 342 g. Oxygen = 12 × 16 = 192 g. % O = 192/342 × 100 = 56.14%."},
+  {"k": "num", "q": "Calculate the % relative abundance of B-10 and B-11 if the average atomic mass of boron is 10.804 amu.", "a": "Let B-10 = x%. 10x + 11(100 − x) = 1080.4, so x = 19.6. B-10 = 19.6%, B-11 = 80.4%."}
+]

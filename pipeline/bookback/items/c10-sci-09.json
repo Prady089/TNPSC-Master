@@ -1,0 +1,47 @@
+[
+  {"k": "mcq", "q": "A solution is a ____ mixture.", "o": ["homogeneous", "heterogeneous", "homogeneous and heterogeneous", "non-homogeneous"], "a": 0},
+  {"k": "mcq", "q": "The number of components in a binary solution is", "o": ["2", "3", "4", "5"], "a": 0, "x": "Binary = one solute + one solvent."},
+  {"k": "mcq", "q": "Which of the following is the universal solvent?", "o": ["Acetone", "Benzene", "Water", "Alcohol"], "a": 2, "x": "Water dissolves more substances than any other solvent."},
+  {"k": "mcq", "q": "A solution in which no more solute can be dissolved in a definite amount of solvent at a given temperature is called", "o": ["saturated solution", "unsaturated solution", "supersaturated solution", "dilute solution"], "a": 0},
+  {"k": "mcq", "q": "Identify the non-aqueous solution.", "o": ["Sodium chloride in water", "Glucose in water", "Copper sulphate in water", "Sulphur in carbon disulphide"], "a": 3, "x": "The solvent is CS₂, not water."},
+  {"k": "mcq", "q": "When pressure is increased at constant temperature, the solubility of gases in liquids", "o": ["shows no change", "increases", "decreases", "shows no reaction"], "a": 1, "x": "Henry's law: solubility of a gas is proportional to its pressure."},
+  {"k": "mcq", "q": "Solubility of NaCl in 100 mL water is 36 g. If 25 g of salt is dissolved in 100 mL of water, how much more salt is required for saturation?", "o": ["12 g", "11 g", "16 g", "20 g"], "a": 1, "x": "36 − 25 = 11 g."},
+  {"k": "mcq", "q": "A 25% alcohol solution means", "o": ["25 mL alcohol in 100 mL of water", "25 mL alcohol in 25 mL of water", "25 mL alcohol in 75 mL of water", "75 mL alcohol in 25 mL of water"], "a": 2, "x": "25 mL alcohol in 100 mL of solution, i.e. 25 mL alcohol + 75 mL water."},
+  {"k": "mcq", "q": "Deliquescence is due to", "o": ["strong affinity to water", "less affinity to water", "strong hatred to water", "inertness to water"], "a": 0},
+  {"k": "mcq", "q": "Which of the following is hygroscopic in nature?", "o": ["Ferric chloride", "Copper sulphate pentahydrate", "Silica gel", "None of the above"], "a": 2, "x": "Silica gel absorbs moisture without dissolving; ferric chloride is deliquescent."},
+
+  {"k": "fill", "q": "The component present in lesser amount in a solution is called the ____.", "a": "solute"},
+  {"k": "fill", "q": "An example of a liquid-in-solid type solution is ____.", "a": "mercury in sodium (sodium amalgam)"},
+  {"k": "fill", "q": "Solubility is the amount of solute dissolved in ____ g of solvent.", "a": "100"},
+  {"k": "fill", "q": "Polar compounds are soluble in ____ solvents.", "a": "polar"},
+  {"k": "fill", "q": "Volume percentage decreases with increase in temperature because ____.", "a": "the liquid expands on heating, so the volume of the solution increases"},
+
+  {"k": "match", "q": "Match the following.", "p": [["Blue vitriol", "CuSO₄·5H₂O"], ["Gypsum", "CaSO₄·2H₂O"], ["Deliquescence", "NaOH"], ["Hygroscopic", "CaO"]]},
+
+  {"k": "tf", "q": "Solutions which contain three components are called binary solutions.", "a": false, "x": "Solutions with two components are binary; three components make a ternary solution."},
+  {"k": "tf", "q": "In a solution, the component which is present in lesser amount is called the solvent.", "a": false, "x": "The component in lesser amount is the solute; the one in larger amount is the solvent."},
+  {"k": "tf", "q": "Sodium chloride dissolved in water forms a non-aqueous solution.", "a": false, "x": "It forms an aqueous solution, because water is the solvent."},
+  {"k": "tf", "q": "The molecular formula of green vitriol is MgSO₄·7H₂O.", "a": false, "x": "Green vitriol is FeSO₄·7H₂O; MgSO₄·7H₂O is Epsom salt."},
+  {"k": "tf", "q": "When silica gel is kept open, it absorbs moisture from the air because it is hygroscopic in nature.", "a": true},
+
+  {"k": "short", "q": "Define the term solution.", "a": "A solution is a homogeneous mixture of two or more substances (solute and solvent)."},
+  {"k": "short", "q": "What is meant by a binary solution?", "a": "A solution made of only two components, one solute and one solvent, e.g. salt in water."},
+  {"k": "short", "q": "Give an example each of (i) gas in liquid (ii) solid in liquid (iii) solid in solid (iv) gas in gas.", "a": "(i) CO₂ in water (soda water) (ii) sugar or salt in water (iii) alloys such as brass (zinc in copper) (iv) air (oxygen in nitrogen)."},
+  {"k": "short", "q": "What are aqueous and non-aqueous solutions? Give an example.", "a": "Aqueous: water is the solvent, e.g. sodium chloride in water. Non-aqueous: a solvent other than water, e.g. sulphur in carbon disulphide."},
+  {"k": "short", "q": "Define volume percentage.", "a": "The volume of solute in mL present in 100 mL of solution. Volume % = volume of solute ÷ volume of solution × 100."},
+  {"k": "short", "q": "Aquatic animals live more in cold regions. Why?", "a": "The solubility of oxygen in water is higher at low temperature, so cold water holds more dissolved oxygen."},
+  {"k": "short", "q": "Define hydrated salt.", "a": "A salt whose crystals contain a fixed number of water molecules (water of crystallisation), e.g. CuSO₄·5H₂O."},
+  {"k": "short", "q": "A hot saturated solution of copper sulphate forms crystals as it cools. Why?", "a": "Solubility of copper sulphate decreases as the temperature falls, so the extra solute that can no longer stay dissolved separates as crystals."},
+  {"k": "short", "q": "Classify into deliquescent and hygroscopic: conc. sulphuric acid, copper sulphate pentahydrate, silica gel, calcium chloride and gypsum salt.", "a": "Deliquescent: calcium chloride. Hygroscopic: conc. sulphuric acid, silica gel. Copper sulphate pentahydrate and gypsum are hydrated salts (they already contain water of crystallisation); some guides list them as hygroscopic."},
+
+  {"k": "long", "q": "Write notes on (i) saturated solution (ii) unsaturated solution.", "a": "(i) Saturated: a solution in which no more solute can dissolve in a given amount of solvent at a given temperature, e.g. 36 g of NaCl in 100 g of water at 25 °C. (ii) Unsaturated: a solution that contains less solute than it can hold, so more solute can still dissolve, e.g. 10 g of NaCl in 100 g of water at 25 °C."},
+  {"k": "long", "q": "Write notes on the various factors affecting solubility.", "a": "1) Nature of solute and solvent: 'like dissolves like', so polar solutes dissolve in polar solvents (NaCl in water) and non-polar in non-polar (grease in petrol). 2) Temperature: for most solids, solubility increases with temperature (endothermic dissolution, e.g. KNO₃); it decreases when dissolution is exothermic (e.g. CaO). Solubility of gases in liquids decreases with temperature. 3) Pressure: affects only gases; by Henry's law the solubility of a gas in a liquid increases with pressure (soda bottles)."},
+  {"k": "long", "q": "(a) What happens when MgSO₄·7H₂O is heated? Write the equation. (b) Define solubility.", "a": "(a) It loses its seven molecules of water of crystallisation and becomes anhydrous magnesium sulphate: MgSO₄·7H₂O → MgSO₄ + 7H₂O. (b) Solubility is the number of grams of solute needed to saturate 100 g of solvent at a given temperature."},
+  {"k": "long", "q": "In what way do hygroscopic substances differ from deliquescent substances?", "a": "Hygroscopic substances absorb moisture from air but do not dissolve in it, and keep their physical state (e.g. conc. H₂SO₄, silica gel, CaO). Deliquescent substances absorb so much moisture that they dissolve in it and turn into a solution (e.g. NaOH, CaCl₂, FeCl₃)."},
+  {"k": "num", "q": "A solution is prepared by dissolving 45 g of sugar in 180 g of water. Calculate the mass percentage of solute.", "a": "Mass of solution = 45 + 180 = 225 g. Mass % = 45/225 × 100 = 20%."},
+  {"k": "num", "q": "3.5 litres of ethanol is present in 15 litres of aqueous solution of ethanol. Calculate the volume percent of ethanol.", "a": "Volume % = 3.5/15 × 100 = 23.33%."},
+
+  {"k": "hot", "q": "Vinu dissolves 50 g of sugar in 250 mL of hot water; Sarath dissolves 50 g of the same sugar in 250 mL of cold water. Who gets faster dissolution, and why?", "a": "Vinu. Sugar dissolves faster in hot water because solubility and the speed of the particles increase with temperature."},
+  {"k": "hot", "q": "'A' is a blue crystalline salt. On heating it loses its blue colour to give 'B'. When water is added, 'B' gives back 'A'. Identify A and B and write the equation.", "a": "A = copper sulphate pentahydrate CuSO₄·5H₂O (blue vitriol); B = anhydrous copper sulphate CuSO₄ (white). CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O (heat forward, add water back)."},
+  {"k": "hot", "q": "Will cool drinks give more fizz at the top of the hills or at the foot? Explain.", "a": "At the top of the hills. Atmospheric pressure is lower there, so less CO₂ stays dissolved (Henry's law) and the gas escapes rapidly when the bottle is opened."}
+]

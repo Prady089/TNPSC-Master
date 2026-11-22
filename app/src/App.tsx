@@ -15,6 +15,9 @@ const QuizHub = lazy(() => import('./pages/QuizHub'));
 const Pyq = lazy(() => import('./pages/Pyq'));
 const QuizPlay = lazy(() => import('./pages/QuizPlay'));
 const QuizPrint = lazy(() => import('./pages/QuizPrint'));
+const BookBack = lazy(() => import('./pages/BookBack'));
+const BookBackQA = lazy(() => import('./pages/BookBackQA'));
+const BookBackPlay = lazy(() => import('./pages/BookBackPlay'));
 const Progress = lazy(() => import('./pages/Progress'));
 const News = lazy(() => import('./pages/News'));
 const ProfilePage = lazy(() => import('./pages/ProfilePage'));
@@ -52,6 +55,8 @@ export default function App() {
         <Route path="/onboarding" element={<Guard><Onboarding /></Guard>} />
         <Route path="/quiz/play" element={<Guard><QuizPlay /></Guard>} />
         <Route path="/quiz/print" element={<Guard><QuizPrint /></Guard>} />
+        <Route path="/bookback/qa" element={<Guard><BookBackQA /></Guard>} />
+        <Route path="/bookback/play" element={<Guard><BookBackPlay /></Guard>} />
         <Route path="/read/:chapterId" element={<Guard><Reader /></Guard>} />
         <Route path="/chat/:roomId" element={<Guard><ChatRoom /></Guard>} />
         <Route element={<Guard><Layout /></Guard>}>
@@ -62,6 +67,7 @@ export default function App() {
           <Route path="learn/book/:bookId" element={<BookPage />} />
           <Route path="quiz" element={<QuizHub />} />
           <Route path="pyq" element={<Pyq />} />
+          <Route path="bookback/:unit" element={<BookBack />} />
           <Route path="progress" element={<Progress />} />
           <Route path="news" element={<News />} />
           <Route path="chat" element={<Chat />} />

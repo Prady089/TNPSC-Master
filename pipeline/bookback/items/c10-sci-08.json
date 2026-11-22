@@ -1,0 +1,48 @@
+[
+  {"k": "mcq", "q": "The number of periods and groups in the periodic table are", "o": ["6, 16", "7, 17", "8, 18", "7, 18"], "a": 3, "x": "The modern long-form periodic table has 7 periods and 18 groups."},
+  {"k": "mcq", "q": "The basis of the modern periodic law is", "o": ["atomic number", "atomic mass", "isotopic mass", "number of neutrons"], "a": 0, "x": "Moseley: properties of elements are periodic functions of their atomic numbers."},
+  {"k": "mcq", "q": "____ group contains the members of the halogen family.", "o": ["17th", "15th", "18th", "16th"], "a": 0, "x": "F, Cl, Br, I and At are in group 17."},
+  {"k": "mcq", "q": "____ is a relative periodic property.", "o": ["Atomic radii", "Ionic radii", "Electron affinity", "Electronegativity"], "a": 3, "x": "Electronegativity is measured on a relative scale (Pauling scale) and has no unit."},
+  {"k": "mcq", "q": "Chemical formula of rust is", "o": ["FeO·xH₂O", "FeO₄·xH₂O", "Fe₂O₃·xH₂O", "FeO"], "a": 2, "x": "Rust is hydrated ferric oxide, Fe₂O₃·xH₂O."},
+  {"k": "mcq", "q": "In the aluminothermic process, the role of Al is", "o": ["oxidising agent", "reducing agent", "hydrogenating agent", "sulphurising agent"], "a": 1, "x": "Aluminium reduces metal oxides such as Fe₂O₃ or Cr₂O₃ to the metal."},
+  {"k": "mcq", "q": "The process of coating the surface of a metal with a thin layer of zinc is called", "o": ["painting", "thinning", "galvanisation", "electroplating"], "a": 2},
+  {"k": "mcq", "q": "Which of the following inert gases has 2 electrons in the outermost shell?", "o": ["He", "Ne", "Ar", "Kr"], "a": 0, "x": "Helium (1s²) has a duplet; the other noble gases have an octet."},
+  {"k": "mcq", "q": "Neon shows zero electron affinity due to", "o": ["stable arrangement of neutrons", "stable configuration of electrons", "reduced size", "increased density"], "a": 1, "x": "Neon has a completely filled octet, so it does not accept an extra electron."},
+  {"k": "mcq", "q": "____ is an important metal to form amalgam.", "o": ["Ag", "Hg", "Mg", "Al"], "a": 1, "x": "An amalgam is an alloy of mercury with another metal."},
+
+  {"k": "fill", "q": "If the electronegativity difference between two bonded atoms in a molecule is greater than 1.7, the nature of the bond is ____.", "a": "ionic"},
+  {"k": "fill", "q": "____ is the longest period in the periodic table.", "a": "The sixth period (32 elements)"},
+  {"k": "fill", "q": "____ forms the basis of the modern periodic table.", "a": "Atomic number"},
+  {"k": "fill", "q": "If the distance between two Cl atoms in a Cl₂ molecule is 1.98 Å, the radius of a Cl atom is ____.", "a": "0.99 Å"},
+  {"k": "fill", "q": "Among the species A⁻, A⁺ and A, the smallest in size is ____.", "a": "A⁺"},
+  {"k": "fill", "q": "The scientist who propounded the modern periodic law is ____.", "a": "Henry Moseley"},
+  {"k": "fill", "q": "Across a period, ionic radii ____ (increase / decrease).", "a": "decrease"},
+  {"k": "fill", "q": "____ and ____ are called inner transition elements.", "a": "Lanthanides; actinides"},
+  {"k": "fill", "q": "The chief ore of aluminium is ____.", "a": "bauxite (Al₂O₃·2H₂O)"},
+  {"k": "fill", "q": "The chemical name of rust is ____.", "a": "hydrated ferric oxide"},
+
+  {"k": "match", "q": "Match the following.", "p": [["Galvanisation", "Coating with Zn"], ["Calcination", "Heating in the absence of air"], ["Redox reaction", "Aluminothermic process"], ["Dental filling", "Silver–tin amalgam"], ["Group 18 elements", "Noble gas elements"]]},
+
+  {"k": "tf", "q": "Moseley's periodic table is based on atomic mass.", "a": false, "x": "Moseley's periodic table is based on atomic number; Mendeleev's was based on atomic mass."},
+  {"k": "tf", "q": "Ionic radius increases across a period from left to right.", "a": false, "x": "Ionic radius decreases across a period as the nuclear charge increases."},
+  {"k": "tf", "q": "All ores are minerals, but all minerals cannot be called ores.", "a": true, "x": "Only minerals from which a metal can be extracted profitably are ores."},
+  {"k": "tf", "q": "Al wires are used as electric cables due to their silvery white colour.", "a": false, "x": "Aluminium is used for cables because it is light and a good conductor of electricity."},
+  {"k": "tf", "q": "An alloy is a heterogeneous mixture of metals.", "a": false, "x": "An alloy is a homogeneous mixture of metals (or a metal and a non-metal)."},
+
+  {"k": "ar", "q": "Assertion (A): The nature of the bond in the HF molecule is ionic.\nReason (R): The electronegativity difference between H and F is 1.9.", "o": ["A and R are correct, R explains A", "A is correct, R is wrong", "A is wrong, R is correct", "A and R are correct, R does not explain A"], "a": 0, "x": "A difference above 1.7 gives a bond ionic character, so R explains A."},
+  {"k": "ar", "q": "Assertion (A): Magnesium is used to protect steel from rusting.\nReason (R): Magnesium is more reactive than iron.", "o": ["A and R are correct, R explains A", "A is correct, R is wrong", "A is wrong, R is correct", "A and R are correct, R does not explain A"], "a": 0, "x": "In sacrificial (cathodic) protection the more reactive Mg corrodes instead of iron."},
+  {"k": "ar", "q": "Assertion (A): An uncleaned copper vessel gets covered with a greenish layer.\nReason (R): Copper is not attacked by alkali.", "o": ["A and R are correct, R explains A", "A is correct, R is wrong", "A is wrong, R is correct", "A and R are correct, R does not explain A"], "a": 3, "x": "The green layer is basic copper carbonate formed by moist air and CO₂; R is true but unrelated."},
+
+  {"k": "short", "q": "A is a reddish-brown metal which combines with O₂ below 1370 K to give B, a black compound. Above 1370 K, A gives C, which is red. Find A, B and C with reactions.", "a": "A = copper (Cu), B = copper(II) oxide CuO (black), C = copper(I) oxide Cu₂O (red). 2Cu + O₂ → 2CuO (below 1370 K); 4Cu + O₂ → 2Cu₂O (above 1370 K)."},
+  {"k": "short", "q": "A is a silvery white metal. A combines with O₂ to form B at 800 °C. An alloy of A is used in making aircraft. Find A and B.", "a": "A = aluminium, B = aluminium oxide. 4Al + 3O₂ → 2Al₂O₃. Duralumin (an Al alloy) is used for aircraft bodies."},
+  {"k": "short", "q": "What is rust? Give the equation for the formation of rust.", "a": "Rust is hydrated ferric oxide, Fe₂O₃·xH₂O, a reddish-brown coating formed on iron in moist air. 4Fe + 3O₂ + xH₂O → 2Fe₂O₃·xH₂O."},
+  {"k": "short", "q": "State two conditions necessary for rusting of iron.", "a": "Presence of water (moisture) and presence of oxygen (air)."},
+
+  {"k": "long", "q": "(a) State the reason for adding caustic alkali to bauxite ore during its purification. (b) Along with cryolite and alumina, another substance is added to the electrolyte. Name it and give one reason for its addition.", "a": "(a) In Baeyer's process, caustic soda (NaOH) dissolves alumina as sodium meta-aluminate and leaves the insoluble impurities behind, so pure alumina can be recovered. (b) Fluorspar (CaF₂). It lowers the fusion temperature of the electrolyte and increases its conductivity."},
+  {"k": "long", "q": "The electronic configuration of metal A is 2, 8, 18, 1. A exposed to air and moisture forms B, a green layered compound. A with conc. H₂SO₄ forms C and D along with water; D is a gas. Find A, B, C and D.", "a": "A = copper (Cu), B = basic copper carbonate CuCO₃·Cu(OH)₂ (green), C = copper sulphate CuSO₄, D = sulphur dioxide SO₂. Cu + 2H₂SO₄ → CuSO₄ + SO₂ + 2H₂O."},
+  {"k": "long", "q": "Explain the smelting process.", "a": "Smelting is the reduction of the roasted or calcined ore to the molten metal at high temperature in a blast furnace. The ore is mixed with a reducing agent (coke) and a flux. The oxide is reduced to metal (e.g. Fe₂O₃ + 3CO → 2Fe + 3CO₂), and the flux combines with the gangue to form fusible slag (CaO + SiO₂ → CaSiO₃), which floats on the molten metal and is removed."},
+
+  {"k": "hot", "q": "Metal A belongs to period 3 and group 13. A in red-hot condition reacts with steam to form B. A with strong alkali forms C. Find A, B and C with reactions.", "a": "A = aluminium. 2Al + 3H₂O → Al₂O₃ (B) + 3H₂. 2Al + 2NaOH + 2H₂O → 2NaAlO₂ (C, sodium meta-aluminate) + 3H₂."},
+  {"k": "hot", "q": "Name the acid that renders aluminium passive. Why?", "a": "Concentrated nitric acid. It forms a thin, protective layer of aluminium oxide on the surface, which prevents further reaction."},
+  {"k": "hot", "q": "(a) Identify the bond between H and F in HF. (b) What property forms the basis of identification? (c) How does this property vary in periods and groups?", "a": "(a) Ionic (strongly polar) bond. (b) Electronegativity: the difference is 4.0 − 2.1 = 1.9, more than 1.7. (c) Electronegativity increases across a period from left to right and decreases down a group."}
+]
