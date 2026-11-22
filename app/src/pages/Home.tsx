@@ -42,9 +42,15 @@ export default function Home() {
 
   return (
     <div className="space-y-4">
-      <div>
-        <p className="text-sm text-muted">{new Date().toLocaleDateString('en-IN', { weekday: 'long', day: 'numeric', month: 'long' })}</p>
-        <h1 className="text-2xl font-bold tracking-tight">Vanakkam{first ? `, ${first}` : ''}</h1>
+      <div className="flex items-center gap-4">
+        <img src="/logo-256.png" alt="TNPSC Master" className="h-20 w-20 shrink-0 object-contain drop-shadow-sm sm:h-24 sm:w-24" />
+        <div className="min-w-0">
+          <p className="text-sm text-muted">{new Date().toLocaleDateString('en-IN', { weekday: 'long', day: 'numeric', month: 'long' })}</p>
+          <h1 className="text-2xl font-bold tracking-tight">Vanakkam{first ? `, ${first}` : ''}</h1>
+          {api.mode === 'demo' && (
+            <span className="mt-1 inline-block rounded-full bg-accent-soft px-2 py-0.5 text-[11px] font-semibold text-accent md:hidden">Demo mode</span>
+          )}
+        </div>
       </div>
 
       <DailyQuote />

@@ -45,9 +45,9 @@ export default function Login() {
   return (
     <div className="mx-auto flex min-h-dvh max-w-md flex-col justify-center px-5 py-10">
       <div className="mb-8 text-center">
-        <img src="/favicon.svg" alt="" className="mx-auto mb-4 h-14 w-14" />
-        <h1 className="text-2xl font-bold tracking-tight">TNPSC Master</h1>
-        <p className="mt-2 text-sm text-muted">Study the SCERT books, take a daily quiz, and follow Tamil Nadu current affairs, all in one place.</p>
+        <img src="/logo-256.png" alt="TNPSC Master" className="mx-auto h-40 w-40 object-contain" />
+        <h1 className="sr-only">TNPSC Master</h1>
+        <p className="mt-3 text-sm text-muted">Study the SCERT books, take a daily quiz, and follow Tamil Nadu current affairs, all in one place.</p>
         <div className="mt-5 flex justify-center gap-5 text-xs text-muted">
           <span className="flex items-center gap-1.5"><BookIcon size={16} /> 350+ chapters</span>
           <span className="flex items-center gap-1.5"><QuizIcon size={16} /> Daily quiz</span>

@@ -12,9 +12,9 @@ const NAV = [
   { to: '/news', label: 'News', icon: NewsIcon },
   { to: '/progress', label: 'Progress', icon: ChartIcon },
 ];
-/** Phone tab bar: five tabs like a native app. Discuss is on hold, so it lives in the desktop menu only. */
-const TABS = NAV.filter((n) => n.to !== '/chat');
-const TAB_ROOTS = new Set(NAV.map((n) => n.to));
+/** Phone tab bar, like a native app. Discuss is on hold, so it lives in the desktop menu only; Profile lives here instead of the top bar. */
+const TABS = [...NAV.filter((n) => n.to !== '/chat'), { to: '/profile', label: 'Profile', icon: UserIcon, end: false }];
+const TAB_ROOTS = new Set([...NAV.map((n) => n.to), '/profile']);
 
 /** Title shown in the phone app bar on pages below a tab (these get a back arrow). */
 function subTitle(path: string): string {
@@ -28,7 +28,7 @@ function subTitle(path: string): string {
 function Brand() {
   return (
     <Link to="/" className="flex items-center gap-2 font-bold tracking-tight">
-      <img src="/favicon.svg" alt="" className="h-7 w-7" />
+      <img src="/logo-128.png" alt="" className="h-8 w-8 object-contain" />
       <span>TNPSC <span className="text-brand">Master</span></span>
     </Link>
   );
@@ -89,7 +89,8 @@ export default function Layout() {
 
       <div className="mx-auto flex min-h-dvh w-full max-w-3xl flex-col lg:max-w-5xl">
         {/* Phone / tablet app bar */}
-        <header className="app-chrome sticky top-0 z-20 border-b border-line bg-bg/90 pt-[env(safe-area-inset-top)] backdrop-blur lg:hidden">
+        {/* On phones the main tabs have no top bar (Home shows the big logo); sub-pages keep it for the back arrow. */}
+        <header className={cx('app-chrome sticky top-0 z-20 border-b border-line bg-bg/90 pt-[env(safe-area-inset-top)] backdrop-blur lg:hidden', isRoot && 'max-md:hidden')}>
           <div className="flex h-14 items-center gap-2 px-4">
             {isRoot ? (
               <><Brand />{demo}</>
@@ -109,11 +110,12 @@ export default function Layout() {
                 </NavLink>
               ))}
             </nav>
-            {pathname !== '/profile' && <Link to="/profile" aria-label="Profile" className="press ml-auto md:ml-2">{avatar}</Link>}
+            {pathname !== '/profile' && <Link to="/profile" aria-label="Profile" className="press ml-auto max-md:hidden md:ml-2">{avatar}</Link>}
           </div>
         </header>
 
-        <main className="flex-1 px-4 pb-[calc(5.5rem+env(safe-area-inset-bottom))] pt-4 md:pb-10 lg:px-10 lg:pt-8">
+        <main className={cx('flex-1 px-4 pb-[calc(5.5rem+env(safe-area-inset-bottom))] md:pb-10 md:pt-4 lg:px-10 lg:pt-8',
+          isRoot ? 'pt-[calc(1rem+env(safe-area-inset-top))]' : 'pt-4')}>
           <div key={pathname} className="page-enter">
             <Outlet />
           </div>
@@ -121,16 +123,16 @@ export default function Layout() {
 
         {/* Phone tab bar */}
         <nav className="app-chrome fixed inset-x-0 bottom-0 z-20 border-t border-line bg-surface/95 pb-[env(safe-area-inset-bottom)] backdrop-blur md:hidden">
-          <div className="mx-auto grid max-w-3xl grid-cols-5">
+          <div className="mx-auto grid max-w-3xl grid-cols-6">
             {TABS.map(({ to, label, icon: Icon, end }) => (
               <NavLink key={to} to={to} end={end}
-                className={({ isActive }) => cx('flex flex-col items-center gap-1 pb-2 pt-2.5 text-[11px] font-semibold',
+                className={({ isActive }) => cx('flex flex-col items-center gap-1 pb-2 pt-2.5 text-[10.5px] font-semibold',
                   isActive || (to === '/library' && pathname.startsWith('/learn')) ? 'text-brand' : 'text-muted')}>
                 {({ isActive: exact }) => {
                   const isActive = exact || (to === '/library' && pathname.startsWith('/learn'));
                   return (
                   <>
-                    <span className={cx('flex h-8 w-14 items-center justify-center rounded-full transition-colors duration-200',
+                    <span className={cx('flex h-8 w-12 items-center justify-center rounded-full transition-colors duration-200',
                       isActive ? 'bg-brand-soft' : 'bg-transparent')}>
                       <Icon size={22} />
                     </span>

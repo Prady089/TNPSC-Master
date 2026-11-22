@@ -17,3 +17,6 @@ __pycache__/
 .env.*
 !.env.example
 .claude/
+
+# Original logo contains the State Emblem of India - do not commit
+TNPSC Master Shield Emblem.png

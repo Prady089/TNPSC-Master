@@ -6,7 +6,7 @@ export default function Privacy() {
   return (
     <div className="mx-auto max-w-2xl px-5 py-10 leading-relaxed">
       <Link to="/" className="flex items-center gap-2 font-bold tracking-tight">
-        <img src="/favicon.svg" alt="" className="h-7 w-7" />
+        <img src="/logo-128.png" alt="" className="h-8 w-8 object-contain" />
         <span>TNPSC <span className="text-brand">Master</span></span>
       </Link>
       <h1 className="mt-6 text-2xl font-bold tracking-tight">Privacy policy</h1>

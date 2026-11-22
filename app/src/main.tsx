@@ -40,3 +40,13 @@ createRoot(document.getElementById('root')!).render(
     </BrowserRouter>
   </StrictMode>,
 );
+
+// Launch screen (in index.html): keep the spinning logo up for ~1.6 s from launch, then fade into the app.
+const splash = document.getElementById('splash');
+if (splash) {
+  const MIN_MS = 1600;
+  window.setTimeout(() => {
+    splash.classList.add('hide');
+    window.setTimeout(() => splash.remove(), 400);
+  }, Math.max(0, MIN_MS - performance.now()));
+}

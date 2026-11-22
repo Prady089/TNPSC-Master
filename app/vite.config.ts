@@ -10,7 +10,7 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       injectRegister: false,
-      includeAssets: ['favicon.svg', 'icons/apple-touch-icon.png'],
+      includeAssets: ['favicon-32.png', 'favicon-48.png', 'logo-128.png', 'logo-256.png', 'icons/apple-touch-icon.png'],
       manifest: {
         name: 'TNPSC Master – Group 1 Prep',
         short_name: 'TNPSC Master',
