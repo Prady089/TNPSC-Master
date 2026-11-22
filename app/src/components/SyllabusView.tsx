@@ -22,7 +22,7 @@ export default function SyllabusView() {
   });
   const { data, loading, error } = useAsync(async () => {
     const [syllabus, chapters, reading] = await Promise.all([
-      fetch('/content/syllabus.json').then((r) => r.json() as Promise<Syllabus>),
+      fetch('/content/syllabus.json', { cache: 'no-cache' }).then((r) => r.json() as Promise<Syllabus>),
       chapterIndex(),
       api.getReading().catch(() => []),
     ]);

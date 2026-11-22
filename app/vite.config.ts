@@ -42,6 +42,12 @@ export default defineConfig({
         navigateFallbackDenylist: [/^\/api\//, /^\/content\//],
         runtimeCaching: [
           {
+            // Index files change whenever books are added: always try the network first.
+            urlPattern: ({ url }) => /^\/content\/[^/]+\.json$/.test(url.pathname),
+            handler: 'NetworkFirst',
+            options: { cacheName: 'content-index', networkTimeoutSeconds: 4 },
+          },
+          {
             urlPattern: ({ url }) => url.pathname.startsWith('/content/'),
             handler: 'StaleWhileRevalidate',
             options: { cacheName: 'content', expiration: { maxEntries: 500 } },

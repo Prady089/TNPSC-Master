@@ -3,7 +3,7 @@ import type { Catalog, ChapterContent, ChapterMeta } from './types';
 let catalog: Promise<Catalog> | null = null;
 
 export function getCatalog(): Promise<Catalog> {
-  catalog ??= fetch('/content/books.json').then((r) => {
+  catalog ??= fetch('/content/books.json', { cache: 'no-cache' }).then((r) => {
     if (!r.ok) throw new Error('Could not load the library');
     return r.json();
   });
