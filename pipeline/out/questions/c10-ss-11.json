@@ -1,0 +1,794 @@
+[
+ {
+  "id": "78a8902e-3263-5906-8d26-ab57cae1af2f",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which statement correctly describes India’s area and world position as stated in the chapter?",
+  "options": [
+   "India is the sixth largest country and accounts for about 3.4% of the world’s area.",
+   "India is the seventh largest country and accounts for about 2.4% of the world’s area.",
+   "India is the second largest country in the world and accounts for about 2.4% of the world’s area.",
+   "India is the seventh largest country in Asia and accounts for 32,87,263 sq.km."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that India is the seventh largest country in the world, second largest in Asia, and accounts for about 2.4% of the world’s area with 32,87,263 sq.km.",
+  "source_page": 135,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e4e69945-0205-52ac-9a91-f8bb935de2fa",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "With reference to India’s land and water frontiers, which of the following is correct?",
+  "options": [
+   "India’s longest border is with Bangladesh and the shortest is with Afghanistan.",
+   "India’s longest border is with China and the shortest is with Sri Lanka.",
+   "India’s longest border is with Pakistan and the shortest is with Bhutan.",
+   "India’s longest border is with Myanmar and the shortest is with Nepal."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter specifically says India’s longest border is with Bangladesh, 4156 km, and the shortest border is with Afghanistan, 106 km.",
+  "source_page": 135,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a087458a-fccc-54e6-8beb-4f7c899f1b2c",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "India and Sri Lanka are separated by which narrow and shallow sea?",
+  "options": [
+   "Gulf of Mannar",
+   "Palk Strait",
+   "Eight Degree Channel",
+   "Ten Degree Channel"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter mentions that India and Sri Lanka are separated by a narrow and shallow sea called Palk Strait.",
+  "source_page": 135,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "46e42947-2dfc-52fa-908f-7c6279f74202",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Assertion (A): India has a strategic central location in the Indian Ocean region. Reason (R): Trans Indian Ocean routes connect Europe in the west and East Asian countries, helping India maintain trade contacts.",
+  "options": [
+   "Both A and R are true, and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter explains India’s central position through trans Indian Ocean routes, which connect Europe and East Asia and support trade contacts with West Asia, Africa, Europe and East Asia.",
+  "source_page": 135,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7166b97a-934e-5e1e-b53c-807377181671",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Why is India along with neighbouring countries called a subcontinent?",
+  "options": [
+   "Because all these countries have the same political administration.",
+   "Because the region is completely surrounded by oceans on all sides.",
+   "Because the region possesses distinct continental characteristics in physiography, climate, vegetation, minerals and human resources.",
+   "Because the region lies entirely to the south of the Tropic of Cancer."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says India with Myanmar, Bangladesh, Pakistan, Nepal, Bhutan and Sri Lanka is called a subcontinent because it has distinct continental characteristics in physiography, climate, vegetation, minerals and human resources.",
+  "source_page": 135,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ad31bf30-ee5d-5569-a4a2-1bddfd382c44",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following gives India’s latitudinal and longitudinal extent correctly?",
+  "options": [
+   "6°45'N to 37°6'N and 68°7'E to 97°25'E",
+   "8°4'N to 37°6'N and 60°7'E to 90°25'E",
+   "8°4'S to 37°6'N and 68°7'E to 97°25'E",
+   "8°4'N to 37°6'N and 68°7'E to 97°25'E"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that India extends from 8°4'N to 37°6'N latitudes and 68°7'E to 97°25'E longitudes.",
+  "source_page": 135,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f394be5a-72e5-54e5-bd2f-4f0507b93c58",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Match the following: A. Southernmost point of India  B. Southernmost point of mainland India  C. Northern point of India  D. East-west extent stretches from west to east. 1. Rann of Kutch to Arunachal Pradesh  2. Cape Comorin  3. Indira Point  4. Indira Col",
+  "options": [
+   "A-3, B-2, C-4, D-1",
+   "A-2, B-3, C-1, D-4",
+   "A-4, B-1, C-3, D-2",
+   "A-1, B-4, C-2, D-3"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter identifies Indira Point as the southernmost point, Cape Comorin as the southernmost mainland point, Indira Col as the northern point, and Rann of Kutch to Arunachal Pradesh as the east-west stretch.",
+  "source_page": 135,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "62b9cc5a-85ce-541c-973a-7d5a710cbef8",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about Indian Standard Time is incorrect?",
+  "options": [
+   "India’s central meridian is 82°30'E longitude.",
+   "The central meridian passes through Mirzapur.",
+   "IST is 5.30 hours ahead of GMT.",
+   "IST is based on the local time of Arunachal Pradesh."
+  ],
+  "answer_index": 3,
+  "explanation": "IST is calculated from the local time of India’s central meridian, 82°30'E, which passes through Mirzapur; it is not based on Arunachal Pradesh local time.",
+  "source_page": 136,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "24edd4dc-67b2-5600-9303-4006c04546bf",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "According to the chapter, India has been politically divided into how many states and union territories for administrative convenience?",
+  "options": [
+   "29 states and 7 union territories",
+   "28 states and 9 union territories",
+   "27 states and 8 union territories",
+   "30 states and 6 union territories"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that India has been politically divided into 28 states and 9 union territories for administrative convenience.",
+  "source_page": 136,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "49e5d4ac-d250-5464-97b6-526835f4c1ae",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which one of the following is not listed as one of the five major physiographic divisions of India in the chapter?",
+  "options": [
+   "The Northern Mountains",
+   "The Northern Plains",
+   "The Peninsular plateau",
+   "The Western Desert Plateau"
+  ],
+  "answer_index": 3,
+  "explanation": "The five divisions listed are Northern Mountains, Northern Plains, Peninsular plateau, Coastal Plains and Islands; “Western Desert Plateau” is not one of them.",
+  "source_page": 137,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3b02397a-af7c-5c04-bb9e-2274b64d3a1e",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about the Northern Mountains is correct?",
+  "options": [
+   "They are the oldest fold mountains of India.",
+   "They extend from the Ganga delta to the Gulf of Cambay.",
+   "They stretch for about 2,500 km from the Indus gorge to the Brahmaputra gorge.",
+   "Their width is uniform throughout at 500 km."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the Northern Mountains stretch for 2,500 km from the Indus gorge in the west to the Brahmaputra gorge in the east.",
+  "source_page": 137,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f11ffc06-244f-583c-9276-736accabdab7",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "The Pamir Knot is important in the chapter because it is described as",
+  "options": [
+   "the source of the Ganga river system.",
+   "the connecting link between the Himalayas and the high ranges of Central Asia.",
+   "the highest peak of the Peninsular Plateau.",
+   "the southernmost point of mainland India."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter calls the Pamir Knot the “Roof of the World” and says it is the connecting link between the Himalayas and the high ranges of Central Asia.",
+  "source_page": 137,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "739b2559-0002-5ee7-b22f-d2767956ddfd",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following pairs are correctly matched? I. Zaskar – Trans-Himalayas  II. Kailash – Trans-Himalayas  III. Karakoram – Eastern Ghats  IV. Ladakh – Trans-Himalayas",
+  "options": [
+   "I, II and IV only",
+   "I and III only",
+   "II and III only",
+   "III and IV only"
+  ],
+  "answer_index": 0,
+  "explanation": "The prominent ranges of the Trans-Himalayas listed in the chapter are Zaskar, Ladakh, Kailash and Karakoram; Karakoram is not an Eastern Ghats range here.",
+  "source_page": 137,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "62b57e60-6798-52dd-aff2-19f364e0b115",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which statement correctly explains the formation of the Himalayas as given in the chapter?",
+  "options": [
+   "It was formed by volcanic eruptions in the Indian Ocean.",
+   "It was formed by the erosion of the Deccan Plateau.",
+   "It was formed by the movement of the Eurasia land mass in the north and Gondwana land mass in the south, uplifting the Tethys sea.",
+   "It was formed by deposition of rivers Indus, Ganga and Brahmaputra."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says the Himalayas were formed by movements of Eurasia and Gondwana land masses, with the Tethys sea between them uplifted by compression.",
+  "source_page": 137,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7d956492-8e54-5d00-b47d-8d58cd8d9b6c",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Match the following Himalayan divisions: A. Greater Himalayas  B. Lesser Himalayas  C. Outer Himalayas  D. Eastern Himalayas. 1. Purvanchal hills  2. Himadri  3. Siwaliks  4. Himachal",
+  "options": [
+   "A-2, B-4, C-3, D-1",
+   "A-4, B-2, C-1, D-3",
+   "A-3, B-1, C-4, D-2",
+   "A-1, B-3, C-2, D-4"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter names the Greater Himalayas as Himadri, Lesser Himalayas as Himachal, Outer Himalayas as Siwaliks, and Eastern Himalayas as Purvanchal hills.",
+  "source_page": 137,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "61fb3c97-afaf-50a4-94c3-7595efe002c3",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following is correct about the Greater Himalayas or Himadri?",
+  "options": [
+   "They have an average height of about 1,000 m.",
+   "They contain the longitudinal valleys called Duns and Duars.",
+   "They are about 25 km wide and have an average height of about 6,000 m.",
+   "They are mainly formed by alluvial deposits of Himalayan rivers."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the Greater Himalayas are about 25 km wide, with an average height of about 6,000 m, and contain most lofty Himalayan peaks.",
+  "source_page": 137,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "52b4aedd-3dc4-5157-8b4c-2bda300ef5ad",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which Himalayan range is associated with major hill stations such as Shimla, Mussourie, Nainital, Almora, Ranikhet and Darjeeling?",
+  "options": [
+   "Trans-Himalayas",
+   "Greater Himalayas",
+   "Lesser Himalayas",
+   "Eastern Ghats"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says the major hill stations of the Himalayas are located in the Lesser Himalayas or Himachal range.",
+  "source_page": 140,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "95c1f60d-df8a-537f-aef3-6cd26d090133",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "The longitudinal valleys found between the Siwaliks and the Lesser Himalayas are known as",
+  "options": [
+   "Duns in the west and Duars in the east.",
+   "Chars in the west and Bils in the east.",
+   "Kayals in the west and Teris in the east.",
+   "Marusthali in the west and Bhangar in the east."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the longitudinal valleys between the Siwaliks and Lesser Himalayas are called Duns in the west and Duars in the east.",
+  "source_page": 140,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6009adb3-b155-5dd0-b571-a1eef47d3883",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following hills are collectively known as Purvanchal Hills according to the chapter?",
+  "options": [
+   "Aravalli, Vindhya and Satpura hills",
+   "Dafla, Abor, Mishmi, Patkai Bum, Naga, Manipur and Mizo hills",
+   "Anaimalai, Cardamom and Palani hills",
+   "Kaimur, Rajmahal and Bundelkhand hills"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter lists Dafla, Abor, Mishmi, Patkai Bum, Naga, Manipur, Mizo and several other north-eastern hills as Purvanchal Hills.",
+  "source_page": 140,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "71f7bbe8-bd08-58c7-abb4-81453ef56bc8",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following is not stated as an importance of the Himalayas in the chapter?",
+  "options": [
+   "They block southwest monsoon winds and cause heavy rainfall to north India.",
+   "They form a natural barrier to the subcontinent.",
+   "They are the source of perennial rivers such as Indus, Ganges and Brahmaputra.",
+   "They form the largest coral island group in India."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter attributes monsoon rainfall, natural barrier function and perennial rivers to the Himalayas; coral islands are discussed under Lakshadweep, not Himalayas.",
+  "source_page": 140,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0b0404dd-716e-5f44-b830-5640a5e02f0b",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "The Great Northern Plains are mainly formed by the depositional work of which rivers?",
+  "options": [
+   "Narmada, Tapti and Mahi",
+   "Mahanadi, Godavari and Krishna",
+   "Indus, Ganga, Brahmaputra and their tributaries",
+   "Kaveri, Vaigai and Pennar"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says the Northern Plain is one of the world’s most extensive alluvial stretches deposited by the Indus, Ganga, Brahmaputra and their tributaries.",
+  "source_page": 141,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e693c6dd-ed2c-5cc1-bf59-58ebb2077842",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Match the plains/tracts with their features: A. Bhabar  B. Tarai  C. Bhangar  D. Khadar. 1. New alluvium along river courses  2. Upland older alluvium  3. Gravels and unassorted sediments with high porosity  4. Excessive dampness, thick forests and rich wildlife",
+  "options": [
+   "A-3, B-4, C-2, D-1",
+   "A-4, B-3, C-1, D-2",
+   "A-1, B-2, C-4, D-3",
+   "A-2, B-1, C-3, D-4"
+  ],
+  "answer_index": 0,
+  "explanation": "Bhabar has gravels and high porosity, Tarai has damp forests and wildlife, Bhangar is older upland alluvium, and Khadar is new alluvium along rivers.",
+  "source_page": 141,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "aac8ea53-dc8d-5012-9bf0-1bdd2e708e5f",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which statement about the Sundarban delta is correct?",
+  "options": [
+   "It is formed at the mouth of Narmada and Tapti rivers.",
+   "It is a triangle-shaped fertile land at the mouth of Ganga and Brahmaputra rivers.",
+   "It lies between Krishna and Kaveri rivers.",
+   "It is a coral island group in the Arabian Sea."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter describes the Sundarban delta as a triangle-shaped fertile land at the mouth of the Ganga and Brahmaputra rivers, and calls it the biggest and fastest growing delta.",
+  "source_page": 141,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "665b8221-82c5-5b97-9c30-41bc1382277a",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following correctly describes the Rajasthan Plains and the Thar Desert?",
+  "options": [
+   "Rajasthan Plains lie east of the Eastern Ghats and the Thar is India’s largest delta.",
+   "Rajasthan Plains are formed by Ganga sediments and the Thar lies in Assam.",
+   "Rajasthan Plains lie west of the Aravalli range, and the Thar desert forms a natural boundary between India and Pakistan.",
+   "Rajasthan Plains are formed by Brahmaputra deposits, and the Thar is a backwater lake."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says Rajasthan Plains are west of the Aravalli range, formed by Luni and vanished Saraswathi deposition, while the Thar desert forms a natural boundary between India and Pakistan.",
+  "source_page": 141,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6e58db00-2289-5f5b-8b9b-463461eecc8d",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following pairs is incorrectly matched?",
+  "options": [
+   "Punjab-Haryana Plains – Deposition of Sutlej, Beas and Ravi",
+   "Ganga Plains – Largest plain of India",
+   "Brahmaputra Plains – Located mainly in Assam",
+   "Rajasthan Plains – Formed by deposits of Godavari and Krishna"
+  ],
+  "answer_index": 3,
+  "explanation": "Rajasthan Plains are formed by the deposition of the river Luni and the long vanished Saraswathi, not by Godavari and Krishna.",
+  "source_page": 142,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "52b90a7b-caa1-5ef7-b7f1-fc3444752897",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Assertion (A): The Peninsular Plateau is an old rocky plateau region. Reason (R): It is a part of the Gondwana land mass, and rivers here have attained their base level and developed broad and shallow valleys.",
+  "options": [
+   "Both A and R are true, and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the Peninsular Plateau is an old rocky plateau, part of the ancient Gondwana land mass; due to old age, its rivers developed broad and shallow valleys.",
+  "source_page": 142,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2e060c66-3a73-5dd6-a811-7d4476b546c8",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "The river Narmada divides the plateau region of India into which two broad parts?",
+  "options": [
+   "Konkan Plain and Malabar Coast",
+   "Northern Circars and Coromandal Coast",
+   "Central Highlands and Deccan Plateau",
+   "Bhabar Plain and Tarai Tract"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that Narmada divides the plateau region into the Central Highlands to the north and the Deccan Plateau to the south.",
+  "source_page": 142,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f5d6318e-e332-5eb4-a10a-bbb97adbcce1",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Match the following: A. Gurushikhar  B. Malwa Plateau  C. Chhota-Nagpur Plateau  D. Chambal, Betwa and Ken. 1. Western part of Central Highland  2. Highest peak of Aravalli range  3. Rivers draining Malwa Plateau  4. Rich in iron ore and coal",
+  "options": [
+   "A-2, B-1, C-4, D-3",
+   "A-1, B-2, C-3, D-4",
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-3, C-2, D-1"
+  ],
+  "answer_index": 0,
+  "explanation": "Gurushikhar is the highest peak of the Aravallis; Malwa is the western Central Highland; Chhota-Nagpur is rich in iron ore and coal; Chambal, Betwa and Ken drain Malwa.",
+  "source_page": 142,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "00fb729f-ee03-570d-887c-eaf20cd75b2b",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which statement about the Deccan Plateau is correct?",
+  "options": [
+   "It is roughly triangular and is the largest part of the plateau region of India.",
+   "It lies between the Western Ghats and the Arabian Sea only.",
+   "It is made of the newest alluvial deposits of Himalayan rivers.",
+   "It is divided into Bhabar, Tarai, Bhangar and Khadar."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says the Deccan Plateau is the largest part of the plateau region and its shape is roughly triangular.",
+  "source_page": 142,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d5b784f8-0a0a-5ec3-98c2-3c04bb083f69",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following is correct about the Western and Eastern Ghats?",
+  "options": [
+   "Western Ghats are also called Poorvadri, while Eastern Ghats are called Sahyadris.",
+   "Western Ghats form the western edge of the Peninsular Plateau, and Eastern Ghats are not continuous like the Western Ghats.",
+   "Both Western and Eastern Ghats are continuous ranges running parallel to the Bay of Bengal.",
+   "Eastern Ghats form the western edge and join the Western Ghats at Aravalli hills."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that the Western Ghats form the western edge of the Peninsular Plateau, while the Eastern Ghats are called Poorvadri and are not continuous like the Western Ghats.",
+  "source_page": 142,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "94b09ae3-25d6-523d-81b1-94b63fa24e3a",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "The Western Coastal Plain is divided from north to south into",
+  "options": [
+   "Coromandal, Northern Circars and Malabar.",
+   "Konkan, Kanara and Malabar.",
+   "Malwa, Bundelkhand and Bagelkhand.",
+   "Bhabar, Tarai and Khadar."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says the northern Western Coastal Plain is Konkan, the middle is Kanara, and the southern part is the Malabar coast.",
+  "source_page": 143,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ca240df9-9d32-5aea-9b44-cb75073351b3",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about the Eastern Coastal Plain is correct?",
+  "options": [
+   "It lies between the Western Ghats and the Arabian Sea.",
+   "The coast between Mahanadi and Krishna is Northern Circars, and the part between Krishna and Kaveri is Coromandal coast.",
+   "Vembanad is the largest lake of this coast.",
+   "It is mainly known for Kayals and Teris along the Arabian Sea."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that the Eastern Coastal Plain lies between the Eastern Ghats and Bay of Bengal; Mahanadi-Krishna is Northern Circars and Krishna-Kaveri is Coromandal coast.",
+  "source_page": 143,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dcc39eba-8346-556b-9b6c-ac6c542368d1",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Match the following lakes with their locations as stated in the chapter: A. Chilka  B. Kolleru  C. Pulicat  D. Vembanad. 1. Between Godavari and Krishna deltas  2. Border of Andhra Pradesh and Tamil Nadu  3. Backwater lake in western coastal region  4. Southwest of Mahanadi delta",
+  "options": [
+   "A-4, B-1, C-2, D-3",
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-3, C-4, D-1",
+   "A-3, B-4, C-1, D-2"
+  ],
+  "answer_index": 0,
+  "explanation": "Chilka is southwest of the Mahanadi delta, Kolleru lies between Godavari and Krishna deltas, Pulicat is on the Andhra Pradesh-Tamil Nadu border, and Vembanad is a famous western backwater lake.",
+  "source_page": 143,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bc66aca9-414a-5497-9e0d-e4f7900df5fa",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following correctly compares India’s two major island groups?",
+  "options": [
+   "Andaman and Nicobar has 572 islands in the Bay of Bengal, while Lakshadweep has 27 islands in the Arabian Sea.",
+   "Andaman and Nicobar has 27 islands in the Arabian Sea, while Lakshadweep has 572 islands in the Bay of Bengal.",
+   "Both island groups are coral islands in the Arabian Sea.",
+   "Both island groups are tectonic and volcanic islands in the Bay of Bengal."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Andaman and Nicobar consists of 572 islands in the Bay of Bengal, while Lakshadweep has 27 islands in the Arabian Sea.",
+  "source_page": 143,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "989c097b-5051-5141-bbaa-d4f0164a0f00",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which statement about Andaman and Nicobar Islands is incorrect?",
+  "options": [
+   "The Ten Degree Channel separates Andaman from Nicobar.",
+   "Port Blair is the administrative capital.",
+   "India’s only active volcano is found on Barren Island in this island group.",
+   "The Eight Degree Channel separates Andaman from Nicobar."
+  ],
+  "answer_index": 3,
+  "explanation": "The Ten Degree Channel separates Andaman from Nicobar; the Eight Degree Channel is mentioned in relation to Lakshadweep and the Maldive Islands.",
+  "source_page": 143,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4846f5ff-8ea3-5581-9810-a483bf74239a",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following is correct about Lakshadweep Islands?",
+  "options": [
+   "They are a large group of volcanic islands in the Bay of Bengal.",
+   "They cover 8,249 sq.km and have Port Blair as capital.",
+   "They are separated from the Maldive Islands by the Eight Degree Channel and have Kavaratti as administrative capital.",
+   "They were named Lakshadweep in 1947."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says Lakshadweep is a small group of coral islands with Kavaratti as capital, separated from Maldives by the Eight Degree Channel, and named Lakshadweep in 1973.",
+  "source_page": 143,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "25e9381c-13b5-5074-85a7-23cd1308c4d5",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "A drainage basin is defined in the chapter as",
+  "options": [
+   "the regular shoreline of a coastal plain.",
+   "the total area drained by a river and its tributaries.",
+   "the place where a river forms a waterfall.",
+   "the channel separating two island groups."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines a drainage basin as the total area drained by a river and its tributaries.",
+  "source_page": 144,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4ec049f7-7e1d-5053-af3a-5ada86a6dcb1",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following pairs of river group and rivers is correct according to the chapter’s classification?",
+  "options": [
+   "Himalayan rivers – Mahanadi, Godavari and Krishna",
+   "Peninsular rivers – Indus, Ganga and Brahmaputra",
+   "Himalayan rivers – Indus, Ganga and Brahmaputra",
+   "Peninsular rivers – Ganga, Kaveri and Brahmaputra"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter classifies Indus, Ganga and Brahmaputra as Himalayan rivers, and Mahanadi, Godavari, Krishna, Cauvery, Narmada and Tapti as Peninsular rivers.",
+  "source_page": 144,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "00b62acd-ec31-535b-b430-af45c4812a45",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following is correct about the Indus River System?",
+  "options": [
+   "It originates near Sihawa in Chattisgarh and drains into the Bay of Bengal.",
+   "It originates from the northern slope of the Kailash range near Manasarovar Lake and has Chenab as its largest tributary.",
+   "It is called Tsangpo in Tibet and Jamuna in Bangladesh.",
+   "It originates at Talakaveri and empties at Poompuhar."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says the Indus originates from the northern slope of Kailash near Manasarovar Lake, and Chenab is its largest tributary.",
+  "source_page": 144,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f01aee8f-e4d5-53a0-b790-d2b9e3b9edf4",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which statement about the Ganga River System is correct?",
+  "options": [
+   "Ganga originates as Bhagirathi from the Gangotri Glacier and Yamuna is its largest tributary.",
+   "Ganga originates from Chemayungdung Glacier and is called Tsangpo in Tibet.",
+   "Ganga is the second longest Peninsular river.",
+   "Ganga drains into the Arabian Sea through the Gulf of Cambay."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Ganga originates as Bhagirathi from the Gangotri Glacier, and Yamuna is the largest tributary of Ganga.",
+  "source_page": 144,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d237a809-e9a2-5d6f-95ec-f560f997fa07",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Match the river names in different regions: A. Brahmaputra in Tibet  B. Brahmaputra entering India through gorge  C. Brahmaputra in Bangladesh  D. Combined Ganga-Brahmaputra after joining in Bangladesh. 1. Jamuna  2. Dihang  3. Tsangpo  4. Meghna",
+  "options": [
+   "A-3, B-2, C-1, D-4",
+   "A-2, B-3, C-4, D-1",
+   "A-1, B-4, C-3, D-2",
+   "A-4, B-1, C-2, D-3"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says Brahmaputra is Tsangpo in Tibet, enters India through Dihang gorge, is called Jamuna in Bangladesh, and after joining Ganga is called Meghna.",
+  "source_page": 145,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "19b64238-fc97-508a-ba92-b2a39fa969f9",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which of the following is a characteristic of Himalayan rivers as listed in the chapter?",
+  "options": [
+   "Short and narrow",
+   "Non-perennial in nature",
+   "Middle and lower courses are navigable",
+   "Suitable for hydro power generation"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists Himalayan rivers as long and wide, perennial, unsuitable for hydro power generation, with middle and lower courses navigable.",
+  "source_page": 145,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "488b511b-aaf4-5809-8832-e1163ef85492",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Match the east-flowing Peninsular rivers with the facts given in the chapter: A. Mahanadi  B. Godavari  C. Krishna  D. Kaveri. 1. Originates at Talakaveri, Kudagu hills  2. Originates near Sihawa in Raipur district  3. Originates at Mahabaleshwar  4. Longest Peninsular river called Vridha Ganga",
+  "options": [
+   "A-2, B-4, C-3, D-1",
+   "A-4, B-2, C-1, D-3",
+   "A-3, B-1, C-4, D-2",
+   "A-1, B-3, C-2, D-4"
+  ],
+  "answer_index": 0,
+  "explanation": "Mahanadi originates near Sihawa, Godavari is the longest Peninsular river called Vridha Ganga, Krishna originates at Mahabaleshwar, and Kaveri at Talakaveri.",
+  "source_page": 145,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d8a4b1c7-e6fe-5bde-bc79-b8db7b40b7cf",
+  "chapter_id": "c10-ss-11",
+  "unit_code": "GS2",
+  "question": "Which statement about west-flowing Peninsular rivers is correct?",
+  "options": [
+   "Narmada rises in Amarkantak Plateau and outfalls into the Arabian Sea through the Gulf of Cambay.",
+   "Tapti rises at Talakaveri and joins the Bay of Bengal.",
+   "Narmada, Tapti and Kaveri are the only three rivers running from east to west.",
+   "Tapti is the largest among the west-flowing rivers of Peninsular India."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Narmada rises in the Amarkantak Plateau and flows into the Arabian Sea through the Gulf of Cambay; it is the largest west-flowing Peninsular river.",
+  "source_page": 145,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ }
+]

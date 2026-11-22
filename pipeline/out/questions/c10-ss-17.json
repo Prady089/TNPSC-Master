@@ -1,0 +1,560 @@
+[
+ {
+  "id": "15a56a98-30e8-5af7-9604-8764a2d3c1fd",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which statement best describes human geography as given in the chapter?",
+  "options": [
+   "Study of ways of development of human societies and their operation in relation to physical environment",
+   "Study of only landforms, rivers, soil and wildlife without human influence",
+   "Study of only the political boundaries and administrative divisions of a state",
+   "Study of minerals and industries without reference to society"
+  ],
+  "answer_index": 0,
+  "explanation": "The introduction defines human geography as the study of the ways of development of human societies and their operation in relation to their physical environment.",
+  "source_page": 225,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5a913891-2ae5-5074-9ee5-fc14d9f76f10",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which of the following is correct about agriculture in Tamil Nadu according to the chapter?",
+  "options": [
+   "It is mainly a secondary occupation concentrated only in towns.",
+   "It is the major occupation and provides large-scale employment for rural people.",
+   "It excludes forestry, fisheries and rearing of animals.",
+   "It depends on less than one-fourth of the population for livelihood."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that agriculture is the major occupation in Tamil Nadu and provides employment for rural people on a large scale.",
+  "source_page": 225,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cb7da475-1d00-5a4f-8e1e-77725c5847a3",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which set correctly lists the geographical determinants of agriculture mentioned in the chapter?",
+  "options": [
+   "Population, literacy, religion and trade",
+   "Minerals, ports, railways and tourism",
+   "Landform, climate, soil and irrigation",
+   "Industries, exports, imports and communication"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter specifically names landform, climate, soil and irrigation as the factors that determine the growth of agriculture.",
+  "source_page": 225,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2690dd10-c9ac-5307-ae8a-cb06f989d996",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "With reference to climate and agriculture in Tamil Nadu, which statement is correct?",
+  "options": [
+   "Southwest monsoon is the only source of rainfall for the state.",
+   "Low temperature throughout the year permits temperate crops alone.",
+   "The cropping season begins before the onset of monsoon and is unaffected by rainfall.",
+   "Northeast monsoon is the major source of rainfall, and the major cropping season begins with it."
+  ],
+  "answer_index": 3,
+  "explanation": "Tamil Nadu receives its major rainfall from the northeast monsoon; therefore, the major cropping season begins with this season.",
+  "source_page": 225,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "476060da-eb8a-5857-aab2-ffad8ca9fd74",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Match the cropping seasons with their major crops: A. Sornavari  B. Samba  C. Navarai with 1. Fruits, vegetables, cucumber and watermelon  2. Millets and cotton  3. Paddy and sugarcane. Choose the correct answer.",
+  "options": [
+   "A-2, B-3, C-1",
+   "A-3, B-1, C-2",
+   "A-1, B-2, C-3",
+   "A-2, B-1, C-3"
+  ],
+  "answer_index": 0,
+  "explanation": "The table gives Sornavari with millets and cotton, Samba with paddy and sugarcane, and Navarai with fruits, vegetables, cucumber and watermelon.",
+  "source_page": 226,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "611d15e3-e23c-5d72-8bf6-1f8bdc99979b",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Match the farming type with the area practised: A. Subsistence intensive agriculture  B. Plantation agriculture  C. Mixed farming with 1. Hill slopes of Eastern and Western Ghats  2. Banks of River Cauvery and Thenpennai  3. Practiced all over Tamil Nadu with few exceptions. Choose the correct answer.",
+  "options": [
+   "A-1, B-2, C-3",
+   "A-3, B-1, C-2",
+   "A-2, B-3, C-1",
+   "A-3, B-2, C-1"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter’s table associates subsistence intensive agriculture with most of Tamil Nadu, plantation agriculture with hill slopes, and mixed farming with river banks of Cauvery and Thenpennai.",
+  "source_page": 226,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "08e724da-ba50-58f9-a796-8a8fded2476a",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Consider the following statements about paddy in Tamil Nadu: 1. Ponni and kichadi samba are major varieties. 2. Tamil Nadu ranks third in rice production among Indian states. 3. The undivided Thanjavur district is called the Granary of Tamil Nadu. Which of the statements are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1, 2 and 3",
+   "1 and 3 only"
+  ],
+  "answer_index": 2,
+  "explanation": "All three statements are directly stated: Ponni and kichadi samba are major varieties; Tamil Nadu ranks third in rice production; and the Cauvery delta of undivided Thanjavur is called the Granary of Tamil Nadu.",
+  "source_page": 226,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "277451fa-7a96-57e5-8ca0-d599ffecf91c",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "The Tamil Nadu Rice Research Institute mentioned in the chapter is situated at",
+  "options": [
+   "Kancheepuram in Kancheepuram district",
+   "Aduthurai in Thanjavur district",
+   "Yercaud in Salem district",
+   "Palladam in Tirupur district"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says the Tamil Nadu Rice Research Institute is situated at Aduthurai in Thanjavur district and was established in April 1985 under TNAU.",
+  "source_page": 226,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4e825d4b-7d46-5c50-aee4-42c31791090b",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which of the following is incorrect regarding millets in Tamil Nadu?",
+  "options": [
+   "Sorghum is grown in the Coimbatore plateau and Kambam valley.",
+   "Ragi is grown in Coimbatore, Dharmapuri, Vellore and Cuddalore districts.",
+   "Bajra is mostly cultivated in Ramanathapuram, Tirunelveli, Karur, Perambalur and Salem districts.",
+   "FAO decided to observe 2018 as the International Year of Millets."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that India observed 2018 as the national year of millets, while FAO decided to observe 2023 as the International Year of Millets.",
+  "source_page": 227,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "db50582f-98fc-551b-8afa-f77a7841b965",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which district leads in the production of Bengal gram in Tamil Nadu?",
+  "options": [
+   "Coimbatore",
+   "Tiruvarur",
+   "Nagapattinam",
+   "Krishnagiri"
+  ],
+  "answer_index": 0,
+  "explanation": "Under pulses, the chapter states that Coimbatore leads in the production of Bengal gram.",
+  "source_page": 227,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "10759101-8e5b-58d0-98dd-ba40530772e8",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Assertion (A): Organic farming does not use synthetic fertilizers, pesticides, growth regulators and livestock feed additives. Reason (R): It relies on crop rotation, crop residues, animal manure, off-farm organic wastes and biological pest control. Choose the correct answer.",
+  "options": [
+   "Both A and R are true, but R is not related to A.",
+   "Both A and R are true, and R explains A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter describes organic farming as avoiding synthetic inputs and relying on natural practices such as crop rotation, residues, manure and biological pest control to maintain productivity.",
+  "source_page": 227,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "aaed985a-c774-5bed-bdc7-4c2017e037e2",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which of the following crop-condition pairs is correctly matched?",
+  "options": [
+   "Groundnut — requires black soil and long frost-free condition",
+   "Sugarcane — requires high temperature and heavy rainfall",
+   "Cotton — grows best only in cold and wet harvest weather",
+   "Coconut — mainly confined to Kanyakumari alone"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says sugarcane is a major cash crop that requires high temperature and heavy rainfall and grows well in the tropical region.",
+  "source_page": 227,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "903896ec-86b9-5c23-b673-1b5104fc20a7",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Consider the following statements on plantation crops: 1. Tamil Nadu ranks second in tea area and production next to Assam. 2. Tamil Nadu stands second in coffee area and production next to Karnataka. 3. Rubber plantations are significant in Kanyakumari. Which of the statements are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 3,
+  "explanation": "The plantation crops section states all three facts: tea next to Assam, coffee next to Karnataka, and significant rubber plantations in Kanyakumari.",
+  "source_page": 229,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ba663989-c04e-586a-a26b-ab8b319a5e7f",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which statement is correct about livestock in Tamil Nadu as described in the chapter?",
+  "options": [
+   "Goat rearing needs very high investment and is unsuitable for marginal farmers.",
+   "Sheep is used only for wool and has no role in the rural economy.",
+   "Goat is called the ‘poor man’s cow’ and suits dry land farming systems.",
+   "Sheep is useful only in coastal fishing communities."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says goat is known as the ‘poor man’s cow’ in India and is an important component in the dry land farming system.",
+  "source_page": 229,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5c8f7dc7-606f-5bb7-ab45-d54cbd5997a3",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which of the following correctly distinguishes marine and inland fishing in Tamil Nadu?",
+  "options": [
+   "Marine fishing is carried out in lakes and ponds, while inland fishing is done only in seas.",
+   "Marine fishing is carried out in oceans and seas, while inland fishing is carried out in lakes, rivers, ponds, estuaries, backwaters and swamps.",
+   "Marine fishing uses only catamarans, while inland fishing uses only mechanised boats.",
+   "Marine fish production is led by Vellore district with 10% of the state’s production."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines marine fishing as fishing in oceans and seas, while inland fishing occurs in lakes, rivers, ponds, estuaries, backwaters and swamps.",
+  "source_page": 230,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2846bda8-5f06-532a-91c1-34892b79c279",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about Tamil Nadu’s water resources is correct?",
+  "options": [
+   "Tamil Nadu has 6% of India’s land area and 4% of India’s population.",
+   "Tamil Nadu has 12.2% of India’s water resources.",
+   "More than 95% of surface water and 80% of groundwater have already been put into use.",
+   "Only 2.5% of Tamil Nadu’s groundwater has been put into use."
+  ],
+  "answer_index": 2,
+  "explanation": "The water resource section states that Tamil Nadu has 4% of India’s land area, 6% of its population, only 2.5% of its water resources, and over 95% surface water and 80% groundwater already in use.",
+  "source_page": 230,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8475f0eb-39b2-5cc9-a42a-19efd973a2e2",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Match the dam/project with its description: A. Bhavani Sagar Dam  B. Amaravathi Dam  C. Sathanur Dam with 1. Constructed across Thenpennai in Chengam taluk  2. Constructed across river Bhavani in Erode district  3. Constructed across Amaravathi, a tributary of Cauvery. Choose the correct answer.",
+  "options": [
+   "A-2, B-3, C-1",
+   "A-1, B-2, C-3",
+   "A-3, B-1, C-2",
+   "A-2, B-1, C-3"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter locates Bhavani Sagar across Bhavani, Amaravathi Dam across Amaravathi, and Sathanur Dam across Thenpennai in Chengam taluk.",
+  "source_page": 230,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fc6d54bc-0567-53f3-907b-48a05361d0ba",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which dam was opened on 21 January, 1959?",
+  "options": [
+   "Mullaiperiyar Dam",
+   "Vaigai Dam",
+   "Papanasam Dam",
+   "Manimuthar Dam"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that Vaigai Dam, built across the Vaigai near Andipatti, was opened on 21 January, 1959.",
+  "source_page": 231,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "045e0961-cdf1-5664-ad44-fcac8137eea1",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Assertion (A): Water resource management is important in Tamil Nadu. Reason (R): The state is heavily dependent on monsoon rains, and monsoon failures lead to acute water scarcity and severe droughts. Choose the correct answer.",
+  "options": [
+   "Both A and R are true, and R explains A.",
+   "Both A and R are true, but R does not explain A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says Tamil Nadu depends heavily on monsoon rains and failures cause scarcity and droughts; hence saving and managing water is important.",
+  "source_page": 231,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e5f5bbd5-f1ea-5d87-8b18-1372cde89e1a",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which mineral-location pair is correctly matched according to the chapter?",
+  "options": [
+   "Lignite — Kanjamalai region",
+   "Iron deposits — Neyveli",
+   "Bauxite — Servarayan Hills",
+   "Ilmenite and rutile — Coimbatore plateau"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that bauxite is found in Servarayan Hills, while lignite is at Neyveli, iron deposits are in Kanjamalai and Kalrayan Malai, and ilmenite and rutile occur in Kanyakumari beach sands.",
+  "source_page": 231,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e56d9443-4cf6-54ec-9f4a-f578328e55ba",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which group of places is referred to as the ‘Textile Valley of Tamil Nadu’?",
+  "options": [
+   "Kancheepuram, Arani and Kumbakonam",
+   "Vellore, Ranipet and Ambur",
+   "Karur, Dindigul and Virudhunagar",
+   "Coimbatore, Tirupur and Erode"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says Coimbatore, Tirupur and Erode contribute a major share to the state economy through textiles and hence are called the Textile Valley of Tamil Nadu.",
+  "source_page": 232,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dbfc2645-d0c9-58d5-911d-2b10e911187b",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Match the GI-tagged product with the place: A. Bhavani  B. Madurai  C. Swamimalai with 1. Sungudi  2. Jamakkalam  3. Bronze Icons. Choose the correct answer.",
+  "options": [
+   "A-1, B-2, C-3",
+   "A-2, B-1, C-3",
+   "A-3, B-1, C-2",
+   "A-2, B-3, C-1"
+  ],
+  "answer_index": 1,
+  "explanation": "The GI table lists Bhavani for Jamakkalam, Madurai for Sungudi and Swamimalai for Bronze Icons.",
+  "source_page": 232,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fc882099-fe85-5258-8792-396a57e02cab",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Consider the following statements: 1. Tamil Nadu accounts for 60% of leather tanning processes of India. 2. The Central Leather Research Institute is located in Chennai. 3. TNPL’s mill is located at Kagithapuram in Karur district. Which of the statements are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 3,
+  "explanation": "The leather and paper industry sections state all three facts: 60% tanning, CLRI in Chennai, and TNPL at Kagithapuram in Karur district.",
+  "source_page": 233,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cae9860c-dcd4-5ce0-af02-4435e2017cb7",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which of the following is correct about Special Economic Zones and IT in Tamil Nadu?",
+  "options": [
+   "SEZs provide an internationally competitive and hassle-free environment for exports.",
+   "All SEZs in Tamil Nadu are located only in Chennai.",
+   "Tamil Nadu is the largest software exporter in the country, ahead of Karnataka.",
+   "NASSCOM states that northern states account for more than half of India’s software exports."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines SEZs as providing an internationally competitive and hassle-free environment for exports and says Tamil Nadu is the second largest software exporter next to Karnataka.",
+  "source_page": 233,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "afd8074b-4c4e-5fe9-a92b-9db9c671edd8",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which statement correctly reflects Tamil Nadu’s automobile industry as described in the chapter?",
+  "options": [
+   "It produces about 59.6% of India’s automobile components.",
+   "It accounts for about 21% of passenger cars, 33% of commercial vehicles and 35% of automobile components produced in India.",
+   "Its major manufacturers are limited to only paper and cement companies.",
+   "It has no manufacturing base of Ford, Hyundai, Ashok Leyland or TAFE."
+  ],
+  "answer_index": 1,
+  "explanation": "The automobile section gives Tamil Nadu’s shares as about 21% of passenger cars, 33% of commercial vehicles and 35% of automobile components produced in India.",
+  "source_page": 233,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fb4ec467-6f21-5607-9aa0-f88d526d7c5f",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which of the following is a major reason for high concentration of population in districts such as Coimbatore, Chennai, Tiruvallur, Kancheepuram and Madurai?",
+  "options": [
+   "Absence of agriculture and industry",
+   "Only pilgrimage centres",
+   "Agriculture and industrial development",
+   "Only inland fishing"
+  ],
+  "answer_index": 2,
+  "explanation": "The population section states that agriculture and industrial development are the main causes of high concentration of population in the most populous districts.",
+  "source_page": 234,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d388bea2-2161-5aa9-9f0f-8a0eb13a1e60",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which statement is correct regarding sex ratio and literacy in Tamil Nadu?",
+  "options": [
+   "Dharmapuri has the highest sex ratio and Kanyakumari has the lowest literacy rate.",
+   "The Nilgiris has the highest sex ratio, and Kanyakumari has the highest literacy rate.",
+   "Salem has the highest sex ratio and Chennai has the lowest literacy rate.",
+   "Thanjavur has the lowest sex ratio and Dharmapuri has the highest literacy rate."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says the highest sex ratio is found in the Nilgiris district, and Kanyakumari has reported the highest literacy rate; Dharmapuri has the lowest literacy rate.",
+  "source_page": 235,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "73db362d-7065-59fd-8238-56344fa9074a",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which of the following is correctly matched in Tamil Nadu transport?",
+  "options": [
+   "NH-44 — Madurai to Tuvarankuruchi, 38 km",
+   "NH-785 — Hosur to Kanniyakumari, 627.2 km",
+   "Chennai Metro first underground stretch — in operation since May 2017",
+   "Chennai International Airport — smaller than all domestic airports in the state"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that Chennai is developing a Metro system, with its first underground stretch in operation since May 2017. It lists NH-44 as Hosur to Kanniyakumari and NH-785 as Madurai to Tuvarankuruchi.",
+  "source_page": 235,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "78197cd1-475f-5c61-a3b8-8b5eb5057465",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about waterways and communication is correct?",
+  "options": [
+   "Tamil Nadu has major ports only at Nagapattinam, Salem and Madurai.",
+   "Chennai Port is an artificial harbour and the second principal port in the country for handling containers.",
+   "Communication is derived from a Greek word meaning transport.",
+   "The headquarters of the Southern postal zone is Coimbatore."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says Tamil Nadu’s major ports are Chennai, Ennore and Tuticorin, and Chennai Port is an artificial harbour and second principal port for handling containers; communication comes from Latin communicare.",
+  "source_page": 235,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5872008c-b0e3-5992-acd2-a08b45cd702c",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Which of the following pairs is correctly matched with Tamil Nadu trade?",
+  "options": [
+   "Export — goods and services brought from overseas producers",
+   "Import — goods and services sold for foreign currency",
+   "Balance of trade — difference between the values of export and import",
+   "Major import — paddy and groundnut only"
+  ],
+  "answer_index": 2,
+  "explanation": "The trade section defines balance of trade as the difference between the values of export and import; exports are sold for foreign currency and imports are brought from overseas producers.",
+  "source_page": 238,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e0c058a3-3ccc-54a4-98ef-39fbe8ed497b",
+  "chapter_id": "c10-ss-17",
+  "unit_code": "GS2",
+  "question": "Arrange the following events in chronological order: 1. Mullaiperiyar dam built by British administration  2. Vaigai Dam opened  3. Tamil Nadu Rice Research Institute established  4. Chennai Metro first underground stretch in operation. Choose the correct answer.",
+  "options": [
+   "1-2-3-4",
+   "2-1-3-4",
+   "1-3-2-4",
+   "3-1-2-4"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter gives the years/dates as Mullaiperiyar dam in 1895, Vaigai Dam on 21 January 1959, TRRI in April 1985, and Chennai Metro underground stretch since May 2017.",
+  "source_page": 231,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ }
+]

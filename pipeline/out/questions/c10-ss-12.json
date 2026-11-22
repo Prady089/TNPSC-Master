@@ -1,0 +1,398 @@
+[
+ {
+  "id": "3bb8e38d-1b75-560e-834e-4943324366fd",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Which of the following sets consists only of factors stated in the chapter as affecting the climate of India?",
+  "options": [
+   "Ocean currents, soil, longitude and population density",
+   "Latitude, altitude, distance from the seas, monsoon wind, relief features and jet stream",
+   "Latitude, forest cover, mineral resources, irrigation and urbanisation",
+   "Altitude, river systems, crops, industrialisation and cyclones"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter specifically lists latitude, altitude, distance from the seas, monsoon wind, relief features and jet stream as factors affecting India’s climate.",
+  "source_page": 150,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1024904c-8190-5078-8856-ce6019d1f5bf",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Which statement correctly describes the climatic significance of the Tropic of Cancer in India?",
+  "options": [
+   "It keeps the whole country under an equable maritime climate throughout the year.",
+   "It makes the areas north of it experience high temperature and no cold season throughout the year.",
+   "It divides the country into two equal halves; the south has high temperature and no severe cold season, while the north enjoys subtropical climate.",
+   "It causes the west coast to receive less rainfall than the leeward Deccan plateau."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says the Tropic of Cancer divides India into two equal halves; areas south of it have high temperature without severe cold, while northern areas enjoy subtropical climate.",
+  "source_page": 150,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "eb637cee-95c2-5155-ae11-5c688af67c33",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "In the chapter, the term ‘normal lapse rate’ refers to which one of the following?",
+  "options": [
+   "Temperature decreases at the rate of 6.50C for every 1000 metres of ascent.",
+   "Rainfall decreases from east to west during the southwest monsoon.",
+   "Humidity exceeds 70 percent in tropical evergreen forests.",
+   "Pressure belts shift northwards during the summer solstice."
+  ],
+  "answer_index": 0,
+  "explanation": "Under altitude, the chapter states that temperature decreases at the rate of 6.50C for every 1000 metres of ascent, and this is called normal lapse rate.",
+  "source_page": 150,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b08ca08c-c006-5938-836c-6e57ce7c011c",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Which pair is used in the chapter to illustrate the effect of distance from the sea on temperature?",
+  "options": [
+   "Mangalore and Bengaluru",
+   "Ooty and Chennai",
+   "Mawsynram and Bikaner",
+   "Kochin and Delhi"
+  ],
+  "answer_index": 3,
+  "explanation": "The text says annual temperature at Kochin does not exceed 30°C because it is on the coast, while it is as high as 40°C at Delhi because it is in the interior.",
+  "source_page": 150,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ca28850e-1760-5949-88e2-560bd21bdb4e",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Consider the following statements: I. Weather refers to the state of atmosphere of a place at a given point of time. II. Climate is the accumulation of daily and seasonal weather events over 30-35 years. III. Climate and weather are described in the chapter as identical terms. Which of the above is/are correct?",
+  "options": [
+   "I only",
+   "I and II only",
+   "II and III only",
+   "I, II and III"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter distinguishes weather as the atmospheric state at a given point of time and climate as accumulated weather events over 30-35 years. It does not treat them as identical.",
+  "source_page": 150,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2db66d33-eaf9-5c7f-a354-915d80218df7",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Which statement about relief and rainfall in India is correct according to the chapter?",
+  "options": [
+   "The Western Ghats make Bengaluru receive about 280 cm rainfall during the southwest monsoon.",
+   "The Himalayas allow freezing cold winds from Central Asia to enter north India.",
+   "Mangalore on the coast receives about 280 cm rainfall, while Bengaluru on the leeward side receives about 50 cm.",
+   "Tamil Nadu receives heavy southwest monsoon rainfall because it lies on the windward side of the Western Ghats."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter explains the windward-leeward effect of the Western Ghats and states that Mangalore gets about 280 cm rainfall, whereas Bengaluru on the leeward side gets about 50 cm.",
+  "source_page": 150,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d29e8041-e539-5d83-a885-07cce5bfa254",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "According to the Jet stream theory mentioned in the chapter, the onset of the southwest monsoon is driven by which shift?",
+  "options": [
+   "The sub tropical westerly jet shifts from the plains of India towards the Tibetan plateau.",
+   "The easterly jet shifts from the Bay of Bengal towards the Arabian Sea.",
+   "The northeast trade winds shift from the Deccan plateau towards Rajasthan.",
+   "The western disturbances shift from Punjab to the Western Ghats."
+  ],
+  "answer_index": 0,
+  "explanation": "The text states that the onset of the southwest monsoon is driven by the shift of the sub tropical westerly jet from the plains of India towards the Tibetan plateau.",
+  "source_page": 150,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "182d81ba-c2b8-5d75-b9f6-06600a003853",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "The word ‘monsoon’ is derived from the Arabic word ‘Mausim’. What does ‘Mausim’ mean?",
+  "options": [
+   "Wind",
+   "Rain",
+   "Ocean",
+   "Season"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that the word ‘monsoon’ has been derived from the Arabic word ‘Mausim’, meaning ‘season’.",
+  "source_page": 151,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "37e75b1b-cf92-573f-90bd-ad7b60b351bf",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Arrange the following Indian seasons in the order recognized by meteorologists in the chapter: I. Southwest monsoon or Rainy season II. Winter season III. Northeast monsoon season IV. Summer season",
+  "options": [
+   "I, II, IV, III",
+   "II, IV, I, III",
+   "IV, II, III, I",
+   "II, I, IV, III"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter lists the seasons as Winter (January-February), Summer (March-May), Southwest monsoon (June-September) and Northeast monsoon (October-December).",
+  "source_page": 151,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1605f66e-cedb-59b9-a9e3-4ee98fae8d02",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about the winter season in India is incorrect?",
+  "options": [
+   "The season has clear skies, fine weather, light northerly winds and low humidity.",
+   "A high pressure develops over north India during this season.",
+   "The vertical rays of the sun fall over the Tropic of Cancer during this season.",
+   "Western disturbances bring rainfall to parts of north India and snowfall in Jammu and Kashmir hills."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says that in winter the vertical rays of the sun fall over the Tropic of Capricorn, far away from India, not over the Tropic of Cancer.",
+  "source_page": 152,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7d26fb4f-9e3b-5c1a-8108-1748f2a28962",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Match the local summer weather phenomena with their descriptions: A. Mango Showers B. Norwesters/Kalbaisakhis. 1. Thunder showers helping quick ripening of mangoes along Kerala and Karnataka coast 2. Local storms with thunder over Bihar, West Bengal and Assam during April and May. Which is correct?",
+  "options": [
+   "A-1, B-2",
+   "A-2, B-1",
+   "A-1, B-1",
+   "A-2, B-2"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter describes Mango Showers as thunder showers aiding mango ripening along Kerala and Karnataka, and Norwesters/Kalbaisakhis as local thunder storms over Bihar, West Bengal and Assam.",
+  "source_page": 152,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d3b14395-0dac-5a36-94bc-9ed3f8d4a4e9",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Which statement correctly states the normal progress of the southwest monsoon as given in the chapter?",
+  "options": [
+   "It begins over north India by the end of September and covers the country by December.",
+   "It begins over Rajasthan in early June and reaches south India by 15th July.",
+   "It begins over the Bay of Bengal in May and retreats from the whole country by June.",
+   "It begins over the southern tip by the first week of June and covers the whole country by 15th July."
+  ],
+  "answer_index": 3,
+  "explanation": "The text says the southwest monsoon normally begins over the southern tip by the first week of June and covers the whole country by 15th July.",
+  "source_page": 152,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3460aea5-8b84-52c1-9ded-d60a77d05377",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Consider the following statements about the southwest monsoon: I. The Arabian Sea branch gives heavy rainfall to the west coast because it is on the windward side of the Western Ghats. II. Rajasthan gets much rainfall because the Aravalli Mountains are perpendicular to the wind direction. III. The Bay of Bengal branch is trapped by the Garo, Khasi and Jaintia hills, causing very heavy rainfall at Mawsynram. IV. About 75% of Indian rainfall is received from this monsoon. Which of the above are correct?",
+  "options": [
+   "I and II only",
+   "I, III and IV only",
+   "II, III and IV only",
+   "I, II, III and IV"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says the Arabian Sea branch gives heavy rain to the windward west coast, Garo-Khasi-Jaintia hills contribute to Mawsynram’s heavy rainfall, and about 75% of Indian rainfall comes from this monsoon. It also says Rajasthan gets little rain because the Aravalli is parallel to the wind direction.",
+  "source_page": 153,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7cc78bb9-e5a9-573d-8189-6d9d05310b5e",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Assertion (A): The retreating southwest monsoon is known as the Northeast monsoon or Post-monsoon season. Reason (R): The returning wind is deflected by the coriolis force and made to blow from the northeast.",
+  "options": [
+   "Both A and R are true, and R is the correct explanation of A.",
+   "Both A and R are true, but R is not the correct explanation of A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter explains that the southwest monsoon returns from the Indian landmass towards the Bay of Bengal, and the coriolis force deflects it to blow from the northeast; hence it is called Northeast monsoon.",
+  "source_page": 153,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0b8ece0c-b559-5f3c-bb8a-c4851b6fdedd",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Which of the following is correctly stated about the distribution of rainfall in India?",
+  "options": [
+   "The average annual rainfall of India is 200 cm.",
+   "All parts of India receive rainfall between 100 and 200 cm.",
+   "The Western coast, Assam, South Meghalaya, Tripura, Nagaland and Arunachal Pradesh receive more than 200 cm rainfall.",
+   "The whole of Rajasthan, Punjab and Haryana receive more than 200 cm rainfall."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that India’s average annual rainfall is 118 cm and identifies the Western coast and several northeastern areas as receiving more than 200 cm rainfall.",
+  "source_page": 154,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a4f90b66-c42b-5c88-b649-400efb6fa758",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Natural vegetation, as defined in the chapter, is best described as:",
+  "options": [
+   "Any crop cultivated by humans for food and fibre",
+   "Only trees planted in National Parks and Wildlife Sanctuaries",
+   "All animal life found in forests and grasslands",
+   "A plant community unaffected by man either directly or indirectly"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter defines natural vegetation as a plant community unaffected by man either directly or indirectly, including naturally growing trees, bushes, herbs and forbs.",
+  "source_page": 154,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8862307c-ca95-58b6-a597-730fa834dde8",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Which one of the following correctly describes tropical evergreen forests in India?",
+  "options": [
+   "They occur in areas with 200 cm or more annual rainfall, annual temperature above 22°C and average annual humidity above 70 percent.",
+   "They occur in areas with 50 to 100 cm annual rainfall and are transitional forests.",
+   "They occur only in the Ganga-Brahmaputra delta and are also called swamp forests.",
+   "They are found above 2400 m in the Himalayas and consist purely of coniferous trees."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says tropical evergreen forests are found where annual rainfall is 200 cm or more, annual temperature is more than 22°C and humidity exceeds 70 percent.",
+  "source_page": 154,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "818df780-fdb3-5a32-8dfe-eeb877ee72de",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about tropical deciduous forests is incorrect?",
+  "options": [
+   "They are found in areas with 100 to 200 cm annual rainfall.",
+   "They are called ‘Monsoon Forests’.",
+   "They are found only in Andaman-Nicobar Islands and coastal Kerala.",
+   "Teak and sal are among the most important trees."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists these forests across the Sub-Himalayan region, Great Plains, Central India and South India; it does not restrict them to Andaman-Nicobar and coastal Kerala.",
+  "source_page": 154,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4080781e-d164-5ed7-9556-031634e0e1f4",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Which pair is correctly matched?",
+  "options": [
+   "Tropical dry forest — annual rainfall above 200 cm",
+   "Desert and semi-desert vegetation — annual rainfall less than 50 cm",
+   "Tropical evergreen forest — annual humidity below 30 percent",
+   "Tropical deciduous forest — annual rainfall less than 50 cm"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that desert and semi-desert vegetation, also called tropical thorn forests, occurs in areas having annual rainfall of less than 50 cm.",
+  "source_page": 154,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b00c4f63-4ec8-59b2-90f8-afec2c183f67",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Match the forest type with its characteristic: A. Mountain or Montane Forest B. Alpine Forest C. Tidal Forest D. Desert and Semi-desert Vegetation. 1. Occurs in deltas, estuaries and creeks 2. Occurs all along the Himalayas above 2400 m 3. Classified on the basis of altitude and rainfall 4. Also called Tropical thorn forests. Which is correct?",
+  "options": [
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-3, C-4, D-1",
+   "A-3, B-1, C-2, D-4",
+   "A-3, B-2, C-1, D-4"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says montane forests are classified by altitude and rainfall, alpine forests occur along the Himalayas above 2400 m, tidal forests occur in deltas/estuaries/creeks, and desert vegetation is called tropical thorn forest.",
+  "source_page": 156,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5adf3a98-87f2-56d0-b3e5-c715441ed744",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Which of the following pairs is correctly matched according to the wildlife conservation section?",
+  "options": [
+   "Indian Board for Wildlife — constituted in 1952",
+   "Wildlife (Protection) Act — enacted in 1973",
+   "Project Tiger — launched in 1972",
+   "Wildlife Sanctuaries in India — 102"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the Indian Board for Wildlife was constituted in 1952. It separately mentions the Wildlife (Protection) Act, 1972, Project Tiger in April 1973, 102 National Parks and about 515 Wildlife Sanctuaries.",
+  "source_page": 157,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "412f50e3-b6a5-500a-92f3-dfdaa963d248",
+  "chapter_id": "c10-ss-12",
+  "unit_code": "GS2",
+  "question": "Which of the following statements is incorrect regarding Biosphere Reserves and Project Tiger?",
+  "options": [
+   "India has established 18 Biosphere Reserves.",
+   "Project Tiger aimed to conserve tiger population in specifically constituted Tiger Reserves.",
+   "All eighteen biosphere reserves of India fall under UNESCO’s Man and Biosphere programme.",
+   "Gulf of Mannar, Nandadevi, the Nilgiris and Sundarbans are among the reserves listed under UNESCO’s Man and Biosphere programme."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says eleven of the eighteen biosphere reserves of India fall under UNESCO’s Man and Biosphere programme, not all eighteen.",
+  "source_page": 157,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ }
+]

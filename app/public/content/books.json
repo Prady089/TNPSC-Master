@@ -1,0 +1,5570 @@
+{
+ "units": [
+  {
+   "code": "GS1",
+   "part": "A",
+   "weight": 10,
+   "title": "General Science"
+  },
+  {
+   "code": "GS2",
+   "part": "A",
+   "weight": 10,
+   "title": "Geography of India"
+  },
+  {
+   "code": "GS3",
+   "part": "A",
+   "weight": 25,
+   "title": "History, Culture of India & Indian National Movement"
+  },
+  {
+   "code": "GS4",
+   "part": "A",
+   "weight": 40,
+   "title": "Indian Polity"
+  },
+  {
+   "code": "GS5",
+   "part": "A",
+   "weight": 50,
+   "title": "Indian Economy & Development Administration in Tamil Nadu"
+  },
+  {
+   "code": "GS6",
+   "part": "A",
+   "weight": 40,
+   "title": "History, Culture, Heritage & Socio-Political Movements in Tamil Nadu"
+  },
+  {
+   "code": "APT",
+   "part": "B",
+   "weight": 15,
+   "title": "Aptitude"
+  },
+  {
+   "code": "RSN",
+   "part": "B",
+   "weight": 10,
+   "title": "Reasoning & Mental Ability"
+  }
+ ],
+ "books": [
+  {
+   "id": "c6-sci-ss",
+   "std": 6,
+   "title": "Science & Social Science",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c6-sci-ss-01",
+     "bookId": "c6-sci-ss",
+     "order": 1,
+     "title": "Measurements",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      5,
+      17
+     ],
+     "words": 2187
+    },
+    {
+     "id": "c6-sci-ss-02",
+     "bookId": "c6-sci-ss",
+     "order": 2,
+     "title": "Force and Motion",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      18,
+      37
+     ],
+     "words": 4055
+    },
+    {
+     "id": "c6-sci-ss-03",
+     "bookId": "c6-sci-ss",
+     "order": 3,
+     "title": "Matter Around Us",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      38,
+      58
+     ],
+     "words": 4219
+    },
+    {
+     "id": "c6-sci-ss-04",
+     "bookId": "c6-sci-ss",
+     "order": 4,
+     "title": "The World of Plants",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      59,
+      71
+     ],
+     "words": 2591
+    },
+    {
+     "id": "c6-sci-ss-05",
+     "bookId": "c6-sci-ss",
+     "order": 5,
+     "title": "The World of Animals",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      72,
+      83
+     ],
+     "words": 1893
+    },
+    {
+     "id": "c6-sci-ss-06",
+     "bookId": "c6-sci-ss",
+     "order": 6,
+     "title": "Health and Hygiene",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      84,
+      99
+     ],
+     "words": 1983
+    },
+    {
+     "id": "c6-sci-ss-07",
+     "bookId": "c6-sci-ss",
+     "order": 7,
+     "title": "Computer - An Introduction",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      100,
+      108
+     ],
+     "words": 1091
+    },
+    {
+     "id": "c6-sci-ss-08",
+     "bookId": "c6-sci-ss",
+     "order": 8,
+     "title": "What is History?",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      113,
+      122
+     ],
+     "words": 1829
+    },
+    {
+     "id": "c6-sci-ss-09",
+     "bookId": "c6-sci-ss",
+     "order": 9,
+     "title": "Human Evolution",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      123,
+      135
+     ],
+     "words": 2854
+    },
+    {
+     "id": "c6-sci-ss-10",
+     "bookId": "c6-sci-ss",
+     "order": 10,
+     "title": "Indus Civilisation",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      136,
+      152
+     ],
+     "words": 3537
+    },
+    {
+     "id": "c6-sci-ss-11",
+     "bookId": "c6-sci-ss",
+     "order": 11,
+     "title": "Ancient Cities of Tamilagam",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      153,
+      163
+     ],
+     "words": 2787
+    },
+    {
+     "id": "c6-sci-ss-12",
+     "bookId": "c6-sci-ss",
+     "order": 12,
+     "title": "The Universe and Solar System",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      164,
+      179
+     ],
+     "words": 4151
+    },
+    {
+     "id": "c6-sci-ss-13",
+     "bookId": "c6-sci-ss",
+     "order": 13,
+     "title": "Land and Oceans",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      180,
+      195
+     ],
+     "words": 3259
+    },
+    {
+     "id": "c6-sci-ss-14",
+     "bookId": "c6-sci-ss",
+     "order": 14,
+     "title": "Understanding Diversity",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      196,
+      206
+     ],
+     "words": 2059
+    },
+    {
+     "id": "c6-sci-ss-15",
+     "bookId": "c6-sci-ss",
+     "order": 15,
+     "title": "Achieving Equality",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      207,
+      216
+     ],
+     "words": 2577
+    },
+    {
+     "id": "c6-sci-ss-16",
+     "bookId": "c6-sci-ss",
+     "order": 16,
+     "title": "Heat",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      223,
+      237
+     ],
+     "words": 3456
+    },
+    {
+     "id": "c6-sci-ss-17",
+     "bookId": "c6-sci-ss",
+     "order": 17,
+     "title": "Electricity",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      238,
+      253
+     ],
+     "words": 2461
+    },
+    {
+     "id": "c6-sci-ss-18",
+     "bookId": "c6-sci-ss",
+     "order": 18,
+     "title": "Changes Around Us",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      254,
+      262
+     ],
+     "words": 1536
+    },
+    {
+     "id": "c6-sci-ss-19",
+     "bookId": "c6-sci-ss",
+     "order": 19,
+     "title": "Air",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      263,
+      278
+     ],
+     "words": 3544
+    },
+    {
+     "id": "c6-sci-ss-20",
+     "bookId": "c6-sci-ss",
+     "order": 20,
+     "title": "The Cell",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      279,
+      289
+     ],
+     "words": 1631
+    },
+    {
+     "id": "c6-sci-ss-21",
+     "bookId": "c6-sci-ss",
+     "order": 21,
+     "title": "Human Organ systems",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      290,
+      306
+     ],
+     "words": 2732
+    },
+    {
+     "id": "c6-sci-ss-22",
+     "bookId": "c6-sci-ss",
+     "order": 22,
+     "title": "Parts of Computer",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      307,
+      317
+     ],
+     "words": 1010
+    },
+    {
+     "id": "c6-sci-ss-23",
+     "bookId": "c6-sci-ss",
+     "order": 23,
+     "title": "Vedic Culture in North India and Megalithic Culture in South India",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      319,
+      332
+     ],
+     "words": 2425
+    },
+    {
+     "id": "c6-sci-ss-24",
+     "bookId": "c6-sci-ss",
+     "order": 24,
+     "title": "Great Thinkers and New Faiths",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      333,
+      347
+     ],
+     "words": 2203
+    },
+    {
+     "id": "c6-sci-ss-25",
+     "bookId": "c6-sci-ss",
+     "order": 25,
+     "title": "From Chiefdoms to Empires",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      348,
+      364
+     ],
+     "words": 2043
+    },
+    {
+     "id": "c6-sci-ss-26",
+     "bookId": "c6-sci-ss",
+     "order": 26,
+     "title": "Resources",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      365,
+      379
+     ],
+     "words": 2578
+    },
+    {
+     "id": "c6-sci-ss-27",
+     "bookId": "c6-sci-ss",
+     "order": 27,
+     "title": "National Symbols",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      380,
+      393
+     ],
+     "words": 3716
+    },
+    {
+     "id": "c6-sci-ss-28",
+     "bookId": "c6-sci-ss",
+     "order": 28,
+     "title": "The Constitution Of India",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      394,
+      404
+     ],
+     "words": 2431
+    },
+    {
+     "id": "c6-sci-ss-29",
+     "bookId": "c6-sci-ss",
+     "order": 29,
+     "title": "Economics – An Introduction",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      405,
+      416
+     ],
+     "words": 2178
+    },
+    {
+     "id": "c6-sci-ss-30",
+     "bookId": "c6-sci-ss",
+     "order": 30,
+     "title": "Magnetism",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      421,
+      433
+     ],
+     "words": 1917
+    },
+    {
+     "id": "c6-sci-ss-31",
+     "bookId": "c6-sci-ss",
+     "order": 31,
+     "title": "Water",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      434,
+      451
+     ],
+     "words": 2730
+    },
+    {
+     "id": "c6-sci-ss-32",
+     "bookId": "c6-sci-ss",
+     "order": 32,
+     "title": "Chemistry in Everyday Life",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      452,
+      465
+     ],
+     "words": 2450
+    },
+    {
+     "id": "c6-sci-ss-33",
+     "bookId": "c6-sci-ss",
+     "order": 33,
+     "title": "Our Environment",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      466,
+      485
+     ],
+     "words": 4018
+    },
+    {
+     "id": "c6-sci-ss-34",
+     "bookId": "c6-sci-ss",
+     "order": 34,
+     "title": "Plants in Daily Life",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      486,
+      498
+     ],
+     "words": 2046
+    },
+    {
+     "id": "c6-sci-ss-35",
+     "bookId": "c6-sci-ss",
+     "order": 35,
+     "title": "Hardware and Software",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      499,
+      504
+     ],
+     "words": 545
+    },
+    {
+     "id": "c6-sci-ss-36",
+     "bookId": "c6-sci-ss",
+     "order": 36,
+     "title": "Society and Culture in Ancient Tamizhagam: The Sangam Age",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      507,
+      519
+     ],
+     "words": 2537
+    },
+    {
+     "id": "c6-sci-ss-37",
+     "bookId": "c6-sci-ss",
+     "order": 37,
+     "title": "The Post-Mauryan India",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      520,
+      531
+     ],
+     "words": 2355
+    },
+    {
+     "id": "c6-sci-ss-38",
+     "bookId": "c6-sci-ss",
+     "order": 38,
+     "title": "The Age of Empires: Guptas and Vardhanas",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      532,
+      547
+     ],
+     "words": 3094
+    },
+    {
+     "id": "c6-sci-ss-39",
+     "bookId": "c6-sci-ss",
+     "order": 39,
+     "title": "South Indian Kingdoms",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      548,
+      562
+     ],
+     "words": 2649
+    },
+    {
+     "id": "c6-sci-ss-40",
+     "bookId": "c6-sci-ss",
+     "order": 40,
+     "title": "Asia and Europe",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      563,
+      590
+     ],
+     "words": 5730
+    },
+    {
+     "id": "c6-sci-ss-41",
+     "bookId": "c6-sci-ss",
+     "order": 41,
+     "title": "Globe",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      591,
+      607
+     ],
+     "words": 3178
+    },
+    {
+     "id": "c6-sci-ss-42",
+     "bookId": "c6-sci-ss",
+     "order": 42,
+     "title": "Understanding Disaster",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      608,
+      615
+     ],
+     "words": 1321
+    },
+    {
+     "id": "c6-sci-ss-43",
+     "bookId": "c6-sci-ss",
+     "order": 43,
+     "title": "Democracy",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      616,
+      622
+     ],
+     "words": 1538
+    },
+    {
+     "id": "c6-sci-ss-44",
+     "bookId": "c6-sci-ss",
+     "order": 44,
+     "title": "Local Bodies – Rural and Urban",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      623,
+      631
+     ],
+     "words": 1686
+    },
+    {
+     "id": "c6-sci-ss-45",
+     "bookId": "c6-sci-ss",
+     "order": 45,
+     "title": "Road Safety",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      632,
+      637
+     ],
+     "words": 1013
+    }
+   ]
+  },
+  {
+   "id": "c7-sci-ss",
+   "std": 7,
+   "title": "Science & Social Science",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c7-sci-ss-01",
+     "bookId": "c7-sci-ss",
+     "order": 1,
+     "title": "Measurement",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      5,
+      17
+     ],
+     "words": 3204
+    },
+    {
+     "id": "c7-sci-ss-02",
+     "bookId": "c7-sci-ss",
+     "order": 2,
+     "title": "Force and Motion",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      18,
+      30
+     ],
+     "words": 3529
+    },
+    {
+     "id": "c7-sci-ss-03",
+     "bookId": "c7-sci-ss",
+     "order": 3,
+     "title": "Matter Around Us",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      31,
+      45
+     ],
+     "words": 3292
+    },
+    {
+     "id": "c7-sci-ss-04",
+     "bookId": "c7-sci-ss",
+     "order": 4,
+     "title": "Atomic Structure",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      46,
+      57
+     ],
+     "words": 2675
+    },
+    {
+     "id": "c7-sci-ss-05",
+     "bookId": "c7-sci-ss",
+     "order": 5,
+     "title": "Reproduction and Modification in Plants",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      58,
+      77
+     ],
+     "words": 4357
+    },
+    {
+     "id": "c7-sci-ss-06",
+     "bookId": "c7-sci-ss",
+     "order": 6,
+     "title": "Health and Hygiene",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      78,
+      92
+     ],
+     "words": 3205
+    },
+    {
+     "id": "c7-sci-ss-07",
+     "bookId": "c7-sci-ss",
+     "order": 7,
+     "title": "Visual Communication (Term 1)",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      93,
+      102
+     ],
+     "words": 1310
+    },
+    {
+     "id": "c7-sci-ss-08",
+     "bookId": "c7-sci-ss",
+     "order": 8,
+     "title": "Sources of Medieval India",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      106,
+      113
+     ],
+     "words": 1841
+    },
+    {
+     "id": "c7-sci-ss-09",
+     "bookId": "c7-sci-ss",
+     "order": 9,
+     "title": "Emergence of New Kingdoms in North India",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      114,
+      125
+     ],
+     "words": 2858
+    },
+    {
+     "id": "c7-sci-ss-10",
+     "bookId": "c7-sci-ss",
+     "order": 10,
+     "title": "Emergence of New Kingdoms in South India: Later Cholas and Pandyas",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      126,
+      137
+     ],
+     "words": 3088
+    },
+    {
+     "id": "c7-sci-ss-11",
+     "bookId": "c7-sci-ss",
+     "order": 11,
+     "title": "The Delhi Sultanate",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      138,
+      148
+     ],
+     "words": 2533
+    },
+    {
+     "id": "c7-sci-ss-12",
+     "bookId": "c7-sci-ss",
+     "order": 12,
+     "title": "Interior of the Earth",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      149,
+      158
+     ],
+     "words": 2368
+    },
+    {
+     "id": "c7-sci-ss-13",
+     "bookId": "c7-sci-ss",
+     "order": 13,
+     "title": "Landforms",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      159,
+      166
+     ],
+     "words": 1535
+    },
+    {
+     "id": "c7-sci-ss-14",
+     "bookId": "c7-sci-ss",
+     "order": 14,
+     "title": "Population and Settlement",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      167,
+      174
+     ],
+     "words": 2468
+    },
+    {
+     "id": "c7-sci-ss-15",
+     "bookId": "c7-sci-ss",
+     "order": 15,
+     "title": "Equality",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      175,
+      180
+     ],
+     "words": 1170
+    },
+    {
+     "id": "c7-sci-ss-16",
+     "bookId": "c7-sci-ss",
+     "order": 16,
+     "title": "Political Parties",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      181,
+      188
+     ],
+     "words": 1558
+    },
+    {
+     "id": "c7-sci-ss-17",
+     "bookId": "c7-sci-ss",
+     "order": 17,
+     "title": "Production",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      189,
+      200
+     ],
+     "words": 2135
+    },
+    {
+     "id": "c7-sci-ss-18",
+     "bookId": "c7-sci-ss",
+     "order": 18,
+     "title": "Heat and Temperature",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      205,
+      215
+     ],
+     "words": 2672
+    },
+    {
+     "id": "c7-sci-ss-19",
+     "bookId": "c7-sci-ss",
+     "order": 19,
+     "title": "Electricity",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      216,
+      239
+     ],
+     "words": 5803
+    },
+    {
+     "id": "c7-sci-ss-20",
+     "bookId": "c7-sci-ss",
+     "order": 20,
+     "title": "Changes Around Us",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      240,
+      260
+     ],
+     "words": 5632
+    },
+    {
+     "id": "c7-sci-ss-21",
+     "bookId": "c7-sci-ss",
+     "order": 21,
+     "title": "Cell Biology",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      261,
+      273
+     ],
+     "words": 2675
+    },
+    {
+     "id": "c7-sci-ss-22",
+     "bookId": "c7-sci-ss",
+     "order": 22,
+     "title": "Basis of Classification",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      274,
+      290
+     ],
+     "words": 3023
+    },
+    {
+     "id": "c7-sci-ss-23",
+     "bookId": "c7-sci-ss",
+     "order": 23,
+     "title": "Digital Painting",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      291,
+      297
+     ],
+     "words": 792
+    },
+    {
+     "id": "c7-sci-ss-24",
+     "bookId": "c7-sci-ss",
+     "order": 24,
+     "title": "Vijayanagar and Bahmani Kingdoms",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      300,
+      311
+     ],
+     "words": 3084
+    },
+    {
+     "id": "c7-sci-ss-25",
+     "bookId": "c7-sci-ss",
+     "order": 25,
+     "title": "The Mughal Empire",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      312,
+      325
+     ],
+     "words": 3320
+    },
+    {
+     "id": "c7-sci-ss-26",
+     "bookId": "c7-sci-ss",
+     "order": 26,
+     "title": "Rise of Marathas and Peshwas",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      326,
+      338
+     ],
+     "words": 2749
+    },
+    {
+     "id": "c7-sci-ss-27",
+     "bookId": "c7-sci-ss",
+     "order": 27,
+     "title": "Resources",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      339,
+      349
+     ],
+     "words": 2372
+    },
+    {
+     "id": "c7-sci-ss-28",
+     "bookId": "c7-sci-ss",
+     "order": 28,
+     "title": "Tourism",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      350,
+      366
+     ],
+     "words": 2729
+    },
+    {
+     "id": "c7-sci-ss-29",
+     "bookId": "c7-sci-ss",
+     "order": 29,
+     "title": "State Government",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      367,
+      374
+     ],
+     "words": 1429
+    },
+    {
+     "id": "c7-sci-ss-30",
+     "bookId": "c7-sci-ss",
+     "order": 30,
+     "title": "Media and Democracy",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      375,
+      384
+     ],
+     "words": 2107
+    },
+    {
+     "id": "c7-sci-ss-31",
+     "bookId": "c7-sci-ss",
+     "order": 31,
+     "title": "Light",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      389,
+      411
+     ],
+     "words": 5310
+    },
+    {
+     "id": "c7-sci-ss-32",
+     "bookId": "c7-sci-ss",
+     "order": 32,
+     "title": "Universe and Space",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      412,
+      429
+     ],
+     "words": 5607
+    },
+    {
+     "id": "c7-sci-ss-33",
+     "bookId": "c7-sci-ss",
+     "order": 33,
+     "title": "Polymer Chemistry",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      430,
+      452
+     ],
+     "words": 7179
+    },
+    {
+     "id": "c7-sci-ss-34",
+     "bookId": "c7-sci-ss",
+     "order": 34,
+     "title": "Chemistry in Daily Life",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      453,
+      468
+     ],
+     "words": 3736
+    },
+    {
+     "id": "c7-sci-ss-35",
+     "bookId": "c7-sci-ss",
+     "order": 35,
+     "title": "Animals in Daily Life",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      469,
+      480
+     ],
+     "words": 2383
+    },
+    {
+     "id": "c7-sci-ss-36",
+     "bookId": "c7-sci-ss",
+     "order": 36,
+     "title": "Visual Communication (Term 3)",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      481,
+      490
+     ],
+     "words": 1847
+    },
+    {
+     "id": "c7-sci-ss-37",
+     "bookId": "c7-sci-ss",
+     "order": 37,
+     "title": "New Religious Ideas and Movements",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      493,
+      501
+     ],
+     "words": 2213
+    },
+    {
+     "id": "c7-sci-ss-38",
+     "bookId": "c7-sci-ss",
+     "order": 38,
+     "title": "Art and Architecture of Tamil Nadu",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      502,
+      511
+     ],
+     "words": 2079
+    },
+    {
+     "id": "c7-sci-ss-39",
+     "bookId": "c7-sci-ss",
+     "order": 39,
+     "title": "Jainism, Buddhism and Ajivika Philosophy in Tamil Nadu",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      512,
+      524
+     ],
+     "words": 3100
+    },
+    {
+     "id": "c7-sci-ss-40",
+     "bookId": "c7-sci-ss",
+     "order": 40,
+     "title": "Exploring Continents – North America and South America",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      525,
+      552
+     ],
+     "words": 8321
+    },
+    {
+     "id": "c7-sci-ss-41",
+     "bookId": "c7-sci-ss",
+     "order": 41,
+     "title": "Map Reading",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      553,
+      559
+     ],
+     "words": 1469
+    },
+    {
+     "id": "c7-sci-ss-42",
+     "bookId": "c7-sci-ss",
+     "order": 42,
+     "title": "Natural Hazards – Understanding of Disaster Management in Practice",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      560,
+      570
+     ],
+     "words": 2206
+    },
+    {
+     "id": "c7-sci-ss-43",
+     "bookId": "c7-sci-ss",
+     "order": 43,
+     "title": "Women Empowerment",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      571,
+      577
+     ],
+     "words": 1750
+    },
+    {
+     "id": "c7-sci-ss-44",
+     "bookId": "c7-sci-ss",
+     "order": 44,
+     "title": "Market and Consumer Protection",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      578,
+      585
+     ],
+     "words": 2547
+    },
+    {
+     "id": "c7-sci-ss-45",
+     "bookId": "c7-sci-ss",
+     "order": 45,
+     "title": "Road Safety",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      586,
+      595
+     ],
+     "words": 1715
+    },
+    {
+     "id": "c7-sci-ss-46",
+     "bookId": "c7-sci-ss",
+     "order": 46,
+     "title": "Tax and its Importance",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      596,
+      608
+     ],
+     "words": 2531
+    }
+   ]
+  },
+  {
+   "id": "c7-maths",
+   "std": 7,
+   "title": "Mathematics",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c7-maths-01",
+     "bookId": "c7-maths",
+     "order": 1,
+     "title": "Number System (Term 1)",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      5,
+      36
+     ],
+     "words": 8082
+    },
+    {
+     "id": "c7-maths-02",
+     "bookId": "c7-maths",
+     "order": 2,
+     "title": "Measurements (Term 1)",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      37,
+      54
+     ],
+     "words": 5008
+    },
+    {
+     "id": "c7-maths-03",
+     "bookId": "c7-maths",
+     "order": 3,
+     "title": "Algebra (Term 1)",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      55,
+      75
+     ],
+     "words": 7049
+    },
+    {
+     "id": "c7-maths-04",
+     "bookId": "c7-maths",
+     "order": 4,
+     "title": "Direct and Inverse Proportion",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      76,
+      86
+     ],
+     "words": 3686
+    },
+    {
+     "id": "c7-maths-05",
+     "bookId": "c7-maths",
+     "order": 5,
+     "title": "Geometry (Term 1)",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      87,
+      112
+     ],
+     "words": 6919
+    },
+    {
+     "id": "c7-maths-06",
+     "bookId": "c7-maths",
+     "order": 6,
+     "title": "Information Processing (Term 1)",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      113,
+      127
+     ],
+     "words": 2381
+    },
+    {
+     "id": "c7-maths-07",
+     "bookId": "c7-maths",
+     "order": 7,
+     "title": "Number System (Term 2)",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      141,
+      160
+     ],
+     "words": 4881
+    },
+    {
+     "id": "c7-maths-08",
+     "bookId": "c7-maths",
+     "order": 8,
+     "title": "Measurements (Term 2)",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      161,
+      181
+     ],
+     "words": 6056
+    },
+    {
+     "id": "c7-maths-09",
+     "bookId": "c7-maths",
+     "order": 9,
+     "title": "Algebra (Term 2)",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      182,
+      204
+     ],
+     "words": 7437
+    },
+    {
+     "id": "c7-maths-10",
+     "bookId": "c7-maths",
+     "order": 10,
+     "title": "Geometry (Term 2)",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      205,
+      228
+     ],
+     "words": 6326
+    },
+    {
+     "id": "c7-maths-11",
+     "bookId": "c7-maths",
+     "order": 11,
+     "title": "Information Processing (Term 2)",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      229,
+      239
+     ],
+     "words": 2096
+    },
+    {
+     "id": "c7-maths-12",
+     "bookId": "c7-maths",
+     "order": 12,
+     "title": "Number System (Term 3)",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      253,
+      278
+     ],
+     "words": 6440
+    },
+    {
+     "id": "c7-maths-13",
+     "bookId": "c7-maths",
+     "order": 13,
+     "title": "Percentage and Simple Interest",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      279,
+      299
+     ],
+     "words": 5956
+    },
+    {
+     "id": "c7-maths-14",
+     "bookId": "c7-maths",
+     "order": 14,
+     "title": "Algebra (Term 3)",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      300,
+      323
+     ],
+     "words": 7634
+    },
+    {
+     "id": "c7-maths-15",
+     "bookId": "c7-maths",
+     "order": 15,
+     "title": "Geometry (Term 3)",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      324,
+      345
+     ],
+     "words": 4398
+    },
+    {
+     "id": "c7-maths-16",
+     "bookId": "c7-maths",
+     "order": 16,
+     "title": "Statistics",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      346,
+      363
+     ],
+     "words": 4977
+    },
+    {
+     "id": "c7-maths-17",
+     "bookId": "c7-maths",
+     "order": 17,
+     "title": "Information Processing (Term 3)",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      364,
+      377
+     ],
+     "words": 2567
+    }
+   ]
+  },
+  {
+   "id": "c8-sci",
+   "std": 8,
+   "title": "Science",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c8-sci-01",
+     "bookId": "c8-sci",
+     "order": 1,
+     "title": "Measurement",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      5,
+      15
+     ],
+     "words": 2899
+    },
+    {
+     "id": "c8-sci-02",
+     "bookId": "c8-sci",
+     "order": 2,
+     "title": "Force and Pressure",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      16,
+      25
+     ],
+     "words": 3410
+    },
+    {
+     "id": "c8-sci-03",
+     "bookId": "c8-sci",
+     "order": 3,
+     "title": "Light",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      26,
+      38
+     ],
+     "words": 4339
+    },
+    {
+     "id": "c8-sci-04",
+     "bookId": "c8-sci",
+     "order": 4,
+     "title": "Heat",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      39,
+      49
+     ],
+     "words": 3057
+    },
+    {
+     "id": "c8-sci-05",
+     "bookId": "c8-sci",
+     "order": 5,
+     "title": "Electricity",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      50,
+      63
+     ],
+     "words": 4933
+    },
+    {
+     "id": "c8-sci-06",
+     "bookId": "c8-sci",
+     "order": 6,
+     "title": "Sound",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      64,
+      75
+     ],
+     "words": 3537
+    },
+    {
+     "id": "c8-sci-07",
+     "bookId": "c8-sci",
+     "order": 7,
+     "title": "Magnetism",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      76,
+      86
+     ],
+     "words": 3594
+    },
+    {
+     "id": "c8-sci-08",
+     "bookId": "c8-sci",
+     "order": 8,
+     "title": "Universe and Space Science",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      87,
+      97
+     ],
+     "words": 3408
+    },
+    {
+     "id": "c8-sci-09",
+     "bookId": "c8-sci",
+     "order": 9,
+     "title": "Matter Around Us",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      98,
+      107
+     ],
+     "words": 2721
+    },
+    {
+     "id": "c8-sci-10",
+     "bookId": "c8-sci",
+     "order": 10,
+     "title": "Changes Around Us",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      108,
+      117
+     ],
+     "words": 2551
+    },
+    {
+     "id": "c8-sci-11",
+     "bookId": "c8-sci",
+     "order": 11,
+     "title": "Air",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      118,
+      127
+     ],
+     "words": 2926
+    },
+    {
+     "id": "c8-sci-12",
+     "bookId": "c8-sci",
+     "order": 12,
+     "title": "Atomic Structure",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      128,
+      142
+     ],
+     "words": 5184
+    },
+    {
+     "id": "c8-sci-13",
+     "bookId": "c8-sci",
+     "order": 13,
+     "title": "Water",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      143,
+      158
+     ],
+     "words": 5366
+    },
+    {
+     "id": "c8-sci-14",
+     "bookId": "c8-sci",
+     "order": 14,
+     "title": "Acids and Bases",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      159,
+      169
+     ],
+     "words": 3157
+    },
+    {
+     "id": "c8-sci-15",
+     "bookId": "c8-sci",
+     "order": 15,
+     "title": "Chemistry in Everyday Life",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      170,
+      183
+     ],
+     "words": 4667
+    },
+    {
+     "id": "c8-sci-16",
+     "bookId": "c8-sci",
+     "order": 16,
+     "title": "Microorganisms",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      184,
+      195
+     ],
+     "words": 3174
+    },
+    {
+     "id": "c8-sci-17",
+     "bookId": "c8-sci",
+     "order": 17,
+     "title": "Plant Kingdom",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      196,
+      208
+     ],
+     "words": 3093
+    },
+    {
+     "id": "c8-sci-18",
+     "bookId": "c8-sci",
+     "order": 18,
+     "title": "Organisation of Life",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      209,
+      221
+     ],
+     "words": 4370
+    },
+    {
+     "id": "c8-sci-19",
+     "bookId": "c8-sci",
+     "order": 19,
+     "title": "Movements in Animals",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      222,
+      235
+     ],
+     "words": 4308
+    },
+    {
+     "id": "c8-sci-20",
+     "bookId": "c8-sci",
+     "order": 20,
+     "title": "Reaching the Age of Adolescence",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      236,
+      247
+     ],
+     "words": 3507
+    },
+    {
+     "id": "c8-sci-21",
+     "bookId": "c8-sci",
+     "order": 21,
+     "title": "Crop Production and Management",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      248,
+      263
+     ],
+     "words": 4881
+    },
+    {
+     "id": "c8-sci-22",
+     "bookId": "c8-sci",
+     "order": 22,
+     "title": "Conservation of Plants and Animals",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      264,
+      279
+     ],
+     "words": 5889
+    },
+    {
+     "id": "c8-sci-23",
+     "bookId": "c8-sci",
+     "order": 23,
+     "title": "LibreOffice Calc",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      280,
+      285
+     ],
+     "words": 1734
+    }
+   ]
+  },
+  {
+   "id": "c8-ss",
+   "std": 8,
+   "title": "Social Science",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c8-ss-01",
+     "bookId": "c8-ss",
+     "order": 1,
+     "title": "Advent of the Europeans",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      7,
+      16
+     ],
+     "words": 2883
+    },
+    {
+     "id": "c8-ss-02",
+     "bookId": "c8-ss",
+     "order": 2,
+     "title": "From Trade to Territory",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      17,
+      31
+     ],
+     "words": 5529
+    },
+    {
+     "id": "c8-ss-03",
+     "bookId": "c8-ss",
+     "order": 3,
+     "title": "Rural Life and Society",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      32,
+      40
+     ],
+     "words": 2683
+    },
+    {
+     "id": "c8-ss-04",
+     "bookId": "c8-ss",
+     "order": 4,
+     "title": "People’s Revolt",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      41,
+      52
+     ],
+     "words": 4205
+    },
+    {
+     "id": "c8-ss-05",
+     "bookId": "c8-ss",
+     "order": 5,
+     "title": "Educational Development in India",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      53,
+      63
+     ],
+     "words": 3717
+    },
+    {
+     "id": "c8-ss-06",
+     "bookId": "c8-ss",
+     "order": 6,
+     "title": "Development of Industries in India",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      64,
+      72
+     ],
+     "words": 2410
+    },
+    {
+     "id": "c8-ss-07",
+     "bookId": "c8-ss",
+     "order": 7,
+     "title": "Urban Changes during the British Period",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      73,
+      81
+     ],
+     "words": 2713
+    },
+    {
+     "id": "c8-ss-08",
+     "bookId": "c8-ss",
+     "order": 8,
+     "title": "Status of Women in India through the Ages",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      82,
+      90
+     ],
+     "words": 2911
+    },
+    {
+     "id": "c8-ss-09",
+     "bookId": "c8-ss",
+     "order": 9,
+     "title": "Rocks and Soils",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      91,
+      100
+     ],
+     "words": 2484
+    },
+    {
+     "id": "c8-ss-10",
+     "bookId": "c8-ss",
+     "order": 10,
+     "title": "Weather and Climate",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      101,
+      109
+     ],
+     "words": 2802
+    },
+    {
+     "id": "c8-ss-11",
+     "bookId": "c8-ss",
+     "order": 11,
+     "title": "Hydrologic Cycle",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      110,
+      117
+     ],
+     "words": 2440
+    },
+    {
+     "id": "c8-ss-12",
+     "bookId": "c8-ss",
+     "order": 12,
+     "title": "Migration and Urbanisation",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      118,
+      127
+     ],
+     "words": 2623
+    },
+    {
+     "id": "c8-ss-13",
+     "bookId": "c8-ss",
+     "order": 13,
+     "title": "Hazards",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      128,
+      137
+     ],
+     "words": 2626
+    },
+    {
+     "id": "c8-ss-14",
+     "bookId": "c8-ss",
+     "order": 14,
+     "title": "Industries",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      138,
+      144
+     ],
+     "words": 1957
+    },
+    {
+     "id": "c8-ss-15",
+     "bookId": "c8-ss",
+     "order": 15,
+     "title": "Exploring Continents: Africa, Australia and Antarctica",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      145,
+      161
+     ],
+     "words": 5686
+    },
+    {
+     "id": "c8-ss-16",
+     "bookId": "c8-ss",
+     "order": 16,
+     "title": "Map Reading",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      162,
+      174
+     ],
+     "words": 2536
+    },
+    {
+     "id": "c8-ss-17",
+     "bookId": "c8-ss",
+     "order": 17,
+     "title": "How the State Government Works",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      175,
+      182
+     ],
+     "words": 2651
+    },
+    {
+     "id": "c8-ss-18",
+     "bookId": "c8-ss",
+     "order": 18,
+     "title": "Citizens and Citizenship",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      183,
+      187
+     ],
+     "words": 1376
+    },
+    {
+     "id": "c8-ss-19",
+     "bookId": "c8-ss",
+     "order": 19,
+     "title": "Understanding Secularism",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      188,
+      194
+     ],
+     "words": 1453
+    },
+    {
+     "id": "c8-ss-20",
+     "bookId": "c8-ss",
+     "order": 20,
+     "title": "Human Rights and UNO",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      195,
+      203
+     ],
+     "words": 2485
+    },
+    {
+     "id": "c8-ss-21",
+     "bookId": "c8-ss",
+     "order": 21,
+     "title": "Road Safety Rules and Regulations",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      204,
+      213
+     ],
+     "words": 2699
+    },
+    {
+     "id": "c8-ss-22",
+     "bookId": "c8-ss",
+     "order": 22,
+     "title": "Defence & Foreign Policy",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      214,
+      222
+     ],
+     "words": 2370
+    },
+    {
+     "id": "c8-ss-23",
+     "bookId": "c8-ss",
+     "order": 23,
+     "title": "The Judiciary",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      223,
+      231
+     ],
+     "words": 2184
+    },
+    {
+     "id": "c8-ss-24",
+     "bookId": "c8-ss",
+     "order": 24,
+     "title": "Money, Savings and Investments",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      232,
+      243
+     ],
+     "words": 2743
+    },
+    {
+     "id": "c8-ss-25",
+     "bookId": "c8-ss",
+     "order": 25,
+     "title": "Public and Private Sectors",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      244,
+      256
+     ],
+     "words": 2782
+    }
+   ]
+  },
+  {
+   "id": "c8-maths",
+   "std": 8,
+   "title": "Mathematics",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c8-maths-01",
+     "bookId": "c8-maths",
+     "order": 1,
+     "title": "Numbers",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      7,
+      55
+     ],
+     "words": 12501
+    },
+    {
+     "id": "c8-maths-02",
+     "bookId": "c8-maths",
+     "order": 2,
+     "title": "Measurements",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      56,
+      79
+     ],
+     "words": 6147
+    },
+    {
+     "id": "c8-maths-03",
+     "bookId": "c8-maths",
+     "order": 3,
+     "title": "Algebra",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      80,
+      126
+     ],
+     "words": 14075
+    },
+    {
+     "id": "c8-maths-04",
+     "bookId": "c8-maths",
+     "order": 4,
+     "title": "Life Mathematics",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      127,
+      160
+     ],
+     "words": 10781
+    },
+    {
+     "id": "c8-maths-05",
+     "bookId": "c8-maths",
+     "order": 5,
+     "title": "Geometry",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      161,
+      216
+     ],
+     "words": 12114
+    },
+    {
+     "id": "c8-maths-06",
+     "bookId": "c8-maths",
+     "order": 6,
+     "title": "Statistics",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      217,
+      237
+     ],
+     "words": 6096
+    },
+    {
+     "id": "c8-maths-07",
+     "bookId": "c8-maths",
+     "order": 7,
+     "title": "Information Processing",
+     "subject": "maths",
+     "units": [
+      "APT"
+     ],
+     "pages": [
+      238,
+      278
+     ],
+     "words": 12326
+    }
+   ]
+  },
+  {
+   "id": "c9-sci",
+   "std": 9,
+   "title": "Science",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c9-sci-01",
+     "bookId": "c9-sci",
+     "order": 1,
+     "title": "Measurement",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      5,
+      17
+     ],
+     "words": 4321
+    },
+    {
+     "id": "c9-sci-02",
+     "bookId": "c9-sci",
+     "order": 2,
+     "title": "Motion",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      18,
+      29
+     ],
+     "words": 3962
+    },
+    {
+     "id": "c9-sci-03",
+     "bookId": "c9-sci",
+     "order": 3,
+     "title": "Fluids",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      30,
+      42
+     ],
+     "words": 4627
+    },
+    {
+     "id": "c9-sci-04",
+     "bookId": "c9-sci",
+     "order": 4,
+     "title": "Electric Charge and Electric Current",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      43,
+      55
+     ],
+     "words": 4264
+    },
+    {
+     "id": "c9-sci-05",
+     "bookId": "c9-sci",
+     "order": 5,
+     "title": "Magnetism and Electromagnetism",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      56,
+      69
+     ],
+     "words": 4544
+    },
+    {
+     "id": "c9-sci-06",
+     "bookId": "c9-sci",
+     "order": 6,
+     "title": "Light",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      70,
+      83
+     ],
+     "words": 4075
+    },
+    {
+     "id": "c9-sci-07",
+     "bookId": "c9-sci",
+     "order": 7,
+     "title": "Heat",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      84,
+      94
+     ],
+     "words": 3677
+    },
+    {
+     "id": "c9-sci-08",
+     "bookId": "c9-sci",
+     "order": 8,
+     "title": "Sound",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      95,
+      105
+     ],
+     "words": 4097
+    },
+    {
+     "id": "c9-sci-09",
+     "bookId": "c9-sci",
+     "order": 9,
+     "title": "Universe",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      106,
+      116
+     ],
+     "words": 4056
+    },
+    {
+     "id": "c9-sci-10",
+     "bookId": "c9-sci",
+     "order": 10,
+     "title": "Matter Around Us",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      117,
+      128
+     ],
+     "words": 3540
+    },
+    {
+     "id": "c9-sci-11",
+     "bookId": "c9-sci",
+     "order": 11,
+     "title": "Atomic Structure",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      129,
+      141
+     ],
+     "words": 3827
+    },
+    {
+     "id": "c9-sci-12",
+     "bookId": "c9-sci",
+     "order": 12,
+     "title": "Periodic Classification of Elements",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      142,
+      151
+     ],
+     "words": 3509
+    },
+    {
+     "id": "c9-sci-13",
+     "bookId": "c9-sci",
+     "order": 13,
+     "title": "Chemical Bonding",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      152,
+      165
+     ],
+     "words": 4285
+    },
+    {
+     "id": "c9-sci-14",
+     "bookId": "c9-sci",
+     "order": 14,
+     "title": "Acids, Bases and Salts",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      166,
+      175
+     ],
+     "words": 3451
+    },
+    {
+     "id": "c9-sci-15",
+     "bookId": "c9-sci",
+     "order": 15,
+     "title": "Carbon and its Compounds",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      176,
+      188
+     ],
+     "words": 4490
+    },
+    {
+     "id": "c9-sci-16",
+     "bookId": "c9-sci",
+     "order": 16,
+     "title": "Applied Chemistry",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      189,
+      202
+     ],
+     "words": 4965
+    },
+    {
+     "id": "c9-sci-17",
+     "bookId": "c9-sci",
+     "order": 17,
+     "title": "Animal Kingdom",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      203,
+      213
+     ],
+     "words": 2824
+    },
+    {
+     "id": "c9-sci-18",
+     "bookId": "c9-sci",
+     "order": 18,
+     "title": "Organisation of Tissues",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      214,
+      229
+     ],
+     "words": 4958
+    },
+    {
+     "id": "c9-sci-19",
+     "bookId": "c9-sci",
+     "order": 19,
+     "title": "Plant Physiology",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      230,
+      236
+     ],
+     "words": 1440
+    },
+    {
+     "id": "c9-sci-20",
+     "bookId": "c9-sci",
+     "order": 20,
+     "title": "Organ Systems in Animals",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      237,
+      250
+     ],
+     "words": 4271
+    },
+    {
+     "id": "c9-sci-21",
+     "bookId": "c9-sci",
+     "order": 21,
+     "title": "Nutrition and Health",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      251,
+      261
+     ],
+     "words": 2684
+    },
+    {
+     "id": "c9-sci-22",
+     "bookId": "c9-sci",
+     "order": 22,
+     "title": "World of Microbes",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      262,
+      276
+     ],
+     "words": 4878
+    },
+    {
+     "id": "c9-sci-23",
+     "bookId": "c9-sci",
+     "order": 23,
+     "title": "Economic Biology",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      277,
+      293
+     ],
+     "words": 5206
+    },
+    {
+     "id": "c9-sci-24",
+     "bookId": "c9-sci",
+     "order": 24,
+     "title": "Environmental Science",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      294,
+      305
+     ],
+     "words": 3467
+    },
+    {
+     "id": "c9-sci-25",
+     "bookId": "c9-sci",
+     "order": 25,
+     "title": "LibreOffice Impress",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      306,
+      313
+     ],
+     "words": 1155
+    }
+   ]
+  },
+  {
+   "id": "c9-ss",
+   "std": 9,
+   "title": "Social Science",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c9-ss-01",
+     "bookId": "c9-ss",
+     "order": 1,
+     "title": "Evolution of Humans and Society - Prehistoric Period",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      9,
+      23
+     ],
+     "words": 4848
+    },
+    {
+     "id": "c9-ss-02",
+     "bookId": "c9-ss",
+     "order": 2,
+     "title": "Ancient Civilisations",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      24,
+      40
+     ],
+     "words": 5182
+    },
+    {
+     "id": "c9-ss-03",
+     "bookId": "c9-ss",
+     "order": 3,
+     "title": "Early Tamil Society and Culture",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      41,
+      60
+     ],
+     "words": 5713
+    },
+    {
+     "id": "c9-ss-04",
+     "bookId": "c9-ss",
+     "order": 4,
+     "title": "Intellectual Awakening and Socio-Political Changes",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      61,
+      73
+     ],
+     "words": 5017
+    },
+    {
+     "id": "c9-ss-05",
+     "bookId": "c9-ss",
+     "order": 5,
+     "title": "The Classical World",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      74,
+      84
+     ],
+     "words": 3139
+    },
+    {
+     "id": "c9-ss-06",
+     "bookId": "c9-ss",
+     "order": 6,
+     "title": "The Middle Ages",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      85,
+      95
+     ],
+     "words": 3495
+    },
+    {
+     "id": "c9-ss-07",
+     "bookId": "c9-ss",
+     "order": 7,
+     "title": "State and Society in Medieval India: From the Cholas to the Mughals",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      96,
+      108
+     ],
+     "words": 5224
+    },
+    {
+     "id": "c9-ss-08",
+     "bookId": "c9-ss",
+     "order": 8,
+     "title": "The Beginning of the Modern Age",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      109,
+      120
+     ],
+     "words": 3959
+    },
+    {
+     "id": "c9-ss-09",
+     "bookId": "c9-ss",
+     "order": 9,
+     "title": "The Age of Revolutions",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      121,
+      137
+     ],
+     "words": 5983
+    },
+    {
+     "id": "c9-ss-10",
+     "bookId": "c9-ss",
+     "order": 10,
+     "title": "Industrial Revolution",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      138,
+      149
+     ],
+     "words": 3649
+    },
+    {
+     "id": "c9-ss-11",
+     "bookId": "c9-ss",
+     "order": 11,
+     "title": "Colonialism in Asia and Africa",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      150,
+      164
+     ],
+     "words": 4256
+    },
+    {
+     "id": "c9-ss-12",
+     "bookId": "c9-ss",
+     "order": 12,
+     "title": "Lithosphere – I: Endogenetic Processes",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      165,
+      174
+     ],
+     "words": 2825
+    },
+    {
+     "id": "c9-ss-13",
+     "bookId": "c9-ss",
+     "order": 13,
+     "title": "Lithosphere – II: Exogenetic Processes",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      175,
+      187
+     ],
+     "words": 3386
+    },
+    {
+     "id": "c9-ss-14",
+     "bookId": "c9-ss",
+     "order": 14,
+     "title": "Atmosphere",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      188,
+      199
+     ],
+     "words": 3764
+    },
+    {
+     "id": "c9-ss-15",
+     "bookId": "c9-ss",
+     "order": 15,
+     "title": "Hydrosphere",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      200,
+      209
+     ],
+     "words": 2639
+    },
+    {
+     "id": "c9-ss-16",
+     "bookId": "c9-ss",
+     "order": 16,
+     "title": "Biosphere",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      210,
+      217
+     ],
+     "words": 2249
+    },
+    {
+     "id": "c9-ss-17",
+     "bookId": "c9-ss",
+     "order": 17,
+     "title": "Man and Environment",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      218,
+      227
+     ],
+     "words": 3129
+    },
+    {
+     "id": "c9-ss-18",
+     "bookId": "c9-ss",
+     "order": 18,
+     "title": "Mapping Skills",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      228,
+      237
+     ],
+     "words": 2807
+    },
+    {
+     "id": "c9-ss-19",
+     "bookId": "c9-ss",
+     "order": 19,
+     "title": "Disaster Management: Responding to Disasters",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      238,
+      245
+     ],
+     "words": 2099
+    },
+    {
+     "id": "c9-ss-20",
+     "bookId": "c9-ss",
+     "order": 20,
+     "title": "Forms of Government and Democracy",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      246,
+      253
+     ],
+     "words": 1648
+    },
+    {
+     "id": "c9-ss-21",
+     "bookId": "c9-ss",
+     "order": 21,
+     "title": "Election, Political Parties and Pressure Groups",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      254,
+      260
+     ],
+     "words": 2219
+    },
+    {
+     "id": "c9-ss-22",
+     "bookId": "c9-ss",
+     "order": 22,
+     "title": "Human Rights",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      261,
+      272
+     ],
+     "words": 4289
+    },
+    {
+     "id": "c9-ss-23",
+     "bookId": "c9-ss",
+     "order": 23,
+     "title": "Forms of Government",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      273,
+      278
+     ],
+     "words": 1815
+    },
+    {
+     "id": "c9-ss-24",
+     "bookId": "c9-ss",
+     "order": 24,
+     "title": "Local Self Government",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      279,
+      286
+     ],
+     "words": 2264
+    },
+    {
+     "id": "c9-ss-25",
+     "bookId": "c9-ss",
+     "order": 25,
+     "title": "Road Safety",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      287,
+      292
+     ],
+     "words": 650
+    },
+    {
+     "id": "c9-ss-26",
+     "bookId": "c9-ss",
+     "order": 26,
+     "title": "Understanding Development: Perspectives, Measurement and Sustainability",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      293,
+      300
+     ],
+     "words": 1961
+    },
+    {
+     "id": "c9-ss-27",
+     "bookId": "c9-ss",
+     "order": 27,
+     "title": "Employment in India and Tamil Nadu",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      301,
+      307
+     ],
+     "words": 1156
+    },
+    {
+     "id": "c9-ss-28",
+     "bookId": "c9-ss",
+     "order": 28,
+     "title": "Money and Credit",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      308,
+      314
+     ],
+     "words": 2104
+    },
+    {
+     "id": "c9-ss-29",
+     "bookId": "c9-ss",
+     "order": 29,
+     "title": "Agriculture in Tamil Nadu",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      315,
+      320
+     ],
+     "words": 1748
+    },
+    {
+     "id": "c9-ss-30",
+     "bookId": "c9-ss",
+     "order": 30,
+     "title": "Migration",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      321,
+      328
+     ],
+     "words": 1918
+    }
+   ]
+  },
+  {
+   "id": "c10-sci",
+   "std": 10,
+   "title": "Science",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c10-sci-01",
+     "bookId": "c10-sci",
+     "order": 1,
+     "title": "Laws of Motion",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      9,
+      23
+     ],
+     "words": 6829
+    },
+    {
+     "id": "c10-sci-02",
+     "bookId": "c10-sci",
+     "order": 2,
+     "title": "Optics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      24,
+      39
+     ],
+     "words": 6765
+    },
+    {
+     "id": "c10-sci-03",
+     "bookId": "c10-sci",
+     "order": 3,
+     "title": "Thermal Physics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      40,
+      49
+     ],
+     "words": 3975
+    },
+    {
+     "id": "c10-sci-04",
+     "bookId": "c10-sci",
+     "order": 4,
+     "title": "Electricity",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      50,
+      66
+     ],
+     "words": 6766
+    },
+    {
+     "id": "c10-sci-05",
+     "bookId": "c10-sci",
+     "order": 5,
+     "title": "Acoustics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      67,
+      81
+     ],
+     "words": 5758
+    },
+    {
+     "id": "c10-sci-06",
+     "bookId": "c10-sci",
+     "order": 6,
+     "title": "Nuclear Physics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      82,
+      98
+     ],
+     "words": 6707
+    },
+    {
+     "id": "c10-sci-07",
+     "bookId": "c10-sci",
+     "order": 7,
+     "title": "Atoms and Molecules",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      99,
+      113
+     ],
+     "words": 5918
+    },
+    {
+     "id": "c10-sci-08",
+     "bookId": "c10-sci",
+     "order": 8,
+     "title": "Periodic Classification of Elements",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      114,
+      131
+     ],
+     "words": 7202
+    },
+    {
+     "id": "c10-sci-09",
+     "bookId": "c10-sci",
+     "order": 9,
+     "title": "Solutions",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      132,
+      144
+     ],
+     "words": 4540
+    },
+    {
+     "id": "c10-sci-10",
+     "bookId": "c10-sci",
+     "order": 10,
+     "title": "Types of Chemical Reactions",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      145,
+      162
+     ],
+     "words": 7338
+    },
+    {
+     "id": "c10-sci-11",
+     "bookId": "c10-sci",
+     "order": 11,
+     "title": "Carbon and its Compounds",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      163,
+      180
+     ],
+     "words": 6461
+    },
+    {
+     "id": "c10-sci-12",
+     "bookId": "c10-sci",
+     "order": 12,
+     "title": "Plant Anatomy and Plant Physiology",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      181,
+      194
+     ],
+     "words": 4347
+    },
+    {
+     "id": "c10-sci-13",
+     "bookId": "c10-sci",
+     "order": 13,
+     "title": "Structural Organisation of Animals",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      195,
+      207
+     ],
+     "words": 4245
+    },
+    {
+     "id": "c10-sci-14",
+     "bookId": "c10-sci",
+     "order": 14,
+     "title": "Transportation in Plants and Circulation in Animals",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      208,
+      225
+     ],
+     "words": 6648
+    },
+    {
+     "id": "c10-sci-15",
+     "bookId": "c10-sci",
+     "order": 15,
+     "title": "Nervous System",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      226,
+      236
+     ],
+     "words": 3969
+    },
+    {
+     "id": "c10-sci-16",
+     "bookId": "c10-sci",
+     "order": 16,
+     "title": "Plant and Animal Hormones",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      237,
+      250
+     ],
+     "words": 4694
+    },
+    {
+     "id": "c10-sci-17",
+     "bookId": "c10-sci",
+     "order": 17,
+     "title": "Reproduction in Plants and Animals",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      251,
+      268
+     ],
+     "words": 6360
+    },
+    {
+     "id": "c10-sci-18",
+     "bookId": "c10-sci",
+     "order": 18,
+     "title": "Genetics",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      269,
+      281
+     ],
+     "words": 4762
+    },
+    {
+     "id": "c10-sci-19",
+     "bookId": "c10-sci",
+     "order": 19,
+     "title": "Origin and Evolution of Life",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      282,
+      293
+     ],
+     "words": 4022
+    },
+    {
+     "id": "c10-sci-20",
+     "bookId": "c10-sci",
+     "order": 20,
+     "title": "Breeding and Biotechnology",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      294,
+      307
+     ],
+     "words": 4649
+    },
+    {
+     "id": "c10-sci-21",
+     "bookId": "c10-sci",
+     "order": 21,
+     "title": "Health and Diseases",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      308,
+      322
+     ],
+     "words": 5697
+    },
+    {
+     "id": "c10-sci-22",
+     "bookId": "c10-sci",
+     "order": 22,
+     "title": "Environmental Management",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      323,
+      336
+     ],
+     "words": 5418
+    },
+    {
+     "id": "c10-sci-23",
+     "bookId": "c10-sci",
+     "order": 23,
+     "title": "Visual Communication",
+     "subject": "science",
+     "units": [
+      "GS1"
+     ],
+     "pages": [
+      337,
+      341
+     ],
+     "words": 1186
+    }
+   ]
+  },
+  {
+   "id": "c10-ss",
+   "std": 10,
+   "title": "Social Science",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c10-ss-01",
+     "bookId": "c10-ss",
+     "order": 1,
+     "title": "Outbreak of World War I and Its Aftermath",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      7,
+      21
+     ],
+     "words": 5876,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-02",
+     "bookId": "c10-ss",
+     "order": 2,
+     "title": "The World between Two World Wars",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      22,
+      32
+     ],
+     "words": 4178,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-03",
+     "bookId": "c10-ss",
+     "order": 3,
+     "title": "World War II",
+     "subject": "history",
+     "units": [
+      "GS3",
+      "GS4"
+     ],
+     "pages": [
+      33,
+      45
+     ],
+     "words": 4803,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-04",
+     "bookId": "c10-ss",
+     "order": 4,
+     "title": "The World After World War II",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      46,
+      58
+     ],
+     "words": 5547,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-05",
+     "bookId": "c10-ss",
+     "order": 5,
+     "title": "Social and Religious Reform Movements in the 19th Century",
+     "subject": "history",
+     "units": [
+      "GS3",
+      "GS6"
+     ],
+     "pages": [
+      59,
+      68
+     ],
+     "words": 3279,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-06",
+     "bookId": "c10-ss",
+     "order": 6,
+     "title": "Early Revolts against British Rule in Tamil Nadu",
+     "subject": "history",
+     "units": [
+      "GS6",
+      "GS3"
+     ],
+     "pages": [
+      69,
+      80
+     ],
+     "words": 3894,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-07",
+     "bookId": "c10-ss",
+     "order": 7,
+     "title": "Anti-Colonial Movements and the Birth of Nationalism",
+     "subject": "history",
+     "units": [
+      "GS3",
+      "GS6"
+     ],
+     "pages": [
+      81,
+      94
+     ],
+     "words": 4705,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-08",
+     "bookId": "c10-ss",
+     "order": 8,
+     "title": "Nationalism: Gandhian Phase",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      95,
+      110
+     ],
+     "words": 5924,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-09",
+     "bookId": "c10-ss",
+     "order": 9,
+     "title": "Freedom Struggle in Tamil Nadu",
+     "subject": "history",
+     "units": [
+      "GS6",
+      "GS3"
+     ],
+     "pages": [
+      111,
+      120
+     ],
+     "words": 3524,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-10",
+     "bookId": "c10-ss",
+     "order": 10,
+     "title": "Social Transformation in Tamil Nadu",
+     "subject": "history",
+     "units": [
+      "GS6"
+     ],
+     "pages": [
+      121,
+      134
+     ],
+     "words": 3760,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-11",
+     "bookId": "c10-ss",
+     "order": 11,
+     "title": "India – Location, Relief and Drainage",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      135,
+      149
+     ],
+     "words": 5379,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-12",
+     "bookId": "c10-ss",
+     "order": 12,
+     "title": "Climate and Natural Vegetation of India",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      150,
+      159
+     ],
+     "words": 3258,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-13",
+     "bookId": "c10-ss",
+     "order": 13,
+     "title": "India – Agriculture",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      160,
+      175
+     ],
+     "words": 4645,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-14",
+     "bookId": "c10-ss",
+     "order": 14,
+     "title": "India – Resources and Industries",
+     "subject": "geography",
+     "units": [
+      "GS2",
+      "GS5"
+     ],
+     "pages": [
+      176,
+      191
+     ],
+     "words": 5020,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-15",
+     "bookId": "c10-ss",
+     "order": 15,
+     "title": "India – Population, Transport, Communication and Trade",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      192,
+      205
+     ],
+     "words": 4838,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-16",
+     "bookId": "c10-ss",
+     "order": 16,
+     "title": "Physical Geography of Tamil Nadu",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      206,
+      224
+     ],
+     "words": 6212,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-17",
+     "bookId": "c10-ss",
+     "order": 17,
+     "title": "Human Geography of Tamil Nadu",
+     "subject": "geography",
+     "units": [
+      "GS2",
+      "GS5"
+     ],
+     "pages": [
+      225,
+      244
+     ],
+     "words": 4688,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-18",
+     "bookId": "c10-ss",
+     "order": 18,
+     "title": "Indian Constitution",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      245,
+      253
+     ],
+     "words": 3247,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-19",
+     "bookId": "c10-ss",
+     "order": 19,
+     "title": "Central Government",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      254,
+      264
+     ],
+     "words": 4118,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-20",
+     "bookId": "c10-ss",
+     "order": 20,
+     "title": "State Government",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      265,
+      274
+     ],
+     "words": 3646,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-21",
+     "bookId": "c10-ss",
+     "order": 21,
+     "title": "India’s Foreign Policy",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      275,
+      283
+     ],
+     "words": 2284,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-22",
+     "bookId": "c10-ss",
+     "order": 22,
+     "title": "India’s International Relations",
+     "subject": "civics",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      284,
+      297
+     ],
+     "words": 3971,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-23",
+     "bookId": "c10-ss",
+     "order": 23,
+     "title": "Gross Domestic Product and its Growth: an Introduction",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      298,
+      308
+     ],
+     "words": 3547,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-24",
+     "bookId": "c10-ss",
+     "order": 24,
+     "title": "Globalization and Trade",
+     "subject": "economics",
+     "units": [
+      "GS5",
+      "GS3"
+     ],
+     "pages": [
+      309,
+      316
+     ],
+     "words": 2622,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-25",
+     "bookId": "c10-ss",
+     "order": 25,
+     "title": "Food Security and Nutrition",
+     "subject": "economics",
+     "units": [
+      "GS5",
+      "GS1"
+     ],
+     "pages": [
+      317,
+      326
+     ],
+     "words": 3106,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-26",
+     "bookId": "c10-ss",
+     "order": 26,
+     "title": "Government and Taxes",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      327,
+      333
+     ],
+     "words": 2426,
+     "relevant": true,
+     "enriched": true
+    },
+    {
+     "id": "c10-ss-27",
+     "bookId": "c10-ss",
+     "order": 27,
+     "title": "Industrial Clusters in Tamil Nadu",
+     "subject": "economics",
+     "units": [
+      "GS5"
+     ],
+     "pages": [
+      334,
+      344
+     ],
+     "words": 3709,
+     "relevant": true,
+     "enriched": true
+    }
+   ]
+  },
+  {
+   "id": "c11-his",
+   "std": 11,
+   "title": "History",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c11-his-01",
+     "bookId": "c11-his",
+     "order": 1,
+     "title": "Early India: From the Beginnings to the Indus Civilisation",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      5,
+      21
+     ],
+     "words": 7021
+    },
+    {
+     "id": "c11-his-02",
+     "bookId": "c11-his",
+     "order": 2,
+     "title": "Early India: The Chalcolithic, Megalithic, Iron Age and Vedic Cultures",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      22,
+      38
+     ],
+     "words": 8270
+    },
+    {
+     "id": "c11-his-03",
+     "bookId": "c11-his",
+     "order": 3,
+     "title": "Rise of Territorial Kingdoms and New Religious Sects",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      39,
+      51
+     ],
+     "words": 5543
+    },
+    {
+     "id": "c11-his-04",
+     "bookId": "c11-his",
+     "order": 4,
+     "title": "Emergence of State and Empire",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      52,
+      68
+     ],
+     "words": 7543
+    },
+    {
+     "id": "c11-his-05",
+     "bookId": "c11-his",
+     "order": 5,
+     "title": "Evolution of Society in South India",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      69,
+      80
+     ],
+     "words": 4383
+    },
+    {
+     "id": "c11-his-06",
+     "bookId": "c11-his",
+     "order": 6,
+     "title": "Polity and Society in Post-Mauryan Period",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      81,
+      92
+     ],
+     "words": 5007
+    },
+    {
+     "id": "c11-his-07",
+     "bookId": "c11-his",
+     "order": 7,
+     "title": "The Guptas",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      93,
+      107
+     ],
+     "words": 5949
+    },
+    {
+     "id": "c11-his-08",
+     "bookId": "c11-his",
+     "order": 8,
+     "title": "Harsha and Rise of Regional Kingdoms",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      108,
+      120
+     ],
+     "words": 5379
+    },
+    {
+     "id": "c11-his-09",
+     "bookId": "c11-his",
+     "order": 9,
+     "title": "Cultural Development in South India",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      121,
+      138
+     ],
+     "words": 8077
+    },
+    {
+     "id": "c11-his-10",
+     "bookId": "c11-his",
+     "order": 10,
+     "title": "Advent of Arabs and Turks",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      139,
+      158
+     ],
+     "words": 9756
+    },
+    {
+     "id": "c11-his-11",
+     "bookId": "c11-his",
+     "order": 11,
+     "title": "Later Cholas and Pandyas",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      159,
+      178
+     ],
+     "words": 8711
+    },
+    {
+     "id": "c11-his-12",
+     "bookId": "c11-his",
+     "order": 12,
+     "title": "Bahmani and Vijayanagar Kingdoms",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      179,
+      193
+     ],
+     "words": 6539
+    },
+    {
+     "id": "c11-his-13",
+     "bookId": "c11-his",
+     "order": 13,
+     "title": "Cultural Syncretism: Bhakti Movement in India",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      194,
+      202
+     ],
+     "words": 3475
+    },
+    {
+     "id": "c11-his-14",
+     "bookId": "c11-his",
+     "order": 14,
+     "title": "The Mughal Empire",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      203,
+      228
+     ],
+     "words": 11035
+    },
+    {
+     "id": "c11-his-15",
+     "bookId": "c11-his",
+     "order": 15,
+     "title": "The Marathas",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      229,
+      246
+     ],
+     "words": 7842
+    },
+    {
+     "id": "c11-his-16",
+     "bookId": "c11-his",
+     "order": 16,
+     "title": "The Coming of the Europeans",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      247,
+      267
+     ],
+     "words": 9172
+    },
+    {
+     "id": "c11-his-17",
+     "bookId": "c11-his",
+     "order": 17,
+     "title": "Effects of British Rule",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      268,
+      282
+     ],
+     "words": 6771
+    },
+    {
+     "id": "c11-his-18",
+     "bookId": "c11-his",
+     "order": 18,
+     "title": "Early Resistance to British Rule",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      283,
+      301
+     ],
+     "words": 9605
+    },
+    {
+     "id": "c11-his-19",
+     "bookId": "c11-his",
+     "order": 19,
+     "title": "Towards Modernity",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      302,
+      313
+     ],
+     "words": 5279
+    }
+   ]
+  },
+  {
+   "id": "c11-geo",
+   "std": 11,
+   "title": "Geography",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c11-geo-01",
+     "bookId": "c11-geo",
+     "order": 1,
+     "title": "Fundamentals of Geography",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      7,
+      26
+     ],
+     "words": 6152
+    },
+    {
+     "id": "c11-geo-02",
+     "bookId": "c11-geo",
+     "order": 2,
+     "title": "The Solar System and the Earth",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      27,
+      56
+     ],
+     "words": 9428
+    },
+    {
+     "id": "c11-geo-03",
+     "bookId": "c11-geo",
+     "order": 3,
+     "title": "Lithosphere: Endogenic Processes",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      57,
+      83
+     ],
+     "words": 6556
+    },
+    {
+     "id": "c11-geo-04",
+     "bookId": "c11-geo",
+     "order": 4,
+     "title": "Lithosphere: Exogenic Processes",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      84,
+      110
+     ],
+     "words": 6812
+    },
+    {
+     "id": "c11-geo-05",
+     "bookId": "c11-geo",
+     "order": 5,
+     "title": "Hydrosphere",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      111,
+      142
+     ],
+     "words": 8992
+    },
+    {
+     "id": "c11-geo-06",
+     "bookId": "c11-geo",
+     "order": 6,
+     "title": "Atmosphere",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      143,
+      182
+     ],
+     "words": 11026
+    },
+    {
+     "id": "c11-geo-07",
+     "bookId": "c11-geo",
+     "order": 7,
+     "title": "The Biosphere",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      183,
+      223
+     ],
+     "words": 10169
+    },
+    {
+     "id": "c11-geo-08",
+     "bookId": "c11-geo",
+     "order": 8,
+     "title": "Natural Disasters: Public Awareness for Disaster Risk Reduction",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      224,
+      236
+     ],
+     "words": 3362
+    },
+    {
+     "id": "c11-geo-09",
+     "bookId": "c11-geo",
+     "order": 9,
+     "title": "Maps and Scale",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      237,
+      249
+     ],
+     "words": 1918
+    },
+    {
+     "id": "c11-geo-10",
+     "bookId": "c11-geo",
+     "order": 10,
+     "title": "Representation of Relief Features and Climatic Data",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      250,
+      259
+     ],
+     "words": 1907
+    },
+    {
+     "id": "c11-geo-11",
+     "bookId": "c11-geo",
+     "order": 11,
+     "title": "Interpretation of Topographical Map",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      260,
+      268
+     ],
+     "words": 2481
+    },
+    {
+     "id": "c11-geo-12",
+     "bookId": "c11-geo",
+     "order": 12,
+     "title": "Weather Maps",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      269,
+      283
+     ],
+     "words": 4257
+    },
+    {
+     "id": "c11-geo-13",
+     "bookId": "c11-geo",
+     "order": 13,
+     "title": "Field Work and Report Writing",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      284,
+      289
+     ],
+     "words": 2242
+    }
+   ]
+  },
+  {
+   "id": "c11-pol",
+   "std": 11,
+   "title": "Political Science",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c11-pol-01",
+     "bookId": "c11-pol",
+     "order": 1,
+     "title": "Introduction to Political Science",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      11,
+      27
+     ],
+     "words": 5627
+    },
+    {
+     "id": "c11-pol-02",
+     "bookId": "c11-pol",
+     "order": 2,
+     "title": "State",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      28,
+      39
+     ],
+     "words": 3683
+    },
+    {
+     "id": "c11-pol-03",
+     "bookId": "c11-pol",
+     "order": 3,
+     "title": "Basic Concepts of Political Science Part I",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      40,
+      56
+     ],
+     "words": 5646
+    },
+    {
+     "id": "c11-pol-04",
+     "bookId": "c11-pol",
+     "order": 4,
+     "title": "Basic Concepts of Political Science Part II",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      57,
+      74
+     ],
+     "words": 5825
+    },
+    {
+     "id": "c11-pol-05",
+     "bookId": "c11-pol",
+     "order": 5,
+     "title": "Democracy",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      75,
+      95
+     ],
+     "words": 6401
+    },
+    {
+     "id": "c11-pol-06",
+     "bookId": "c11-pol",
+     "order": 6,
+     "title": "Forms of Government",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      96,
+      115
+     ],
+     "words": 5409
+    },
+    {
+     "id": "c11-pol-07",
+     "bookId": "c11-pol",
+     "order": 7,
+     "title": "Political Thought",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      116,
+      144
+     ],
+     "words": 11443
+    },
+    {
+     "id": "c11-pol-08",
+     "bookId": "c11-pol",
+     "order": 8,
+     "title": "Political Ideologies – Part I",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      145,
+      176
+     ],
+     "words": 11347
+    },
+    {
+     "id": "c11-pol-09",
+     "bookId": "c11-pol",
+     "order": 9,
+     "title": "Political Ideologies – Part II",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      177,
+      196
+     ],
+     "words": 5923
+    },
+    {
+     "id": "c11-pol-10",
+     "bookId": "c11-pol",
+     "order": 10,
+     "title": "Public Opinion and Party System",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      197,
+      210
+     ],
+     "words": 3816
+    },
+    {
+     "id": "c11-pol-11",
+     "bookId": "c11-pol",
+     "order": 11,
+     "title": "Election and Representation",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      211,
+      231
+     ],
+     "words": 5293
+    },
+    {
+     "id": "c11-pol-12",
+     "bookId": "c11-pol",
+     "order": 12,
+     "title": "Local Governments",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      232,
+      253
+     ],
+     "words": 7813
+    },
+    {
+     "id": "c11-pol-13",
+     "bookId": "c11-pol",
+     "order": 13,
+     "title": "Social Justice",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      254,
+      273
+     ],
+     "words": 7336
+    },
+    {
+     "id": "c11-pol-14",
+     "bookId": "c11-pol",
+     "order": 14,
+     "title": "Political Developments in Tamil Nadu",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      274,
+      289
+     ],
+     "words": 3650
+    },
+    {
+     "id": "c11-pol-15",
+     "bookId": "c11-pol",
+     "order": 15,
+     "title": "Tamil Nadu Political Thought",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      290,
+      309
+     ],
+     "words": 7225
+    }
+   ]
+  },
+  {
+   "id": "c12-his",
+   "std": 12,
+   "title": "History",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c12-his-01",
+     "bookId": "c12-his",
+     "order": 1,
+     "title": "Rise of Nationalism in India",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      5,
+      19
+     ],
+     "words": 5530
+    },
+    {
+     "id": "c12-his-02",
+     "bookId": "c12-his",
+     "order": 2,
+     "title": "Rise of Extremism and Swadeshi Movement",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      20,
+      34
+     ],
+     "words": 5985
+    },
+    {
+     "id": "c12-his-03",
+     "bookId": "c12-his",
+     "order": 3,
+     "title": "Impact of World War I on Indian Freedom Movement",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      35,
+      45
+     ],
+     "words": 4438
+    },
+    {
+     "id": "c12-his-04",
+     "bookId": "c12-his",
+     "order": 4,
+     "title": "Advent of Gandhi and Mass Mobilisation",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      46,
+      64
+     ],
+     "words": 6609
+    },
+    {
+     "id": "c12-his-05",
+     "bookId": "c12-his",
+     "order": 5,
+     "title": "Period of Radicalism in Anti-imperialist Struggles",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      65,
+      76
+     ],
+     "words": 5035
+    },
+    {
+     "id": "c12-his-06",
+     "bookId": "c12-his",
+     "order": 6,
+     "title": "Communalism in Nationalist Politics",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      77,
+      87
+     ],
+     "words": 4261
+    },
+    {
+     "id": "c12-his-07",
+     "bookId": "c12-his",
+     "order": 7,
+     "title": "Last Phase of Indian National Movement",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      88,
+      103
+     ],
+     "words": 6375
+    },
+    {
+     "id": "c12-his-08",
+     "bookId": "c12-his",
+     "order": 8,
+     "title": "Reconstruction of Post-colonial India",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      104,
+      118
+     ],
+     "words": 6095
+    },
+    {
+     "id": "c12-his-09",
+     "bookId": "c12-his",
+     "order": 9,
+     "title": "Envisioning a New Socio-Economic Order",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      119,
+      133
+     ],
+     "words": 6810
+    },
+    {
+     "id": "c12-his-10",
+     "bookId": "c12-his",
+     "order": 10,
+     "title": "Modern World: The Age of Reason",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      134,
+      154
+     ],
+     "words": 8080
+    },
+    {
+     "id": "c12-his-11",
+     "bookId": "c12-his",
+     "order": 11,
+     "title": "The Age of Revolutions",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      155,
+      179
+     ],
+     "words": 10639
+    },
+    {
+     "id": "c12-his-12",
+     "bookId": "c12-his",
+     "order": 12,
+     "title": "Europe in Turmoil",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      180,
+      198
+     ],
+     "words": 7249
+    },
+    {
+     "id": "c12-his-13",
+     "bookId": "c12-his",
+     "order": 13,
+     "title": "Imperialism and its Onslaught",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      199,
+      222
+     ],
+     "words": 10531
+    },
+    {
+     "id": "c12-his-14",
+     "bookId": "c12-his",
+     "order": 14,
+     "title": "Outbreak of World War II and its Impact in Colonies",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      223,
+      247
+     ],
+     "words": 10007
+    },
+    {
+     "id": "c12-his-15",
+     "bookId": "c12-his",
+     "order": 15,
+     "title": "The World after World War II",
+     "subject": "history",
+     "units": [
+      "GS3"
+     ],
+     "pages": [
+      248,
+      268
+     ],
+     "words": 7206
+    }
+   ]
+  },
+  {
+   "id": "c12-geo",
+   "std": 12,
+   "title": "Geography",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c12-geo-01",
+     "bookId": "c12-geo",
+     "order": 1,
+     "title": "Population Geography",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      9,
+      29
+     ],
+     "words": 6192
+    },
+    {
+     "id": "c12-geo-02",
+     "bookId": "c12-geo",
+     "order": 2,
+     "title": "Human Settlements",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      30,
+      48
+     ],
+     "words": 6047
+    },
+    {
+     "id": "c12-geo-03",
+     "bookId": "c12-geo",
+     "order": 3,
+     "title": "Resources",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      49,
+      69
+     ],
+     "words": 5283
+    },
+    {
+     "id": "c12-geo-04",
+     "bookId": "c12-geo",
+     "order": 4,
+     "title": "Economic Activities",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      70,
+      93
+     ],
+     "words": 5363
+    },
+    {
+     "id": "c12-geo-05",
+     "bookId": "c12-geo",
+     "order": 5,
+     "title": "Cultural and Political Geography",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      94,
+      117
+     ],
+     "words": 8086
+    },
+    {
+     "id": "c12-geo-06",
+     "bookId": "c12-geo",
+     "order": 6,
+     "title": "Geoinformatics",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      118,
+      137
+     ],
+     "words": 5323
+    },
+    {
+     "id": "c12-geo-07",
+     "bookId": "c12-geo",
+     "order": 7,
+     "title": "Sustainable Development",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      138,
+      152
+     ],
+     "words": 4700
+    },
+    {
+     "id": "c12-geo-08",
+     "bookId": "c12-geo",
+     "order": 8,
+     "title": "Man-Made Disasters: Public Awareness for Disaster Risk Reduction",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      153,
+      166
+     ],
+     "words": 4494
+    },
+    {
+     "id": "c12-geo-09",
+     "bookId": "c12-geo",
+     "order": 9,
+     "title": "Surveying",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      167,
+      171
+     ],
+     "words": 841
+    },
+    {
+     "id": "c12-geo-10",
+     "bookId": "c12-geo",
+     "order": 10,
+     "title": "Map Projection",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      172,
+      184
+     ],
+     "words": 2134
+    },
+    {
+     "id": "c12-geo-11",
+     "bookId": "c12-geo",
+     "order": 11,
+     "title": "Thematic Mapping",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      185,
+      193
+     ],
+     "words": 1594
+    },
+    {
+     "id": "c12-geo-12",
+     "bookId": "c12-geo",
+     "order": 12,
+     "title": "Representation of Geographical Data",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      194,
+      202
+     ],
+     "words": 1686
+    },
+    {
+     "id": "c12-geo-13",
+     "bookId": "c12-geo",
+     "order": 13,
+     "title": "Statistical Techniques",
+     "subject": "geography",
+     "units": [
+      "GS2"
+     ],
+     "pages": [
+      203,
+      211
+     ],
+     "words": 2003
+    }
+   ]
+  },
+  {
+   "id": "c12-pol",
+   "std": 12,
+   "title": "Political Science",
+   "source": "TN SCERT",
+   "chapters": [
+    {
+     "id": "c12-pol-01",
+     "bookId": "c12-pol",
+     "order": 1,
+     "title": "Constitution of India",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      9,
+      24
+     ],
+     "words": 4485
+    },
+    {
+     "id": "c12-pol-02",
+     "bookId": "c12-pol",
+     "order": 2,
+     "title": "Legislature",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      25,
+      49
+     ],
+     "words": 8329
+    },
+    {
+     "id": "c12-pol-03",
+     "bookId": "c12-pol",
+     "order": 3,
+     "title": "Executive",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      50,
+      70
+     ],
+     "words": 6672
+    },
+    {
+     "id": "c12-pol-04",
+     "bookId": "c12-pol",
+     "order": 4,
+     "title": "Indian Judiciary",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      71,
+      91
+     ],
+     "words": 7280
+    },
+    {
+     "id": "c12-pol-05",
+     "bookId": "c12-pol",
+     "order": 5,
+     "title": "Federalism in India",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      92,
+      114
+     ],
+     "words": 7330
+    },
+    {
+     "id": "c12-pol-06",
+     "bookId": "c12-pol",
+     "order": 6,
+     "title": "Administrative Machinery in India",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      115,
+      140
+     ],
+     "words": 7559
+    },
+    {
+     "id": "c12-pol-07",
+     "bookId": "c12-pol",
+     "order": 7,
+     "title": "Challenges of Nation Building",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      141,
+      167
+     ],
+     "words": 7869
+    },
+    {
+     "id": "c12-pol-08",
+     "bookId": "c12-pol",
+     "order": 8,
+     "title": "Planning and Development Politics",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      168,
+      195
+     ],
+     "words": 10220
+    },
+    {
+     "id": "c12-pol-09",
+     "bookId": "c12-pol",
+     "order": 9,
+     "title": "India and the World",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      196,
+      215
+     ],
+     "words": 7803
+    },
+    {
+     "id": "c12-pol-10",
+     "bookId": "c12-pol",
+     "order": 10,
+     "title": "India and its Neighbours",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      216,
+      256
+     ],
+     "words": 9160
+    },
+    {
+     "id": "c12-pol-11",
+     "bookId": "c12-pol",
+     "order": 11,
+     "title": "International Organisations",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      257,
+      284
+     ],
+     "words": 10446
+    },
+    {
+     "id": "c12-pol-12",
+     "bookId": "c12-pol",
+     "order": 12,
+     "title": "Environmental Concerns and Globalisation",
+     "subject": "political-science",
+     "units": [
+      "GS4"
+     ],
+     "pages": [
+      285,
+      309
+     ],
+     "words": 8670
+    }
+   ]
+  }
+ ]
+}

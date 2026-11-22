@@ -1,0 +1,416 @@
+[
+ {
+  "id": "10a4fe6f-b9bb-593e-ab41-298a46c74987",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "According to the chapter, which factor produced a new English-educated middle class that later took a lead in political and reform movements?",
+  "options": [
+   "English education introduced with the object of producing clerks",
+   "The establishment of Khalsa College in Amritsar",
+   "The revival of Buddhist studies by the Theosophical Society",
+   "The founding of the Deoband school in Saharanpur"
+  ],
+  "answer_index": 0,
+  "explanation": "The introduction states that English education, introduced to produce clerks, also produced a new English-educated middle class, which began to lead political and reform movements.",
+  "source_page": 59,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3a97c192-0856-5d19-9270-3fe07ed5802a",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Which of the following pairs is correctly classified as per the chapter’s division of nineteenth-century religious reform movements?",
+  "options": [
+   "Brahmo Samaj and Arya Samaj — both reformist movements",
+   "Prarthana Samaj and Aligarh Movement — reformist movements",
+   "Ramakrishna Mission and Brahmo Samaj — both revivalist movements",
+   "Deoband Movement and Aligarh Movement — both reformist movements"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter classifies Brahmo Samaj, Prarthana Samaj and Aligarh Movement as reformist, while Arya Samaj, Ramakrishna Mission and Deoband Movement are listed as revivalist.",
+  "source_page": 59,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "84fbd336-0f12-5c81-8cd3-2af93cba9506",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Which statement about Raja Rammohan Roy is correct?",
+  "options": [
+   "He rejected English language and western sciences in schools and colleges.",
+   "He held that ancient Hindu texts preached polytheism and idol worship.",
+   "He was influenced by monotheism and anti-idolatry in his religio-philosophical outlook.",
+   "He founded the Prarthana Samaj in Bombay in 1867."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says Rammohan Roy was deeply influenced by monotheism and anti-idolatry and argued that ancient Hindu texts preached worship of one God.",
+  "source_page": 59,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "21843a6b-ca3e-5a46-9a97-f724444dbb9d",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Raja Rammohan Roy’s campaign against sati played a key role in which event?",
+  "options": [
+   "The founding of the Deccan Education Society in 1884",
+   "The establishment of the Aligarh Mohammedan Anglo-Oriental College in 1875",
+   "The inclusion of the first age of consent in the Indian Penal Code in 1860",
+   "William Bentinck’s legislation abolishing sati in 1829"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter directly states that Rammohan Roy’s campaign helped force Governor-General William Bentinck’s legislation abolishing sati in 1829.",
+  "source_page": 59,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f6f4adcf-5aba-5b90-97b9-393f405b78e9",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Which of the following is NOT stated in the chapter as a feature of the Brahmo Samaj founded by Rammohan Roy?",
+  "options": [
+   "It encouraged ritual sacrifice as a means of religious purification.",
+   "It was founded on 20 August 1828.",
+   "It forbade idol-worship.",
+   "It condemned meaningless religious rites and ceremonies."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says the Brahmo Samaj forbade idol-worship and condemned meaningless rites; it does not state that it encouraged ritual sacrifice.",
+  "source_page": 59,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c49973b2-e383-59a2-aa6b-263f28722d87",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Consider the following statements about Maharishi Debendranath Tagore: 1. He was the father of Rabindranath Tagore. 2. He laid down articles of faith emphasising one Supreme Being. 3. He founded the Arya Samaj in Punjab. Which of the statements is/are correct?",
+  "options": [
+   "1 only",
+   "1 and 2 only",
+   "2 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter identifies Debendranath as Rabindranath Tagore’s father and gives his articles of faith centred on one Supreme Being. Arya Samaj was founded by Swami Dayanand Saraswati, not Debendranath.",
+  "source_page": 60,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3beae6cb-f061-5626-9bb7-440751ce93e8",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Which sequence correctly represents developments within the Brahmo movement after Rammohan Roy?",
+  "options": [
+   "Sadharan Samaj formed → Keshab joined the movement → Brahmo Samaj split",
+   "Brahmo Samaj split → Keshab joined the movement → Adi Brahmo Samaj named",
+   "Keshab joined the movement → Brahmo Samaj split → Sadharan Samaj formed",
+   "Adi Brahmo Samaj named → Keshab joined the movement → Brahmo Samaj split"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that Keshab Chandra Sen joined in 1857, a split occurred in 1866, and later opponents of child marriage left Brahmo Samaj of India to start Sadharan Samaj.",
+  "source_page": 60,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "31771211-60bb-582e-93bd-262a0666f4f8",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Ishwar Chandra Vidyasagar differed from Rammohan Roy and others mainly because, according to the chapter, he argued that social reform could be supported by:",
+  "options": [
+   "military discipline",
+   "Hindu scriptures themselves",
+   "complete rejection of education",
+   "foreign travel restrictions"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says that while Rammohan Roy and others looked to western rationalist ideas, Vidyasagar argued that Hindu scriptures were progressive and supported widow remarriage.",
+  "source_page": 61,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ac964faa-47aa-5319-af2c-118679f956b5",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "The movement led by Ishwar Chandra Vidyasagar resulted in which legislation?",
+  "options": [
+   "Widows’ Remarriage Reform Act of 1856",
+   "Indian Penal Code of 1860",
+   "Age of Consent Act of 1891",
+   "Child Marriage Restraint legislation of 1925"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the movement led by Vidyasagar resulted in the Widows’ Remarriage Reform Act of 1856, intended to improve the condition of child widows.",
+  "source_page": 61,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1366be0c-16de-5e2d-9de0-cbf395f26311",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Which statement about the age of consent, as given in the chapter, is correct?",
+  "options": [
+   "The first age of consent was included in the Indian Penal Code enacted in 1860.",
+   "The age for marriage was first fixed as twelve years in 1860.",
+   "The age was raised to ten years in 1891 and thirteen years in 1925.",
+   "The law was widely known among all sections of society by 1929."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter credits Vidyasagar with the first age of consent being included in the Indian Penal Code enacted in 1860, fixing the age at ten years; it notes the law largely remained on paper.",
+  "source_page": 61,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d1236127-fb6b-57fc-9d3b-2c49221cb5ef",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Match the following: A. Prarthana Samaj  B. Widow Marriage Association  C. Poona Sarvajanik Sabha  D. Deccan Education Society with 1. 1870  2. 1884  3. 1867  4. 1861. Choose the correct answer.",
+  "options": [
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-3, C-2, D-1",
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-1, C-4, D-3"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says Prarthana Samaj was founded in Bombay in 1867; Ranade founded the Widow Marriage Association in 1861, Poona Sarvajanik Sabha in 1870 and Deccan Education Society in 1884.",
+  "source_page": 61,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "661d73ec-2d03-51ef-b174-b492b09f737b",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Which of the following activities is specifically associated with Prarthana Samaj in the chapter?",
+  "options": [
+   "Counterconversion through suddhi",
+   "Inter-caste dining and inter-caste marriage",
+   "Purification of Sikhism through Khalsa institutions",
+   "Translation of science books into Urdu"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that Prarthana Samaj members devoted themselves to inter-caste dining, inter-caste marriage, widow remarriage and improvement of women and depressed classes.",
+  "source_page": 61,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0454eb00-b94e-5562-bb99-430ef4187269",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Assertion (A): Swami Dayanand Saraswati declared that child marriage, prohibition of widow remarriage and polluting effects of foreign travel had no scriptural sanction. Reason (R): He rejected superstitious beliefs and gave the cry “go back to Vedas.”",
+  "options": [
+   "Both A and R are true, and R explains A",
+   "Both A and R are true, but R does not explain A",
+   "A is true, but R is false",
+   "A is false, but R is true"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter presents Dayanand’s rejection of these practices as part of his return to the Vedas and rejection of superstition; both statements are true and connected.",
+  "source_page": 61,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "124a8fcf-5e77-5a0f-bb6e-f08e27c117c5",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "What was suddhi in the programme of Arya Samaj?",
+  "options": [
+   "A school curriculum excluding English education",
+   "A purificatory ceremony for Hindus converted to Islam and Christianity",
+   "A free feeding house open to all castes",
+   "A newspaper spreading Theosophical ideas"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says Arya Samaj prescribed a purificatory ceremony called suddhi, directed at Hindus who had converted to Islam and Christianity.",
+  "source_page": 61,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "eeee8709-77bf-5cad-a111-b7a067e8ecbc",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Which teaching is associated with Ramakrishna Paramahamsa in the chapter?",
+  "options": [
+   "Only one scripture can lead to salvation.",
+   "All religions contain universal elements which, if practised, would lead to salvation.",
+   "Western science must replace religious practice completely.",
+   "Ritual domination by Brahmans should be restored."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that Ramakrishna believed all religions contain universal elements which, if practised, would lead to salvation, and also taught “Jiva is Siva.”",
+  "source_page": 62,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c8cdca40-49b7-5ca5-8d23-6234329fce6b",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Swami Vivekananda became famous for his addresses on Hinduism at:",
+  "options": [
+   "the First Conference of Dravida Mahajana Sabha at Nilgiris",
+   "the founding session of the Home Rule League",
+   "the 1893 World Congress of Religions in Chicago",
+   "the establishment of Khalsa College in Amritsar"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter records that Vivekananda became famous for his addresses on Hinduism at the 1893 World Congress of Religions in Chicago.",
+  "source_page": 62,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "69990add-29ac-5d13-98b1-3799e710d5bf",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Which statement about the Theosophical Society and Annie Besant is correct?",
+  "options": [
+   "The Society was founded at Adyar in 1866 and later shifted to the USA.",
+   "The Society opposed study of the Upanishads and Bhagavad Gita.",
+   "Annie Besant spread Theosophical ideas through New India and Commonweal.",
+   "Annie Besant founded the Brahmo Samaj after Olcott’s death."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says Annie Besant spread Theosophical ideas through her newspapers New India and Commonweal. It also says the Society was founded in the USA in 1875 and shifted to Adyar in 1886.",
+  "source_page": 62,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c75a2fd0-5c10-57cc-854b-84eed50765b9",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Which of the following is correctly associated with Jyotiba Phule?",
+  "options": [
+   "He opened the first school for “untouchables” in 1852 in Poona.",
+   "He founded the Sadhu Jana Paripalana Sangam in 1907.",
+   "He established the Aligarh Mohammedan Anglo-Oriental College in 1875.",
+   "He founded the Nirankari Movement in Punjab."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Jyotiba Phule opened the first school for “untouchables” in 1852 in Poona and launched Satyashodak Samaj in 1870.",
+  "source_page": 63,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "690684cd-794a-5020-afe9-fe42ce2f4e4c",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Match the following: A. Narayana Guru  B. Ayyankali  C. Jyotiba Phule  D. Sayyid Ahmed Khan with 1. Satyashodak Samaj  2. Sadhu Jana Paripalana Sangam  3. Sri Narayana Dharma Paripalana Yogam  4. Scientific society and translation of English books into Urdu. Choose the correct answer.",
+  "options": [
+   "A-1, B-3, C-2, D-4",
+   "A-3, B-2, C-1, D-4",
+   "A-2, B-1, C-4, D-3",
+   "A-4, B-2, C-3, D-1"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter links Narayana Guru with Sri Narayana Dharma Paripalana Yogam, Ayyankali with Sadhu Jana Paripalana Sangam, Phule with Satyashodak Samaj, and Sayyid Ahmed Khan with a scientific society and Urdu translations.",
+  "source_page": 63,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a15cc40f-7273-5a8a-92cb-d62f3e7b8984",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Which statement about Islamic reform movements is incorrect?",
+  "options": [
+   "Sayyid Ahmed Khan urged Muslims to accept Western science and government service.",
+   "The Aligarh movement centred around the Mohammedan Anglo-Oriental College founded in 1875.",
+   "The Deoband school shut out English education and western culture.",
+   "Deoband was founded by Furdunji Naoroji as a Parsis’ Reform Society."
+  ],
+  "answer_index": 3,
+  "explanation": "Deoband was founded by orthodox Muslim Ulema under Muhammad Qasim Wanotavi and Rashid Ahmad Gangotri. Furdunji Naoroji founded the Rahnumai Mazdayasnan Sabha, the Parsis’ Reform Society.",
+  "source_page": 64,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b7d5ea59-e598-5d2b-805e-5ece57b6d559",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Which of the following pairs is correctly matched regarding Parsi and Sikh reform movements?",
+  "options": [
+   "Rast Goftar — main voice of the Parsi reform movement",
+   "Baba Dayal Das — founder of Namdhari Movement",
+   "Baba Ram Singh — founder of Nirankari Movement",
+   "Singh Sabha — opposed restoration of purity of Sikhism"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Rast Goftar was the main voice of the Parsi reform movement. Baba Dayal Das founded the Nirankari Movement, Baba Ram Singh founded the Namdhari Movement, and Singh Sabha aimed to restore Sikhism’s purity.",
+  "source_page": 64,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cb493e1a-8451-58e2-bc54-c267a3f5f066",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Which statement about Ramalinga Swamigal is correct?",
+  "options": [
+   "He founded the Sakya Buddhist Society at Madras in 1898.",
+   "He established a free feeding house for everyone irrespective of caste at Vadalur in 1867.",
+   "He launched Dravida Pandian in 1885 with John Rathinam.",
+   "He founded the Deoband school in Saharanpur district."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that Ramalinga established a free feeding house for everyone irrespective of caste at Vadalur in 1867, after a famine in south India in 1866.",
+  "source_page": 64,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "19fd249a-7a5f-5c3e-a6f4-23a60811ba33",
+  "chapter_id": "c10-ss-05",
+  "unit_code": "GS3",
+  "question": "Consider the following statements about Iyothee Thassar: 1. He worked for the construction of a casteless identity. 2. He founded the Advaidananda Sabha to raise the voice for temple entry of the “untouchables”. 3. He started the weekly journal Oru Paisa Tamilan in 1907. Which of the statements is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter records all three: Iyothee Thassar worked for a casteless identity, founded Advaidananda Sabha for temple entry of untouchables, and started Oru Paisa Tamilan in 1907.",
+  "source_page": 65,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ }
+]

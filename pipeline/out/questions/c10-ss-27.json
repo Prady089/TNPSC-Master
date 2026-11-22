@@ -1,0 +1,560 @@
+[
+ {
+  "id": "a37bb807-0e0c-5513-a521-b9ce5e6144fa",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "According to the chapter, which activity is called an industry?",
+  "options": [
+   "Production of food crops only for self-consumption",
+   "Conversion of raw materials into readily usable materials",
+   "Exchange of goods without any transformation",
+   "Transport of agricultural goods without processing"
+  ],
+  "answer_index": 1,
+  "explanation": "The introduction defines industry as any human activity engaged in converting raw materials into readily usable materials.",
+  "source_page": 334,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b6b21a35-9906-5638-91eb-d2b8db78601c",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which one of the following is NOT stated as a reason why an economy must diversify production and employment away from agriculture?",
+  "options": [
+   "The demand for food remains constant with regard to income.",
+   "Agriculture has limits in absorbing labour due to declining marginal productivity of land.",
+   "Farmers often receive much less than the consumer price after processing and branding.",
+   "Agriculture always generates higher wages than industry as development proceeds."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says wages in agriculture cannot increase sufficiently and poverty may remain high; it does not say agriculture always generates higher wages than industry.",
+  "source_page": 334,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0a75c390-fc56-5dec-adcc-8a0fcd9b2379",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which of the following is given as an example of industrial inputs needed by agriculture to increase productivity?",
+  "options": [
+   "Fertilisers and tractors",
+   "Banking and insurance",
+   "Leather and footwear",
+   "Textiles and garments"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter specifically states that agriculture requires industrial inputs such as fertilisers and tractors to increase productivity.",
+  "source_page": 334,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b4cc30a4-acad-5020-9205-4f6746bf8228",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Consider the following statements about industrialisation: 1. It can reduce production costs through modern methods. 2. It helps absorb labour moving out of agriculture. 3. It prevents technological change by relying on old methods. Which of the statements are correct?",
+  "options": [
+   "1 and 3 only",
+   "2 and 3 only",
+   "1 and 2 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says industries contribute to better productivity and lower costs, absorb labour from agriculture, and promote technological change; statement 3 is the opposite of the text.",
+  "source_page": 335,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "305dcdd3-b947-54f9-b637-03fe6d6fde7e",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Agglomerations of small firms specialising in one sector, geographically concentrated and linked through production and learning, are called",
+  "options": [
+   "joint sector enterprises",
+   "industrial clusters",
+   "basic goods industries",
+   "public sector firms"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines such agglomerations of small firms as industrial clusters.",
+  "source_page": 335,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e9eea5b8-e073-5f8f-8a2a-007a086609b8",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Match the industry classification with its basis: A. Consumer goods sector B. Capital goods sector C. Basic goods industries D. Agro-processing. 1. Raw material used 2. Output consumed by final consumer 3. Output consumed by another producer 4. Raw materials for other industries. Which is the correct matching?",
+  "options": [
+   "A-1, B-4, C-3, D-2",
+   "A-2, B-3, C-4, D-1",
+   "A-3, B-2, C-1, D-4",
+   "A-4, B-1, C-2, D-3"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter classifies industries by users and inputs: consumer goods go to final consumers, capital goods to producers, basic goods supply raw materials, and agro-processing is based on input type.",
+  "source_page": 335,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dc733092-4f34-5682-a0fe-1695a77391fd",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which of the following ownership categories is mentioned in the chapter?",
+  "options": [
+   "Privately owned firms only",
+   "Publicly owned firms only",
+   "Jointly owned and cooperatively owned firms",
+   "Only foreign-owned multinational firms"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists private, public, jointly owned, joint sector and cooperatively owned firms under ownership classification.",
+  "source_page": 335,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f411f5ad-8016-546a-b8b2-bf2f7fd67fd6",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which economist first observed the advantages of industrial clusters or districts in the 1920s?",
+  "options": [
+   "Adam Smith",
+   "J.M. Keynes",
+   "Amartya Sen",
+   "Alfred Marshall"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that Alfred Marshall first observed the advantages of industrial clusters or districts in the 1920s.",
+  "source_page": 335,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "85da980c-0a17-5701-bc08-db40ea4a5ce2",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which pair is correctly matched regarding the development of the idea of industrial districts?",
+  "options": [
+   "Alfred Marshall — developed the notion of industrial district",
+   "Italian small firms — first observed clusters in England in the 1920s",
+   "Indian policy-makers — made the idea popular in the 1980s before Italy",
+   "England — promoted Indian clusters during the post-reform period"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says Marshall developed the notion of an industrial district, while it became popular after the success of small firms in Italy in the 1980s.",
+  "source_page": 335,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "701b9c68-d054-596e-883f-6fbeeef7baa1",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which one of the following is NOT listed as a chief characteristic of a successful industrial cluster?",
+  "options": [
+   "Sectoral specialisation",
+   "Close inter-firm collaboration",
+   "Inter-firm competition based on innovation",
+   "Complete absence of competition among firms"
+  ],
+  "answer_index": 3,
+  "explanation": "Successful clusters involve both collaboration and competition; the chapter specifically mentions inter-firm competition based on innovation.",
+  "source_page": 336,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9c5247a3-9af3-5d07-9b0a-d2c89c89fe8d",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Assertion (A): Firms in a successful cluster are expected to collaborate and compete at the same time. Reason (R): Collaboration helps expand capacity and learning, while competition forces firms to become more efficient. Choose the correct answer.",
+  "options": [
+   "Both A and R are true, but R is not the correct explanation of A",
+   "A is true, but R is false",
+   "A is false, but R is true",
+   "Both A and R are true, and R is the correct explanation of A"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter explicitly states that firms collaborate to expand capacity and learn, and compete to become more efficient.",
+  "source_page": 336,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d8551e3b-b608-5ae1-bfab-96a7b619ae15",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which of the following origins of clusters is mentioned in the chapter?",
+  "options": [
+   "Artisans settling in one locality over centuries",
+   "Only foreign companies establishing export units",
+   "Only banking institutions concentrating in cities",
+   "Only government offices relocating to rural areas"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says some clusters evolve when artisans settle in one locality and develop over centuries; handloom weaving clusters are given as an example.",
+  "source_page": 336,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e5ca8d52-9a5b-54ae-ab5a-1c833d39c9c7",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which industrial activities are stated as having evidence in precolonial Tamil Nadu?",
+  "options": [
+   "Automobiles, software, aviation and electronics",
+   "Textiles, shipbuilding, iron and steel making, and pottery",
+   "Petrochemicals, pharmaceuticals, automobiles and IT",
+   "Printing, fireworks, telecom and ship repair only"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter mentions evidence for textiles, shipbuilding, iron and steel making, and pottery in precolonial Tamil Nadu.",
+  "source_page": 336,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a3758aab-6cda-504b-b179-c6e8e19ba38c",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "During the colonial period, industrial development around Chennai and Tuticorin was mainly associated with which factor?",
+  "options": [
+   "Decline of all port-related activities",
+   "Expansion of trade around active ports",
+   "Closure of cotton cultivation in Tamil Nadu",
+   "Absence of any machine-made imports"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that increased trade led to industrial development around the active ports of Chennai and Tuticorin.",
+  "source_page": 336,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2ac04281-7935-52f3-8f04-4ded70cd71ff",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which sequence correctly represents developments in western Tamil Nadu described in the chapter?",
+  "options": [
+   "Textile machinery demand → cotton cultivation → hydro-electricity → oil engine demand",
+   "Hydro-electricity → colonial ports → match factories → leather exports",
+   "Cotton textile industry → demand for textile machinery → small repair workshops → machinery component producers",
+   "Oil engines → handloom decline → shipbuilding → IT parks"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says the emergence of textile industries led to textile machinery demand, which led to small repair workshops and machinery component producers.",
+  "source_page": 336,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1327b891-cc5b-5fdc-bb02-79b1992fdef8",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Match the post-Independence enterprise with its location/product: A. Integral Coach Factory B. BHEL C. Heavy Vehicles Factory D. Salem Steel Plant. 1. Avadi; tanks 2. Chennai; railway coaches 3. Salem; stainless steel 4. Tiruchirapalli; boilers and turbines. Choose the correct answer.",
+  "options": [
+   "A-2, B-4, C-1, D-3",
+   "A-4, B-2, C-3, D-1",
+   "A-1, B-3, C-2, D-4",
+   "A-3, B-1, C-4, D-2"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter locates the Integral Coach Factory in Chennai, BHEL in Tiruchirapalli, Heavy Vehicles Factory at Avadi, and Salem Steel Plant at Salem for stainless steel.",
+  "source_page": 336,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9bef9fa6-aa41-5545-a50d-ece5ad367381",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which statement about the Chennai automobile cluster is correct?",
+  "options": [
+   "It was formed only by software firms in the post-reform period.",
+   "Ashok Motors and Standard Motors helped form an automobile cluster in the Chennai region.",
+   "It originated only from the Salem Steel Plant.",
+   "It was based entirely on handloom weaving units."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that Ashok Motors, later Ashok Leyland, and Standard Motors together helped form an automobile cluster in the Chennai region.",
+  "source_page": 336,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "faf9e195-c3b1-5cde-9d46-30409282574f",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which industrial cluster is described as a successful case of policy efforts to promote industrial estates in a backward region?",
+  "options": [
+   "Madurai silk cluster",
+   "Dindigul leather cluster",
+   "Hosur industrial cluster",
+   "Bhavani carpet cluster"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter specifically cites the Hosur industrial cluster as a successful case of industrial estates helping industries develop in a backward region.",
+  "source_page": 336,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ddbd16b7-5101-5fdc-87ee-63f7ddb6287c",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which of the following statements about Tamil Nadu’s present industrial position is correct?",
+  "options": [
+   "It has the smallest share of manufacturing workforce in India.",
+   "Its industries are confined only to Chennai city.",
+   "It has no export-oriented clusters.",
+   "It has the largest number of factories among all Indian states."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that Tamil Nadu presently has the largest number of factories among all states in India and the largest share of workforce employed in manufacturing.",
+  "source_page": 337,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "efe34dd1-0dd7-55e4-868e-d497729a5d93",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Chennai is nicknamed the “Detroit of Asia” because of its",
+  "options": [
+   "large auto industry base",
+   "major silk handloom production",
+   "high leather tanning capacity",
+   "dominance in offset printing"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says Chennai is called the Detroit of Asia because of its large auto industry base.",
+  "source_page": 337,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "852301d0-b437-5283-806d-ca1d3a16ed2f",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which of the following is correctly matched?",
+  "options": [
+   "Namakkal-Tiruchengode belt — truck body building industry",
+   "Kanchipuram — automobile assembly by MNCs",
+   "Sivakasi — cotton yarn spinning mills",
+   "Karur — leather tanning capacity in India"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter identifies the Namakkal-Tiruchengode belt in western Tamil Nadu as known for truck body building; Karur is also a major hub with more than 50 units.",
+  "source_page": 337,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bbca0eb1-a32f-5107-a291-6bf3622178fb",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which statement about Tamil Nadu’s textile clusters is correct?",
+  "options": [
+   "Coimbatore is often referred to as the “Manchester of South India”.",
+   "Tamil Nadu is not a producer of cotton yarn.",
+   "Tiruppur is known mainly for finished leather exports.",
+   "Erode and Salem have no powerloom units."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says Coimbatore is often referred to as the Manchester of South India and Tamil Nadu is the biggest producer of cotton yarn in the country.",
+  "source_page": 337,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cad25440-8ea1-54cf-b16c-2910926441b2",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Consider the following statements: 1. Tiruppur accounts for nearly 80% of the country’s cotton knitwear exports. 2. Karur is a major centre of exports of home furnishings. 3. Bhavani and Kumarapalayam are major centres of carpet production. Which of the statements are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 3,
+  "explanation": "All three are stated in the chapter: Tiruppur for cotton knitwear exports, Karur for home furnishings, and Bhavani-Kumarapalayam for carpets.",
+  "source_page": 338,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d845cb98-0fc6-5edb-92ac-e2c753f4bce2",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which of the following best describes the leather and leather goods cluster in Tamil Nadu?",
+  "options": [
+   "Tamil Nadu accounts for 60% of India’s leather tanning capacity, with major facilities around Vellore and nearby towns.",
+   "Leather activity is limited to Chennai and has no export role.",
+   "Vellore district is described only as a producer of cotton knitwear.",
+   "Dindigul and Erode are mentioned only for automobile assembly."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Tamil Nadu accounts for 60% of leather tanning capacity and that many leather and tannery facilities are around Vellore, Ranipet, Ambur and Vaniyambadi.",
+  "source_page": 338,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4c42401e-5c22-5c17-9665-e510a043dddd",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Match the cluster with its specialisation as given in the chapter: A. Sivakasi B. Chennai region C. Coimbatore, Madurai, Trichy, Tirunelveli, Hosur and Salem D. Vellore district. 1. Tier II IT investment destinations 2. Finished leather goods exporter 3. Fireworks, matches and printing 4. Hardware and electronics manufacturers. Choose the correct answer.",
+  "options": [
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-1, C-2, D-3",
+   "A-2, B-3, C-4, D-1",
+   "A-1, B-2, C-3, D-4"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter links Sivakasi with fireworks, matches and printing; the Chennai region with electronics manufacturers; Tier II cities with IT investment promotion; and Vellore with finished leather goods exports.",
+  "source_page": 339,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7dd5635a-76ab-5fb8-abea-4c21ea93873c",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which ELCOSEZ location pair is correctly mentioned in the chapter?",
+  "options": [
+   "Trichy — Gangaikondan",
+   "Salem — Jagirammapalayam",
+   "Hosur — Sholinganallur",
+   "Chennai — Vilankurichi"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter lists Salem–Jagirammapalayam among ELCOSEZ locations; Sholinganallur is in Chennai, Vilankurichi in Coimbatore, and Gangaikondan in Tirunelveli.",
+  "source_page": 339,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5cba0b42-1cfb-5b6d-bd6a-445954e28e98",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which three broad policy factors helped the industrialisation process in Tamil Nadu according to the chapter?",
+  "options": [
+   "Education, infrastructure and industrial promotion",
+   "Taxation, defence and foreign policy",
+   "Agriculture, mining and tourism only",
+   "Banking, policing and judicial reform"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter divides policy factors into education, infrastructure and industrial promotion.",
+  "source_page": 340,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "91786db3-72f2-5463-811c-2d6f76cba267",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Arrange the following industrial promotion agencies in chronological order of the years stated in the chapter: 1. SIPCOT 2. TANSIDCO 3. TIDCO 4. TIIC. Choose the correct sequence.",
+  "options": [
+   "1-2-3-4",
+   "4-3-2-1",
+   "3-4-1-2",
+   "2-1-4-3"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter gives TIIC as 1949, TIDCO as 1965, TANSIDCO as 1970, and SIPCOT as 1971.",
+  "source_page": 341,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cc19803c-ae8d-52bf-ba76-a4facfd56b05",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which statement about MEPZ is correct?",
+  "options": [
+   "It is located in Tiruppur and was established to promote cotton knitwear exports only.",
+   "It is a Special Economic Zone in Chennai established in 1984 to promote FDI, foreign exchange earnings and employment.",
+   "It was formed in 1971 to set up industrial estates across Tamil Nadu.",
+   "It provides only low-cost financial support to existing units."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says MEPZ is a Special Economic Zone in Chennai, established in 1984 to promote foreign direct investment, foreign exchange earnings and greater employment opportunities.",
+  "source_page": 340,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0b4b7121-87dd-5fbe-bcb0-8ac41a24e0c3",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which of the following is correctly stated about Startup India and Standup India as given in the chapter?",
+  "options": [
+   "Startup India was launched on 5-April-2016 to provide loans only to women borrowers.",
+   "Standup India facilitates bank loans between ₹10 lakh and ₹1 crore to specified SC/ST and woman borrowers per bank branch.",
+   "Both schemes were launched in 1984 as export processing zones.",
+   "Standup India aims only at offset printing solutions in Sivakasi."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that Standup India facilitates bank loans between ₹10 lakh and ₹1 crore to at least one SC/ST borrower and one woman borrower per bank branch for a greenfield enterprise.",
+  "source_page": 341,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2c792ae4-696f-5b12-814b-58ac0ed57734",
+  "chapter_id": "c10-ss-27",
+  "unit_code": "GS5",
+  "question": "Which of the following is NOT mentioned as a role of an entrepreneur in the chapter?",
+  "options": [
+   "Promoting industrial development and reducing regional disparities",
+   "Helping increase GDP and per capita income",
+   "Providing large-scale employment to artisans and professionals",
+   "Eliminating the need for innovation in production"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says entrepreneurs try to maximise profits by innovations; it does not say they eliminate the need for innovation.",
+  "source_page": 341,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

@@ -1,0 +1,596 @@
+[
+ {
+  "id": "c233bc52-1361-5873-987c-dd25f79496aa",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following best describes a natural resource as defined in the chapter?",
+  "options": [
+   "Only minerals extracted from mines for industrial use",
+   "Any matter or energy derived from the environment and used by living things",
+   "All substances made by humans for economic development",
+   "Only renewable sources such as solar, wind and tidal energy"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines a natural resource as any matter or energy derived from the environment and used by living things including humans.",
+  "source_page": 176,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c97a45b3-530a-535c-a716-81e1028186ed",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which one of the following pairs is correctly matched according to the chapter?",
+  "options": [
+   "Coal - Renewable resource",
+   "Petroleum - Renewable resource",
+   "Wind energy - Renewable resource",
+   "Natural gas - Renewable resource"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists solar, wind, biogas, tidal and wave energy as renewable resources. Coal, petroleum and natural gas are given as non-renewable resources.",
+  "source_page": 176,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "15ceac67-627f-5eb8-8400-1c11b392369c",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Match the organisations with their headquarters or role: A. Geological Survey of India  B. Indian Bureau of Mines  C. NFTDC  D. Ministry of Mines with 1. Hyderabad  2. Nagpur  3. Calcutta  4. Administration of mines and minerals Act. Choose the correct code.",
+  "options": [
+   "A-3, B-2, C-1, D-4",
+   "A-2, B-3, C-1, D-4",
+   "A-3, B-1, C-2, D-4",
+   "A-4, B-2, C-1, D-3"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the Geological Survey of India is headquartered at Calcutta, Indian Bureau of Mines at Nagpur, NFTDC at Hyderabad, and the Ministry of Mines administers mines and minerals regulation.",
+  "source_page": 176,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ece3aaae-f07a-5583-ac6e-dab4157981c1",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following iron ore form and iron content pairs is incorrect?",
+  "options": [
+   "Magnetite - 72.4%",
+   "Hematite - 69.9%",
+   "Goethite - 62.9%",
+   "Siderite - 55%"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter’s table gives Siderite as having 48.2% iron content, while Limonite has 55%.",
+  "source_page": 176,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3f0b40d7-ff2f-5757-a062-adb4a69345fa",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which state is stated as the second largest producer of iron ore in India, with 21% production?",
+  "options": [
+   "Jharkhand",
+   "Odisha",
+   "Karnataka",
+   "Chhattisgarh"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says Jharkhand is the leading producer with 25%, and Odisha ranks second with 21% production.",
+  "source_page": 176,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "59587947-a317-5ba4-9984-cc3eda6c10e9",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Assertion (A): Manganese is an important mineral used for making iron and steel. Reason (R): Nearly 10 kg of manganese is required for manufacturing one ton of steel. Choose the correct answer.",
+  "options": [
+   "Both A and R are true, and R explains A",
+   "Both A and R are true, but R does not explain A",
+   "A is true, but R is false",
+   "A is false, but R is true"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter specifically says manganese is important for making iron and steel and adds that nearly 10 kg is required for one ton of steel.",
+  "source_page": 178,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "89c9f4e8-76ab-58b7-8dd5-a1719496fc51",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about copper is correct?",
+  "options": [
+   "Copper is mainly used only for cement and chemicals",
+   "Copper is obtained by alloying zinc and tin",
+   "Brass and bronze are obtained when copper alloys with zinc and tin respectively",
+   "Rajasthan, Tamil Nadu and Kerala account for all copper reserves of India"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that brass and bronze are obtained when copper alloys with zinc and tin respectively.",
+  "source_page": 178,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "32f2f95d-03d7-50b8-abd2-5970d7a6f5c7",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following is correctly associated with bauxite according to the chapter?",
+  "options": [
+   "It is the chief ore of iron",
+   "It is mainly found as deep shaft deposits in coal belts",
+   "Its name is derived from the German word Le Baux",
+   "It is an important ore from which aluminium is extracted"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter describes bauxite as an important ore from which aluminium is extracted and says it is widely distributed as surface deposits in laterite-soil areas.",
+  "source_page": 178,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "edf8dc46-5303-5741-9a28-f95062549b99",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about mica is correct?",
+  "options": [
+   "It is a metallic mineral used mainly for steel making",
+   "Abhrak is a good quality mica, and mica is used in electrical goods because it is a non-conductor",
+   "It is a hydrated sulphate of calcium found in limestone, sandstone and shale",
+   "It is used primarily as a fuel for thermal power generation"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says Abhrak is a good quality mica and mica is exclusively used in electrical goods because it is a non-conductor of electricity.",
+  "source_page": 178,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "eeca760a-1bfd-5e6d-81eb-3eac42d3ba29",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Match the non-metallic minerals with their uses: A. Limestone  B. Gypsum  C. Mica with 1. Cement, fertilizers and plaster of paris  2. Soda ash, bleaching powder, cement and fertilizers  3. Insulating properties in electrical goods. Choose the correct code.",
+  "options": [
+   "A-2, B-1, C-3",
+   "A-1, B-2, C-3",
+   "A-2, B-3, C-1",
+   "A-3, B-1, C-2"
+  ],
+  "answer_index": 0,
+  "explanation": "Limestone is used for soda ash, bleaching powder, cement and fertilizers; gypsum for cement, fertilizers and plaster of paris; mica for insulating properties in electrical goods.",
+  "source_page": 178,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "14b10aeb-82f7-5405-90eb-9d17e66a13da",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following groups consists only of non-renewable energy resources as listed in the chapter?",
+  "options": [
+   "Water, sunlight, wind and tides",
+   "Wind, biogas, petroleum and coal",
+   "Coal, petroleum, natural gas and nuclear minerals",
+   "Sunlight, coal, water and natural gas"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists coal, petroleum, natural gas and nuclear minerals as sources of non-renewable energy.",
+  "source_page": 179,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "01516315-5359-5786-9eac-a45c5d6b0a86",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Arrange the following coal types in decreasing order of carbon content: 1. Peat  2. Anthracite  3. Lignite  4. Bituminous.",
+  "options": [
+   "1, 3, 4, 2",
+   "2, 4, 3, 1",
+   "2, 3, 4, 1",
+   "4, 2, 3, 1"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter gives the carbon contents as Anthracite 80-90%, Bituminous 60-80%, Lignite 40-60% and Peat less than 40%.",
+  "source_page": 179,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c0c0da86-f6ff-5c13-b263-05fdc32ef522",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which states are stated to account for nearly 90% of India’s coal reserves?",
+  "options": [
+   "Jharkhand, Odisha, Chhattisgarh and Maharashtra",
+   "Assam, Jammu & Kashmir, Tamil Nadu and Kerala",
+   "Jharkhand, Chhattisgarh, Andhra Pradesh and Maharashtra",
+   "Jharkhand, Odisha, West Bengal and Madhya Pradesh"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says Jharkhand, Odisha, West Bengal and Madhya Pradesh alone account for nearly 90% of India’s coal reserves.",
+  "source_page": 179,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "13cd9fad-aff8-5a24-9a54-baeafd46b845",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "The word petroleum is derived from which two Latin words according to the chapter?",
+  "options": [
+   "Petro meaning rock and oleum meaning oil",
+   "Petra meaning gas and oleum meaning coal",
+   "Petro meaning mineral and oleum meaning fuel",
+   "Petra meaning earth and oleum meaning water"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter explains that petroleum comes from petro, meaning rock, and oleum, meaning oil.",
+  "source_page": 180,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "beff0b16-0fab-52fa-a089-86f15a731b18",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Match the oil fields/regions with the description given in the chapter: A. Mumbai High  B. Digboi  C. Basseim  D. Aliabet with 1. Oldest fields in the country  2. South of Mumbai High  3. Largest, 65%  4. South of Bhavanagar. Choose the correct code.",
+  "options": [
+   "A-1, B-3, C-2, D-4",
+   "A-3, B-2, C-1, D-4",
+   "A-3, B-1, C-2, D-4",
+   "A-4, B-1, C-2, D-3"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter identifies Mumbai High as the largest oil field, Digboi as the oldest, Basseim as south of Mumbai High, and Aliabet as south of Bhavanagar.",
+  "source_page": 180,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c3d14516-faa9-5a1e-8c3b-0881a7a165ad",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about natural gas is correct?",
+  "options": [
+   "It is composed primarily of oxygen and nitrogen",
+   "It usually accompanies petroleum accumulations and consists primarily of methane",
+   "It is heavier than air and does not disperse quickly",
+   "GAIL is headquartered in Kolkata"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says natural gas usually accompanies petroleum accumulations and is primarily methane. It also states that GAIL is headquartered in New Delhi.",
+  "source_page": 181,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "13be2762-6c01-51fe-afa3-56c73dfb9afd",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about compressed natural gas (CNG) is correct according to the chapter?",
+  "options": [
+   "It is coal converted into liquid fuel",
+   "It is methane stored at low pressure",
+   "It cannot be used in place of gasoline or diesel",
+   "It poses less threat in spills because it is lighter than air and disperses quickly"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter describes CNG as methane stored at high pressure and says natural gas is lighter than air and disperses quickly when released.",
+  "source_page": 181,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "19a1e3ca-da43-52cd-b778-571d7db236e8",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Match the power-related facts: A. NTPC  B. Nuclear power  C. Tarapur  D. NPCIL with 1. Established in 1975  2. Energy released during fission or fusion  3. First nuclear power station, 1969  4. Public sector undertaking based in Mumbai. Choose the correct code.",
+  "options": [
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-1, C-3, D-4",
+   "A-1, B-3, C-2, D-4",
+   "A-4, B-2, C-3, D-1"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states NTPC was established in 1975, nuclear power uses fission or fusion, Tarapur was the first nuclear power station in 1969, and NPCIL is based in Mumbai.",
+  "source_page": 181,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "df68f60c-d885-52c9-beed-2fb070363dd8",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following is correct about hydropower in India?",
+  "options": [
+   "The first hydro-electric power station was established at Mumbai in 1969",
+   "Hydropower is described as costly and highly polluting",
+   "The first hydro-electric power station in India was established at Darjeeling in 1897",
+   "National Hydroelectric Power Corporation is located at Chennai"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that hydropower is economic and non-polluting, and that India’s first hydro-electric power station was established at Darjeeling in 1897.",
+  "source_page": 181,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "06f134c0-d18b-51b4-99c9-118f9b9f9b79",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which statement correctly describes solar power conversion methods in the chapter?",
+  "options": [
+   "Photovoltaics indirectly convert sunlight using lenses and mirrors",
+   "Photovoltaics directly convert light into electric current, while concentrated solar power uses lenses or mirrors",
+   "Concentrated solar power converts coal into electricity through heat",
+   "Solar power is used only in street lighting"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says solar power is converted directly using photovoltaics or indirectly using concentrated solar power with lenses or mirrors.",
+  "source_page": 181,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0d71160f-1f7d-5201-a11e-f068921f3cb5",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about wind energy is incorrect?",
+  "options": [
+   "Tamil Nadu has the largest installation of wind turbines in the country",
+   "Wind power development in India began in 1986",
+   "India has the fourth largest installed wind power capacity in the world",
+   "The National Institute of Wind Energy was established at New Delhi in 1998"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that the National Institute of Wind Energy, Chennai was established in Tamil Nadu in 1998, not New Delhi.",
+  "source_page": 181,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a9d58b28-6d1a-5f8f-8f5a-e02260040735",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following is correctly stated about tidal and wave energy?",
+  "options": [
+   "Ocean tides and ocean waves are the two main sources of ocean energy",
+   "The Gulf of Kachch is the best suited area for tidal energy",
+   "Sunderbans is given with a tidal potential of 1,000 MW",
+   "The wave energy plant at Vizhinjam has a maximum capacity of 1,000 MW"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter identifies ocean tides and ocean waves as the two main sources of ocean energy. It states Gulf of Cambay is best suited, Gulf of Kachch has 1,000 MW and Vizhinjam has 150 KW maximum.",
+  "source_page": 181,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cf572836-cc50-5077-93ed-0dee8660b238",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following statements best explains industries as described in the chapter?",
+  "options": [
+   "Industries are activities that extract minerals from the earth only",
+   "Industries are classified only into public and private sectors",
+   "Industries convert raw materials into finished products and form the value addition sector",
+   "Industries are activities based only on agricultural raw materials"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines industry as activities that convert raw materials into finished products and calls this the value addition sector.",
+  "source_page": 184,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4dbd9f90-4842-5fd9-97ba-a4ae8412d611",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following pairs is correctly matched in the cotton textile industry?",
+  "options": [
+   "First cotton textile mill - Rishra near Kolkata, 1854",
+   "Mumbai - Manchester of India",
+   "Coimbatore - Electronic Capital of India",
+   "Fort Gloster - Manchester of South India"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says the concentration of textile mills in and around Mumbai makes it the Manchester of India. Coimbatore is called the Manchester of South India.",
+  "source_page": 184,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "507f31db-4487-5d03-bdd7-34898df64336",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Consider the following statements about the jute industry: 1. Jute is a low-priced fibre mainly used for package materials like gunny bags. 2. The first jute mill in India was established at Rishra near Kolkata in 1854 by George Auckland. 3. India is the largest exporter of jute goods ahead of Bangladesh. Which of the statements are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says jute is a low-priced fibre used for package materials and the first mill was at Rishra in 1854 by George Auckland. It also says India is second in export of jute goods next to Bangladesh.",
+  "source_page": 184,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "39a0b07d-de02-5665-836b-1381452bcddd",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following statements is correct according to the chapter?",
+  "options": [
+   "India is the largest producer of raw silk in the world, ahead of China",
+   "India is the second largest producer of raw silk next only to China, and Karnataka is the largest producer of silk in India",
+   "Sugar industry is centralized because sugarcane is easy to transport over long distances",
+   "In India, sugar can be produced only from sugar-beets"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that India is the second largest producer of raw silk next only to China and that Karnataka is the largest producer of silk.",
+  "source_page": 186,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cc816a04-0ab6-566e-a9f1-23d7ed827a83",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following correctly combines facts about the paper industry?",
+  "options": [
+   "The first paper mill was started in 1867 at Ballyganj, and NEPA is at Kolkata",
+   "The first successful effort was made in 1812 at Serampore, and Tamil Nadu is the largest producer",
+   "Paper industry uses only soft wood and no other raw material",
+   "The first paper mill was started in 1812 at Serampore, and Royal Bengal paper mills was set up at Ballyganj in 1867"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that the first paper mill of India was started in 1812 at Serampore and the first successful effort came in 1867 with Royal Bengal paper mills at Ballyganj.",
+  "source_page": 186,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1e6f5f31-d175-57cf-b794-3a9e7f6b5bb1",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Arrange the following industrial events in chronological order: 1. Establishment of Tata Iron and Steel Company at Sakchi  2. First attempt to produce iron and steel at Porto Novo  3. Hindustan Motors Ltd at Uttarpara  4. Premier Automobiles Ltd at Kurla.",
+  "options": [
+   "1, 2, 4, 3",
+   "2, 1, 3, 4",
+   "2, 1, 4, 3",
+   "4, 3, 2, 1"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter gives the sequence as Porto Novo in 1830, TISCO at Sakchi in 1907, Premier Automobiles in 1947, and Hindustan Motors in 1948.",
+  "source_page": 187,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a487733d-0594-59d7-8ae5-214cb09483aa",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Match the iron and steel plants with their locations: A. TISCO  B. IISCO  C. VISL  D. Salem Steel Ltd with 1. Jamshedpur  2. Burnpur, Hirapur, Kulti  3. Bhadravati  4. Salem. Choose the correct code.",
+  "options": [
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-1, C-3, D-4",
+   "A-1, B-3, C-2, D-4",
+   "A-4, B-2, C-3, D-1"
+  ],
+  "answer_index": 0,
+  "explanation": "The table in the chapter places TISCO at Jamshedpur, IISCO at Burnpur/Hirapur/Kulti, VISL at Bhadravati and Salem Steel Ltd at Salem.",
+  "source_page": 188,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "56086c4a-d098-5a44-b876-591f3c2c29ba",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about the automobile industry is correct?",
+  "options": [
+   "Hindustan Motors at Uttarpara was started in 1947 before Premier Automobiles",
+   "India is stated to be the second largest producer of automobile manufacturers",
+   "Bengaluru is nicknamed the Detroit of Asia",
+   "Chennai is nicknamed the Detroit of Asia due to major automobile manufacturing units and allied industries"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that Chennai is nicknamed the Detroit of Asia because of the presence of major automobile manufacturing units and allied industries around the city.",
+  "source_page": 187,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cf636c0e-4911-5cba-87b9-79281e3ca60c",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about electrical, electronic and related industries is incorrect?",
+  "options": [
+   "BHEL is the most important company in heavy electrical industries",
+   "Bengaluru is called the Electronic Capital of India",
+   "Make in India program was launched in 2004",
+   "Heavy electrical industries manufacture equipment used for power generation, transmission and utilization"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the Make in India program was launched in 2014, not 2004.",
+  "source_page": 188,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f373ecae-fd7b-5d44-9566-ddda1ae05ada",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following correctly describes the Indian software industry as given in the chapter?",
+  "options": [
+   "It began in 1983 with CSTRI and exports to about 50 countries",
+   "It began in 1970 with the entry of Tata Consultancy Services and exports software services to nearly 95 countries",
+   "It began with Make in India in 2014 and has fewer than 100 companies",
+   "It is mainly concentrated only in Kolkata and does not include TCS"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that India’s software industry began in 1970 with Tata Consultancy Services, has more than 500 software companies, and exports to nearly 95 countries.",
+  "source_page": 189,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ed2dca23-9dea-54a3-98a9-2488275966c0",
+  "chapter_id": "c10-ss-14",
+  "unit_code": "GS2",
+  "question": "Which of the following is not listed as a major challenge of Indian industries in the chapter?",
+  "options": [
+   "Surplus cheap raw materials in every industrial estate",
+   "Shortage and fluctuation in power supply",
+   "Poor access to credit",
+   "Lack of technical and vocational training for employees"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter lists power shortage, poor credit access and lack of technical and vocational training as challenges, but does not list surplus cheap raw materials as a problem.",
+  "source_page": 189,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

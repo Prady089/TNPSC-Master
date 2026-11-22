@@ -1,0 +1,380 @@
+[
+ {
+  "id": "07b3dd30-2d17-58d2-9741-610afeba5d66",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "According to the FAO definition quoted in the chapter, food security exists when people have access to which kind of food?",
+  "options": [
+   "Only domestically produced foodgrains distributed through the state",
+   "Foodgrains supplied only at subsidised prices through ration shops",
+   "Sufficient, safe and nutritious food meeting dietary needs and preferences",
+   "High-yielding varieties of wheat and rice produced in irrigated districts"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter quotes FAO as saying food security exists when all people have physical, social and economic access to sufficient, safe and nutritious food that meets dietary needs and preferences.",
+  "source_page": 317,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "84a43994-a11e-5c2e-b646-e93a18955c7a",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Dr. M.S. Swaminathan’s concept of nutrition security, as stated in the chapter, includes which of the following?",
+  "options": [
+   "Only calorie intake and cereal availability",
+   "Balanced diet, safe drinking water, environmental hygiene, primary health care and primary education",
+   "Only the procurement of rice and wheat by the Food Corporation of India",
+   "Export of organic and processed agricultural products"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that Dr. M.S. Swaminathan defined nutrition security as access to a balanced diet along with safe drinking water, environmental hygiene, primary health care and primary education.",
+  "source_page": 317,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "75201dd6-bd54-5141-a96c-6f18a738bd31",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Which are the three basic components of food and nutrition security listed in the chapter?",
+  "options": [
+   "Availability, access and absorption",
+   "Production, procurement and export",
+   "Income, inflation and employment",
+   "Health, education and violence"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter explicitly identifies availability, access and absorption as the three basic components of food and nutrition security.",
+  "source_page": 317,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "66ba2bc2-5823-5921-a84d-2c4e7291032b",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Which statement best explains the immediate background to the birth of the Green Revolution in India as given in the chapter?",
+  "options": [
+   "India first became self-sufficient in pulses and then expanded rice exports.",
+   "India replaced all imports with open market purchases using large foreign exchange reserves.",
+   "India adopted only fisheries and poultry technologies to solve the food shortage.",
+   "After recurrent droughts and dependence on food imports, HYV wheat and rice were introduced in assured-irrigation districts."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says recurrent droughts made India dependent on imports, including PL 480 assistance, and HYV wheat and rice were introduced first in selected districts with assured irrigation, leading to the Green Revolution.",
+  "source_page": 318,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "58dd823a-14fb-587b-81fd-5739519c791b",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Which set of figures correctly describes India’s foodgrain situation during the early 1950s as given in the chapter?",
+  "options": [
+   "122 million hectares, 54 million tonnes, 547 kg per hectare",
+   "98 million hectares, fivefold production, fourfold yield",
+   "A little more than 98 million hectares, 54 million tonnes, 547 kg per hectare",
+   "122 million hectares, 98 million tonnes, 547 kg per hectare"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that in the early 1950s the area under foodgrains was a little more than 98 million hectares, production was 54 million tonnes, and average yield was 547 kg per hectare.",
+  "source_page": 318,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7ceafe94-0e8c-5202-b05f-44702d0dfc0a",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Which of the following correctly describes Minimum Support Price (MSP) in the chapter?",
+  "options": [
+   "It is the price paid only to consumers under the Public Distribution System.",
+   "It is the export price fixed for organic and processed agricultural products.",
+   "It is the market price decided after harvest by private traders alone.",
+   "It is a pre-announced assured price fixed considering cultivation costs, at which farmers may sell to FCI if market prices are lower."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter defines MSP as a price fixed by an expert group considering cultivation costs; if open market price is lower, farmers can sell to FCI at MSP.",
+  "source_page": 318,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8c4f63bf-b024-56c3-a2a1-9968956e42d4",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Assertion (A): Buffer stock helps resolve shortage of food during adverse weather conditions or calamities. Reason (R): Buffer stock is used to distribute foodgrains in deficit areas and among poorer strata at an Issue Price lower than the market price. Choose the correct answer.",
+  "options": [
+   "A is true, but R is false",
+   "Both A and R are true, and R explains A",
+   "A is false, but R is true",
+   "Both A and R are true, but R does not relate to A"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states both that buffer stock is distributed in deficit areas and among poorer sections at lower Issue Price and that it helps resolve shortages during adverse weather or calamity.",
+  "source_page": 319,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "61e793b4-67bb-5f2a-a82a-5c793fa270be",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Which statement about allied food sectors and remaining import dependence is correct according to the chapter?",
+  "options": [
+   "Milk production grew 40-fold, egg production eight-fold and fish production 13-fold, while pulses were self-sufficient.",
+   "India attained self-sufficiency in pulses and oilseeds but not in milk, eggs or fish.",
+   "Milk production increased eight-fold, egg production 40-fold and fish production 13-fold, but India still depended on imports for pulses and oilseeds.",
+   "Fish production alone increased, while milk and eggs declined after Independence."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says milk production increased eight-fold, egg production 40-fold and fish production 13-fold, but India could not attain self-sufficiency in pulses and oilseeds.",
+  "source_page": 319,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "34f3d4b4-5f56-53a1-b6c1-91390857a102",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Which statement correctly compares PDS and NFSA as described in the chapter?",
+  "options": [
+   "Tamil Nadu follows universal PDS; NFSA covers 50% of urban households and 75% of rural households as priority households.",
+   "Tamil Nadu follows targeted PDS; NFSA covers all urban households but no rural households.",
+   "Universal PDS leaves out non-priority households, while targeted PDS covers all ration card holders.",
+   "Under NFSA, the Union Government supplies rice, wheat and millets at the same price."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says Tamil Nadu has universal PDS for all family ration card holders, while NFSA covers 50% urban and 75% rural households as priority households.",
+  "source_page": 319,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7156534f-5578-5e6e-acfa-2747b2c5254d",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Match the following as per the chapter: A. Primary consumer cooperative societies B. Central consumer cooperative stores C. State level consumer federations D. Fair price shops in Tamil Nadu run by cooperatives with 1. State-level tier 2. Around 94% 3. Village/primary tier 4. Central tier. Choose the correct code.",
+  "options": [
+   "A-4, B-3, C-1, D-2",
+   "A-1, B-4, C-3, D-2",
+   "A-3, B-1, C-2, D-4",
+   "A-3, B-4, C-1, D-2"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter gives a three-tier consumer cooperative structure: primary societies, central stores and state federations; it also notes that around 94% of Tamil Nadu fair price shops are run by cooperatives.",
+  "source_page": 319,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "97330a18-9886-5a93-9848-ee7a44ae2daf",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "What is purchasing power, as defined in the chapter?",
+  "options": [
+   "The total quantity of foodgrains procured by FCI in one year",
+   "The value of a currency expressed as the amount of goods or services one unit of money can buy",
+   "The difference between market price and Minimum Support Price",
+   "The income earned by the top 10% of the population"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines purchasing power as the value of a currency in terms of the amount of goods or services that one unit of money can buy.",
+  "source_page": 320,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "30c44407-5239-5e7b-b0c4-1bb251fbda84",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Which of the following is NOT listed in the chapter as a factor affecting purchasing power?",
+  "options": [
+   "Over population",
+   "Increasing prices of essential goods",
+   "Number of consumer cooperative federations",
+   "Production and supply of goods"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists overpopulation, increasing prices of essential goods, demand, prices, production and supply, and poverty and inequality as factors affecting purchasing power; consumer cooperative federations are not listed there.",
+  "source_page": 320,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c2493da7-f230-594d-8b59-bc34c39895b7",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "According to the chapter’s discussion of Purchasing Power Parity (PPP), which ranking is stated recently?",
+  "options": [
+   "United States first, China second, India third",
+   "India first, China second, United States third",
+   "China first, India second, United States third",
+   "China first, United States second, India third"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that China became the largest economy in PPP terms, pushing the US to second position, while India became the third largest economy.",
+  "source_page": 320,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "54fc923e-93c0-588b-b815-efec03f339b6",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Arrange the following events in chronological order as given in the chapter: 1. MPI launched by UNDP and OPHI 2. NFSA passed by the Indian Parliament 3. NFSA implemented in Tamil Nadu 4. New export-based agricultural policy announced by the Central Government.",
+  "options": [
+   "1-2-3-4",
+   "2-1-3-4",
+   "1-3-2-4",
+   "2-3-1-4"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter dates these events as MPI in 2010, NFSA in 2013, NFSA implementation in Tamil Nadu on 1 November 2016, and the new agricultural policy in 2018.",
+  "source_page": 321,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "be9585d6-305d-5cba-a7a5-749b590baa7d",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "The new agricultural policy announced by the Central Government in 2018 was based mainly on which approach?",
+  "options": [
+   "Complete ban on export of agricultural goods",
+   "Replacement of all HYV seeds with traditional seeds",
+   "Export of agricultural goods and removal of export restrictions on most organic and processed agricultural products",
+   "Abolition of institutional credit support to farmers"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says the 2018 policy was based on export of agricultural goods and decided to remove export restrictions on most organic and processed agricultural products.",
+  "source_page": 320,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "197ad699-6531-542c-9d2b-9331f9f2422c",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Match the agricultural policy objective with its description: A. Raising productivity of inputs B. Protecting poor farmers C. Environmental degradation D. Removing bureaucratic obstacles with 1. Check degradation of natural base 2. Allow cooperatives and self-help institutions to work independently 3. Improve productivity of HYV seeds, fertilisers, pesticides and irrigation 4. Abolish intermediaries and expand institutional credit. Choose the correct code.",
+  "options": [
+   "A-4, B-3, C-1, D-2",
+   "A-3, B-4, C-1, D-2",
+   "A-3, B-1, C-4, D-2",
+   "A-2, B-4, C-1, D-3"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter links input productivity to HYV seeds and other inputs, poor farmer protection to land reforms and credit, environmental objectives to checking degradation, and bureaucratic objectives to freeing cooperatives and self-help institutions.",
+  "source_page": 321,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8658638f-93bf-5484-adb0-f571e42b6ac0",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Who launched the Multi-dimensional Poverty Index (MPI), and in which year, according to the chapter?",
+  "options": [
+   "Food Corporation of India and FAO, 2009",
+   "Government of India and Ford Foundation, 2013",
+   "World Bank and IMF, 2018",
+   "UNDP and Oxford Poverty Human Development Initiative, 2010"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that MPI was launched by the United Nations Development Programme and the Oxford Poverty Human Development Initiative in 2010.",
+  "source_page": 321,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8549ee87-98f9-56c4-82d7-5091e2967584",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Which statement about poverty in Tamil Nadu is correct according to the MPI 2018 discussion in the chapter?",
+  "options": [
+   "High-poverty districts are those with below 30% of population below the poverty line.",
+   "After 1994, poverty increased steadily in both rural and urban Tamil Nadu.",
+   "Tamil Nadu has a smaller share of India’s poor relative to its population, and poverty reduction after 2005 was faster than in many other states.",
+   "Tamil Nadu lagged in poverty alleviation programmes during 2014–2017."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that after 1994 poverty declined steadily, Tamil Nadu has a smaller share of India’s poor relative to its population, and after 2005 poverty reduction was faster than in many states.",
+  "source_page": 321,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7d8df436-edc1-5107-b74f-31f1b4eda1ae",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Which pair is correctly placed in the chapter’s table of Top and Bottom MPI districts in Tamil Nadu?",
+  "options": [
+   "Top: Chennai; Bottom: Kancheepuram",
+   "Top: Cuddalore; Bottom: Coimbatore",
+   "Top: Dharmapuri; Bottom: Nagapattinam",
+   "Top: Ariyalur; Bottom: Virudhunagar"
+  ],
+  "answer_index": 1,
+  "explanation": "The table lists Cuddalore among the Top 5 districts and Coimbatore among the Bottom 5 districts in Tamil Nadu’s MPI district list.",
+  "source_page": 321,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7bb1b9cf-6f56-599e-ac61-d6cfc5bec0a8",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Which statement correctly reflects the nutrition indicators cited for 2015–16?",
+  "options": [
+   "27% of rural women and 16% of urban women aged 15–49 were undernourished or chronically energy deficient.",
+   "Only urban women in reproductive age were anaemic, while rural women were not.",
+   "About 41% of urban children and 31% of rural children were stunted.",
+   "Underweight among children aged 6–59 months was estimated at about 60% in rural India."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that in 2015–16, 27% of rural women and 16% of urban women aged 15–49 were undernourished or chronically energy deficient.",
+  "source_page": 322,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "93efe943-2d3e-5030-a276-25cfe276deb7",
+  "chapter_id": "c10-ss-25",
+  "unit_code": "GS5",
+  "question": "Match the Tamil Nadu health scheme with its feature: A. Dr. Muthulakshmi Reddy Maternity Benefit Scheme B. Chief Minister’s Comprehensive Health Insurance Scheme C. Tamil Nadu Health Systems Projects D. School Health Programme with 1. 108 Emergency Ambulance Service 2. Comprehensive healthcare for Government and Government-aided school students 3. ₹12,000 assistance to poor pregnant women 4. Launched in 2011–12 to provide Universal Healthcare. Choose the correct code.",
+  "options": [
+   "A-4, B-3, C-1, D-2",
+   "A-3, B-1, C-4, D-2",
+   "A-3, B-4, C-1, D-2",
+   "A-2, B-4, C-1, D-3"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says the maternity scheme gives ₹12,000 to poor pregnant women, the health insurance scheme was launched in 2011–12, TNHSP launched the 108 ambulance service, and the School Health Programme serves Government and Government-aided school students.",
+  "source_page": 323,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ }
+]

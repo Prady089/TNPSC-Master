@@ -1,0 +1,452 @@
+[
+ {
+  "id": "43f56ae8-e71d-5901-aba2-c45e9f3b926f",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "According to the chapter, which one of the following correctly distinguishes goods from services?",
+  "options": [
+   "Goods are intangible activities, while services are tangible physical objects.",
+   "Goods are tangible items, while services are intangible activities.",
+   "Goods are always free, while services are always paid.",
+   "Goods are produced only in agriculture, while services are produced only by government."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter explains that tangible items such as idlis and tea are called goods, while intangible activities such as cooking and serving are called services.",
+  "source_page": 298,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cd6f129a-b0d3-50f7-8663-52b17d19329a",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Which of the following is the GDP identity given in the chapter?",
+  "options": [
+   "GDP = C + G + NFIA",
+   "GDP = National Income / Population",
+   "GDP = GNP − Depreciation",
+   "GDP = C + I + G + (X − M)"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter gives the GDP formula as C + I + G + (X − M), where C is consumption, I is investment, G is government expenditure, and X − M is exports minus imports.",
+  "source_page": 298,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b4daafc2-165d-516d-9159-5e1b9e7ea9dc",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Why are intermediate goods excluded while calculating GDP?",
+  "options": [
+   "Because their value is already included in final goods and including them causes double counting.",
+   "Because they are always imported from other countries.",
+   "Because they have no market value at any stage of production.",
+   "Because they are produced only by the government sector."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that intermediate goods are not counted in GDP because their value is included in final goods; counting them separately would result in double counting.",
+  "source_page": 298,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "df47e950-f502-5959-8222-6df9027ffe4d",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Which of the following statements about National Income is correct as per the chapter?",
+  "options": [
+   "It measures only the money value of imported goods.",
+   "It is calculated only once in ten years.",
+   "It is the total money value of goods and services produced by an economy over a period, normally a year.",
+   "It excludes services and includes only physical goods."
+  ],
+  "answer_index": 2,
+  "explanation": "National Income is defined in the chapter as the total money value of goods and services produced by an economy over a period of time, normally a year.",
+  "source_page": 299,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "87610af5-f6b2-5954-9634-adfabb453004",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Which one of the following is included in Gross National Product (GNP) according to the chapter?",
+  "options": [
+   "Only depreciation of domestic capital",
+   "Profits earned from capital invested abroad",
+   "Only goods produced within village boundaries",
+   "Only taxes collected by the government"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines GNP as the value of goods and services produced and income received by domestic residents, and explicitly states that it includes profits earned from capital invested abroad.",
+  "source_page": 299,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "39a208d8-9992-5589-b185-7cd0c1184196",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Match the following national income measures with their formula/meaning: A. NNP  B. NDP  C. Per Capita Income  with 1. GNP − Depreciation  2. GDP − Depreciation  3. National Income / Population",
+  "options": [
+   "A-1, B-2, C-3",
+   "A-2, B-1, C-3",
+   "A-3, B-2, C-1",
+   "A-1, B-3, C-2"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter gives NNP = GNP − Depreciation, NDP = GDP − Depreciation, and Per Capita Income = National Income / Population.",
+  "source_page": 299,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f7451ff5-ef8e-5009-a2c6-90f034ee33bd",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Consider the following statements: 1. In India, GDP is measured both annually and quarterly. 2. The modern concept of GDP was first developed by Simon Kuznets for a US Congress report in 1934. 3. The annual GDP in India is for a financial year from January 1 to December 31. Which of the statements is/are correct?",
+  "options": [
+   "1 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1 and 2 only"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says GDP in India is measured annually and quarterly, and that Simon Kuznets developed the modern concept in 1934. It states the financial year is from April 1 to March 31, not January to December.",
+  "source_page": 299,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a511b95e-8bb4-579d-baa5-973f5c9ab0a3",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Which of the following correctly expresses Disposable Income according to the chapter?",
+  "options": [
+   "DI = PI + Direct Taxes",
+   "DI = GNP − Depreciation",
+   "DPI = PI − Direct Taxes",
+   "DPI = GDP + Subsidies"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that disposable income is the actual income available to individuals and families for consumption, expressed as DPI = PI − Direct Taxes.",
+  "source_page": 300,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7b9de858-3cd4-554b-8590-af814d162599",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Which example correctly applies the territorial scope of India’s GDP as explained in the chapter?",
+  "options": [
+   "Apples produced in Kashmir are included in India’s GDP, but apples produced in California are not.",
+   "Apples produced in California are included in India’s GDP if sold in Indian markets.",
+   "All apples sold in India are included in India’s GDP regardless of where they are produced.",
+   "Only apples exported from India are included in India’s GDP."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter explains that India’s GDP includes goods and services produced in India, such as apples from Kashmir, but not apples produced in California even if sold in Indian markets.",
+  "source_page": 300,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "70b8b2ad-b3ce-54bd-93fb-679c43a553f0",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Match the GDP calculation methods: A. Expenditure Approach  B. Income Approach  C. Value-Added Approach  with 1. Wages + rent + interest + profit  2. Adding expenditure on all final goods and services  3. Sum of value added by intermediate goods used in production",
+  "options": [
+   "A-1, B-2, C-3",
+   "A-3, B-1, C-2",
+   "A-2, B-3, C-1",
+   "A-2, B-1, C-3"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter explains that the expenditure approach adds expenditure on final goods and services, the income approach sums wages, rent, interest and profit, and the value-added approach adds value produced in stages of production.",
+  "source_page": 300,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2debcbfd-aa68-5840-88ce-b8c772be56ba",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Which one of the following is listed as a limitation of GDP in the chapter?",
+  "options": [
+   "GDP cannot be used to study public sector activity.",
+   "GDP includes only goods produced in foreign countries.",
+   "GDP does not tell us about the way income is distributed in the country.",
+   "GDP excludes all final goods sold in the market."
+  ],
+  "answer_index": 2,
+  "explanation": "Among the limitations, the chapter states that GDP may grow rapidly while income is distributed unequally, so it does not reveal income distribution.",
+  "source_page": 301,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7231ac7e-5d7b-54b4-89ec-d08c0f8125fd",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "According to the chapter, which organisation keeps records for estimation of GDP in India?",
+  "options": [
+   "United Nations Development Programme",
+   "Reserve Bank of India",
+   "Central Statistical Organisation",
+   "World Trade Organization"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the Central Statistical Organisation (CSO), under the Ministry of Statistical department, keeps the records and compiles indexes such as IIP and CPI.",
+  "source_page": 301,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "70de860c-a411-5836-b4ab-b9ad935bb95f",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Which of the following pairs is correctly matched?",
+  "options": [
+   "Primary sector — Agricultural sector",
+   "Secondary sector — Service sector",
+   "Tertiary sector — Industrial sector",
+   "Primary sector — Information Technology sector"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter classifies the Indian economy into primary, secondary and tertiary sectors, and identifies the primary sector as the agricultural sector.",
+  "source_page": 301,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2e8b2a6f-d4c0-5325-8ac7-4c7f57515f72",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Which statement about the tertiary sector is correct as per the chapter?",
+  "options": [
+   "It is restricted to mining, forestry and fishing.",
+   "It produces goods by transforming raw materials.",
+   "It is also called the agricultural sector.",
+   "It includes services such as government, transport, banking, education, healthcare and information technology."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter describes the tertiary sector as the service sector and lists activities including government, transport, communication, banking, education, healthcare and information technology.",
+  "source_page": 302,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "25cc9953-0be7-5fd7-8b70-9f1ea87fda95",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "In the 20th century, economists suggested that traditional tertiary services could be further distinguished into which sectors?",
+  "options": [
+   "Primary and secondary sectors",
+   "Quaternary and quinary service sectors",
+   "Agricultural and industrial sectors",
+   "Public and private sectors"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that in the 20th century economists began to suggest that traditional tertiary services could be further distinguished from quaternary and quinary service sectors.",
+  "source_page": 302,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e3185147-2f07-5b5f-9184-2bffe608dc2d",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Which of the following statements about the services sector in India is correct according to the chapter?",
+  "options": [
+   "It was the smallest sector of India in 2018-19.",
+   "Its Gross Value Added was estimated at 14.82 lakh crore in 2018-19.",
+   "It is the largest sector of India, with GVA at current prices estimated at 92.26 lakh crore in 2018-19.",
+   "It contributed exactly 6.4 percent to India’s GDP in 2018-19."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter explicitly states that the services sector is the largest sector of India and that its GVA at current prices was estimated at 92.26 lakh crore in 2018-19.",
+  "source_page": 302,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7979855b-0593-51f0-8e60-386195bca20c",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "From the sector-wise contribution table, which trend is visible between 1950-51 and 2017-18?",
+  "options": [
+   "Agriculture’s share fell from 51.81% to 17.01%, while services rose from 33.25% to 53.09%.",
+   "Industry’s share fell from 51.81% to 17.01%, while agriculture rose to 53.09%.",
+   "Services remained unchanged at 33.25% throughout the period.",
+   "Agriculture, industry and services all stayed below 20% in 1950-51."
+  ],
+  "answer_index": 0,
+  "explanation": "The table shows agriculture at 51.81% in 1950-51 and 17.01% in 2017-18, while services increased from 33.25% to 53.09%.",
+  "source_page": 302,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "15790f40-8462-5798-b28b-30f9bdc0b766",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Which of the following is the correct formula for Gross Value Added (GVA) given in the chapter?",
+  "options": [
+   "GVA = GDP − subsidies + direct taxes",
+   "GVA = National Income / Population",
+   "GVA = GNP − Depreciation",
+   "GVA = GDP + subsidies − (direct, sales) taxes"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter defines GVA as the measure of the value of goods and services produced in an area, industry or sector and gives the formula GVA = GDP + subsidies − (direct, sales) taxes.",
+  "source_page": 303,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7785c638-9833-50b9-9e91-7d313529cc61",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Which of the following correctly compares economic growth and economic development as described in the chapter?",
+  "options": [
+   "Economic growth is qualitative, while economic development is purely quantitative.",
+   "Economic growth is a narrower quantitative concept; economic development is a broader qualitative concept involving living standards and institutional changes.",
+   "Economic development is short-term and automatic, while economic growth requires continuous government intervention.",
+   "Economic growth is measured by HDI alone, while development is measured only by GDP."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter describes economic growth as a quantitative rise in output and a narrower concept, while economic development is broader, qualitative and includes living standards, technology and institutional changes.",
+  "source_page": 303,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8cec6bda-e6f8-5c1b-a431-b80dc4369089",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Assertion (A): Human Development Index is an apt tool to measure real development in an economy. Reason (R): Economic development focuses more on socio-economic factors rather than just quantitative increase in production. Choose the correct answer.",
+  "options": [
+   "Both A and R are true, and R correctly explains A.",
+   "Both A and R are true, but R does not explain A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that economic development is broader and socio-economic, and that HDI is an apt tool to measure real development; hence the reason explains the assertion.",
+  "source_page": 303,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "25c0cfd1-56ff-5bcb-871e-78580c388427",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "With reference to India’s development path, which of the following statements is correct?",
+  "options": [
+   "India followed free trade from independence without any restrictions.",
+   "India opened its borders to free trade before adopting closed trade.",
+   "India first undertook closed trade, and this outlook continued till 1991 when it liberalized its economy.",
+   "India avoided rural development and poverty alleviation in its development path."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that India first undertook closed trade to promote domestic industries and reduce dependence on foreign products, and that this continued till 1991 when India opened its borders to free trade.",
+  "source_page": 304,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0fffab52-0368-5527-b13a-620e17759d6b",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Which of the following is mentioned as a factor supporting Indian development?",
+  "options": [
+   "A fast-growing working-age population and a strong legal system with many English-language speakers",
+   "A complete absence of technology businesses",
+   "A declining share of working-age population from 64 percent to 58 percent",
+   "Dependence only on agriculture without any business clusters"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter identifies a fast-growing working-age population, a strong legal system and many English-language speakers as factors supporting India’s development.",
+  "source_page": 304,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5baaf0d1-86a7-5790-8a11-af0563509e7a",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Which of the following statements about the Human Development Index is correct?",
+  "options": [
+   "It was coined by Jigme Singye Wangchuck in 1972.",
+   "It measures only Gross National Product and excludes literacy.",
+   "It was introduced by the Central Statistical Organisation in 2018.",
+   "It was introduced in 1990 by Mahbub ul Haq and is a composite index including life expectancy, adult literacy and standard of living."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says Mahbub ul Haq introduced HDI in 1990 at the United Nations, and defines it as a composite index of life expectancy at birth, adult literacy rate and standard of living.",
+  "source_page": 305,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d6e18fb5-9608-58b8-a4af-3c10756eb6d0",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Which of the following is correctly associated with the New Economic Policy described in the chapter?",
+  "options": [
+   "It is limited to Green Revolution and irrigation policy.",
+   "It is commonly known as LPG: Liberalisation, Privatisation and Globalisation.",
+   "It was introduced as a policy of closed trade after 2011.",
+   "It replaced all industrial policies enacted since 1948 with no reforms."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that the New Economic Policy of the beginning of the 1990s is commonly known as LPG—Liberalisation, Privatisation and Globalisation.",
+  "source_page": 305,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6a81cfc1-d168-5fcd-a574-66d8da534b7d",
+  "chapter_id": "c10-ss-23",
+  "unit_code": "GS5",
+  "question": "Arrange the following events in chronological order as given in the chapter: 1. Human Development Index introduced by Mahbub ul Haq  2. UN General Assembly passed the resolution on happiness  3. Gross National Happiness term coined  4. India decided to open its borders to free trade",
+  "options": [
+   "1-3-4-2",
+   "4-1-3-2",
+   "3-1-4-2",
+   "3-4-1-2"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter gives GNH as coined in 1972, HDI introduced in 1990, India opening borders in 1991, and the UN happiness resolution in 2011. Therefore the correct order is 3-1-4-2.",
+  "source_page": 305,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ }
+]

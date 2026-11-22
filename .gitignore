@@ -1,0 +1,19 @@
+# source books stay local (large + some are not redistributable)
+*.pdf
+
+node_modules/
+dist/
+dev-dist/
+.env
+.env.local
+.vercel/
+
+pipeline/out/*
+!pipeline/out/questions/
+__pycache__/
+*.pyc
+
+# local secrets / tool state
+.env.*
+!.env.example
+.claude/

@@ -1,0 +1,848 @@
+[
+ {
+  "id": "8a42cea0-bd42-5c9a-bfde-edc6370cd603",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which statement best describes Gandhi’s entry into Indian politics after his return from South Africa?",
+  "options": [
+   "He introduced satyagraha and gained the goodwill of the masses through his concern for the poorest.",
+   "He immediately became President of the Indian National Congress and demanded partition.",
+   "He began by organising armed rebellion through secret societies.",
+   "He confined his politics to constitutional petitions before the British Parliament."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Gandhi arrived in India in 1915, introduced satyagraha perfected in South Africa, and gained goodwill as a person dedicated to the poorest of the poor.",
+  "source_page": 95,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dbcba60d-7215-5e22-ad69-748a4be4a484",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Match the following related to Gandhi’s early life: A. Birth  B. Sailed to England  C. Became a barrister  D. Left for South Africa with 1. June 1891  2. April 1893  3. 2 October 1869  4. 1888",
+  "options": [
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-3, C-2, D-1",
+   "A-3, B-1, C-4, D-2",
+   "A-2, B-4, C-1, D-3"
+  ],
+  "answer_index": 0,
+  "explanation": "Gandhi was born on 2 October 1869, sailed to England in 1888, became a barrister in June 1891, and left for South Africa in April 1893.",
+  "source_page": 95,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "79f50ad3-6cb5-55c4-b85d-202c234b06c8",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which incident first exposed Gandhi to racial discrimination in South Africa according to the chapter?",
+  "options": [
+   "He was denied the right to own land in Champaran.",
+   "He was physically thrown out of the first class compartment at Pietermaritzburg railway station.",
+   "He was arrested during the Salt March at Dandi.",
+   "He was refused entry into the Second Round Table Conference."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says Gandhi faced racial discrimination for the first time when he was physically thrown out of a first class compartment at Pietermaritzburg on the Durban-Pretoria journey.",
+  "source_page": 96,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "56ba49b3-9a1f-5aab-807e-e06adbc4c622",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which of the following pairs is correctly matched?",
+  "options": [
+   "Phoenix Settlement — 1910",
+   "Tolstoy Farm — 1905",
+   "Phoenix Settlement — 1905",
+   "Tolstoy Farm — 1893"
+  ],
+  "answer_index": 2,
+  "explanation": "Inspired by Ruskin, Gandhi established the Phoenix Settlement in 1905 and the Tolstoy Farm in 1910.",
+  "source_page": 96,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "93f8eea3-50f0-54f9-947d-15890f7f7604",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "With reference to Gandhi’s satyagraha in South Africa, which of the following is correct?",
+  "options": [
+   "It required campaigners to use violence against registration offices.",
+   "It was limited to Indians who owned land in the Transvaal.",
+   "It avoided arrest and worked only through British courts.",
+   "It involved peaceful marches and presenting oneself for arrest against unjust laws."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter defines satyagraha as a strategy in which campaigners went on peaceful marches and presented themselves for arrest in protest against unjust laws.",
+  "source_page": 96,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "086ad32e-7bdc-5127-ae3d-300bc48ab2e6",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Who is described as Gandhi’s political guru in the chapter?",
+  "options": [
+   "Gopal Krishna Gokhale",
+   "Bal Gangadhar Tilak",
+   "Motilal Nehru",
+   "Madan Mohan Malaviya"
+  ],
+  "answer_index": 0,
+  "explanation": "Gandhi regarded Gopal Krishna Gokhale, whom he had met on previous visits to India, as his political guru.",
+  "source_page": 96,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8099f736-c1ef-520d-897e-01b582956d20",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "The tinkathia system in Champaran required peasants to cultivate indigo on what portion of their land holdings?",
+  "options": [
+   "One-third",
+   "One-tenth",
+   "Three-twentieths",
+   "Half"
+  ],
+  "answer_index": 2,
+  "explanation": "Under the tinkathia system, peasants were forced by European planters to cultivate indigo on three-twentieths of their land holdings.",
+  "source_page": 96,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c5d2a038-0307-5988-be2d-96c1074b6bcc",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Assertion (A): Gandhi described Champaran as India’s first object-lesson in Civil Disobedience. Reason (R): Thousands gathered in support of Gandhi when he refused to leave Champaran and was summoned for trial.",
+  "options": [
+   "Both A and R are true, and R explains A.",
+   "Both A and R are true, but R does not explain A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that after Gandhi refused to leave Champaran and was summoned for trial, thousands supported him; Gandhi called it the country’s first object-lesson in Civil Disobedience.",
+  "source_page": 96,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e9dfdd02-0efb-5ca7-ae52-873759595ca8",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which of the following powers was associated with the Rowlatt Act?",
+  "options": [
+   "Election to provincial legislatures by universal adult franchise",
+   "Abolition of salt tax throughout India",
+   "Arrest without warrant and detention without trial",
+   "Transfer of defence to Indian ministers"
+  ],
+  "answer_index": 2,
+  "explanation": "The Rowlatt Act provided for excessive police powers, arrest without warrant and detention without trial; Gandhi called it a Black Act.",
+  "source_page": 96,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f2e00693-0293-5394-b583-bc3d5191a69e",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which of the following statements about the Jallianwala Bagh massacre is correct?",
+  "options": [
+   "It occurred during the Dandi March and was led by Lord Irwin.",
+   "The firing lasted until the troops ran out of ammunition, and the official report gave 379 killed.",
+   "It led Gandhi to accept the Kaiser-i-Hind medal.",
+   "It took place in Lahore after the Simon Commission protest."
+  ],
+  "answer_index": 1,
+  "explanation": "At Jallianwala Bagh, General Dyer’s troops fired without warning for ten minutes until ammunition ran out; the official report stated 379 were killed.",
+  "source_page": 96,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "02f4f8c9-28d5-58ef-a858-d9a31e536cd4",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which leaders are identified in the chapter as leading the Khilafat Movement?",
+  "options": [
+   "Motilal Nehru and C.R. Das",
+   "Rajkumar Shukla and Rajendra Prasad",
+   "Maulana Mohamed Ali and Maulana Shaukat Ali",
+   "Jayaprakash Narayan and Acharya Narendra Dev"
+  ],
+  "answer_index": 2,
+  "explanation": "The Khilafat Movement was led by the Ali brothers, Maulana Mohamed Ali and Maulana Shaukat Ali.",
+  "source_page": 97,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "91b782b7-f4dc-5a53-9560-67fed99ebf02",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Chronologically arrange the following: 1. All India Khilafat Conference at Delhi presided over by Gandhi  2. Khilafat Committee at Allahabad adopted Gandhi’s non-violent non-cooperation programme  3. Non-Cooperation was to begin",
+  "options": [
+   "1-2-3",
+   "2-1-3",
+   "3-1-2",
+   "1-3-2"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter places the Delhi Khilafat Conference in November 1919, the Allahabad Khilafat Committee meeting on 9 June 1920, and the beginning of Non-Cooperation on 1 August 1920.",
+  "source_page": 97,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6a1b51d2-7b91-5d7e-a857-97b3738e725d",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "The Indian National Congress approved the Non-Cooperation Movement in a special session held at which place?",
+  "options": [
+   "Nagpur",
+   "Calcutta",
+   "Lahore",
+   "Bombay"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says the Congress approved the Non-Cooperation Movement in a special session held in Calcutta in September 1920; it was later passed at Nagpur in December 1920.",
+  "source_page": 98,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ae44cad7-ce91-5642-89d8-8b2aae5c1175",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which of the following was NOT part of the Non-Cooperation programme listed in the chapter?",
+  "options": [
+   "Surrender of titles and honorary offices",
+   "Boycott of foreign goods and promotion of Swadeshi",
+   "Boycott of government schools by children and parents",
+   "Participation in government functions to expose colonial rule"
+  ],
+  "answer_index": 3,
+  "explanation": "The programme included surrender of titles, boycott of government schools and foreign goods, and non-participation in government functions, not participation in them.",
+  "source_page": 98,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1943100b-9680-51cc-99e0-83a27342a074",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Why did Gandhi immediately withdraw the Non-Cooperation Movement in 1922?",
+  "options": [
+   "The Nehru Report was rejected by the All Party Conference.",
+   "The British accepted complete independence.",
+   "The Chauri Chaura incident turned violent and 22 policemen lost their lives.",
+   "The Simon Commission included no Indian member."
+  ],
+  "answer_index": 2,
+  "explanation": "After a nationalist procession at Chauri Chaura turned violent and the mob burnt the police station, causing the death of 22 policemen, Gandhi withdrew the movement.",
+  "source_page": 98,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "aca98daf-968a-572f-a765-6c69b1c9b1d7",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Who founded the Swaraj Party on 1 January 1923?",
+  "options": [
+   "Vallabhbhai Patel and C. Rajaji",
+   "C.R. Das and Motilal Nehru",
+   "M.N. Roy and S.A. Dange",
+   "B.R. Ambedkar and M.C. Rajah"
+  ],
+  "answer_index": 1,
+  "explanation": "Despite opposition from no-changers, C.R. Das and Motilal Nehru formed the Swaraj Party on 1 January 1923.",
+  "source_page": 98,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f2ab5dcd-980d-53dd-aa55-6a48efe65bd8",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "In the context of dyarchy under the Government of India Act 1919, which of the following belonged to the Reserved Subjects?",
+  "options": [
+   "Education",
+   "Public health",
+   "Finance",
+   "Agriculture"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists finance, defence, police, justice, land revenue and irrigation as Reserved Subjects in the hands of the British.",
+  "source_page": 98,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "adb6e3d0-7941-5983-bcba-ccb31f7039eb",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which set correctly represents Gandhi’s constructive programme after Chauri Chaura?",
+  "options": [
+   "Khadi, Hindu-Muslim unity and abolition of untouchability",
+   "Dominion status, separate electorates and princely federation",
+   "Armed rebellion, secret societies and military training",
+   "Provincial autonomy, dyarchy and cabinet mission"
+  ],
+  "answer_index": 0,
+  "explanation": "After Chauri Chaura, Gandhi focused on promoting Khadi, Hindu-Muslim unity and the abolition of untouchability, and the All India Spinner’s Association was formed.",
+  "source_page": 98,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2534c4a0-6d4c-5000-a704-e67f3da663e3",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Why was the Simon Commission widely boycotted in India?",
+  "options": [
+   "It recommended immediate Poorna Swaraj for India.",
+   "It was an all-white commission with no Indian member.",
+   "It abolished provincial autonomy under the 1935 Act.",
+   "It accepted Jinnah’s demand for Pakistan."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that the Simon Commission was composed of seven members headed by Sir John Simon and had no Indian member, angering Indians.",
+  "source_page": 98,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "78a8f224-845c-5706-83c6-352ff851f677",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which of the following was a recommendation of the Nehru Report?",
+  "options": [
+   "Separate electorates for the depressed classes",
+   "Abolition of all provincial legislatures",
+   "Dominion status for India",
+   "Partition of Punjab and Bengal"
+  ],
+  "answer_index": 2,
+  "explanation": "The Nehru Report recommended Dominion status, joint and mixed electorates, reservation in specified cases, fundamental rights and universal adult franchise.",
+  "source_page": 99,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b9933511-1b12-543f-bc42-0cc7370f6786",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which statement correctly describes Jinnah’s position after the rejection of his proposals connected with the Nehru Report?",
+  "options": [
+   "He accepted the Nehru Report without amendment.",
+   "He abandoned politics and joined the Congress Socialist Party.",
+   "He became the first President of independent India.",
+   "He began to espouse the cause of a separate nation for Muslims."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that Jinnah, earlier hailed as Ambassador of Hindu-Muslim Unity, later changed his stand and began to support a separate nation for Muslims.",
+  "source_page": 99,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3df6fa04-c4bf-5ea5-b3a2-b1d776d662c8",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "At which Congress session was Poorna Swaraj declared as the goal?",
+  "options": [
+   "Lahore session, December 1929, with Jawaharlal Nehru as President",
+   "Calcutta session, September 1920, chaired by Salem C. Vijayaraghavachariar",
+   "Nagpur session, December 1920, with Gandhi as President",
+   "Bombay session, August 1942, presided over by Lord Irwin"
+  ],
+  "answer_index": 0,
+  "explanation": "In the Lahore Congress session held in December 1929 with Jawaharlal Nehru as President, Poorna Swaraj was declared as the goal.",
+  "source_page": 100,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b5b7a405-8ce9-53a2-82fc-d20292f9f04c",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which of the following demands was included in Gandhi’s charter to Lord Irwin before the Civil Disobedience Movement?",
+  "options": [
+   "Creation of Pakistan",
+   "Reduction of land revenue by 50%",
+   "Separate electorate for women",
+   "Abolition of the Congress ministries"
+  ],
+  "answer_index": 1,
+  "explanation": "The charter included reduction of land revenue by 50%, reduction of army and civil services expenditure, prohibition, release of political prisoners and abolition of salt tax.",
+  "source_page": 100,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ae70a49f-c352-5c2f-8e8e-b98a15d0c997",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which statement about Gandhi’s Dandi March is correct?",
+  "options": [
+   "It started from Wardha with 148 satyagrahis and ended at Poona.",
+   "It was led in Tamil Nadu by Khan Abdul Ghaffar Khan.",
+   "Gandhi covered 241 miles in 24 days and reached Dandi on 5 April 1930.",
+   "It began after the Mountbatten Plan was announced."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says Gandhi left Sabarmati Ashram with 78 inmates on 12 March 1930 and covered 241 miles in 24 days to reach Dandi on 5 April 1930.",
+  "source_page": 100,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0276351b-941e-5228-8bfc-6e3b9f6ccd24",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Match the following during the Salt Satyagraha: A. Tamil Nadu  B. North West Frontier Province  C. Khudai Khidmatgar  D. Dandi with 1. Khan Abdul Ghaffar Khan  2. C. Rajaji’s march to Vedaranyam  3. Red Shirts  4. Gandhi broke the salt law",
+  "options": [
+   "A-2, B-1, C-3, D-4",
+   "A-1, B-2, C-4, D-3",
+   "A-3, B-4, C-2, D-1",
+   "A-4, B-3, C-1, D-2"
+  ],
+  "answer_index": 0,
+  "explanation": "C. Rajaji led the Tamil Nadu march to Vedaranyam; Khan Abdul Ghaffar Khan led the movement in the North West Frontier Province and organised the Khudai Khidmatgar, or Red Shirts; Gandhi broke the salt law at Dandi.",
+  "source_page": 100,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a28744da-9c75-5ef2-9488-39cfbb84b0af",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which statement about forest-related resistance is correct?",
+  "options": [
+   "The Indian Forest Act of 1878 declared original ownership of forests to be with local tribal councils.",
+   "The first forest act of 1865 expanded unrestricted access of forest dwellers.",
+   "Alluri Sitarama Raju led the Rampa struggle for forest dwellers and attained martyrdom.",
+   "The Rampa uprisings were suppressed by Congress ministries in 1937."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the Forest Act restricted access and that Alluri Sitarama Raju fought for Rampa tribals; a special Malabar Police team was sent to quell the 1922-24 uprisings, and he attained martyrdom.",
+  "source_page": 100,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "09d2dc3b-a151-5d8a-8084-ca231012f83d",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Arrange the following in chronological order: 1. Gandhi-Irwin Pact  2. First Round Table Conference  3. Gandhi’s arrest after revival of Civil Disobedience  4. Communal Award",
+  "options": [
+   "2-1-3-4",
+   "1-2-4-3",
+   "2-3-1-4",
+   "4-2-1-3"
+  ],
+  "answer_index": 0,
+  "explanation": "The First Round Table Conference was held in November 1930; the Gandhi-Irwin Pact was on 5 March 1931; Gandhi was arrested on 4 January 1932; the Communal Award was announced on 16 August 1932.",
+  "source_page": 101,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c570df36-e88e-5551-abb2-aa42d886aee3",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which was a main term of the Poona Pact?",
+  "options": [
+   "Separate electorates for depressed classes were confirmed without reservation.",
+   "Joint electorate was accepted with reservation of seats for depressed classes.",
+   "Reserved seats for depressed classes were reduced from 148 to 71.",
+   "Central Legislature seats for depressed classes were abolished."
+  ],
+  "answer_index": 1,
+  "explanation": "The Poona Pact abandoned separate electorates and accepted joint electorates with reservation; reserved seats rose from 71 to 148, with 18 percent in the Central Legislature.",
+  "source_page": 102,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "79ad21e4-7424-56de-a275-9af3854f1a05",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which organisation did Gandhi start to work for removal of discriminations against the depressed classes?",
+  "options": [
+   "All India Workers’ and Peasants’ Party",
+   "Hindustan Socialist Republican Association",
+   "Harijan Sevak Sangh",
+   "Forward Bloc"
+  ],
+  "answer_index": 2,
+  "explanation": "During his campaign against untouchability, Gandhi started the Harijan Sevak Sangh to work for the removal of discriminations.",
+  "source_page": 102,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "13c12f89-f406-522c-9a3a-f5c62c3ce006",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which of the following is correct regarding the Communist movement in the chapter?",
+  "options": [
+   "The Communist Party of India was founded at Tashkent in October 1920.",
+   "The All India Communist Conference was held at Lahore in 1935.",
+   "The Kanpur Conspiracy Case tried only members of the Muslim League.",
+   "The Communist Party was founded in India by Lord Linlithgow."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says the CPI was founded at Tashkent, Uzbekistan, in October 1920; an All India Communist Conference was later held at Kanpur in 1925.",
+  "source_page": 102,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "75d2f2b2-9c0d-5edb-8368-7225c50e826e",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which revolutionary organisation was formed in Kanpur in 1924 to overthrow colonial rule by armed rebellion?",
+  "options": [
+   "Congress Socialist Party",
+   "Hindustan Republican Army",
+   "Khudai Khidmatgar",
+   "Harijan Sevak Sangh"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that the Hindustan Republican Army was formed in Kanpur in 1924 to overthrow colonial rule by armed rebellion.",
+  "source_page": 102,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "31c47fcd-e489-5ddf-b9d4-172fe7d47711",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which event involved Surya Sen and the proclamation of a provisional revolutionary government?",
+  "options": [
+   "Kakori train hold-up",
+   "Chittagong Armoury Raid",
+   "Chauri Chaura incident",
+   "Royal Indian Navy revolt"
+  ],
+  "answer_index": 1,
+  "explanation": "In April 1930, Surya Sen and his associates carried out the Chittagong Armoury Raid, captured the armouries and proclaimed a provisional revolutionary government.",
+  "source_page": 103,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "32c9aaa4-c6b5-54a1-bc13-b0563096710b",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which statement best explains why the Communist Party gained strength in the 1930s according to the chapter?",
+  "options": [
+   "The British transferred defence to Indian ministers.",
+   "The Simon Commission accepted universal adult franchise.",
+   "The economic crisis of the Great Depression caused decline in trade and fall in agricultural prices.",
+   "The Poona Pact introduced separate electorates for all minorities."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter links CPI growth in the 1930s to the Great Depression, reflected in decline in trade returns, fall in agricultural prices, unemployment and wage reductions.",
+  "source_page": 103,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "889f7c8e-cb9f-5168-96bb-60e1d430db05",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Who were associated with the formation of the Congress Socialist Party in 1934?",
+  "options": [
+   "Jayaprakash Narayan, Acharya Narendra Dev and Minoo Masani",
+   "M.N. Roy, Abani Mukherjee and M.P.T. Acharya",
+   "C.R. Das, Motilal Nehru and Salem C. Vijayaraghavachariar",
+   "Liaqat Ali Khan, Jinnah and Sir Muhammad Sadullah"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the Congress Socialist Party was formed in 1934 by Jayaprakash Narayan, Acharya Narendra Dev and Minoo Masani.",
+  "source_page": 103,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "034d8779-fb46-56dc-81db-290cd9b66b03",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which of the following was a key feature of the Government of India Act 1935?",
+  "options": [
+   "Separate independence for Pakistan",
+   "Provincial autonomy and dyarchy at the centre",
+   "Abolition of all provincial governments",
+   "Immediate universal adult franchise for all Indians"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter identifies provincial autonomy and dyarchy at the centre as key features of the Government of India Act 1935.",
+  "source_page": 103,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ca1f3a9a-3660-552b-8794-f9515c447549",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which statement about the Congress ministries formed after the 1937 elections is correct?",
+  "options": [
+   "They increased ministers’ salaries from Rs. 500 to Rs. 2000 per month.",
+   "They refused to repeal emergency-power Acts or help political organisations.",
+   "They reduced ministers’ salaries from Rs. 2000 to Rs. 500 per month and passed temple entry legislation.",
+   "They were formed only after the Congress continued its boycott of legislatures."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says Congress ministries reduced salaries from Rs. 2000 to Rs. 500, rescinded actions against nationalists, curbed police powers and passed temple entry legislation.",
+  "source_page": 103,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fc182f85-bd58-55ac-b0bf-968e42ab693d",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Why did the Congress ministries resign in 1939?",
+  "options": [
+   "The Government of India Act 1935 was repealed by the Congress.",
+   "The colonial government entered the Second World War on behalf of the Allies without consulting them.",
+   "The Muslim League won all general seats in the provincial elections.",
+   "Subhas Chandra Bose formed the INA in Singapore."
+  ],
+  "answer_index": 1,
+  "explanation": "When the Second World War broke out, the colonial government of India entered the war without consulting the Congress ministries, which resigned in protest.",
+  "source_page": 103,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4122e17f-004a-594c-a176-67aa6ba6c6b7",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which of the following statements about Subhas Chandra Bose in 1939 is correct?",
+  "options": [
+   "He became Congress President by defeating Pattabhi Sitaramayya and later started the Forward Bloc.",
+   "He led the Khilafat Committee meeting at Allahabad.",
+   "He negotiated the Poona Pact with Ambedkar.",
+   "He headed the Simon Commission."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that in 1939 Bose became Congress President by defeating Pattabhi Sitaramayya, resigned when Gandhi refused to cooperate, and started the Forward Bloc.",
+  "source_page": 103,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a5f4640a-167b-58b9-8dd9-df8b72b5a236",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which statement about Individual Satyagraha and the Cripps Mission is correct?",
+  "options": [
+   "The first individual satyagrahi was Aruna Asaf Ali in 1942.",
+   "Vinobha Bhave was the first to offer satyagraha on 17 October 1940, and the Cripps Mission came in March 1942.",
+   "Cripps offered immediate transfer of defence to the Congress.",
+   "The Congress accepted the Cripps proposal, while the Muslim League alone rejected it."
+  ],
+  "answer_index": 1,
+  "explanation": "Vinobha Bhave offered the first individual satyagraha on 17 October 1940; the Cripps Mission arrived on 22 March 1942 and was rejected by both Congress and the Muslim League.",
+  "source_page": 104,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a5516b09-2c60-5b36-9501-ad9e2b3f9494",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Assertion (A): The Quit India Resolution demanded an immediate end to British rule in India. Reason (R): Gandhi and the entire Congress leadership were arrested on the morning of 9 August 1942.",
+  "options": [
+   "Both A and R are true, and R explains A.",
+   "Both A and R are true, but R does not explain A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 1,
+  "explanation": "The Bombay AICC meeting on 8 August 1942 passed the Quit India Resolution demanding an immediate end to British rule; the arrests occurred the next morning, but they were a consequence, not the reason for the demand.",
+  "source_page": 104,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3f70e80f-17bd-5c3a-be12-04884f8541da",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which of the following is correctly associated with underground activity during the Quit India Movement?",
+  "options": [
+   "Usha Mehta — Congress Radio underground",
+   "Madan Mohan Malaviya — Provisional Government of Free India",
+   "Sir Strafford Cripps — Red Shirts",
+   "Liaqat Ali Khan — Chittagong Armoury Raid"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Usha Mehta established Congress Radio underground, which successfully functioned till November 1942.",
+  "source_page": 104,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ee7ddae0-bb52-5ddb-bf4d-a5792e8aebaf",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which statement about Subhas Chandra Bose and the INA is correct?",
+  "options": [
+   "The INA was first organised by General Mohan Singh with Indian prisoners of war in Malaya and Burma.",
+   "Bose named the women’s brigade after Razia Sultan.",
+   "The INA trials were held at Jallianwala Bagh.",
+   "Bose gave the slogan Go Back Simon."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says the INA had earlier been organised by Gen. Mohan Singh with Indian prisoners of war, with Japanese support in Malaya and Burma; Bose later reorganised it.",
+  "source_page": 105,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "83451142-ca9b-5356-96bc-035d6239db6c",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which of the following combinations of events and facts from 1945-46 is correct?",
+  "options": [
+   "Wavell Plan — announced on 14 June 1945; Royal Indian Navy revolt — Bombay, February 1946; Direct Action Day — 16 August 1946",
+   "Wavell Plan — announced on 3 June 1947; Royal Indian Navy revolt — Dandi, 1930; Direct Action Day — 15 August 1947",
+   "Wavell Plan — announced by Mountbatten; Cabinet Mission — rejected federal government; Direct Action Day — called by Congress",
+   "Royal Indian Navy revolt — led by Gandhi; Cabinet Mission — sent by Lord Irwin; Direct Action Day — demanded salt satyagraha"
+  ],
+  "answer_index": 0,
+  "explanation": "The Wavell Plan was announced on 14 June 1945, the Royal Indian Navy ratings revolted at Bombay in February 1946, and Jinnah declared 16 August 1946 as Direct Action Day.",
+  "source_page": 106,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b1953a06-2cb0-5950-92c2-340e0c79d3ae",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which statement correctly describes the Cabinet Mission proposal?",
+  "options": [
+   "It accepted Pakistan and abolished the idea of a Constituent Assembly.",
+   "It rejected Pakistan and proposed a federal government controlling defence, communications and foreign affairs.",
+   "It transferred power directly to princely states without joining India or Pakistan.",
+   "It proposed that Punjab and Bengal should not vote on partition."
+  ],
+  "answer_index": 1,
+  "explanation": "The Cabinet Mission rejected the demand for Pakistan and proposed a federal government with control over defence, communications and foreign affairs, along with a Constituent Assembly and interim government.",
+  "source_page": 106,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0f06f9f8-aacb-5ba3-9e25-504db3858199",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which of the following was NOT a proposal of the Mountbatten Plan as given in the chapter?",
+  "options": [
+   "Power would be transferred on the basis of dominion status to India and Pakistan.",
+   "Princely states would have to join either India or Pakistan.",
+   "A boundary commission would be set up under Radcliffe Brown.",
+   "Burma would be reunited with India before transfer of power."
+  ],
+  "answer_index": 3,
+  "explanation": "The Mountbatten Plan proposed dominion status for India and Pakistan, accession of princely states to either, a boundary commission under Radcliffe Brown, and voting by Punjab and Bengal Assemblies on partition; it did not propose reuniting Burma with India.",
+  "source_page": 107,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "31b4360e-3bb0-52e1-bbc5-e2b3677f733a",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "The Mountbatten Plan was given legal effect by which Act?",
+  "options": [
+   "Government of India Act, 1919",
+   "Government of India Act, 1935",
+   "Indian Independence Act, 18 July 1947",
+   "Rowlatt Act, 1919"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the Mountbatten Plan was given effect by the Indian Independence Act enacted on 18 July 1947 by the British Parliament.",
+  "source_page": 108,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c45b97d0-832d-5f38-8914-12f9678d5ea3",
+  "chapter_id": "c10-ss-08",
+  "unit_code": "GS3",
+  "question": "Which statement best captures the outcome of the Indian Independence Act according to the chapter?",
+  "options": [
+   "India remained under the sovereignty of the British Parliament until June 1948.",
+   "India was partitioned into the two dominions of India and Pakistan, and India won independence on 15 August 1947.",
+   "The Cabinet Mission’s grouping plan was implemented without partition.",
+   "The Act restored dyarchy in provinces and separated Burma from India."
+  ],
+  "answer_index": 1,
+  "explanation": "The Act abolished British parliamentary sovereignty over India; India was partitioned into India and Pakistan, and India won independence on 15 August 1947.",
+  "source_page": 108,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

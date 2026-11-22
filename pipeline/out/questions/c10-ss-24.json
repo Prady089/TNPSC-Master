@@ -1,0 +1,308 @@
+[
+ {
+  "id": "225eceb5-75d8-5d8a-99f7-d4eacde81f31",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "According to the chapter, which of the following best describes globalization?",
+  "options": [
+   "Withdrawal of a country from international trade",
+   "Integration of a country with the world economy",
+   "Replacement of foreign trade by domestic production",
+   "State control over all foreign investments"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines globalization as the integration of a country with the world economy and says it signifies internationalization plus liberalization.",
+  "source_page": 309,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "62470d05-9bba-576e-8743-7c5d70abed51",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "The chapter classifies the historical background of globalization into which sequence of stages?",
+  "options": [
+   "Proto Globalization → Archaic Globalization → Modern Globalization",
+   "Modern Globalization → Proto Globalization → Archaic Globalization",
+   "Archaic Globalization → Proto Globalization → Modern Globalization",
+   "Archaic Globalization → Modern Globalization → Proto Globalization"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists the three stages as Stage 1 Archaic Globalization, Stage 2 Proto Globalization and Stage 3 Modern Globalization.",
+  "source_page": 309,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dbb9a29c-f8ff-5078-ade9-381f03658069",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "Which of the following statements about archaic globalization is correct?",
+  "options": [
+   "It began with the signing of the WTO Agreement.",
+   "It was characterized mainly by the rise of European maritime empires.",
+   "Andre Gunder Frank connected it with trade links between Sumer and the Indus valley civilization.",
+   "It refers only to twentieth-century trade in services by multinational firms."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that Andre Gunder Frank argued that a form of globalization existed since trade links between Sumer and the Indus valley civilization in the third millennium BC/BCE.",
+  "source_page": 309,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "df7b3829-ba34-5473-a394-49d0244474f7",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "With reference to proto-globalization, which pair is correctly matched?",
+  "options": [
+   "British East India Company — founded in 1600",
+   "Dutch East India Company — founded in 1502",
+   "Portuguese Empire — founded the first multinational company in 1602",
+   "Spanish Empire — described as the first multinational company"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says the British East India Company, founded in 1600, is described as the first multinational company; the Dutch East India Company was established in 1602.",
+  "source_page": 309,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4e118d1e-d5f2-5ddb-96d8-7760be316fe7",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "Which statement regarding trade and traders in South India is incorrect?",
+  "options": [
+   "Southern Indian trade guilds were formed by merchants.",
+   "Trade guilds helped export Indian culture to other lands.",
+   "Kalinga traders brought red coloured stone decorative objects and cotton textiles to Southeast Asia.",
+   "Kalinga traders were identified in the chapter with modern Bengal."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter identifies Kalinga traders with modern Odisha, not Bengal, and says they traded red coloured stone decorative objects and cotton textiles.",
+  "source_page": 310,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fa18abe4-0679-5639-84f0-01399656942f",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "Consider the following statements about the Portuguese in India: 1. Vasco da Gama landed at Calicut in May 1498. 2. His second trip in 1502 led to trading stations at Calicut, Cochin and Cannanore. 3. Pulicut was the early capital of the Portuguese in India. Which of the statements is/are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Vasco da Gama landed at Calicut in May 1498 and that his second trip in 1502 led to trading stations at Calicut, Cochin and Cannanore. It says Cochin, not Pulicut, was the early capital of the Portuguese in India.",
+  "source_page": 311,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fe4d4106-cb6e-5c62-b13e-c3b799ecde98",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "Match the following European trading powers with their headquarters or major settlement mentioned in the chapter: A. Dutch  B. Danes  C. French  D. Portuguese; 1. Cochin  2. Pulicut  3. Tranguebar  4. Pondicherry. Select the correct answer.",
+  "options": [
+   "A-2, B-3, C-4, D-1",
+   "A-3, B-2, C-1, D-4",
+   "A-1, B-4, C-2, D-3",
+   "A-4, B-1, C-3, D-2"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Pulicut was the headquarters of the Dutch, Tranguebar was the headquarters of the Danes, Pondicherry was the headquarters of the French, and Cochin was the early Portuguese capital in India.",
+  "source_page": 311,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "805105be-f457-59c2-aeca-62f2f0253901",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "Arrange the following events in chronological order: 1. Danish settlements established at Tranguebar  2. Queen Elizabeth granted charter to the East India Company  3. Dutch East India Company formed  4. First French factory in India established. Select the correct order.",
+  "options": [
+   "2-3-1-4",
+   "3-2-4-1",
+   "2-1-3-4",
+   "1-2-3-4"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter gives the dates as East India Company charter in 1600, Dutch East India Company in 1602, Tranguebar settlement in 1620, and the first French factory in 1668.",
+  "source_page": 311,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "52b83d2a-02c5-5b5b-9841-e28aa23703d5",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "Assertion (A): India’s budget for 1991-92 introduced policy changes underlining globalization, liberalization and privatization. Reason (R): India had faced an unprecedented balance of payments crisis and even mortgaged 40 tons of gold to the Bank of England. Which is correct?",
+  "options": [
+   "Both A and R are true, and R explains A",
+   "Both A and R are true, but R does not explain A",
+   "A is true, but R is false",
+   "A is false, but R is true"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter links the June 1991 balance of payments crisis, capital flight and mortgaging of 40 tons of gold to the July 1991 budget policy changes called India’s New Economic Policy.",
+  "source_page": 311,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "262eaf6b-d081-5f51-82ea-fe23414d59c3",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "Which of the following was NOT listed as a reform made to adopt globalization under India’s New Economic Policy?",
+  "options": [
+   "Abolition of industrial licensing except for a few industries",
+   "Reduction in the number of industries reserved for the public sector",
+   "Fixation of a realistic exchange rate of the rupee",
+   "Increase in Statutory Liquidity Ratio to restrict RBI lending"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that the Statutory Liquidity Ratio was reduced to increase lending by RBI, not increased to restrict lending.",
+  "source_page": 312,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9b826d15-57b3-5c90-b2c8-9fab2fc7426d",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "Which of the following correctly describes a Multi National Corporation as per the chapter?",
+  "options": [
+   "A corporation that trades only within its home country",
+   "A public sector enterprise reserved for government ownership",
+   "A corporate organization which owns or controls production of goods or services in at least one country other than its home country",
+   "A trade guild formed by merchants to export culture"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines a Multi National Corporation as a corporate organization owning or controlling production of goods or services in at least one country other than its home country.",
+  "source_page": 312,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7e361dbd-fb69-5438-8d37-4a93b95d71e9",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "Consider the following statements on the evolution and presence of MNCs: 1. Multinationals first started in extractive industries or control of raw materials during the 1920s. 2. They slowly entered manufacturing and service sectors after the 1950s. 3. Most present MNCs belong to USA, UK, France and Germany. 4. The largest number are German, with 11 of the 15 largest multinationals. Which statements are correct?",
+  "options": [
+   "1, 2 and 3 only",
+   "1 and 4 only",
+   "2, 3 and 4 only",
+   "1, 2, 3 and 4"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says MNCs began in extractive industries or raw materials during the 1920s and entered manufacturing and services after the 1950s. It also says most belong to USA, UK, France and Germany, but the largest are American, with 11 of the 15 largest being Americans.",
+  "source_page": 312,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "18a23657-5872-5811-86d6-fd541f009e62",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "Which one of the following is listed as a reason for the growth of MNCs?",
+  "options": [
+   "Restriction of market territory within national borders",
+   "Absence of advertising and sales promotion",
+   "Expansion of market territory beyond the physical boundaries of the country",
+   "Compulsory sale of all foreign collaborations to local firms"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists expansion of market territory as a reason, explaining that large firms seek extension of activities beyond the physical boundaries of their country.",
+  "source_page": 312,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0e934728-b1f7-51e1-a884-224552a9133d",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "Which of the following is an advantage of MNCs mentioned in the chapter?",
+  "options": [
+   "They may develop a monopoly for certain products.",
+   "They may cause the downfall of smaller local business.",
+   "They may produce the same quality of goods at lower cost and without transaction cost.",
+   "They may breach ethical standards."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists producing the same quality of goods at lower cost and without transaction cost as an advantage of MNCs. The other options are listed under disadvantages.",
+  "source_page": 313,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "392f453b-ea1e-5739-9ade-7e76fa49e6be",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "With reference to fair trade practices and foreign exchange laws, which statement is correct?",
+  "options": [
+   "Fair Trade aims to remove small farmers from the world market place.",
+   "FERA was enacted in 1999 and emphasized management rather than regulation.",
+   "FEMA was enacted in 1974 and referred directly to MNC operations in India.",
+   "FEMA places emphasis on ‘Management’ rather than ‘regulation’."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says Fair Trade aims to keep small farmers active in the world marketplace. It identifies FERA as the Foreign Exchange Regulation Act 1974 and FEMA as the Foreign Exchange Management Act 1999, under which emphasis is on management rather than regulation.",
+  "source_page": 313,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f71c9e5b-79ca-5375-b632-af4b38c440af",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "Which of the following statements about GATT and WTO is incorrect?",
+  "options": [
+   "GATT was signed by 23 countries in 1947.",
+   "India was one of the founder members of GATT.",
+   "The WTO Agreement came into force from January 1, 1995.",
+   "The eighth and final GATT round was held at Tokyo in 1973–79."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that the seventh round was held in Tokyo in 1973–79, while the eighth and final round was at Punta del Este, Uruguay, in 1986–1994.",
+  "source_page": 314,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "90c5ca1f-1647-5c79-a55b-3366328061ae",
+  "chapter_id": "c10-ss-24",
+  "unit_code": "GS5",
+  "question": "According to the chapter, which of the following is listed as a challenge or negative impact of globalization?",
+  "options": [
+   "Reduction of global competition in wages and labour rights",
+   "Environmental degradation and increased exploitation of natural resources",
+   "Complete automatic spread of benefits to all countries",
+   "Abolition of all foreign direct investment flows"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter lists environmental degradation and rapid exploitation of natural resources to earn foreign exchange among the negative impacts and challenges of globalization.",
+  "source_page": 315,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

@@ -1,0 +1,115 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where([data-theme='dark'], [data-theme='dark'] *));
+
+:root {
+  --bg: #fafbfc;
+  --surface: #ffffff;
+  --surface-2: #f2f4f7;
+  --ink: #111827;
+  --muted: #5b6475;
+  --line: #e6e8ee;
+  --brand: #1e3a8a;
+  --brand-soft: #e6ecfb;
+  --brand-ink: #ffffff;
+  --accent: #d97706;
+  --accent-soft: #fdf3e1;
+  --good: #15803d;
+  --good-soft: #e5f5ea;
+  --bad: #b91c1c;
+  --bad-soft: #fbe9e9;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: #0d1117;
+    --surface: #161b24;
+    --surface-2: #1f2633;
+    --ink: #e8ecf3;
+    --muted: #9aa4b5;
+    --line: #2a3242;
+    --brand: #8fa8f0;
+    --brand-soft: #1d2847;
+    --brand-ink: #0d1117;
+    --accent: #f5b041;
+    --accent-soft: #3a2c12;
+    --good: #4ade80;
+    --good-soft: #14301f;
+    --bad: #f87171;
+    --bad-soft: #3a1818;
+    color-scheme: dark;
+  }
+}
+:root[data-theme='dark'] {
+  --bg: #0d1117;
+  --surface: #161b24;
+  --surface-2: #1f2633;
+  --ink: #e8ecf3;
+  --muted: #9aa4b5;
+  --line: #2a3242;
+  --brand: #8fa8f0;
+  --brand-soft: #1d2847;
+  --brand-ink: #0d1117;
+  --accent: #f5b041;
+  --accent-soft: #3a2c12;
+  --good: #4ade80;
+  --good-soft: #14301f;
+  --bad: #f87171;
+  --bad-soft: #3a1818;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-brand: var(--brand);
+  --color-brand-soft: var(--brand-soft);
+  --color-brand-ink: var(--brand-ink);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-good: var(--good);
+  --color-good-soft: var(--good-soft);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --font-sans: 'Inter', 'Noto Sans Tamil', system-ui, sans-serif;
+  --font-serif: 'Source Serif 4', 'Noto Sans Tamil', Georgia, serif;
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  min-height: 100dvh;
+}
+
+:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 2px;
+}
+
+.reader p {
+  margin: 0 0 1.05em;
+}
+
+/* Underlined key point, briefly lit up when jumped to from the Highlights list. */
+.reader mark.hl { transition: background-color 0.4s; }
+.reader mark.hl-flash { background-color: var(--accent-soft); }
+
+/* Printable quiz (pen & paper). */
+@media print {
+  @page { size: A4; margin: 14mm 12mm; }
+  html, body { background: #fff !important; color: #000 !important; }
+  .no-print { display: none !important; }
+  .break-before { break-before: page; }
+  .avoid-break { break-inside: avoid; }
+}

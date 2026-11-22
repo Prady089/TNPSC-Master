@@ -1,0 +1,596 @@
+[
+ {
+  "id": "369d4de3-25ee-5f3c-aaad-9b7e81145982",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which of the following best defines soil as given in the chapter?",
+  "options": [
+   "The uppermost layer of land surface composed of minerals, organic matter, living organisms, air and water",
+   "A layer of only decomposed organic matter found beneath rocks",
+   "The deepest layer of the earth formed entirely by river deposition",
+   "A mixture of sand and clay used only for crop cultivation"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines soil as the uppermost layer of land surface, usually composed of minerals, organic matter, living organisms, air and water.",
+  "source_page": 160,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ddf03f7e-a129-5474-903b-0fd687048316",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "The Indian Council of Agriculture Research classification of Indian soils mentioned in the chapter is associated with which of the following?",
+  "options": [
+   "Six major groups, set up in 1947",
+   "Seven major groups, set up in 1951",
+   "Eight major groups, set up in 1953",
+   "Ten major groups, set up in 1965"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that ICAR, set up in 1953, divides the soils of India into eight major groups.",
+  "source_page": 160,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "20464e3c-ee7a-5e63-8b49-5e74b3518676",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "With reference to alluvial soil, which of the following statements is correct?",
+  "options": [
+   "Khadar is older alluvium with lime nodules and clayey composition.",
+   "Khadar is light coloured, while Bhangar is older alluvium with lime nodules and clayey composition.",
+   "Bhangar is new alluvium and is always sandy without clay.",
+   "Alluvial soil is derived from basalts of the Deccan trap."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter describes Khadar as light coloured and more siliceous, while Bhangar is older alluvium composed of lime nodules with clayey composition.",
+  "source_page": 160,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e9d7d83a-0fde-5427-ab72-9c860875091d",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which pair is correctly matched with respect to Indian soils?",
+  "options": [
+   "Red soil – derived from basalts of Deccan trap",
+   "Laterite soil – formed due to ill drainage and water logging",
+   "Saline soil – formed by decomposition of granites and gneisses",
+   "Black soil – black colour due to the presence of titanium and iron"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that black soils have black colour due to the presence of titanium and iron. Basalts relate to black soil, while granites and gneisses relate to red soil.",
+  "source_page": 161,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7fecd350-b2cd-5eb2-8514-ca6721c49b32",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Laterite soils are formed mainly under which condition?",
+  "options": [
+   "Regions with alternate wet and hot dry conditions through the process of leaching",
+   "Dry climate with high evaporation and absence of vegetative cover",
+   "Mechanical weathering caused by snow and temperature variation",
+   "Ill drainage that transfers injurious salts to the top soil"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that laterite soils are formed where alternate wet and hot dry conditions prevail and by the process of leaching.",
+  "source_page": 161,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "68a6cd95-1a7b-57a9-be6e-fe60e614a54f",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Match the following soils with their distribution as stated in the chapter: A. Forest and mountain soils  B. Arid and desert soils  C. Peaty and marshy soils  D. Saline and alkaline soils  with 1. Rajasthan, Northern Gujarat and southern Punjab  2. Kottayam and Alappuzha districts of Kerala  3. Coniferous forest belts of Jammu and Kashmir, Himachal Pradesh, Uttarakhand and Sikkim  4. Drier parts of Bihar, Uttar Pradesh, Haryana, Punjab, Rajasthan and Maharashtra",
+  "options": [
+   "A-1, B-3, C-2, D-4",
+   "A-2, B-1, C-4, D-3",
+   "A-3, B-1, C-2, D-4",
+   "A-4, B-2, C-3, D-1"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter places forest and mountain soils in coniferous belts of the Himalayan states, arid and desert soils in Rajasthan, Northern Gujarat and southern Punjab, peaty soils in Kerala districts, and saline soils in the drier parts of several states.",
+  "source_page": 162,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "55135595-6e26-5bb0-aaf8-efa881563e1f",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "According to the 2015 report of the Indian Institute of Remote Sensing mentioned in the chapter, the estimated soil erosion in India was:",
+  "options": [
+   "74 million hectares",
+   "147 million hectares",
+   "175 million hectares",
+   "247 million hectares"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter cites a 2015 IIRS report stating that estimated soil erosion in India was 147 million hectares.",
+  "source_page": 162,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c2ce4800-7a39-5a68-b539-3a6e532b86b8",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which of the following is NOT listed as a method of conservation and management of soil in the chapter?",
+  "options": [
+   "Afforestation",
+   "Prevention of overgrazing",
+   "Contour bunding",
+   "Expansion of water logging"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter lists afforestation, prevention of overgrazing, contour method, contour bunding and related practices as conservation methods. Water logging is listed as a soil problem, not a conservation method.",
+  "source_page": 162,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "745dc0cd-35c3-53a8-bd8a-7b24943caa0c",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about irrigation in India is correct?",
+  "options": [
+   "Irrigation is watering agricultural plants through artificial means and is needed because rainfall is seasonal and irregular.",
+   "Irrigation means only storing rainwater in natural lakes for household use.",
+   "Irrigation is unnecessary in a hot country with seasonal rainfall.",
+   "Irrigation in India depends only on perennial rivers and not on soils or groundwater."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines irrigation as watering agricultural plants through artificial means and says India needs it because it is a hot country with seasonal and irregular rainfall.",
+  "source_page": 164,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7ec1486f-09a8-54f2-b9cd-9cef72f74b12",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Consider the following statements about canal irrigation: 1. It is the second most important source of irrigation in India. 2. Inundation canals take water directly from rivers without a barrage or dam. 3. Perennial canals are developed from perennial rivers by constructing a barrage. Which of the above is/are correct?",
+  "options": [
+   "1 only",
+   "2 and 3 only",
+   "1, 2 and 3",
+   "1 and 3 only"
+  ],
+  "answer_index": 2,
+  "explanation": "All three statements are stated in the chapter: canal irrigation is the second most important source; inundation canals work without barrages or dams; perennial canals use barrages to regulate flow.",
+  "source_page": 164,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "38917603-7a96-5cce-9054-4adfe43efeea",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which statement about well irrigation is correct?",
+  "options": [
+   "Open wells are used only where the water table is low and power supply is sufficient.",
+   "Tube wells are predominant in Gujarat, Maharashtra, Punjab, Madhya Pradesh and Tamil Nadu.",
+   "Well irrigation is less important than tank irrigation at the national level.",
+   "Open wells are not practised in the Ganga Plains."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that tube wells are predominant in Gujarat, Maharashtra, Punjab, Madhya Pradesh and Tamil Nadu. It also calls well irrigation the most important source of irrigation.",
+  "source_page": 164,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8e00e6dd-7e19-5931-96b8-76416a2b5ea9",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Tank irrigation is popular in peninsular India for all the following reasons EXCEPT:",
+  "options": [
+   "Undulating relief and hard rocks make canals and wells difficult.",
+   "Natural depressions serve as reservoirs.",
+   "Impermeable rock structure does not permit percolation.",
+   "Abundance of perennial rivers provides continuous canal water."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter specifically gives absence of perennial rivers as a reason for tank irrigation in peninsular India; therefore abundance of perennial rivers is the exception.",
+  "source_page": 164,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d721fc7a-3eff-5845-a4af-c49df76e0044",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Match the modern irrigation methods: A. Drip irrigation  B. Sprinkler method  C. Rain gun  D. Central-pivot irrigation  with 1. Equipment rotates around a pivot  2. Water supplied in drops through nassals  3. Water supplied through pipes with small holes  4. Spreads water like rain and can water crops up to 4 feet",
+  "options": [
+   "A-2, B-3, C-4, D-1",
+   "A-3, B-2, C-1, D-4",
+   "A-4, B-1, C-2, D-3",
+   "A-1, B-4, C-3, D-2"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter describes drip as drops through nassals, sprinkler as pipes with small holes, rain gun as spreading water like rain, and central-pivot as rotating around a pivot.",
+  "source_page": 165,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6a8cc97c-3de8-5638-b922-50d1ae83de03",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which of the following is the best description of multipurpose river valley projects and PMKSY in the chapter?",
+  "options": [
+   "They are meant only for navigation and fisheries.",
+   "They are exclusively for flood control in coastal areas.",
+   "Multipurpose projects manage water for uses such as irrigation and hydropower, while PMKSY promotes water-saving and conservation technologies for more production.",
+   "PMKSY is a scheme for replacing irrigation with dry farming."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says multipurpose projects serve irrigation, hydropower, drinking and industrial water supply, flood control and other purposes. PMKSY is implemented to get more production using water-saving and conservation technologies.",
+  "source_page": 165,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "326bf3ad-86c9-5cc8-ad5d-0c6ed2857068",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Match the river valley projects with rivers: A. Bhakra-Nangal Project  B. Hirakud Project  C. Tehri Dam  D. Mettur Dam  with 1. Cauveri  2. Sutlej  3. Bhagirathi  4. Mahanadi",
+  "options": [
+   "A-4, B-2, C-1, D-3",
+   "A-2, B-4, C-3, D-1",
+   "A-3, B-1, C-4, D-2",
+   "A-1, B-3, C-2, D-4"
+  ],
+  "answer_index": 1,
+  "explanation": "The project table in the chapter lists Bhakra-Nangal on the Sutlej, Hirakud on the Mahanadi, Tehri on the Bhagirathi and Mettur on the Cauveri.",
+  "source_page": 165,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d74e03db-96d1-5b32-a8b8-aa85c0ded025",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which one of the following is correctly matched as a determinant of agriculture?",
+  "options": [
+   "Physical factors – credit, market and insurance",
+   "Institutional factors – high yielding seeds and machinery",
+   "Infrastructural factors – relief, climate and soil",
+   "Technological factors – high yielding varieties of seeds, chemical fertilisers, insecticides and machinery"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter lists technological factors as high yielding varieties of seeds, chemical fertilisers, insecticides and machinery. Relief, climate and soil are physical factors.",
+  "source_page": 165,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d71e30e3-d15a-5c7e-95e2-9e1ea4544761",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which statement correctly describes subsistence farming as given in the chapter?",
+  "options": [
+   "Farmers grow crops with family members and consume almost the entire produce with little surplus to sell.",
+   "It is cultivation only for export markets in large estates.",
+   "It is practised only on hilly terraces to prevent soil erosion.",
+   "It is a mechanised system aimed at maximum yields through heavy chemical use."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that in subsistence farming farmers use family labour, consume almost the entire farm produce and have little surplus to sell.",
+  "source_page": 165,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8c4fda27-79c9-53fc-ba00-c1c4378a89c3",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Shifting agriculture is called “Slash and burn” cultivation because:",
+  "options": [
+   "It is done by flooding the fields and transplanting seedlings.",
+   "It uses only machines and chemical fertilisers on the same field every year.",
+   "Tribal people clear forest land by felling and burning trees before cultivating it for a few years.",
+   "It is practised only in coastal areas with water logging."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says shifting agriculture is performed by tribal people after clearing forest by felling and burning, cultivating for two to three years and then moving to new areas.",
+  "source_page": 165,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ffc03f0d-2f4f-5110-b149-0bf3e8c6ad04",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Match the regional names of shifting agriculture: A. Jhum  B. Poonam  C. Podu  D. Beewar/Mashan/Penda/Beera  with 1. Kerala  2. Assam  3. Madhya Pradesh  4. Andhra Pradesh and Odisha",
+  "options": [
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-1, C-4, D-3",
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-3, C-2, D-1"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter lists Jhum in Assam, Poonam in Kerala, Podu in Andhra Pradesh and Odisha, and Beewar/Mashan/Penda/Beera in Madhya Pradesh.",
+  "source_page": 167,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e88555ff-a94b-57ab-8e4b-d00599ad0023",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which of the following pairs of farming type and feature is correctly matched?",
+  "options": [
+   "Dry farming – practised only where irrigation is abundant",
+   "Mixed farming – includes crop production, livestock, poultry, fisheries and bee keeping",
+   "Intensive farming – avoids pesticides and chemical fertilisers completely",
+   "Terrace farming – practised only on flat river plains"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter defines mixed farming as including crop production, livestock, poultry, fisheries, bee keeping and related activities to satisfy farmers’ needs.",
+  "source_page": 167,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9f89948d-742c-5dfc-8c0f-8fec1daa7510",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "The major crops of India are divided in the chapter into which four categories?",
+  "options": [
+   "Food crops, cash crops, plantation crops and horticulture crops",
+   "Cereals, pulses, spices and fruits only",
+   "Kharif crops, Rabi crops, Zaid crops and perennial crops",
+   "Irrigated crops, rainfed crops, forest crops and desert crops"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter classifies India’s major crops into food crops, cash crops, plantation crops and horticulture crops.",
+  "source_page": 168,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ffa1bdc7-9592-5f4b-bf89-4fbca22492e7",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about rice cultivation in India is correct?",
+  "options": [
+   "India is the largest producer of rice in the world, ahead of China.",
+   "Rice is mainly a temperate crop requiring very low rainfall.",
+   "India is the second largest rice producer after China, and rice needs about 24°C mean temperature and 150 cm annual rainfall.",
+   "Rice is sown only by transplanting and never by broadcasting or drilling."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that India is the second largest producer of rice after China, and rice grows mainly with mean temperature of 24°C and annual rainfall of 150 cm.",
+  "source_page": 168,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7458949e-f09b-5985-8660-931d3f549cc4",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Match the cropping seasons with months: A. Kharif  B. Rabi  C. Zaid  with 1. October–March  2. June–September  3. April–June",
+  "options": [
+   "A-1, B-2, C-3",
+   "A-2, B-1, C-3",
+   "A-3, B-1, C-2",
+   "A-2, B-3, C-1"
+  ],
+  "answer_index": 1,
+  "explanation": "The cropping-season table gives Kharif as June–September, Rabi as October–March and Zaid as April–June.",
+  "source_page": 168,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f045e175-5e16-5b75-b6e3-2dea7dc3c27a",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Consider the following statements about wheat: 1. It is the second most important food crop after rice. 2. It accounts for 22 percent of the total area and 34 percent of total food grain production. 3. More than 85% of India’s wheat production comes from five states. Which of the above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states all three facts: wheat is second after rice, accounts for 22% of area and 34% of food grain production, and over 85% comes from five states.",
+  "source_page": 168,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2e9372e2-ff36-51ed-991b-ba4d2188da0b",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which of the following statements is correct about millets and pulses?",
+  "options": [
+   "Jowar is the third important food crop of India, and pulses fix atmospheric nitrogen in the soil.",
+   "Bajra is mainly a crop of wet regions and West Bengal is its largest producer.",
+   "Barley is used only as cattle fodder and not for human consumption.",
+   "India is described as the second largest producer of pulses after China."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter calls Jowar the third important food crop and says pulses fix atmospheric nitrogen. It also states that India is the largest producer of pulses.",
+  "source_page": 169,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "771ae4bb-fbd8-5d31-82f9-0be90a902fc8",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which of the following is correct about sugarcane as stated in the chapter?",
+  "options": [
+   "India ranks first in sugar production in the world.",
+   "Tamil Nadu is the leading sugarcane producer followed by Gujarat.",
+   "India is ranked third in sugar production after Cuba and Brazil, and Uttar Pradesh is the leading sugarcane producer.",
+   "Sugarcane provides raw material only for the paper industry."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that India ranks third in sugar production after Cuba and Brazil, and Uttar Pradesh is the leading producer of sugarcane.",
+  "source_page": 169,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b9e60b6a-442d-5ac1-93c1-212ed7239e4d",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which pair is correctly matched?",
+  "options": [
+   "Cotton – West Bengal is the leading producer",
+   "Jute – West Bengal is the leading state in cultivation and production",
+   "Oilseeds – Kerala is India’s largest oilseeds producing state",
+   "Cotton – India ranks first in the world ahead of China"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that West Bengal is the leading state in cultivation and production of jute. Cotton production is led by other states, and India ranks second after China in cotton.",
+  "source_page": 170,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2feaad36-be42-58ab-a26a-5bc40fa1f352",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about tea is correct?",
+  "options": [
+   "Tea roots tolerate water logging and therefore grow best in stagnant water.",
+   "Only ASSAMICA originated from China and BOHEA from India.",
+   "India is the largest producer of tea in the world ahead of China.",
+   "Two major tea varieties are BOHEA from China and ASSAMICA from India; Assam is the larger producer of tea in India."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says BOHEA originated from China and ASSAMICA from India, and that Assam is the larger producer of tea in India.",
+  "source_page": 170,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "543c2d18-9c08-5997-8b07-dd577577730d",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about plantation and horticulture crops is correct?",
+  "options": [
+   "Coffee grows effectively between 100 and 500 m above mean sea level.",
+   "Rubber was first established in Karnataka in 1953.",
+   "Kerala is the leading producer of coffee in India.",
+   "Coffee grows effectively between 1,000 and 1,500 m; rubber plantations were first established in Kerala in 1902; horticulture refers to fruits, flowers and vegetables."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter gives coffee’s effective altitude as 1,000–1,500 m, notes rubber plantations first in Kerala in 1902, and defines horticulture as cultivation of fruits, flowers and vegetables.",
+  "source_page": 170,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e75394bf-715a-5176-ba09-d41c97b5afb1",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which statement about livestock in India is correct?",
+  "options": [
+   "Cattle constitute 37.3 percent of livestock population, and India has the second largest cattle population after Brazil.",
+   "Goats are described as the rich man’s horse.",
+   "Buffaloes are not an important source of milk supply in India.",
+   "The only cattle breed category mentioned is draught breed."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that cattle constitute 37.3% of livestock population and India has the second largest cattle population after Brazil. It also lists milch, draught and mixed/general breeds.",
+  "source_page": 171,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a63295d4-1b93-5355-b485-c89c402cc05a",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Arrange the following events/reports in chronological order: 1. First livestock census in India as Dairy Cattle Census  2. ICAR set up  3. Rubber plantations first established in Kerala  4. IIRS report on soil erosion",
+  "options": [
+   "1-3-2-4",
+   "2-3-1-4",
+   "3-1-2-4",
+   "3-2-1-4"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter gives the dates as rubber plantations in Kerala in 1902, first livestock census in 1919, ICAR set up in 1953 and IIRS report in 2015.",
+  "source_page": 171,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "257891b1-255d-5024-bb78-2f4b0c5fb5e9",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Which of the following correctly describes fisheries in India according to the chapter?",
+  "options": [
+   "India produces about 3 percent of world fish and ranks first ahead of China.",
+   "Marine fisheries alone account for about 50 percent of total fish production and Andhra Pradesh leads in marine fish.",
+   "India produces about 3 percent of world fish and occupies second place after China; Kerala leads in marine fish production and Andhra Pradesh in inland fisheries.",
+   "Fishing in India is limited to rivers and lakes and excludes coastal waters."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that India produces about 3% of the world’s fish and ranks second after China. Kerala leads marine fish production, while Andhra Pradesh leads inland fisheries.",
+  "source_page": 171,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3d7fb5b5-cc61-51ed-ba25-d55a0901dd4e",
+  "chapter_id": "c10-ss-13",
+  "unit_code": "GS2",
+  "question": "Consider the following statements on farmers’ issues and agricultural revolutions: 1. Only one-third of the cropped area falls under irrigated area. 2. Absence of sound marketing facilities makes farmers depend on local traders and middlemen. 3. Grey Revolution relates to fish production. 4. White Revolution relates to milk production. Which of the above are correct?",
+  "options": [
+   "1, 2 and 4 only",
+   "1 and 3 only",
+   "2, 3 and 4 only",
+   "1, 2, 3 and 4"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that only one-third of cropped area is irrigated and that weak marketing forces dependence on traders and middlemen. In the revolutions list, Grey relates to fertilizers, Blue to fish production, and White to milk production.",
+  "source_page": 172,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ }
+]

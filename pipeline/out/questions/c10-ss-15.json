@@ -1,0 +1,614 @@
+[
+ {
+  "id": "0cfbcc7d-0956-522c-bf18-988ccf725384",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which statement correctly describes India’s share in world area and population as given in the chapter?",
+  "options": [
+   "India covers 17.5% of world land area and has 2.4% of world population.",
+   "India covers only 2.4% of world land area and has about 17.5% of world population.",
+   "India covers 2.4% of world land area and has about one-fourth of world population.",
+   "India covers 17.5% of world land area and has about one-sixth of world population."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that India covers only 2.4 percent of the world’s land area but is home to about 17.5 percent of the world’s population.",
+  "source_page": 192,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c9ee4963-a1cf-58c1-aa83-43c9ba12152d",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about census in India is incorrect?",
+  "options": [
+   "Census data are used for administration, planning and policy making.",
+   "The first census in India was carried out in 1872.",
+   "The first complete and synchronous census was conducted in 1872.",
+   "The 2011 census represents the fifteenth census of India."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says the first census was carried out in 1872, but the first complete and synchronous census was conducted in 1881.",
+  "source_page": 192,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dac4d543-acb1-550c-aae0-011dc70ec412",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Population distribution means:",
+  "options": [
+   "the way people are spaced over the earth’s surface.",
+   "the number of deaths per thousand people in a year.",
+   "the number of live births per thousand people in a year.",
+   "the percentage of literate people to total population."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines population distribution as the way people are spaced over the earth’s surface.",
+  "source_page": 192,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bc757ca0-b9f1-5614-ac90-9d71f58206d7",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Match the following: A. Uttar Pradesh  B. Sikkim  C. Delhi  D. Bihar with 1. Most densely populated state  2. Least populous state  3. Most populous state  4. Union Territory with highest population. Choose the correct code.",
+  "options": [
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-3, C-4, D-1",
+   "A-4, B-1, C-2, D-3",
+   "A-3, B-2, C-4, D-1"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter identifies Uttar Pradesh as the most populous state, Sikkim as the least populous state, Delhi as the leading Union Territory by population, and Bihar as the most densely populated state.",
+  "source_page": 192,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7906a2bd-0221-50f3-8518-d244d3c39880",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about population density is correct?",
+  "options": [
+   "India’s average density in 2011 was 940 persons per sq.km.",
+   "Delhi had the highest density among Union Territories with 11,297 persons per sq.km.",
+   "Arunachal Pradesh was the most densely populated state of India.",
+   "Andaman and Nicobar Islands had the highest density among Union Territories."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that among Union Territories, Delhi is the densely populated one with 11,297 persons per sq.km. India’s average density was 382 persons per sq.km.",
+  "source_page": 192,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1271af98-b1e6-5dac-86c5-ca1890900470",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "According to the chapter, the major cause of rapid population growth in India is:",
+  "options": [
+   "rapid increase in migration.",
+   "rapid increase in birth rate.",
+   "rapid decline in death rate.",
+   "rapid increase in literacy rate."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter explicitly states that the rapid decline in death rate is the major cause of the rapid growth of population in India.",
+  "source_page": 192,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "109089da-1c40-5ed9-a6e7-d69ee9373ad9",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which statement best describes internal migration?",
+  "options": [
+   "It does not change the size of population of a country but influences distribution of population.",
+   "It always changes the total population size of a country.",
+   "It is migration only between two countries.",
+   "It reduces urban population and increases rural population in India."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says internal migration is within a country and does not change the country’s population size, but it affects population distribution.",
+  "source_page": 194,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b25178f7-734d-5669-afdf-d6119f1c9075",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "In the chapter, unemployment and underemployment in rural areas and higher wages in urban areas are respectively described as:",
+  "options": [
+   "pull factors and push factors.",
+   "natural factors and historical factors.",
+   "social factors and political factors.",
+   "push factors and pull factors."
+  ],
+  "answer_index": 3,
+  "explanation": "Unemployment and underemployment in rural areas are push factors, while employment opportunity and higher wages in urban areas are pull factors of migration.",
+  "source_page": 194,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "deb641c1-fc1a-54de-9b82-1ff2ed9af208",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which of the following correctly gives India’s dependent and independent population shares as stated in the chapter?",
+  "options": [
+   "Dependent population 29.5%; independent population 70.5%.",
+   "Dependent population 37.5%; independent population 62.5%.",
+   "Dependent population 62.5%; independent population 37.5%.",
+   "Dependent population 8.0%; independent population 92.0%."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter adds children below 15 years and people above 60 years as dependent population, giving 37.5%; the independent population aged 16–59 years is 62.5%.",
+  "source_page": 194,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "91e5bf84-7735-58f5-98d8-f2adc9caf132",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which pair is correctly matched regarding sex ratio as per the chapter?",
+  "options": [
+   "India - 1084 females per 1000 males",
+   "Kerala - 940 females per 1000 males",
+   "Puducherry - 1038 females per 1000 males",
+   "Daman and Diu - 65.46 females per 1000 males"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter gives Puducherry’s sex ratio as 1038, Kerala’s as 1084, India’s as 940, and Daman and Diu as the lowest at 618.",
+  "source_page": 194,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cfe922d1-cd31-52b7-bbf5-6affb431bfca",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about literacy in India is correct?",
+  "options": [
+   "Kerala ranks first in literacy with 93.91%.",
+   "Bihar ranks first in literacy with 93.91%.",
+   "Lakshadweep has the lowest literacy rate at 63.82%.",
+   "Female literacy is higher than male literacy in India."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Kerala ranks first with a literacy rate of 93.91%, followed by Lakshadweep; Bihar has the lowest literacy rate.",
+  "source_page": 194,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0f1e22f6-fa13-5074-9a50-b15f26a10cf2",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "According to the Census of India definition in the chapter, main workers are those who worked for:",
+  "options": [
+   "less than six months in the preceding year.",
+   "exactly one month in the preceding year.",
+   "not at all in the preceding year.",
+   "the major part of the preceding year, at least 6 months or 183 days."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter defines main workers as those who worked for the major part of the preceding year, at least six months or 183 days.",
+  "source_page": 194,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "87fdd7d3-8b14-5f1f-b50b-c0c7757fe531",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which one of the following is not listed in the chapter as a problem created by overpopulation in India?",
+  "options": [
+   "Overcrowding",
+   "Unemployment and underemployment",
+   "Expansion of 24-hour navigation facilities",
+   "Malnutrition"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists overcrowding, unemployment, underemployment, malnutrition and related issues as overpopulation problems. Twenty-four-hour navigation appears in the inland waterways section, not as an overpopulation problem.",
+  "source_page": 194,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0a4864f0-fa66-507a-9845-3cfd617abacc",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which statement regarding urbanization in India is correct?",
+  "options": [
+   "Himachal Pradesh is the most urbanized state.",
+   "Goa is the least urbanized state.",
+   "Tamil Nadu is the second most urbanized major state with 48.4% urban population.",
+   "Chandigarh is the most urbanized Union Territory followed by Delhi."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says Goa is the most urbanized state, Himachal Pradesh the least, and Tamil Nadu continues to be the second most urbanized major state with 48.4% urban population.",
+  "source_page": 195,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "fc5a77f8-303f-5a5a-8eb5-c90812dc6af2",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which of the following is a major problem of urbanization listed in the chapter?",
+  "options": [
+   "Formation of slums",
+   "Increase in agricultural land",
+   "Decline in traffic congestion",
+   "Elimination of water scarcity"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter lists several problems of urbanization, including formation of slums, traffic congestion, water scarcity and solid waste management problems.",
+  "source_page": 195,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ea126cd9-e8b7-59ec-a821-4d307c8b38ef",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which classification of major means of transport is given in the chapter?",
+  "options": [
+   "Roadways, expressways and ports only",
+   "Domestic, foreign and bilateral transport",
+   "Personal, mass and satellite transport",
+   "Land, water and air transport"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter classifies the three major means of transport as land, water and air transport.",
+  "source_page": 195,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "151c686e-a283-5953-8ce7-5ddbbc744017",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which statement about the Grand Trunk Road is correct?",
+  "options": [
+   "It was built by the British and later renamed Shahi Road.",
+   "Shershah Suri built the Shahi Road, which was renamed Grand Trunk Road during the British period.",
+   "It originally extended from Kochi to Delhi.",
+   "At present, it extends from Srinagar to Kanniyakumari."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says Shershah Suri built the Shahi Road from the Indus valley to the Sonar valley, and it was renamed Grand Trunk Road during the British period.",
+  "source_page": 195,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9e0d50cf-acf3-5c45-93a4-ffd62f178cb8",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about roads in India is correct?",
+  "options": [
+   "Road density is highest in Jammu & Kashmir and lowest in Kerala.",
+   "Roads are difficult to construct in the northern plains compared with mountains.",
+   "For construction and maintenance, roads are classified into categories including National Highways, State Highways and Border Roads.",
+   "Road transport cannot provide door-to-door transport services."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter lists National Highways, State Highways, District Roads, Rural Roads, Border Roads and International Highways as road categories for construction and maintenance.",
+  "source_page": 195,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ead2a1b5-1a54-5d40-8e1f-46fff0d3e7b9",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which National Highway is identified as the longest in the chapter?",
+  "options": [
+   "NH-44 from Varanasi in Uttar Pradesh to Kanniyakumari in Tamil Nadu",
+   "NH-47A from Ernakulam to Kochi port",
+   "NH-1 between Delhi and Kolkata",
+   "NH-7 between Mumbai and Pune"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that NH-44 is the longest National Highway, running from Varanasi to Kanniyakumari and covering 2369 km.",
+  "source_page": 195,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8ab41523-8cc7-595a-8f9a-988fcb44073a",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Match the following: A. State Highways  B. District Roads  C. Rural Roads  D. Border Roads with 1. Maintained by Village Panchayats  2. Constructed and maintained by Border Roads Organization  3. Administered and financed by state governments  4. Connect district and taluk headquarters with highways. Choose the correct code.",
+  "options": [
+   "A-1, B-4, C-3, D-2",
+   "A-4, B-3, C-2, D-1",
+   "A-2, B-1, C-4, D-3",
+   "A-3, B-4, C-1, D-2"
+  ],
+  "answer_index": 3,
+  "explanation": "State Highways are administered and financed by state governments; District Roads connect district and taluk headquarters; Rural Roads are maintained by Village Panchayats; Border Roads are maintained by the Border Roads Organization.",
+  "source_page": 195,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f0b870ff-23b1-51d9-9d84-776c15d1fc0e",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which of the following correctly states the Golden Quadrilateral project?",
+  "options": [
+   "It is a 4,076 km road connecting Srinagar and Kanniyakumari.",
+   "It is a 5,846 km road connecting Delhi, Kolkata, Chennai and Mumbai.",
+   "It is a 3,640 km road connecting Silchar and Porbandar.",
+   "It is a road joining Chandigarh and Leh at 4,270 metres."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that the Golden Quadrilateral is a 5,846 km long 4/6 lane road connecting Delhi, Kolkata, Chennai and Mumbai.",
+  "source_page": 195,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9552eca9-547f-56c0-b700-a5db728ec1fc",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which of the following is correct about the North-South and East-West corridors?",
+  "options": [
+   "The North-South corridor connects Silchar and Porbandar.",
+   "The East-West corridor connects Srinagar and Kanniyakumari.",
+   "The two corridors intersect at Jhansi.",
+   "The East-West corridor has a length of 4,076 km."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says the North-South corridor connects Srinagar with Kanniyakumari, the East-West corridor connects Silchar with Porbandar, and the two intersect at Jhansi.",
+  "source_page": 196,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "103d0158-8432-500a-960d-e432e2fb4903",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Indian Railways is described in the chapter as:",
+  "options": [
+   "the second largest network in Asia and the largest in the world.",
+   "a system organized into 13 zones for operations and management.",
+   "the largest network in Asia and second largest in the world.",
+   "mainly a coastal transport system."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the Indian Railways network is the largest in Asia and second largest in the world. It also notes that it is organized into 17 zones.",
+  "source_page": 196,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "71424da7-4440-54be-af3e-5ffc701713c5",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Match the following railway zones with headquarters: A. Southern Railway  B. Northern Railway  C. Konkan Railway  D. North-East Frontier Railway with 1. New Delhi  2. Guwahati  3. Chennai  4. Navi Mumbai. Choose the correct code.",
+  "options": [
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-4, C-1, D-3",
+   "A-4, B-3, C-2, D-1",
+   "A-3, B-1, C-4, D-2"
+  ],
+  "answer_index": 3,
+  "explanation": "The table gives Southern Railway—Chennai, Northern Railway—New Delhi, Konkan Railway—Navi Mumbai, and North-East Frontier Railway—Guwahati.",
+  "source_page": 198,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3fac0209-69ce-5683-bfb3-973c26b0d711",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about railway gauges and services is correct?",
+  "options": [
+   "Broad gauge has 1.676 metre width.",
+   "Meter gauge has 0.762 metre width.",
+   "The first suburban railway was started in 1953 in Delhi.",
+   "Gatiman Express connects Mumbai and Pune."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter gives broad gauge as 1.676 metre width. It also says the first suburban railway started in 1925 in Mumbai and Gatiman Express connects New Delhi and Agra.",
+  "source_page": 198,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8ff03ab2-8637-58d2-9a0f-309ac6cd8ebc",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which statement about metro railways in India is incorrect according to the chapter?",
+  "options": [
+   "The metro in Kolkata is the first one in India.",
+   "Metro rail is also called Mass Rapid Transit System.",
+   "Meghalaya has no railway network.",
+   "As of September 2018, India had 381 km of operational metro lines and 507 stations."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that as of September 2018, India had 507 km of operational metro lines and 381 stations, not the reverse.",
+  "source_page": 198,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0b44f6bb-936c-5bc9-b8dd-00602a0d5299",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which of the following is correct about pipeline transport?",
+  "options": [
+   "It has low initial laying cost but high running cost.",
+   "It cannot be laid through difficult terrain or under water.",
+   "It ensures steady supply of goods and reduces transshipment losses and delays.",
+   "It is used only for water and never for solids."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says pipelines have high initial cost but minimum running cost, can be laid through difficult terrain and under water, and reduce transshipment losses and delays.",
+  "source_page": 199,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a1fc0320-a982-57f2-bc62-10a0bdbe7feb",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Match the National Waterways: A. National Waterway 1  B. National Waterway 2  C. National Waterway 3 with 1. Brahmaputra between Dhubri and Sadiya  2. Kollam to Kottapuram  3. Haldia to Allahabad. Choose the correct code.",
+  "options": [
+   "A-3, B-1, C-2",
+   "A-1, B-2, C-3",
+   "A-2, B-3, C-1",
+   "A-3, B-2, C-1"
+  ],
+  "answer_index": 0,
+  "explanation": "National Waterway 1 extends between Haldia and Allahabad, National Waterway 2 covers the Brahmaputra between Dhubri and Sadiya, and National Waterway 3 extends from Kollam to Kottapuram.",
+  "source_page": 199,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d870b783-6c5c-533e-a11a-b5c5557f41c6",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about oceanic routes and ports is correct?",
+  "options": [
+   "About 95% of India’s foreign trade by value moves through ocean routes.",
+   "India has 13 major and 200 minor or intermediate ports.",
+   "Minor ports are administered by the Central Government.",
+   "Kandla, Mumbai and Kochi are major ports on the east coast."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that India has 13 major and 200 minor or intermediate ports. It also says 95% by volume and 70% by value of foreign trade moves through ocean routes.",
+  "source_page": 199,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2c14f54f-0aa9-554f-9cf5-47d14726babf",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which shipyard-place pair is correctly matched?",
+  "options": [
+   "Garden Reach workshop - Kochi",
+   "Mazagaon Dock - Vishakhapatnam",
+   "Kochi Shipyard - Kolkata",
+   "Hindustan shipyard - Vishakhapatnam"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter lists Hindustan shipyard in Vishakhapatnam, Garden Reach workshop in Kolkata, Mazagaon Dock in Mumbai and Kochi Shipyard in Kochi.",
+  "source_page": 199,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "483d4c47-49d2-508f-a3e4-30d68172e244",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Arrange the following postal developments in chronological order: 1. Quick Mail Service introduced  2. First Indian postal stamp issued in Karachi  3. Postal service opened to the public  4. PIN code introduced. Choose the correct order.",
+  "options": [
+   "3-2-4-1",
+   "2-3-1-4",
+   "4-1-3-2",
+   "1-4-2-3"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter gives the sequence as postal service opened to the public in 1837, first Indian postal stamp in 1852, PIN code in 1972, and Quick Mail Service in 1975.",
+  "source_page": 201,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0d14c03e-9180-56bd-af7d-894cb671611f",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Arrange the following events in the correct chronological order: 1. AIR was renamed Akashwani  2. Radio broadcasting started by Radio Club of Bombay  3. All India Radio name adopted  4. ISRO established. Choose the correct order.",
+  "options": [
+   "1-2-3-4",
+   "3-2-1-4",
+   "2-3-1-4",
+   "2-1-3-4"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that radio broadcasting began in 1923, it was named All India Radio in 1936, renamed Akashwani in 1957, and ISRO was established in 1969.",
+  "source_page": 201,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "4b1cafe9-7fa9-5592-81ac-ffa0cbcb801a",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about Indian satellite communication is correct?",
+  "options": [
+   "INSAT and IRS are the two groups of satellite systems mentioned in the chapter.",
+   "INSAT was established in 1969 immediately with ISRO.",
+   "GSAT-7A was launched on 30th August 1983.",
+   "INSAT-1B is described as the recent launch of December 19, 2018."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter groups India’s satellite systems into the Indian National Satellite System (INSAT) and Indian Remote Sensing Satellite System (IRS). It gives INSAT as established in 1983, INSAT-1B launched on 30 August 1983, and GSAT-7A as the recent launch on December 19, 2018.",
+  "source_page": 203,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1d00c87e-4f5f-5c64-9dd8-433b984b04ea",
+  "chapter_id": "c10-ss-15",
+  "unit_code": "GS2",
+  "question": "Which statement about trade is incorrect according to the chapter?",
+  "options": [
+   "Trade is the process of buying, selling or exchanging goods and services.",
+   "The primitive method of trade was the Barter system.",
+   "A favourable balance of trade exists when exports exceed imports.",
+   "The trade between more than two countries is called bilateral trade."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that trade between any two countries is bilateral trade, while trade between more than two countries is multilateral trade.",
+  "source_page": 203,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "id": "e8fe2122-8d7a-5eca-90dc-72ad2963a76b",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "Which statement correctly explains the basic distinction between direct and indirect taxes as given in the chapter?",
+  "options": [
+   "Direct taxes are levied on goods and services, while indirect taxes are levied on income of persons.",
+   "Direct taxes are levied on income of persons, while indirect taxes are levied on goods and services.",
+   "Both direct and indirect taxes are levied only by local governments.",
+   "Direct taxes are voluntary payments, while indirect taxes are compulsory payments."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that direct taxes are levied on income of persons and indirect taxes are levied on goods and services, helping the government mobilise financial resources.",
+  "source_page": 327,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e12b2865-7824-53e8-a989-00ec2d18149d",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "Under the role of government in development policies, which function is specifically mentioned under defence?",
+  "options": [
+   "Conducting elections to local bodies",
+   "Administering the police force in states",
+   "Collecting property taxes through local bodies",
+   "Creating and maintaining defence forces"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says defence is an essential security function and that the Union government is responsible for creating and maintaining defence forces.",
+  "source_page": 327,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7f3a217a-75ed-5cdc-84de-865ff5524520",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "Which of the following pairs is correctly matched according to the chapter?",
+  "options": [
+   "Local governments — local roads, drainage, drinking water and waste disposal",
+   "Union government — conduct elections to local bodies within the state",
+   "State governments — maintain foreign policy through exports and imports",
+   "Reserve Bank of India — administer police force in respective states"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says local governments provide public goods like local roads, drainage, drinking water and waste collection and disposal. Local body elections and police administration are linked to state governments, while foreign policy is by the Union government.",
+  "source_page": 327,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8903a12b-77e1-54b4-ac2a-15bcc3196f55",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "Assertion (A): Taxes are compulsory payments to government without expectation of direct return to the taxpayer. Reason (R): Prof. Seligman defined tax as a compulsory contribution for common expenses without reference to special benefits conferred. Choose the correct answer.",
+  "options": [
+   "A is true, but R is false.",
+   "A is false, but R is true.",
+   "Both A and R are true, and R explains A.",
+   "Both A and R are true, but R does not explain A."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter directly defines taxes as compulsory payments without expectation of direct return, and Seligman’s definition similarly emphasises compulsory contribution for common interest without special benefits.",
+  "source_page": 328,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c7dde27d-dd65-536d-b436-e339bcdfeffd",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "Match the canons of taxation with their meanings: A. Equity  B. Certainty  C. Convenience  D. Productivity  with 1. Government should announce the tax system in advance  2. Rich should pay more than the poor  3. Tax should be collected when the payer has enough money  4. Taxes should fetch enough revenue. Which is correct?",
+  "options": [
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-1, C-3, D-4",
+   "A-2, B-3, C-1, D-4",
+   "A-4, B-1, C-3, D-2"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter explains equity as higher tax contribution by the rich, certainty as advance announcement, convenience as collection when the person has enough money, and productivity as choosing taxes that yield enough revenue.",
+  "source_page": 328,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "337d0630-1f0e-5e6e-beb1-510c8f477e0a",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "What does the chapter call a government’s ability to raise taxes?",
+  "options": [
+   "Tax elasticity",
+   "Canon of certainty",
+   "Public utility",
+   "Fiscal capacity"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter explicitly states that a government's ability to raise taxes is called its fiscal capacity.",
+  "source_page": 329,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0629f711-1959-5072-a0fc-31dd3feca6ed",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "Which one of the following is an incorrect statement about direct taxes?",
+  "options": [
+   "Stamp duty on official documents is listed as a direct tax.",
+   "The burden of a direct tax cannot be shifted to others.",
+   "Income tax, wealth tax and corporation tax are direct taxes.",
+   "Income Tax was first introduced in India in 1860 by Sir James Wilson."
+  ],
+  "answer_index": 0,
+  "explanation": "Stamp duty is listed in the chapter under indirect taxes, not direct taxes. The other statements match the chapter’s description of direct taxes.",
+  "source_page": 329,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b89b1235-6a4d-5205-80d9-afd3642f2e64",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "According to the chapter, foreign companies are taxed in India on which basis under corporate tax?",
+  "options": [
+   "Only on wealth derived from property ownership",
+   "Only on dividends received outside India",
+   "On income that arises in India",
+   "On all income earned anywhere in the world"
+  ],
+  "answer_index": 2,
+  "explanation": "In the corporate tax section, the chapter states that foreign companies are taxed on income that arises in India.",
+  "source_page": 329,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "df8fd41b-0f69-5deb-ba8b-0983538c2a74",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "Which statement correctly describes tax collection in India as given in the chapter?",
+  "options": [
+   "All direct taxes are collected only by local governments, while all property taxes are collected by the Union government.",
+   "Almost all direct taxes are collected by the Union government; goods and services taxes by both Union and State governments; property taxes by local governments.",
+   "Indirect tax revenue is lower than direct tax revenue in India.",
+   "Taxes on goods and services are collected only by local governments."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says almost all direct taxes are collected by the Union government, taxes on goods and services by both Union and State governments, and property taxes by local governments. It also notes India collects more through indirect taxes than direct taxes.",
+  "source_page": 329,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "26050563-c1d2-5d9b-8778-182ae6f41d71",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "Arrange the following in chronological order: 1. Income Tax first introduced in India by Sir James Wilson  2. France first implemented GST  3. GST passed in Parliament  4. GST came into effect in India. Choose the correct sequence.",
+  "options": [
+   "2-1-3-4",
+   "1-3-2-4",
+   "2-3-1-4",
+   "1-2-3-4"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter gives 1860 for the first introduction of Income Tax in India, 1954 for France implementing GST, 29 March 2017 for GST being passed in Parliament, and 1 July 2017 for its coming into effect.",
+  "source_page": 330,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d17a36da-d0ef-5c36-ac33-8cb210173952",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "Which statement best describes a progressive tax?",
+  "options": [
+   "The tax rate increases as the tax base increases.",
+   "All taxpayers contribute the same proportion of income.",
+   "The rate is higher for lower income groups than higher income groups.",
+   "The tax is paid only on official documents."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines progressive tax as one in which the rate of taxation increases as the tax base increases; when income increases, the tax rate also increases.",
+  "source_page": 330,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0f16993b-0cae-5beb-8c31-c115c17c2ad4",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "Match the GST components with their scope: A. SGST  B. CGST  C. IGST  with 1. Inter state  2. Intra state within the state  3. Intra state within the state. Which is correct?",
+  "options": [
+   "A-1, B-2, C-3",
+   "A-2, B-1, C-3",
+   "A-2, B-3, C-1",
+   "A-3, B-1, C-2"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that SGST is intra-state, CGST is also intra-state, and IGST is inter-state or integrated GST.",
+  "source_page": 330,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a3c994b0-f9c3-54c3-af73-ace1d8b54125",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "Which of the following correctly distinguishes proportionate and regressive taxation?",
+  "options": [
+   "Proportionate tax has a rising rate with income; regressive tax has the same proportion for all.",
+   "Proportionate tax levies a fixed portion on goods and services; regressive tax has a higher rate for lower income groups.",
+   "Proportionate tax is imposed only on property ownership; regressive tax is imposed only on companies.",
+   "Both proportionate and regressive taxes are defined as direct taxes whose burden cannot be shifted."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says proportionate taxes are levied in a fixed portion, with taxpayers contributing the same proportion. Regressive taxation is described as imposing a higher rate on lower income groups than on higher income groups.",
+  "source_page": 331,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "28d47efc-7f0b-5ac3-9af3-07a82609912d",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "Which one of the following is NOT identified in the chapter as a cause of black money?",
+  "options": [
+   "Shortage of goods",
+   "Licensing proceeding",
+   "Smuggling",
+   "Public transportation"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter lists shortage of goods, licensing proceeding, contribution of the industrial sector, smuggling and tax structure as causes of black money; public transportation is not listed there.",
+  "source_page": 331,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f184f50f-782e-5f49-b8ad-763867c46dbf",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "Which set contains only tax evasion activities mentioned in the chapter?",
+  "options": [
+   "Underreporting income, inflating deductions, hiding money, hiding interest in offshore accounts",
+   "Paying stamp duty, registering marriage, buying movie tickets, paying service fees",
+   "Export promotion, tax holidays, public transportation, education systems",
+   "Canon of equity, canon of certainty, canon of productivity, canon of elasticity"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter lists underreporting income, inflating deductions or expenses, hiding money and hiding interest in offshore accounts as tax evasion activities.",
+  "source_page": 331,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0db41694-f36c-5abe-b074-7894398de480",
+  "chapter_id": "c10-ss-26",
+  "unit_code": "GS5",
+  "question": "Which statement correctly reflects the chapter’s distinction between tax and fee?",
+  "options": [
+   "A tax is voluntary, while a fee is compulsory.",
+   "A tax gives direct benefit, while a fee gives no service.",
+   "A tax is compulsory without direct benefit; a fee is paid for getting a service or specific benefit.",
+   "Both tax and fee are compulsory payments imposed without any benefit."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter’s table states that tax is compulsory to the government without direct benefits, while fee is payment for getting a service and is voluntary.",
+  "source_page": 332,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

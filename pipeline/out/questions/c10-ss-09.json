@@ -1,0 +1,452 @@
+[
+ {
+  "id": "4a3ecdce-a8ac-57f2-9b43-a7ee93345d9c",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Which statement best captures the distinctive nature of the freedom struggle in Tamil Nadu as described in the chapter?",
+  "options": [
+   "It was confined to constitutional petitions and avoided mass mobilisation.",
+   "It was only a struggle against British economic policies.",
+   "It combined the struggle against English rule with a struggle against social disability imposed by caste.",
+   "It began only after the formation of the Indian National Congress."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that Tamil Nadu’s struggle was unique because it was not only for independence from English rule but also against social disability imposed by the caste system.",
+  "source_page": 111,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "252811c8-123f-5e82-aa03-8e677121b26c",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Consider the following statements about the Madras Native Association (MNA):\n1. It was started in 1852.\n2. It consisted primarily of merchants.\n3. It supported government patronage to Christian missionary activities.\nWhich of the above statements are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 0,
+  "explanation": "The MNA was started in 1852 and consisted primarily of merchants. The chapter says it protested against the government’s support to Christian missionary activities, so statement 3 is incorrect.",
+  "source_page": 111,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9444e275-6742-5916-b8b3-a625c66ee545",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "The agitation of the Madras Native Association against torture of peasants by revenue officials resulted in which of the following?",
+  "options": [
+   "Formation of the South Indian Liberal Federation",
+   "Establishment of the Lakshminarasu Torture Commission and abolition of the Torture Act",
+   "Creation of the Madras Satyagraha Sabha",
+   "Formation of the Simon Boycott Propaganda Committee"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter specifically states that Gazulu Lakshminarasu’s efforts led to the Lakshminarasu Torture Commission and the eventual abolition of the Torture Act.",
+  "source_page": 111,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b3c171b1-9e0c-5a93-9b9b-383739ccb6a3",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Match the following nationalist press developments with the correct year:\nA. The Hindu started\nB. Swadesamitran started\nC. Swadesamitran became a daily\nD. T. Muthuswami appointed first Indian Judge of Madras High Court\n\n1. 1899  2. 1877  3. 1878  4. 1891",
+  "options": [
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-3, C-2, D-1",
+   "A-2, B-1, C-4, D-3",
+   "A-1, B-2, C-3, D-4"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter gives the sequence: T. Muthuswami’s appointment in 1877, The Hindu in 1878, Swadesamitran in 1891, and Swadesamitran becoming a daily in 1899.",
+  "source_page": 111,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5bd88860-4a9b-52a3-a833-958817a0a847",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Which of the following was NOT one of the demands of the Madras Mahajana Sabha mentioned in the chapter?",
+  "options": [
+   "Simultaneous civil service examinations in England and India",
+   "Abolition of the Council of India in London",
+   "Reduction of civil and military expenditure",
+   "Immediate grant of Poorna Swaraj"
+  ],
+  "answer_index": 3,
+  "explanation": "The Madras Mahajana Sabha demanded simultaneous civil service examinations, abolition of the Council of India, and reduction of taxes and expenditure. Poorna Swaraj was adopted later by the Congress in the national movement.",
+  "source_page": 111,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "b4c7a485-c5dd-596a-8bf6-9f7345e3dbb7",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Which statement is correct regarding the early sessions of the Indian National Congress and Madras participation?",
+  "options": [
+   "The first session was held at Calcutta in 1886 with Badruddin Tyabji as president.",
+   "The third session was held in Madras in 1887 with Dadabhai Naoroji as president.",
+   "The first session in 1885 at Bombay had 22 delegates from Madras out of 72.",
+   "The Madras Mahajana Sabha was founded after the first Congress session."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says the first session of the Indian National Congress was held in 1885 at Bombay and 22 of the 72 delegates were from Madras.",
+  "source_page": 112,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "22abd9b2-0685-59be-99fe-5dc32515c9c8",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "The early nationalists in Madras came to be known as moderates mainly because they:",
+  "options": [
+   "used only revolutionary methods and secret societies",
+   "believed in constitutional methods and conducted hall meetings in English",
+   "opposed all forms of political organisation",
+   "refused to send delegates to the Indian National Congress"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that early nationalists believed in constitutional methods, conducted hall meetings and deliberated in English; they came to be known as moderates when other leaders adopted mass methods and vernacular languages.",
+  "source_page": 112,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cba28827-9edd-559e-9a4f-11ec9f1d344a",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "The Swadeshi Movement after the partition of Bengal included which programme of the Calcutta Congress?",
+  "options": [
+   "Promotion of Swadeshi enterprise, boycott of foreign goods and promotion of national education",
+   "Council entry, acceptance of office and provincial coalition ministries",
+   "Military revolt, seizure of forts and abolition of all taxation",
+   "Introduction of Hindi in schools and removal of provincial autonomy"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says the Calcutta Congress programme called upon the nation to promote Swadeshi enterprise, boycott foreign goods and promote national education.",
+  "source_page": 113,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "418f1e69-7d80-5963-b6b2-28ce83cb8b5e",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Which of the following statements about the Swadeshi Steam Navigation Company is correct?",
+  "options": [
+   "It was launched at Madras by Subramania Bharati.",
+   "It bought ships named Gallia and Lavo and plied them between Thoothukudi and Colombo.",
+   "It was founded by Annie Besant as part of the Home Rule Movement.",
+   "It operated from Pondicherry to London to help revolutionaries."
+  ],
+  "answer_index": 1,
+  "explanation": "V.O. Chidambaranar launched the Swadeshi Steam Navigation Company at Thoothukudi, purchased Gallia and Lavo, and plied them between Thoothukudi and Colombo.",
+  "source_page": 113,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d3a91ad2-00b1-508e-bced-c8062341a108",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Which one of the following is the correct chronological order?\n1. Partition of Bengal\n2. V.O.C. led the Coral Mills strike\n3. Ashe was shot at Maniyachi Junction\n4. Annie Besant started the Home Rule League",
+  "options": [
+   "1-2-3-4",
+   "2-1-4-3",
+   "1-3-2-4",
+   "3-1-2-4"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter dates these events as Partition of Bengal in 1905, Coral Mills strike in 1908, Ashe murder in 1911, and Home Rule League in 1916.",
+  "source_page": 113,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d0a3e83a-54c2-5adf-88d4-0156517f4e95",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "With reference to the Tirunelveli uprising, which of the following statements is incorrect?",
+  "options": [
+   "V.O.C. and Subramania Siva organised mill workers in Thoothukudi and Tirunelveli.",
+   "V.O.C. led a strike in the European-owned Coral Mills in 1908.",
+   "The arrest of V.O.C. and Subramania Siva sparked riots in Tirunelveli.",
+   "Subramania Bharati moved to Madras to avoid imprisonment."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says Subramania Bharati moved to Pondicherry, which was under French rule, to avoid imprisonment. The other statements are directly stated in the chapter.",
+  "source_page": 113,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "050636c5-aa1f-58cb-8cd4-0ba4de6b3f4b",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Which secret society influenced Vanchinathan, who shot Robert W.D’E. Ashe at Maniyachi Junction?",
+  "options": [
+   "Madras Native Association",
+   "Madras Satyagraha Sabha",
+   "Bharata Matha Society",
+   "South Indian Liberal Federation"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that Nilakanta Brahmachari and others started Bharata Matha Society and that Vanchinathan was influenced by this organisation.",
+  "source_page": 114,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "79969864-37fa-5523-a8ee-5751a0b727df",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Consider the following statements about Annie Besant’s Home Rule Movement:\n1. It was modelled on the Irish Home Rule League.\n2. G.S. Arundale, B.P. Wadia and C.P. Ramaswamy assisted her.\n3. She demanded complete separation from the British Crown.\nWhich of the above statements are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says Besant proposed the movement on the Irish model and was assisted by Arundale, Wadia and C.P. Ramaswamy. It says they demanded home rule with only nominal allegiance to the British Crown, not complete separation.",
+  "source_page": 114,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "065c96de-f4aa-5ed0-922c-56743b9fc3e9",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Which of the following correctly pairs organisations or institutions with their associated fact?",
+  "options": [
+   "Madras Dravidian Association — founded in 1912",
+   "Dravidian Association Hostel — founded by P. Subbarayan",
+   "South Indian Liberal Federation — founded after the 1920 elections",
+   "Justice Party Ministry — first formed after Congress won the 1920 elections"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the Madras Dravidian Association was founded in 1912. The hostel was established by C. Natesanar in 1916, and the Justice Party won the 1920 elections after Congress boycott.",
+  "source_page": 114,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "010504ea-fd73-5bd4-83f3-81db4cf18841",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "In the 1920 elections to the Legislative Council, the Justice Party won:",
+  "options": [
+   "22 of 72 seats",
+   "63 of 98 elected seats",
+   "362 of 607 seats",
+   "12 volunteer seats"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says the Congress boycotted the 1920 elections and the Justice Party won 63 of 98 elected seats in the Legislative Council.",
+  "source_page": 114,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e0e63fa1-da54-5421-9b34-48e4b646577f",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Which of the following statements about the Rowlatt Satyagraha in Tamil Nadu is correct?",
+  "options": [
+   "Gandhi addressed a meeting on Marina Beach on 18 March 1919.",
+   "Khilafat Day was observed on Marina Beach on 6 April 1919.",
+   "The Madras Satyagraha Sabha was formed during the Simon Commission boycott.",
+   "Only lawyers and merchants participated in the Rowlatt protests."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Gandhi addressed a meeting on Marina Beach on 18 March 1919. It also notes that working classes, students and women participated in large numbers.",
+  "source_page": 115,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9ca5c493-c047-50eb-a702-37a0ac46fa5e",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Which place is described in the chapter as the epicentre of Khilafat agitation in Tamil Nadu?",
+  "options": [
+   "Erode",
+   "Madurai",
+   "Vaniyambadi",
+   "Thoothukudi"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says Khilafat Day was observed in Tamil Nadu, a conference was held at Erode, and Vaniyambadi was the epicentre of Khilafat agitation.",
+  "source_page": 115,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "451e0b1a-8437-56d4-849c-85707eb196d0",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "In Tamil Nadu during the Non-Cooperation Movement, Rajaji worked closely with Yakub Hasan, who was the founder of the:",
+  "options": [
+   "Madras branch of the Muslim League",
+   "Madras Native Association",
+   "Bharata Matha Society",
+   "Simon Boycott Propaganda Committee"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Rajaji worked closely with Yakub Hasan, founder of the Madras branch of the Muslim League, resulting in Hindu-Muslim cooperation during the movement.",
+  "source_page": 115,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5be4f1c6-880a-562f-88d6-9723327ad8a7",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Which of the following is the correct sequence of events related to Non-Cooperation and after?\n1. Visit of the Prince of Wales boycotted\n2. Non-Cooperation Movement withdrawn after Chauri Chaura\n3. Madras provincial elections in which Swarajists won majority of elected seats\n4. Simon Commission constituted under Sir John Simon",
+  "options": [
+   "1-2-3-4",
+   "2-1-4-3",
+   "3-4-1-2",
+   "1-3-2-4"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter dates the Prince of Wales boycott to 13 January 1922, withdrawal of Non-Cooperation to 1922 after Chauri Chaura, Madras elections to 1926, and Simon Commission to 1927.",
+  "source_page": 115,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d2903f2d-4dff-5685-8d64-85b4f4b42dd1",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Why did the Congress boycott the Simon Commission?",
+  "options": [
+   "It recommended compulsory Hindi in schools.",
+   "It was an all-white commission with not a single Indian member.",
+   "It abolished provincial elections in Madras.",
+   "It supported the Neill statue agitation."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that the Simon Commission disappointed Indians because it was an all-white commission without a single Indian member, leading the Congress to boycott it.",
+  "source_page": 115,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "40db54ea-7c34-5f04-9de1-04f073efe52d",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Which of the following statements about the Vedaranyam Salt Satyagraha is incorrect?",
+  "options": [
+   "Rajaji organised and led the march to Vedaranyam.",
+   "The march started from Tiruchirappalli on 13 April 1930.",
+   "The march reached Vedaranyam on 28 April.",
+   "Bhashyam composed the special song for the march."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says the special song for the march was composed by Namakkal V. Ramalinganar. Bhashyam is mentioned separately for hoisting the national flag atop Fort St. George in 1932.",
+  "source_page": 116,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c6f718dc-af12-5341-8915-c8d70a144683",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Match the following Civil Disobedience-related persons with the associated fact:\nA. Rukmani Lakshmipathi\nB. Bhashyam\nC. Tirupur Kumaran\nD. T. Prakasam\n\n1. Set up a camp at Udayavanam near Madras with K. Nageswara Rao\n2. First woman to pay penalty for violation of salt laws\n3. Hoisted the national flag atop Fort St. George\n4. Fell dead holding the national flag aloft",
+  "options": [
+   "A-2, B-3, C-4, D-1",
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-1, C-2, D-3",
+   "A-1, B-2, C-3, D-4"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter identifies Rukmani Lakshmipathi as the first woman to pay penalty for violating salt laws, Bhashyam as hoisting the flag at Fort St. George, Tirupur Kumaran as dying with the flag aloft, and T. Prakasam as setting up the Udayavanam camp with K. Nageswara Rao.",
+  "source_page": 117,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "96b7d8fb-7a62-534f-85f9-b296c7363474",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Regarding the first Congress Ministry in Madras, which of the following statements is correct?",
+  "options": [
+   "It was formed by S. Satyamurti after the 1926 elections.",
+   "It introduced prohibition experimentally in Salem and a sales tax to compensate for revenue loss.",
+   "It continued in office after India was involved in the Second World War without consultation.",
+   "It was formed by the Justice Party after the 1937 elections."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that after the Congress victory in the 1937 election, Rajaji formed the first Congress Ministry, introduced prohibition on an experimental basis in Salem and introduced sales tax to compensate revenue loss.",
+  "source_page": 117,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "edc8988a-1081-5fbf-8674-7586c5cadd48",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Which statement is correct about the anti-Hindi agitation against Rajaji’s policy?",
+  "options": [
+   "It opposed the introduction of Hindi as a compulsory subject in schools.",
+   "It was led by Annie Besant through the Home Rule League.",
+   "It received support only from the Congress Ministry.",
+   "It ended when the Justice Party Ministry introduced Hindi as compulsory."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says Rajaji’s introduction of Hindi as a compulsory subject in schools caused resentment and E.V.R. led a massive campaign against it; the Governor later removed Hindi as compulsory after the Congress Ministry resigned.",
+  "source_page": 117,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "51a7eaa2-2742-54b4-bab4-74a8cb50b74e",
+  "chapter_id": "c10-ss-09",
+  "unit_code": "GS6",
+  "question": "Which of the following correctly describes K. Kamaraj’s role during the Quit India Movement as stated in the chapter?",
+  "options": [
+   "He presided over the Khilafat Day meeting in Tamil Nadu.",
+   "He led the Vedaranyam Salt March from Tiruchirappalli.",
+   "He gave the slogan ‘Do or Die’ at Bombay.",
+   "He escaped arrest by getting down at Arakkonam and worked underground to organise people."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that Kamaraj noticed police waiting at railway stations, gave them the slip by getting down at Arakkonam, and then worked underground during Quit India.",
+  "source_page": 118,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ }
+]

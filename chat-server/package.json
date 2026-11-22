@@ -1,0 +1,19 @@
+{
+  "name": "tnpsc-chat-server",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Real-time discussion rooms for the TNPSC Group 1 Prep app (Socket.IO + Supabase).",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --env-file=.env server.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.119.2",
+    "socket.io": "^4.8.4"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/news",
+      "schedule": "30 0 * * *"
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/((?!api/|content/|assets/).*)",
+      "destination": "/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/content/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400"
+        }
+      ]
+    }
+  ],
+  "functions": {
+    "api/summarize.ts": {
+      "includeFiles": "public/content/chapters/**",
+      "maxDuration": 60
+    }
+  }
+}

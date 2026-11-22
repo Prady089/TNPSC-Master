@@ -1,0 +1,524 @@
+[
+ {
+  "id": "dfe476b5-1e0d-5586-bde2-e01f48353894",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Which of the following best describes the Central Government as introduced in the chapter?",
+  "options": [
+   "It is a local government headquartered at Chennai.",
+   "It is the supreme government in India with headquarters at New Delhi.",
+   "It is a state government functioning from New Delhi.",
+   "It is only the legislative branch of India."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that the Central Government is the supreme government in the country and that its headquarters is at New Delhi.",
+  "source_page": 254,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0f3ebc55-f5bb-5186-8953-946a90ca268c",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Articles 52 to 78 in Part V of the Indian Constitution deal with which of the following?",
+  "options": [
+   "Union Judiciary",
+   "State Executive",
+   "Union Executive",
+   "Parliamentary Committees"
+  ],
+  "answer_index": 2,
+  "explanation": "The introduction specifically says that Articles 52 to 78 in Part V of the Constitution deal with the Union Executive.",
+  "source_page": 254,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e8a7eb0a-d789-51f0-a860-952e1597b68f",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Which one of the following is NOT mentioned as part of the Union Executive in the chapter?",
+  "options": [
+   "The Speaker of the Lok Sabha",
+   "The President of India",
+   "The Vice-President",
+   "The Attorney General of India"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter lists the President, Vice-President, Council of Ministers headed by the Prime Minister, and Attorney General as the Union Executive; the Speaker is not included in that list.",
+  "source_page": 254,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f15f8a8e-63f0-5fc2-a282-e067e30677ec",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Consider the following statements about the President of India: 1. He is the nominal executive authority. 2. He is designated as the First citizen of India. 3. He is the supreme commander of the armed forces. Which of the statements is/are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states all three: the President is the nominal executive authority, the First citizen of India, and the supreme commander of the armed forces.",
+  "source_page": 255,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "371edeb7-28f3-56f1-846e-fc36cf407ab9",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Which of the following is a qualification for election as President of India according to the chapter?",
+  "options": [
+   "He must have completed 25 years of age.",
+   "He must have completed 30 years of age.",
+   "He must have completed 35 years of age.",
+   "He must have completed 40 years of age."
+  ],
+  "answer_index": 2,
+  "explanation": "The qualification list states that the President must have completed the age of thirty-five years.",
+  "source_page": 255,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7b01cfbc-5c9c-529b-9351-7d4a99b4cedc",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "The Electoral College for electing the President includes which of the following according to the chapter?",
+  "options": [
+   "Only elected members of the Lok Sabha",
+   "Only elected members of the Rajya Sabha",
+   "Only members of State Legislative Councils",
+   "Elected members of both Houses of Parliament and elected members of the States, Delhi and Puducherry"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says the Electoral College consists of elected members of both Houses of Parliament, elected members of the States, and elected members of the National Capital Territory of Delhi and Puducherry.",
+  "source_page": 255,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a958b246-044c-57ee-9c69-ddb27793f6f5",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Which one of the following appointments is specifically mentioned as being made by the President?",
+  "options": [
+   "Deputy Chairperson of the Rajya Sabha",
+   "Chief Justice and other Judges of the Supreme Court and High Courts",
+   "Speaker of the Lok Sabha",
+   "Deputy Speaker of the Lok Sabha"
+  ],
+  "answer_index": 1,
+  "explanation": "Under executive powers, the President is stated to appoint the Chief Justice and other Judges of the Supreme Court and High Courts, among other officials.",
+  "source_page": 255,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "63433588-33e7-50de-b67e-c903b6864270",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Match the following presidential powers with the related action: A. Military Power  B. Diplomatic Power  C. Emergency Power  D. Financial Power; 1. Appoints Indian diplomats and receives foreign diplomats  2. Contingency Fund of India is at his disposal  3. Supreme command of Defence Forces  4. Proclaims emergencies under Articles 352, 356 and 360.",
+  "options": [
+   "A-1, B-3, C-4, D-2",
+   "A-2, B-4, C-1, D-3",
+   "A-4, B-2, C-3, D-1",
+   "A-3, B-1, C-4, D-2"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter connects military power with supreme command, diplomatic power with diplomats, emergency power with Articles 352, 356 and 360, and financial power with the Contingency Fund.",
+  "source_page": 256,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "edd3a9aa-39cb-5053-bef4-e1daea74bb1f",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "For introducing an impeachment resolution against the President, the chapter states that it must be supported by not less than what fraction of the total strength of the House?",
+  "options": [
+   "One-half",
+   "One-third",
+   "One-fourth",
+   "Two-thirds"
+  ],
+  "answer_index": 2,
+  "explanation": "The removal section says an impeachment resolution must be supported by not less than one-fourth of the total strength of the House for its introduction.",
+  "source_page": 256,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d254278b-5c6e-5549-aed6-ef4b5b208e79",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Which Article of the Constitution is mentioned as providing for a Vice-President of India?",
+  "options": [
+   "Article 52",
+   "Article 63",
+   "Article 74",
+   "Article 76"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that Article 63 of the Constitution provides for a Vice-President of India.",
+  "source_page": 256,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8030e31d-8e6d-5d89-a4cf-88da0eafbd79",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "If the offices of both President and Vice-President are vacant, who works as President according to the chapter?",
+  "options": [
+   "The Prime Minister",
+   "The Speaker of the Lok Sabha",
+   "The Attorney General of India",
+   "The Chief Justice of India"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says that if the posts of President and Vice-President lie vacant, the Chief Justice of India works as President.",
+  "source_page": 257,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "49b70ab5-7847-5741-bed5-6bd489e2e15a",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Which of the following statements about the Vice-President is correct?",
+  "options": [
+   "He is the ex-officio Chairman of the Rajya Sabha.",
+   "He is the ex-officio Speaker of the Lok Sabha.",
+   "He is elected directly by the people.",
+   "He can vote on every Bill in the Rajya Sabha."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the Vice-President is the ex-officio Chairman of the Rajya Sabha and can cast a vote only when there is a tie.",
+  "source_page": 257,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "ba2e847e-a024-5625-81ba-b55406613aa0",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "According to the chapter, Article 100 allows the Vice-President to cast his vote in the Rajya Sabha when:",
+  "options": [
+   "a Money Bill is introduced",
+   "the President requests him to vote",
+   "there is a tie over a Bill",
+   "the Prime Minister is absent"
+  ],
+  "answer_index": 2,
+  "explanation": "The section on Casting Vote says the Vice-President can only cast his vote when there is a tie over a Bill in the Rajya Sabha.",
+  "source_page": 257,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7288e42e-042d-59bd-84e9-04711e41701d",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Article 74(1), as quoted in the chapter, provides for:",
+  "options": [
+   "a Supreme Court with the Chief Justice as head",
+   "a Council of Ministers with the Prime Minister as the head to aid and advise the President",
+   "a bicameral Parliament with the President as Speaker",
+   "a Finance Commission after every five years"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter quotes Article 74(1) as saying that there shall be a Council of Ministers with the Prime Minister as head to aid and advise the President.",
+  "source_page": 257,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "dd424856-308a-5fd8-89d9-8f4d57ada78d",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "If a person who is not a member of Parliament is appointed as a minister, within what period must he get elected to Parliament?",
+  "options": [
+   "Three months",
+   "Six months",
+   "One year",
+   "Five years"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that a non-member can be appointed as minister, but must get elected to Parliament within six months.",
+  "source_page": 257,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6b8972ec-7c89-5e9f-9493-3c7620e4274c",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Which of the following is NOT listed as a duty or function of the Prime Minister in the chapter?",
+  "options": [
+   "Deciding the rank of ministers and distributing departments",
+   "Acting as the link between the President and the Council of Ministers",
+   "Presiding over meetings of the Cabinet",
+   "Appointing the Chief Justice of India independently"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter lists the Prime Minister’s duties such as distributing departments, presiding over Cabinet meetings and acting as the link with the President; appointment of the Chief Justice is stated elsewhere as a presidential appointment.",
+  "source_page": 258,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "45af9417-a91c-5e2a-9065-747a71764757",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "The Constitution of India restricts the number of Council of Ministers, including the Prime Minister, to what proportion of the total members of the Lok Sabha?",
+  "options": [
+   "10%",
+   "12%",
+   "15%",
+   "20%"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the Council of Ministers including the Prime Minister is restricted to 15% of the total members of the Lok Sabha.",
+  "source_page": 258,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e336f570-0161-5684-9efa-9de4c6458443",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Match the categories of ministers with their description: A. Cabinet Ministers  B. Ministers of State  C. Deputy Ministers; 1. Lowest ranked ministers who assist Cabinet or State Ministers  2. Senior ministers forming the nucleus of administration  3. In charge of ministries or departments but attend Cabinet only if invited.",
+  "options": [
+   "A-2, B-3, C-1",
+   "A-1, B-2, C-3",
+   "A-3, B-1, C-2",
+   "A-2, B-1, C-3"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter describes Cabinet Ministers as senior ministers forming the administrative nucleus, Ministers of State as second category ministers, and Deputy Ministers as the lowest ranked assistants.",
+  "source_page": 258,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9109af35-b5a3-5b17-bcda-200ce99529e9",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "The Parliament of India consists of which three parts according to the chapter?",
+  "options": [
+   "President, Prime Minister and Supreme Court",
+   "Lok Sabha, Supreme Court and Rajya Sabha",
+   "President, Rajya Sabha and Lok Sabha",
+   "President, Council of Ministers and Judiciary"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter clearly states that Parliament consists of the President, Rajya Sabha and Lok Sabha.",
+  "source_page": 258,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7d017724-7e7d-5527-b787-0e8a7596cc59",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Which of the following correctly states the composition of the Rajya Sabha as given in the chapter?",
+  "options": [
+   "250 members: 238 representing States and Union Territories and 12 nominated by the President",
+   "545 members: 543 elected and 2 nominated",
+   "552 members: 530 from States and 22 from Union Territories",
+   "238 members: all directly elected by the people"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says the Rajya Sabha consists of 250 members, of whom 238 represent the States and Union Territories and 12 are nominated.",
+  "source_page": 258,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6aaa4c78-3297-5125-83e2-7742a1da3398",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Which of the following statements about the Rajya Sabha is incorrect?",
+  "options": [
+   "It is a permanent House.",
+   "Its members are elected for a term of six years.",
+   "One third of its members retire every two years.",
+   "It can be dissolved by the President before the expiry of its term."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that the Rajya Sabha is a permanent House and cannot be dissolved; its members serve six years and one-third retire every two years.",
+  "source_page": 259,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "64134268-aab1-5a2f-9693-0925f8e2a1ad",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "With reference to a Money Bill, which statement is correct according to the chapter?",
+  "options": [
+   "It can be introduced only in Rajya Sabha.",
+   "Rajya Sabha may reject it finally by simple majority.",
+   "Lok Sabha can introduce it, and if Rajya Sabha does not pass it within 14 days, it is passed without Rajya Sabha approval.",
+   "It must be approved by both Houses within six months."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that only Lok Sabha can introduce a Money Bill and that if Rajya Sabha fails to pass it within 14 days, it gets passed without Rajya Sabha approval.",
+  "source_page": 259,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "faee33c7-da3f-5e15-9691-46b0757a3376",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Which of the following correctly describes the Lok Sabha composition as stated in the chapter?",
+  "options": [
+   "Maximum 250 members, with 238 elected and 12 nominated",
+   "Maximum 545 members, all elected from States",
+   "Maximum 552 members; as of today 543 elected members, with 530 from States and 13 from Union Territories",
+   "Maximum 500 members, with no nominated members"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter gives the maximum Lok Sabha strength as 552 and states that as of today it has 543 elected members: 530 from States and 13 from Union Territories.",
+  "source_page": 259,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "73bfff40-7dce-55cf-84d6-8cd1a6ebc551",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Universal Adult Franchise for Lok Sabha elections, as described in the chapter, allows which citizens to vote?",
+  "options": [
+   "All Indian citizens above 18 years of age who are registered as voters",
+   "Only graduates above 21 years of age",
+   "Only taxpayers above 18 years of age",
+   "All citizens above 25 years of age, whether registered or not"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says all Indian citizens above 18 years of age who are registered as voters will vote for their representatives.",
+  "source_page": 259,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8816fec1-8a88-591d-ab55-327a2168f14e",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "What is the correct chronological order of Parliament sessions in a year as given in the chapter?",
+  "options": [
+   "Monsoon Session, Budget Session, Winter Session",
+   "Budget Session, Monsoon Session, Winter Session",
+   "Winter Session, Budget Session, Monsoon Session",
+   "Budget Session, Winter Session, Monsoon Session"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter lists the Budget Session from February to May, Monsoon Session from July to September, and Winter Session from November to December.",
+  "source_page": 260,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "35bb4146-07be-58aa-bbdf-4eef9857cf26",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Which of the following is a power or function of the Speaker of the Lok Sabha mentioned in the chapter?",
+  "options": [
+   "He appoints the Prime Minister.",
+   "He decides whether a Bill is a Money Bill or an ordinary one.",
+   "He nominates 12 members to the Rajya Sabha.",
+   "He removes judges of the Supreme Court by himself."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that the Speaker has the power to decide whether a Bill is a Money Bill or an ordinary Bill.",
+  "source_page": 260,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0c489044-8436-52fe-b5b8-44bed515dba8",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Which of the following statements about the Attorney General of India is correct?",
+  "options": [
+   "He is elected by the Lok Sabha and has the right to vote in Parliament.",
+   "He is appointed by the Chief Justice of India and is the head of the judiciary.",
+   "He is appointed by the President, is the highest law officer, and may take part in Parliament without a right to vote.",
+   "He is appointed by the Prime Minister and cannot appear in courts."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the Attorney General is the highest law officer, appointed by the President, and may speak and take part in Parliament but has no right to vote.",
+  "source_page": 260,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "5bd6be81-29f7-5ba5-b82f-8de029128e22",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Which of the following pairs relating to the Supreme Court is correctly matched according to the chapter?",
+  "options": [
+   "Inauguration — January 28, 1950",
+   "Present strength — 8 judges including the Chief Justice",
+   "Permanent seat — Mumbai",
+   "Retirement age of judges — 60 years"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the Supreme Court of India at New Delhi was inaugurated on January 28, 1950; it also gives the present strength as 34, seat as New Delhi and retirement age as 65 years.",
+  "source_page": 261,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6beedd8d-e0ce-5d2e-980b-597c6e75f74e",
+  "chapter_id": "c10-ss-19",
+  "unit_code": "GS4",
+  "question": "Match the Supreme Court power or jurisdiction with its description: A. Original Jurisdiction  B. Appellate Jurisdiction  C. Advisory Jurisdiction  D. Judicial Review; 1. President may refer questions of law or fact of public importance  2. Declaring a law unconstitutional  3. Disputes between Government of India and one or more States  4. Appeals against High Court decisions in civil, criminal and constitutional cases.",
+  "options": [
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-3, C-2, D-1",
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-1, C-4, D-3"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter places Centre-State disputes under original jurisdiction, High Court appeals under appellate jurisdiction, presidential reference under advisory jurisdiction, and declaring laws unconstitutional under judicial review.",
+  "source_page": 261,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ }
+]

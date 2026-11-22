@@ -1,0 +1,812 @@
+[
+ {
+  "id": "502cbd0d-b929-5828-bf84-d2af8b360bba",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following correctly states the latitudinal and longitudinal extent of Tamil Nadu?",
+  "options": [
+   "8°4'N to 13°35'N and 76°18'E to 80°20'E",
+   "6°4'N to 11°35'N and 74°18'E to 78°20'E",
+   "10°4'N to 15°35'N and 78°18'E to 82°20'E",
+   "8°4'S to 13°35'S and 76°18'W to 80°20'W"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Tamil Nadu extends from 8°4'N to 13°35'N latitudes and from 76°18'E to 80°20'E longitudes.",
+  "source_page": 207,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c4911af2-91f2-5818-93a9-fc6060c87d13",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Match the extremities of Tamil Nadu with their locations: A. Eastern extremity  B. Western extremity  C. Northern extremity  D. Southern extremity with 1. Cape Comorin  2. Hills of Anaimalai  3. Point Calimere  4. Pulicat lake. Select the correct answer.",
+  "options": [
+   "A-3, B-2, C-4, D-1",
+   "A-4, B-1, C-2, D-3",
+   "A-2, B-3, C-1, D-4",
+   "A-1, B-4, C-3, D-2"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter lists Point Calimere in the east, Anaimalai hills in the west, Pulicat lake in the north and Cape Comorin in the south.",
+  "source_page": 207,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "27e901f7-e39c-5237-8aaf-a3fb27268f35",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about the area and coastline of Tamil Nadu is correct?",
+  "options": [
+   "It is the 9th largest state and has the longest coastline in India.",
+   "It covers 4% of India’s area and has a 940 km coastline.",
+   "It covers 1,30,058 sq.km and has the third-longest coastline after Kerala.",
+   "It covers 10% of India’s area and has a 640 km coastline."
+  ],
+  "answer_index": 1,
+  "explanation": "Tamil Nadu covers 1,30,058 sq.km, about 4% of India’s area, and has a 940 km coastline, the second-longest after Gujarat.",
+  "source_page": 207,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d42155c5-d104-5ca2-a23e-0580f7a253a3",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which water bodies separate Tamil Nadu from Sri Lanka?",
+  "options": [
+   "Arabian Sea and Gulf of Kachchh",
+   "Bay of Bengal and Chilika Lake",
+   "Gulf of Mannar and Palk Strait",
+   "Indian Ocean and Pulicat Lake"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says Gulf of Mannar and Palk Strait separate Tamil Nadu from the island of Sri Lanka.",
+  "source_page": 207,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "be1e121b-29cf-543e-bb66-fe7d93275e4a",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "With reference to Tamil Nadu’s physiography, which of the following statements is/are correct?\n1. Tamil Nadu is located on the Peninsular Plateau, known as Deccan Plateau.\n2. It is a part of ancient Gondwana land that broke away during the Cretaceous Period.\n3. It is divided only into coastal and inland plains.\nSelect the correct answer.",
+  "options": [
+   "1 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1 and 2 only"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that Tamil Nadu is on the Deccan Plateau and is part of ancient Gondwana land. It is divided into Western Ghats, Eastern Ghats, plateaus, coastal and inland plains, not only plains.",
+  "source_page": 207,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "49796645-6167-50ee-88ae-5863c3e78b7c",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following is a pass in the Western Ghats of Tamil Nadu according to the chapter?",
+  "options": [
+   "Palghat",
+   "Nathu La",
+   "Shipki La",
+   "Zoji La"
+  ],
+  "answer_index": 0,
+  "explanation": "The passes of the Western Ghats listed in the chapter are Palghat, Shencottah, Aralvaimozhi and Achankoil.",
+  "source_page": 207,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "25b7ec40-a66e-557b-ac00-c5137e14b4ce",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following pairs is correctly matched?",
+  "options": [
+   "Mukkuruthi - 2,637 metres",
+   "Doddabetta - 2,637 metres",
+   "Vandaravu - 2,554 metres",
+   "Vembadi Shola - 2,533 metres"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter identifies Doddabetta as the highest peak of the Nilgiri hills at 2,637 metres, followed by Mukkuruthi at 2,554 metres.",
+  "source_page": 209,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "811a247f-7e17-5e68-ac05-1000a9475c4b",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following places/features is associated with the Anaimalai hills?",
+  "options": [
+   "Yercaud hill station",
+   "Kalakkad Mundanthurai Tiger Reserve",
+   "Anaimalai Tiger Reserve",
+   "Kiliyur waterfall"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that Anaimalai Tiger Reserve, Aliyar Reserved Forest, Valparai hill station and Kadamparai hydroelectric Power Plant are located on the Anaimalai hills.",
+  "source_page": 209,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8f0b8a81-71b9-5248-925f-a2f27165a4ae",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Match the hill ranges with the associated description: A. Palani hills  B. Cardamom hills  C. Varusanadu and Andipatti hills  D. Pothigai hills with 1. Called Yela Mala hills  2. Kodaikanal lies in this range  3. Kalakkad Mundanthurai Tiger Reserve is located here  4. Vaigai and its tributaries originate here. Select the correct answer.",
+  "options": [
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-1, C-4, D-3",
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-3, C-2, D-1"
+  ],
+  "answer_index": 1,
+  "explanation": "Kodaikanal lies in the Palani hills; Cardamom hills are also called Yela Mala; Vaigai and its tributaries originate in the Varusanadu-Andipatti region; Kalakkad Mundanthurai Tiger Reserve is in the Pothigai region.",
+  "source_page": 209,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "2096caa0-af58-5e7a-a809-008f5484057d",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which statement about the Mahendragiri hills is correct?",
+  "options": [
+   "They are located wholly in the Nilgiris district.",
+   "They are part of the northern Eastern Ghats.",
+   "They have an average height of 710 metres.",
+   "They lie along the border of Kanyakumari and Tirunelveli districts."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says Mahendragiri is a continuous range along the border of Kanyakumari and Tirunelveli districts and is part of the southern Western Ghats.",
+  "source_page": 209,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "c678127b-4879-5aab-ad7a-9fc7957c6ca3",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Unlike the Western Ghats, the Eastern Ghats in Tamil Nadu are described as:",
+  "options": [
+   "continuous and very high",
+   "discontinuous and irregular",
+   "snow-covered and perennial",
+   "coastal and submerged"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter explicitly states that, unlike the Western Ghats, the Eastern Ghats are discontinuous and irregular.",
+  "source_page": 210,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "bf50bef7-225e-563f-b178-4d3520e9c7c7",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about the Javadhu hills is incorrect?",
+  "options": [
+   "They spread across parts of Vellore and Tiruvannamalai districts.",
+   "Melpattu is the highest peak of this range.",
+   "They are noted for fruit bearing trees, medicinal herbs and sandalwoods.",
+   "They separate the Cauvery and Vaigai river basins."
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter says Javadhu hills separate Vellore and Tiruvannamalai districts. The separation of Cauvery and Palar basins is mentioned for Kalvarayan along with other hills, not Cauvery and Vaigai.",
+  "source_page": 210,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "309a15af-9b71-56e5-9390-2dadfa996578",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "The name ‘Kalvarayan’ is derived from which ancient name of the present tribes?",
+  "options": [
+   "Servarayan",
+   "Karalar",
+   "Pachai",
+   "Agasthiyar"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that the name ‘Kalvarayan’ comes from the word ‘Karalar’, the ancient name of the present tribes.",
+  "source_page": 210,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "219fb478-11da-5e1c-8352-15e80dbbc751",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Match the Eastern Ghats hill ranges with their features: A. Servarayan hills  B. Kolli hills  C. Pachaimalai with 1. Arpaleeswarar temple  2. Yercaud, known as poor man’s Ooty  3. Jackfruit as a popular seasonal product. Select the correct answer.",
+  "options": [
+   "A-1, B-2, C-3",
+   "A-2, B-1, C-3",
+   "A-3, B-1, C-2",
+   "A-2, B-3, C-1"
+  ],
+  "answer_index": 1,
+  "explanation": "Yercaud is on Servarayan hills, Arpaleeswarar temple is in Kolli hills, and jackfruit is a popular seasonal agricultural product of Pachaimalai.",
+  "source_page": 210,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "da22d758-b0b7-5899-aa92-cfbea9569a85",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following correctly describes the plateaus of Tamil Nadu?",
+  "options": [
+   "They lie only along the Coromandel coast.",
+   "They are located between the Western Ghats and the Eastern Ghats and cover about 60,000 sq.km.",
+   "They occupy only the Nilgiris and Kanyakumari districts.",
+   "They are formed only by the distributaries of Cauvery."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter says the plateaus of Tamil Nadu are located between the Western and Eastern Ghats, are roughly triangular and cover about 60,000 sq.km.",
+  "source_page": 212,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e1ae1579-9603-5c03-a5d5-444437f3d5be",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which river separates the Coimbatore plateau from the Mysore plateau?",
+  "options": [
+   "Vaigai",
+   "Thamirabarani",
+   "Moyar",
+   "Palar"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the Moyar river separates the Coimbatore plateau from the Mysore plateau.",
+  "source_page": 212,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8a9324a8-a495-5d04-9788-c95940cd4be7",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about the Madurai plateau is correct?",
+  "options": [
+   "It extends up to the foothills of the Western Ghats.",
+   "It lies between the Nilgiris and Dharmapuri districts.",
+   "It is separated from Mysore plateau by the Moyar river.",
+   "It contains only the Palar basin."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that the Madurai plateau, found in Madurai district, extends up to the foothills of the Western Ghats and includes Vaigai and Thamirabarani basins.",
+  "source_page": 212,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "3cf2c615-4278-5ddb-ab7b-3da05b51ca8f",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following statements is correct regarding Tamil Nadu plains?",
+  "options": [
+   "The coastal plains are called Malabar plains.",
+   "Cauvery plains occur only in Chennai and Kanyakumari districts.",
+   "The sand dunes along Ramanathapuram and Thoothukudi coasts are called Teri.",
+   "Coral rocks are found in the western inland plains."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says sand dunes formed along the coast of Ramanathapuram and Thoothukudi districts are called Teri.",
+  "source_page": 212,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e23d1ae1-b5dd-5576-a7e3-80b4e5523032",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which beach is mentioned as a famous beach of Tamil Nadu in the chapter?",
+  "options": [
+   "Marina beach",
+   "Juhu beach",
+   "Varkala beach",
+   "Baga beach"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter lists Marina and Elliot beaches of Chennai, Kovalam beach in Kanchipuram and Silver beach in Cuddalore as famous beaches in Tamil Nadu.",
+  "source_page": 212,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f118727d-4116-5a11-a187-9018ed2ef2c3",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following rivers of Tamil Nadu is described as perennial?",
+  "options": [
+   "Cauvery",
+   "Palar",
+   "Thamirabarani",
+   "Vaigai"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that all rivers of Tamil Nadu are non-perennial except Thamirabarani, which is fed by both southwest and northeast monsoons.",
+  "source_page": 212,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "7803eae2-098b-5542-b965-edf81c006754",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about the Cauvery is correct?",
+  "options": [
+   "It originates in the Pothigai hills above Papanasam.",
+   "Its total length is 805 km, with about 416 km in Tamil Nadu.",
+   "It enters the Bay of Bengal near Punnaikayal.",
+   "It forms reservoirs at Krishnagiri and Sathanur."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that Cauvery originates at Talacauvery in Karnataka, has a total length of 805 km, and about 416 km of its course lies in Tamil Nadu.",
+  "source_page": 212,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "65cd5994-0b79-55e6-92da-f0f3728eb7ed",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Assertion (A): The river Cauvery forms the Srirangam Island in Tiruchirappalli district.\nReason (R): In Tiruchirappalli district, the river branches into Coleroon/Kollidam and Cauvery, which join again after about 16 km.\nSelect the correct answer.",
+  "options": [
+   "Both A and R are true, and R explains A.",
+   "Both A and R are true, but R does not explain A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says Cauvery branches into Kollidam and Cauvery in Tiruchirappalli district and, after about 16 km, the two branches join again to form Srirangam Island.",
+  "source_page": 212,
+  "difficulty": 3,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "6652724c-e2d0-59ec-9600-764be535b7ba",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following is not stated as a tributary of the Palar river?",
+  "options": [
+   "Ponnai",
+   "Goundinya Nadhi",
+   "Cheyyar",
+   "Amaravathi"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter lists Ponnai, Goundinya Nadhi, Malattar, Cheyyar and Kiliyar as major tributaries of Palar. Amaravathi is mentioned as a tributary of Cauvery.",
+  "source_page": 212,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d2b94021-d285-543d-94a4-464a55501676",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which statement about Then Pennaiyar/Then Ponnaiyar is correct?",
+  "options": [
+   "It rises from the eastern slope of Nandi Durga hills.",
+   "It drains an area lying entirely in Tamil Nadu.",
+   "It flows only through Madurai and Sivaganga districts.",
+   "Its surplus water is discharged into Palk Strait near Ramanathapuram."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Then Pennaiyar originates from the eastern slope of Nandi Durga hills in eastern Karnataka.",
+  "source_page": 213,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "29cc9523-1f5d-513c-9ea1-accf3dd4fd40",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Match the rivers with their features: A. Vaigai  B. Thamirabarani with 1. Originates from a peak in Pothigai hills  2. Rises from eastern slopes of Varusanadu hills  3. Flows through Madurai, Sivaganga and Ramanathapuram  4. Flows into Bay of Bengal near Punnaikayal. Select the correct answer.",
+  "options": [
+   "A-1 and 4; B-2 and 3",
+   "A-2 and 3; B-1 and 4",
+   "A-2 and 4; B-1 and 3",
+   "A-1 and 3; B-2 and 4"
+  ],
+  "answer_index": 1,
+  "explanation": "Vaigai rises from the eastern slopes of Varusanadu hills and flows through Madurai, Sivaganga and Ramanathapuram. Thamirabarani originates in Pothigai hills and flows into the Bay of Bengal near Punnaikayal.",
+  "source_page": 213,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "94a28f95-ef75-5671-9c27-01062df78c94",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which district-waterfall pair is correctly matched according to the table?",
+  "options": [
+   "Dharmapuri - Courtallam",
+   "Tenkasi - Hogenakkal",
+   "Namakkal - Agayagangai",
+   "Kanyakumari - Catherine"
+  ],
+  "answer_index": 2,
+  "explanation": "The table lists Agayagangai under Namakkal. Hogenakkal is in Dharmapuri, Courtallam in Tenkasi, and Catherine in The Nilgiri.",
+  "source_page": 214,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0a56b844-341c-5a9e-aa77-3945b6cc2f22",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Why is temperature relatively high throughout the year in Tamil Nadu?",
+  "options": [
+   "It lies north of the Tropic of Cancer.",
+   "It receives vertical sunrays because it lies south of the Tropic of Cancer near the Equator.",
+   "It has no coastline.",
+   "It lies entirely in the Himalayan climatic zone."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter explains that Tamil Nadu lies south of the Tropic of Cancer, near the Equator, and receives vertical sunrays, making temperature relatively high throughout the year.",
+  "source_page": 214,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "a5940ca0-6aad-5ddc-8b85-2cfd30d050dc",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Arrange the seasons of Tamil Nadu in the correct calendar order as given in the chapter.",
+  "options": [
+   "Summer, Winter, Southwest Monsoon, Northeast Monsoon",
+   "Winter, Summer, Southwest Monsoon, Northeast Monsoon",
+   "Winter, Southwest Monsoon, Summer, Northeast Monsoon",
+   "Northeast Monsoon, Summer, Winter, Southwest Monsoon"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter gives the order as Winter Season January-February, Summer Season March-May, Southwest Monsoon June-September, and Northeast Monsoon October-December.",
+  "source_page": 214,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e001426e-7da6-5eda-b257-2ac5427e6f32",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which statement about winter and summer in Tamil Nadu is correct?",
+  "options": [
+   "Winter is the main rainy season in Tamil Nadu.",
+   "Winter temperature generally varies from 15°C to 25°C, while summer temperature generally varies from 30°C to more than 40°C.",
+   "Summer temperature drops below 5°C in most plains.",
+   "Mango/Blossom showers occur during the northeast monsoon."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states winter temperature varies from 15°C to 25°C, while summer temperature generally varies from 30°C to more than 40°C. Mango/Blossom showers occur in summer.",
+  "source_page": 214,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "d18f3e36-9880-5b7e-8ca3-87577389c591",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Assertion (A): Tamil Nadu receives only meagre rainfall from the southwest monsoon.\nReason (R): During this season, Tamil Nadu is located in the rain shadow region for winds blowing from the Arabian Sea.\nSelect the correct answer.",
+  "options": [
+   "Both A and R are true, and R explains A.",
+   "Both A and R are true, but R does not explain A.",
+   "A is true, but R is false.",
+   "A is false, but R is true."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says Tamil Nadu lies in the rain shadow region for Arabian Sea winds during the southwest monsoon; hence it receives only meagre rainfall from this monsoon.",
+  "source_page": 215,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0c545645-45d6-5b9c-9252-26522720ce9c",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following correctly describes the northeast monsoon in Tamil Nadu?",
+  "options": [
+   "It is practically dry and occurs in January-February.",
+   "It is caused by winds from the Arabian Sea only.",
+   "It is the main rainy season and accounts for 48% of annual rainfall.",
+   "It gives rainfall only to the western mountainous region."
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter states that the northeast monsoon is the main rainy season for Tamil Nadu, accounting for 48% of annual rainfall.",
+  "source_page": 215,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f4508ec4-fde7-5e85-998b-ca4f52177bee",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which place is mentioned as the 3rd wettest place in India and the wettest place in Tamil Nadu?",
+  "options": [
+   "Ooty",
+   "Yercaud",
+   "Kodaikanal",
+   "Chinnakallar near Valparai"
+  ],
+  "answer_index": 3,
+  "explanation": "The chapter states that Chinnakallar near Valparai is the 3rd wettest place in India and the wettest place in Tamil Nadu.",
+  "source_page": 215,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "1e45a68c-20d3-5871-a10a-eec65679e1d1",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Match the soil types with their descriptions: A. Alluvial soil  B. Black soil  C. Laterite soil  D. Saline soil with 1. Formed by intense leaching  2. Confined to the Coromandel coast  3. Formed by deposition of silt by rivers  4. Formed by weathering of igneous rocks. Select the correct answer.",
+  "options": [
+   "A-3, B-4, C-1, D-2",
+   "A-4, B-3, C-2, D-1",
+   "A-1, B-2, C-3, D-4",
+   "A-2, B-1, C-4, D-3"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter defines alluvial soil as river silt deposition, black soil as formed by weathering of igneous rocks, laterite by intense leaching, and saline soil as confined to the Coromandel coast.",
+  "source_page": 215,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "9fec761d-e0c5-56a0-8028-c1d70411c215",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about red soil in Tamil Nadu is correct?",
+  "options": [
+   "It covers over two-thirds of the total area of Tamil Nadu.",
+   "It is found only along the Coromandel coast.",
+   "It is also known as regur soil.",
+   "It is formed by tsunami waves."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that red soils cover over two-thirds of the total area of Tamil Nadu and are particularly found in the central districts.",
+  "source_page": 216,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8e02b8fd-46d5-5572-9310-99c4dc06182c",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following is listed as a cause of soil erosion in Tamil Nadu?",
+  "options": [
+   "Earth’s rotation",
+   "Deforestation",
+   "Cardamom cultivation",
+   "Sea breeze"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter identifies deforestation, overgrazing, urbanisation and heavy rain as responsible for soil erosion in Tamil Nadu.",
+  "source_page": 216,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "11218533-9f00-56ef-9640-d0877d07032c",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "According to the Tamil Nadu State of Forest Report - 2017 assessment, what is the forest cover of Tamil Nadu?",
+  "options": [
+   "13,058 sq.km, constituting 4% of total area",
+   "20,210 sq.km, constituting 26.281% of total area",
+   "26,281 sq.km, constituting 20.21% of total area",
+   "60,000 sq.km, constituting one-third of total area"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter says the forest area of Tamil Nadu is 26,281 sq.km, constituting 20.21% of the total area, according to the 2017 assessment.",
+  "source_page": 216,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "f785d282-67d8-5f83-a8f2-09f9a82ce2e5",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about forest types in Tamil Nadu is incorrect?",
+  "options": [
+   "Tropical evergreen forest is dense and multi-layered.",
+   "Montane temperate forests are known as Sholas.",
+   "Tropical deciduous trees shed leaves during the dry season.",
+   "Mangrove forests are found only above 1000 metres altitude."
+  ],
+  "answer_index": 3,
+  "explanation": "Mangrove forests are coastal forests found in coastal areas, river deltas, tails of islands and sea faces. Forests over 1000 metres altitude in sheltered valleys are montane temperate forests or Sholas.",
+  "source_page": 216,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "e4459fcf-d005-5800-a77f-2c434b9b42b4",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Pichavaram mangrove forest is located near which place and in which district?",
+  "options": [
+   "Yercaud, Salem district",
+   "Chidambaram, Cuddalore district",
+   "Kodaikanal, Dindigul district",
+   "Valparai, Coimbatore district"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that Pichavaram mangrove forest is located near Chidambaram in Cuddalore district.",
+  "source_page": 216,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "96f66f1c-eb45-580b-a5ef-60dc8d394206",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following districts is mentioned as an area where tropical thorn forest is found in Tamil Nadu?",
+  "options": [
+   "Dharmapuri",
+   "Thanjavur",
+   "Kancheepuram",
+   "Nagapattinam"
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter says tropical thorn forest is found in Dharmapuri, Ramanathapuram, Virudhunagar and some interior districts.",
+  "source_page": 217,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "0830e4ac-479b-58de-99e8-98eb64156884",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following is listed as a biosphere reserve in Tamil Nadu?",
+  "options": [
+   "Pulicat Biosphere Reserve",
+   "Nilgiri Biosphere Reserve",
+   "Servarayan Biosphere Reserve",
+   "Cauvery Delta Biosphere Reserve"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter lists Nilgiri Biosphere Reserve, Gulf of Mannar Biosphere Reserve and Agasthiyarmalai Biosphere Reserve in Tamil Nadu.",
+  "source_page": 217,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "8db5c162-4396-5494-88b2-89005f774fe9",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following correctly defines a disaster according to the chapter?",
+  "options": [
+   "A regular seasonal change in temperature",
+   "A gradual increase in forest cover",
+   "A sudden natural catastrophe that causes great damage or loss to lives and properties",
+   "A planned evacuation drill conducted by the government"
+  ],
+  "answer_index": 2,
+  "explanation": "The chapter defines disaster as a sudden natural catastrophe that causes great damage or loss to lives and properties.",
+  "source_page": 217,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "87b69c76-777c-5738-9f9c-d685285d1fcb",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which district of Tamil Nadu is identified as one of the most vulnerable districts in the country to landslides?",
+  "options": [
+   "Ramanathapuram",
+   "The Nilgiris",
+   "Tiruvarur",
+   "Nagapattinam"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that the Nilgiris in Tamil Nadu is identified as one of the most vulnerable districts in the country, with landslides posing a major threat.",
+  "source_page": 218,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "cfab2cad-5c4b-514b-83b3-5c43743b76a4",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which natural disaster is described as common in the coastal districts of Tamil Nadu during the northeast monsoon, with a recent occurrence in 2015?",
+  "options": [
+   "Earthquake",
+   "Flood",
+   "Volcanic eruption",
+   "Avalanche"
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter states that flood is common in the coastal districts of Tamil Nadu during the northeast monsoon and that the recent flood occurred in 2015.",
+  "source_page": 218,
+  "difficulty": 1,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "127b03de-c6ad-5fab-8d02-173b8afc2815",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which of the following statements about drought in Tamil Nadu is correct?",
+  "options": [
+   "It is almost a regular one and not a seasonal one.",
+   "It is caused only by southwest monsoon excess.",
+   "It affects only the Nilgiris district.",
+   "It is managed mainly by ignoring groundwater use."
+  ],
+  "answer_index": 0,
+  "explanation": "The chapter states that Tamil Nadu is a water deficit state and drought is almost a regular one, depending mostly on the northeast monsoon.",
+  "source_page": 219,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ },
+ {
+  "id": "76cd5e17-c079-52e4-8d51-2b22b0620afd",
+  "chapter_id": "c10-ss-16",
+  "unit_code": "GS2",
+  "question": "Which statement about tsunami and earthquake risk in Tamil Nadu is correct?",
+  "options": [
+   "Tsunami is common every year and Tamil Nadu is in a very high earthquake risk zone.",
+   "The 2004 tsunami alerted India and Tamil Nadu, and Tamil Nadu is located in a moderately low earthquake risk zone.",
+   "Tamil Nadu has no tsunami risk because it has no coastline.",
+   "Earthquake risk zones of India are located only in the south."
+  ],
+  "answer_index": 1,
+  "explanation": "The chapter notes that the 2004 tsunami alerted India and Tamil Nadu, and that Tamil Nadu is located in a moderately low earthquake risk zone.",
+  "source_page": 221,
+  "difficulty": 2,
+  "source": "book",
+  "status": "draft"
+ }
+]
