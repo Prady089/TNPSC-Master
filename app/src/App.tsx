@@ -7,7 +7,7 @@ import Login from './pages/Login';
 import Onboarding from './pages/Onboarding';
 import Home from './pages/Home';
 
-const Learn = lazy(() => import('./pages/Learn'));
+const Library = lazy(() => import('./pages/Library'));
 const UnitPage = lazy(() => import('./pages/UnitPage'));
 const BookPage = lazy(() => import('./pages/BookPage'));
 const Reader = lazy(() => import('./pages/Reader'));
@@ -55,7 +55,8 @@ export default function App() {
         <Route path="/chat/:roomId" element={<Guard><ChatRoom /></Guard>} />
         <Route element={<Guard><Layout /></Guard>}>
           <Route index element={<Home />} />
-          <Route path="learn" element={<Learn />} />
+          <Route path="library" element={<Library />} />
+          <Route path="learn" element={<Navigate to="/library" replace />} />
           <Route path="learn/unit/:code" element={<UnitPage />} />
           <Route path="learn/book/:bookId" element={<BookPage />} />
           <Route path="quiz" element={<QuizHub />} />

@@ -47,7 +47,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
 export const useAuth = () => useContext(Ctx);
 
-export const profileComplete = (p: Profile | null) => Boolean(p?.full_name && p?.district && p?.target_year);
+export const profileComplete = (p: Profile | null) => Boolean(p?.full_name && p?.district && p?.target_year && p?.target_group);
 
 export const isStaff = (p: Profile | null) => p?.role === 'admin' || p?.role === 'superadmin';
 export const isSuper = (p: Profile | null) => p?.role === 'superadmin';

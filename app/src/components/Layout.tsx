@@ -6,7 +6,7 @@ import { cx } from './ui';
 
 const NAV = [
   { to: '/', label: 'Home', icon: HomeIcon, end: true },
-  { to: '/learn', label: 'Learn', icon: BookIcon },
+  { to: '/library', label: 'Library', icon: BookIcon },
   { to: '/quiz', label: 'Quiz', icon: QuizIcon },
   { to: '/chat', label: 'Discuss', icon: ChatIcon },
   { to: '/news', label: 'News', icon: NewsIcon },

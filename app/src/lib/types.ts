@@ -22,6 +22,8 @@ export interface Profile {
   attempt_number: number | null;
   preferred_lang: 'en' | 'ta';
   daily_goal: number;
+  /** g1 = Group 1, g2 = Group 2/2A, g4 = Group 4 (and 3) */
+  target_group: 'g1' | 'g2' | 'g4' | null;
   role: Role;
   chat_muted_until?: string | null;
 }

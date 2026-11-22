@@ -2,6 +2,7 @@ import { useState, type FormEvent } from 'react';
 import { api } from '../lib/api';
 import { useAuth } from '../lib/auth';
 import type { Profile } from '../lib/types';
+import { GROUPS } from '../shared/groups';
 import { Button, ErrorNote, Field, inputCls } from './ui';
 
 export const TN_DISTRICTS = [
@@ -11,13 +12,14 @@ export const TN_DISTRICTS = [
   'Theni', 'Thoothukudi', 'Tiruchirappalli', 'Tirunelveli', 'Tirupathur', 'Tiruppur', 'Tiruvallur', 'Tiruvannamalai',
   'Tiruvarur', 'Vellore', 'Viluppuram', 'Virudhunagar', 'Outside Tamil Nadu',
 ];
-const EDUCATION = ['Undergraduate (pursuing)', "Bachelor's degree", "Master's degree", 'Professional degree (BE / MBBS / LLB …)', 'Doctorate'];
+const EDUCATION = ['SSLC (Class 10)', 'HSC (Class 12)', 'Diploma', 'Undergraduate (pursuing)', "Bachelor's degree", "Master's degree", 'Professional degree (BE / MBBS / LLB …)', 'Doctorate'];
 const thisYear = new Date().getFullYear();
 const YEARS = [thisYear + 1, thisYear + 2, thisYear + 3];
 
 export default function ProfileForm({ submitLabel = 'Save', onSaved }: { submitLabel?: string; onSaved?: () => void }) {
   const { profile, refreshProfile } = useAuth();
   const [f, setF] = useState<Partial<Profile>>({
+    target_group: profile?.target_group ?? undefined,
     full_name: profile?.full_name ?? '',
     phone: profile?.phone ?? '',
     district: profile?.district ?? '',
@@ -39,6 +41,11 @@ export default function ProfileForm({ submitLabel = 'Save', onSaved }: { submitL
     e.preventDefault();
     setBusy(true);
     setError(null);
+    if (!f.target_group) {
+      setError('Please choose the exam you are preparing for.');
+      setBusy(false);
+      return;
+    }
     try {
       await api.saveProfile({ ...f, phone: f.phone?.trim() || null, full_name: f.full_name?.trim() || null });
       await refreshProfile();
@@ -53,6 +60,17 @@ export default function ProfileForm({ submitLabel = 'Save', onSaved }: { submitL
 
   return (
     <form onSubmit={submit} className="space-y-4">
+      <Field label="Which TNPSC exam are you preparing for?" hint="We use this to pick your books, quiz level and exam dates. You can change it any time.">
+        <div className="grid gap-2">
+          {GROUPS.map((g) => (
+            <button type="button" key={g.code} onClick={() => set('target_group', g.code)}
+              className={`rounded-xl border px-3.5 py-2.5 text-left ${f.target_group === g.code ? 'border-brand bg-brand-soft' : 'border-line hover:border-brand/50'}`}>
+              <span className={`block text-sm font-semibold ${f.target_group === g.code ? 'text-brand' : ''}`}>{g.label} <span className="font-normal text-muted">· {g.level}</span></span>
+              <span className="mt-0.5 block text-xs text-muted">{g.note}</span>
+            </button>
+          ))}
+        </div>
+      </Field>
       <Field label="Full name">
         <input className={inputCls} value={f.full_name ?? ''} onChange={(e) => set('full_name', e.target.value)} required />
       </Field>
@@ -78,7 +96,7 @@ export default function ProfileForm({ submitLabel = 'Save', onSaved }: { submitL
             {YEARS.map((y) => <option key={y} value={y}>{y}</option>)}
           </select>
         </Field>
-        <Field label="Group 1 attempts so far">
+        <Field label="TNPSC attempts so far">
           <select className={inputCls} value={f.attempt_number ?? 1} onChange={(e) => set('attempt_number', Number(e.target.value))}>
             <option value={1}>First attempt</option>
             <option value={2}>1 before</option>

@@ -93,7 +93,7 @@ export default function Reader() {
     <div className={cx('mx-auto min-h-dvh', highlights.length ? 'max-w-2xl lg:max-w-6xl' : 'max-w-2xl')}>
       <header className="sticky top-0 z-20 border-b border-line bg-bg/95 backdrop-blur">
         <div className="flex h-14 items-center gap-2 px-2">
-          <button onClick={() => (window.history.length > 1 ? nav(-1) : nav('/learn'))} className="rounded-lg p-2 text-muted hover:bg-surface-2" aria-label="Back">
+          <button onClick={() => (window.history.length > 1 ? nav(-1) : nav('/library'))} className="rounded-lg p-2 text-muted hover:bg-surface-2" aria-label="Back">
             <ChevronLeft />
           </button>
           <div className="min-w-0 flex-1">

@@ -45,7 +45,7 @@ function allQuestions(): Promise<Question[]> {
 function demoSignIn(email: string, fullName?: string) {
   const s = load();
   s.user = { id: 'demo-user', email };
-  s.profile ??= { id: 'demo-user', full_name: null, phone: null, district: null, education: null, target_year: null, attempt_number: 1, preferred_lang: 'en', daily_goal: 20, role: 'superadmin' };
+  s.profile ??= { id: 'demo-user', full_name: null, phone: null, district: null, education: null, target_year: null, attempt_number: 1, preferred_lang: 'en', daily_goal: 20, target_group: null, role: 'superadmin' };
   if (s.profile.role === 'admin') s.profile.role = 'superadmin';
   if (fullName) s.profile.full_name = fullName;
   save(s);

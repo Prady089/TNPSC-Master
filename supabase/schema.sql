@@ -34,6 +34,11 @@ create trigger on_auth_user_created after insert on auth.users
 
 -- Upgrades for databases created before the superadmin / chat release.
 alter table public.profiles add column if not exists chat_muted_until timestamptz;
+-- Which TNPSC exam the student is preparing for: g1 = Group 1, g2 = Group 2/2A, g4 = Group 4 (and 3).
+alter table public.profiles add column if not exists target_group text;
+alter table public.profiles alter column target_group drop default;  -- new students must choose
+alter table public.profiles drop constraint if exists profiles_target_group_check;
+alter table public.profiles add constraint profiles_target_group_check check (target_group in ('g1','g2','g4'));
 alter table public.profiles drop constraint if exists profiles_role_check;
 alter table public.profiles add constraint profiles_role_check check (role in ('student','admin','superadmin'));
 
