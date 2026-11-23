@@ -15,6 +15,7 @@ Item format (items/<chapter>.json is a list):
   o  options (mcq, ar)          a  answer: option index (mcq, ar), true/false (tf), text (others)
   p  pairs [[left, right], ...] in the correct order (match)
   x  explanation / correct statement (optional)
+  src "book" (default, textbook exercise) or "extra" (additional question written from the chapter)
 
 Usage: python pipeline/bookback/build_bookback.py [--unit I]
 """
@@ -93,7 +94,7 @@ def main():
         items = []
         for n, it in enumerate(book_items, 1):
             validate(cid, it, n)
-            items.append({**it, "src": "book"})
+            items.append({**it, "src": it.get("src", "book")})
         seen = {norm(it["q"]) for it in items}
         pack = PACKS / f"{cid}.json"
         if pack.exists():
