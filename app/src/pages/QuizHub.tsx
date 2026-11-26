@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { api } from '../lib/api';
+import { getBookBackIndex } from '../lib/bookback';
 import { pct, useAsync } from '../lib/hooks';
 import { DAILY_SIZE, istDate, unitByCode, UNITS } from '../shared/syllabus';
 import { Card, LinkButton, PageTitle, Pill, Spinner, cx, inputBase } from '../components/ui';
@@ -14,8 +15,12 @@ export default function QuizHub() {
   const [printCount, setPrintCount] = useState(25);
   const today = istDate();
   const { data, loading } = useAsync(async () => {
-    const [attempts, stats, wrong, counts] = await Promise.all([api.getAttempts(15), api.getUnitStats(), api.getWrongQuestionIds(50), api.getUnitQuestionCounts().catch(() => ({} as Record<string, number>))]);
-    return { attempts, stats, wrong, counts };
+    const [attempts, stats, wrong, counts, bb] = await Promise.all([api.getAttempts(15), api.getUnitStats(), api.getWrongQuestionIds(50), api.getUnitQuestionCounts().catch(() => ({} as Record<string, number>)), getBookBackIndex()]);
+    const bbUnits = Object.entries(bb.units)
+      .map(([code, u]) => ({ code, title: u.title, n: Object.values(u.chapters).reduce((a, c) => a + c.n, 0) }))
+      .filter((u) => u.n > 0)
+      .sort((a, b) => a.code.localeCompare(b.code));
+    return { attempts, stats, wrong, counts, bbUnits };
   }, []);
 
   if (loading || !data) return <Spinner />;
@@ -36,16 +41,22 @@ export default function QuizHub() {
         </LinkButton>
       </Card>
 
-      <Link to="/bookback/I" className="block">
-        <Card className="flex items-center gap-3 hover:border-brand">
+      <Card className="space-y-2">
+        <div className="flex items-center gap-3">
           <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-brand-soft text-brand"><BookIcon size={20} /></div>
           <div className="min-w-0 flex-1">
             <p className="font-semibold">Book back questions</p>
-            <p className="text-sm text-muted">Textbook exercises with answers, tagged with past TNPSC papers. Q&A, online quiz and pen test.</p>
+            <p className="text-sm text-muted">Textbook exercises with answers, plus more questions. Q&A, online quiz and pen test.</p>
           </div>
-          <ChevronRight className="shrink-0 text-muted" />
-        </Card>
-      </Link>
+        </div>
+        {data.bbUnits.map((u) => (
+          <Link key={u.code} to={`/bookback/${u.code}`} className="flex items-center gap-3 rounded-xl border border-line px-3 py-2 hover:border-brand">
+            <span className="min-w-0 flex-1 text-sm"><span className="font-semibold">Unit {u.code}</span> · {u.title}</span>
+            <span className="shrink-0 text-xs text-muted">{u.n} Qs</span>
+            <ChevronRight size={18} className="shrink-0 text-muted" />
+          </Link>
+        ))}
+      </Card>
 
       {data.wrong.length > 0 && (
         <Link to={`/quiz/play?mode=revise&count=20`} className="block">
